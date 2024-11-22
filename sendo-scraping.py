@@ -15,7 +15,7 @@ headers = {
 }
 
 # Danh sách từ khóa danh mục sản phẩm
-keywords = [ "2339" ]
+keywords = ["thiet-bi-am-thanh","may-anh-may-quay-phim", "op-lung-dien-thoai-tablet"]
 
 # Hàm thu thập sản phẩm từ một từ khóa
 def collect_products(keyword):
@@ -68,7 +68,7 @@ def collect_products(keyword):
             break
 
     # Lưu tất cả sản phẩm vào một tệp JSON duy nhất
-    file_name = f"sendo_{keyword.replace(' ', '_')}.json"
+    file_name = f"sendo_{keyword.replace(' ', '_')}_{total_products_collected}.json"
     with open(file_name, "w", encoding="utf-8") as f:
         json.dump({"total_products": total_products_collected, "products": all_products}, f, ensure_ascii=False, indent=4)
 
