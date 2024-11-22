@@ -1,0 +1,471 @@
+{
+    "total_products": 11,
+    "products": [
+        {
+            "id": 118753718,
+            "name": "Máy mài khuôn mini 3.2mm 130W kèm 109 phụ kiện TOTAL TG513326 - mài góc, cạnh nhỏ, vị trí hẹp [Được kiểm hàng] 114537596",
+            "category_path": "may-mai-khuon-mini-32mm-130w-kem-109-phu-kien-total-tg513326-mai-goc-canh-nho-vi-tri-hep-duo-c-kie-m-ha-ng-114537596-118753718.html",
+            "image": "https://media3.scdn.vn/img4/2023/07_04/YUfh98cvYYLGZf69rIUP_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1365000,
+            "default_price_max": 1365000,
+            "sale_price_min": 945000,
+            "sale_price_max": 945000,
+            "sale_percent": 31,
+            "seller_admin_id": 988982,
+            "sku_user": "114537596",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988982,
+                "name": "Gì Cũng Có Shop 1vmc38u4uu",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118549100,
+            "name": "Máy mài khuôn mini 3.2mm 130W kèm 109 phụ kiện TOTAL TG513326 - mài góc, cạnh nhỏ, vị trí hẹp [Được kiểm hàng] 114537596",
+            "category_path": "may-mai-khuon-mini-32mm-130w-kem-109-phu-kien-total-tg513326-mai-goc-canh-nho-vi-tri-hep-duo-c-kie-m-ha-ng-114537596-118549100.html",
+            "image": "https://media3.scdn.vn/img4/2023/07_04/YUfh98cvYYLGZf69rIUP_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1365000,
+            "default_price_max": 1365000,
+            "sale_price_min": 945000,
+            "sale_price_max": 945000,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 988843,
+            "sku_user": "114537596",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988843,
+                "name": "Gì Cũng Có Shop fbgrrdha0v",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 117989616,
+            "name": "Máy mài khuôn mini 3.2mm 130W kèm 109 phụ kiện TOTAL TG513326 - mài góc, cạnh nhỏ, vị trí hẹp [Được kiểm hàng] 114537596",
+            "category_path": "may-mai-khuon-mini-32mm-130w-kem-109-phu-kien-total-tg513326-mai-goc-canh-nho-vi-tri-hep-duo-c-kie-m-ha-ng-114537596-117989616.html",
+            "image": "https://media3.scdn.vn/img4/2023/07_04/YUfh98cvYYLGZf69rIUP_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1365000,
+            "default_price_max": 1365000,
+            "sale_price_min": 945000,
+            "sale_price_max": 945000,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 988391,
+            "sku_user": "114537596",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988391,
+                "name": "Gì Cũng Có 102201",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 25531359,
+            "name": "[Freeship] Laptop Laptop Dell latitude i5 SSD 15in laptop nhập mỹ nguyên zin bền bỉ mạnh mẽ văn phòng giải trí học online game 3 [Thanh lý Giá Rẻ máy văn phòng Game fifa lol ]",
+            "category_path": "freeship-laptop-laptop-dell-latitude-i5-ssd-15in-laptop-nhap-my-nguyen-zin-ben-bi-manh-me-van-phong-giai-tri-hoc-online-game-3-thanh-ly-gia-re-may-van-phong-game-fifa-lol-25531359.html",
+            "image": "https://media3.scdn.vn/img4/2022/05_12/agsL10GcDtVDs4yqPl2p_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 3000000,
+            "default_price_max": 3000000,
+            "sale_price_min": 3000000,
+            "sale_price_max": 3000000,
+            "sold": 2,
+            "order_count_text": "2",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop I5 15IN",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 2,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 5267584,
+            "name": "[Freeship] Laptop Dell latitude i7 SSD 15in laptop nhập mỹ nguyên zin bền bỉ mạnh mẽ văn phòng giải trí học online game 3D MÁY TÍNH Laptop",
+            "category_path": "freeship-laptop-dell-latitude-i7-ssd-15in-laptop-nhap-my-nguyen-zin-ben-bi-manh-me-van-phong-giai-tri-hoc-online-game-3d-may-tinh-laptop-5267584.html",
+            "image": "https://media3.scdn.vn/img4/2022/05_12/ywnGE4focCF4MzIbqwcc_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 3999000,
+            "default_price_max": 3999000,
+            "sale_price_min": 3999000,
+            "sale_price_max": 3999000,
+            "sold": 13,
+            "order_count_text": "13",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop Dell 6510 I7",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 1,
+                "star": 4
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 119069943,
+            "name": "Máy mài khuôn mini 3.2mm 130W kèm 109 phụ kiện TOTAL TG513326 - mài góc, cạnh nhỏ, vị trí hẹp [Được kiểm hàng] 114537596",
+            "category_path": "may-mai-khuon-mini-32mm-130w-kem-109-phu-kien-total-tg513326-mai-goc-canh-nho-vi-tri-hep-duo-c-kie-m-ha-ng-114537596-119069943.html",
+            "image": "https://media3.scdn.vn/img4/2023/07_04/YUfh98cvYYLGZf69rIUP_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1365000,
+            "default_price_max": 1365000,
+            "sale_price_min": 945000,
+            "sale_price_max": 945000,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 989277,
+            "sku_user": "114537596",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 989277,
+                "name": "Gì Cũng Có Shop wze6olq8gm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 115694724,
+            "name": "Đế Kê Mài Dao Lạng Đục Tròn Oval Cây Gọt Tỉa Viền Da Dụng Cụ Đồ Nghề Làm Túi Xách Thắt Lưng Bóp Ví Thủ Công Handmade DIY",
+            "category_path": "de-ke-mai-dao-lang-duc-tron-oval-cay-got-tia-vien-da-dung-cu-do-nghe-lam-tui-xach-that-lung-bop-vi-thu-cong-handmade-diy-115694724.html",
+            "image": "https://media3.scdn.vn/img4/2023/09_13/5KSifF7ny4lp4yOJVd9W_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 420000,
+            "default_price_max": 420000,
+            "sale_price_min": 219000,
+            "sale_price_max": 219000,
+            "sale_percent": 48,
+            "seller_admin_id": 976580,
+            "sku_user": "dekemaidaolangdaogotvien",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 976580,
+                "name": "NomDIYStore",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 114537596,
+            "name": "Máy mài khuôn mini 3.2mm 130W kèm 109 phụ kiện TOTAL TG513326 - mài góc, cạnh nhỏ, vị trí hẹp",
+            "category_path": "may-mai-khuon-mini-32mm-130w-kem-109-phu-kien-total-tg513326-mai-goc-canh-nho-vi-tri-hep-114537596.html",
+            "image": "https://media3.scdn.vn/img4/2023/07_04/YUfh98cvYYLGZf69rIUP_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 881000,
+            "default_price_max": 881000,
+            "sale_price_min": 525000,
+            "sale_price_max": 525000,
+            "sale_percent": 41,
+            "seller_admin_id": 392664,
+            "sku_user": "TO-TG513326",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 392664,
+                "name": "Tốc Độ 247",
+                "status": 2,
+                "type": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": "https://media3.scdn.vn/img4/2022/08_30/Niw4htmWmKd2rNiMEHpE.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 95930312,
+            "name": "Laptop Dell latitude i7 8G 500G 15in laptop nhập mỹ nguyên zin bền bỉ mạnh mẽ văn phòng giải trí học online game 3D nhẹ và tốt máy tính đồng bộ dell optiplex bộ máy tính bàn",
+            "category_path": "laptop-dell-latitude-i7-8g-500g-15in-laptop-nhap-my-nguyen-zin-ben-bi-manh-me-van-phong-giai-tri-hoc-online-game-3d-nhe-va-tot-may-tinh-dong-bo-dell-optiplex-bo-may-tinh-ban-95930312.html",
+            "image": "https://media3.scdn.vn/img4/2022/07_12/TxdSwNPZTzWFSiD2XDbH_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 4000000,
+            "default_price_max": 4000000,
+            "sale_price_min": 4000000,
+            "sale_price_max": 4000000,
+            "sold": 3,
+            "order_count_text": "3",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop Dell latitude i7 8G 250g 15in laptop n",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 1,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 95278072,
+            "name": "Bút tẩy điện Deli - Đánh bóng tranh vẽ  tẩy góc cạnh 2 kích thước khác nhau gồm 20 lõi tẩy thay thế -nhiều màu lựa chọn",
+            "category_path": "but-tay-dien-deli-danh-bong-tranh-ve-tay-goc-canh-2-kich-thuoc-khac-nhau-gom-20-loi-tay-thay-the-nhieu-mau-lua-chon-95278072.html",
+            "image": "https://media3.scdn.vn/img4/2022/06_26/jCvwWewrSimAVucnMrUa_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 34200,
+            "default_price_max": 123000,
+            "sale_price_min": 34200,
+            "sale_price_max": 123000,
+            "seller_admin_id": 962430,
+            "sku_user": "2328_95278072",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 962430,
+                "name": "Nhà sách Chi An",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 87473551,
+            "name": "Laptop Dell latitude i7 8G SSD 256G 15in laptop nhập mỹ nguyên zin bền bỉ mạnh mẽ văn phòng giải trí học online game 3D nhẹ và tốt máy tính đồng bộ dell optiplex  bộ máy tính bàn",
+            "category_path": "laptop-dell-latitude-i7-8g-ssd-256g-15in-laptop-nhap-my-nguyen-zin-ben-bi-manh-me-van-phong-giai-tri-hoc-online-game-3d-nhe-va-tot-may-tinh-dong-bo-dell-optiplex-bo-may-tinh-ban-87473551.html",
+            "image": "https://media3.scdn.vn/img4/2022/05_10/egEe7mFkcgt0vFN339Gi_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 4000000,
+            "default_price_max": 4000000,
+            "sale_price_min": 4000000,
+            "sale_price_max": 4000000,
+            "sold": 4,
+            "order_count_text": "4",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop Dell latitude i7 8G SSD 240G 15in lapt",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 1,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,786 @@
+{
+    "total_products": 22,
+    "products": [
+        {
+            "id": 114551451,
+            "name": "[OTG] Đầu Chuyển OTG Aluminum [Micro USB to Type C] Tốc Độ Cao Cho Macbook Laptop Samsung Xiaomi Oppo",
+            "category_path": "otg-dau-chuyen-otg-aluminum-micro-usb-to-type-c-toc-do-cao-cho-macbook-laptop-samsung-xiaomi-oppo-114551451.html",
+            "image": "https://media3.scdn.vn/img4/2023/07_07/hLejtK9a69QGmFLUzJv4_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 34000,
+            "default_price_max": 34000,
+            "sale_price_min": 34000,
+            "sale_price_max": 34000,
+            "seller_admin_id": 979770,
+            "sku_user": "MICRO-OTG",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 979770,
+                "name": "AISTAR",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {}
+        },
+        {
+            "id": 113205851,
+            "name": "(SẴN KHO) [ Pin ZIN ] Pin laptop Lenovo L17M3P61 320-11 520-12 320S-13IKB Xiaoxin 7000-13 720-12IKB - SHOP BÁN HÀNG UY TÍN",
+            "category_path": "san-kho-pin-zin-pin-laptop-lenovo-l17m3p61-320-11-520-12-320s-13ikb-xiaoxin-7000-13-720-12ikb-shop-ban-hang-uy-tin-113205851.html",
+            "image": "https://media3.scdn.vn/img4/2023/04_09/jgXKF1XSnAitRkRIRAyf_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 790000,
+            "default_price_max": 790000,
+            "sale_price_min": 790000,
+            "sale_price_max": 790000,
+            "seller_admin_id": 925931,
+            "sku_user": "sjr-SKU1396",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 925931,
+                "name": "TỔNG KHO PHỤ KIỆN SỐ 1",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 70204103,
+            "name": "[ Pin ZIN ] Pin laptop Lenovo L17M3P61 320-11 520-12 320S-13IKB Xiaoxin 7000-13 720-12IKB",
+            "category_path": "pin-zin-pin-laptop-lenovo-l17m3p61-320-11-520-12-320s-13ikb-xiaoxin-7000-13-720-12ikb-70204103.html",
+            "image": "https://media3.scdn.vn/img4/2021/12_12/r3AKETqkMhtpEY6k8lVo_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 790000,
+            "default_price_max": 790000,
+            "sale_price_min": 790000,
+            "sale_price_max": 790000,
+            "seller_admin_id": 118460,
+            "sku_user": "sjr-SKU1396",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 118460,
+                "name": "Thiết Bị Kích Sóng Wifi",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 70203084,
+            "name": "[ Pin ZIN ] Pin laptop Lenovo L17M3P61 320-11 520-12 320S-13IKB Xiaoxin 7000-13 720-12IKB",
+            "category_path": "pin-zin-pin-laptop-lenovo-l17m3p61-320-11-520-12-320s-13ikb-xiaoxin-7000-13-720-12ikb-70203084.html",
+            "image": "https://media3.scdn.vn/img4/2021/12_12/r3AKETqkMhtpEY6k8lVo_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 790000,
+            "default_price_max": 790000,
+            "sale_price_min": 790000,
+            "sale_price_max": 790000,
+            "seller_admin_id": 421855,
+            "sku_user": "sjr-SKU1396",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 421855,
+                "name": "GIẦY NHẬP KHẨU GIÁ TẠI KHO",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 70202596,
+            "name": "[ Pin ZIN ] Pin laptop Lenovo L17M3P61 320-11 520-12 320S-13IKB Xiaoxin 7000-13 720-12IKB",
+            "category_path": "pin-zin-pin-laptop-lenovo-l17m3p61-320-11-520-12-320s-13ikb-xiaoxin-7000-13-720-12ikb-70202596.html",
+            "image": "https://media3.scdn.vn/img4/2021/12_12/j0es6HFD0lFMYy60qeKb_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 790000,
+            "default_price_max": 790000,
+            "sale_price_min": 790000,
+            "sale_price_max": 790000,
+            "seller_admin_id": 151986,
+            "sku_user": "sjr-SKU1396",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 151986,
+                "name": "Shop Gaming Gears",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 70124981,
+            "name": "Pin sạc dự phòng 20000mAh Xiaomi gen 3 PLM07ZM 45W sạc cho Máckbook/Laptop",
+            "category_path": "pin-sac-du-phong-20000mah-xiaomi-gen-3-plm07zm-45w-sac-cho-mackbooklaptop-70124981.html",
+            "image": "https://media3.scdn.vn/img4/2020/12_02/9y37LyBa2AMsCSgjyjyh_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 799000,
+            "default_price_max": 799000,
+            "sale_price_min": 799000,
+            "sale_price_max": 799000,
+            "seller_admin_id": 413456,
+            "sku_user": "Xiaomi gen 3 PLM07ZM..",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 413456,
+                "name": "Chi Hà",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 70120685,
+            "name": "Pin sạc dự phòng 20000mAh Xiaomi gen 3 PLM07ZM 45W sạc cho Máckbook/Laptop",
+            "category_path": "pin-sac-du-phong-20000mah-xiaomi-gen-3-plm07zm-45w-sac-cho-mackbooklaptop-70120685.html",
+            "image": "https://media3.scdn.vn/img4/2020/12_02/9y37LyBa2AMsCSgjyjyh_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 799000,
+            "default_price_max": 799000,
+            "sale_price_min": 799000,
+            "sale_price_max": 799000,
+            "seller_admin_id": 604560,
+            "sku_user": "Xiaomi gen 3 PLM07ZM..",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 604560,
+                "name": "Phụ Kiện Hà Chi",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 37910157,
+            "name": "Pin sạc dự phòng 20000mAh Xiaomi gen 3 PLM07ZM 45W/Pin dự phòng 20000mAh Pro 50w Xiaomi PB200SZM sạc cho mackbook/Laptop",
+            "category_path": "pin-sac-du-phong-20000mah-xiaomi-gen-3-plm07zm-45wpin-du-phong-20000mah-pro-50w-xiaomi-pb200szm-sac-cho-mackbooklaptop-37910157.html",
+            "image": "https://media3.scdn.vn/img4/2020/12_02/i71yH0N7TVcZQ1Wselzh_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1050000,
+            "default_price_max": 1050000,
+            "sale_price_min": 1050000,
+            "sale_price_max": 1050000,
+            "sold": 3,
+            "order_count_text": "3",
+            "seller_admin_id": 119850,
+            "sku_user": "Xiaomi gen 3 PLM07ZM",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 119850,
+                "name": "Hucocase",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 23326395,
+            "name": "Balo Laptop chống nước Doanh nhân Xiaomi Classic Business Backpack 2 , đựng vừa laptop 17 inch",
+            "category_path": "balo-laptop-chong-nuoc-doanh-nhan-xiaomi-classic-business-backpack-2-dung-vua-laptop-17-inch-23326395.html",
+            "image": "https://media3.scdn.vn/img3/2019/11_4/vjeplF_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 399000,
+            "default_price_max": 399000,
+            "sale_price_min": 399000,
+            "sale_price_max": 399000,
+            "sold": 8,
+            "order_count_text": "8",
+            "seller_admin_id": 119850,
+            "sku_user": "Balo xiaomi gen 2",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 119850,
+                "name": "Hucocase",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 2,
+                "star": 4.5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116985151,
+            "name": "Fan quạt tản nhiệt CPU-GPU laptop Lenovo Ideapad 530S-14ARR 530S-14IKB 530S-15IKB, Air 15IKB, XiaoXin Pro15 14 DC5V",
+            "category_path": "fan-quat-tan-nhiet-cpu-gpu-laptop-lenovo-ideapad-530s-14arr-530s-14ikb-530s-15ikb-air-15ikb-xiaoxin-pro15-14-dc5v-116985151.html",
+            "image": "https://media3.scdn.vn/img4/2024/05_27/wGnJ1xJEPANlRtEDWcT2_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 470000,
+            "default_price_max": 930000,
+            "sale_price_min": 470000,
+            "sale_price_max": 930000,
+            "seller_admin_id": 36251,
+            "sku_user": "LO530S14F",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 36251,
+                "name": "dhgstore",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 116437302,
+            "name": "Loa trái phải laptop Lenovo IdeaPad 530S-14IKB 530S-14ARR 530S-18 530S-19, XiaoXin Air 14ARR, 5SB0Q58513",
+            "category_path": "loa-trai-phai-laptop-lenovo-ideapad-530s-14ikb-530s-14arr-530s-18-530s-19-xiaoxin-air-14arr-5sb0q58513-116437302.html",
+            "image": "https://media3.scdn.vn/img4/2024/03_24/6U0AR6M932o28XsDeqLx_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 280000,
+            "default_price_max": 380000,
+            "sale_price_min": 280000,
+            "sale_price_max": 380000,
+            "seller_admin_id": 36251,
+            "sku_user": "LO530S14L",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 36251,
+                "name": "dhgstore",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 116401379,
+            "name": "Fan quạt tản nhiệt CPU-GPU laptop Lenovo XiaoXin Pro 16, Yoga 16S 2021 2022 DC12V",
+            "category_path": "fan-quat-tan-nhiet-cpu-gpu-laptop-lenovo-xiaoxin-pro-16-yoga-16s-2021-2022-dc12v-116401379.html",
+            "image": "https://media3.scdn.vn/img4/2024/03_05/n0Uk3ht7YpD3ZFIAww7Q_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 550000,
+            "default_price_max": 1090000,
+            "sale_price_min": 550000,
+            "sale_price_max": 1090000,
+            "seller_admin_id": 36251,
+            "sku_user": "LO16SF",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 36251,
+                "name": "dhgstore",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 116392467,
+            "name": "1Fan quạt tản nhiệt CPU laptop Lenovo XiaoXin Air 15-ARE 15-IIL 15-ITL 15-ALC 2020 2022, IdeaPad 5-15IIL05 5-15ARE05 5-15ITL05 5-15ALC05 DC5V",
+            "category_path": "1fan-quat-tan-nhiet-cpu-laptop-lenovo-xiaoxin-air-15-are-15-iil-15-itl-15-alc-2020-2022-ideapad-5-15iil05-5-15are05-5-15itl05-5-15alc05-dc5v-116392467.html",
+            "image": "https://media3.scdn.vn/img4/2024/02_29/ZJ9VhgEDGaFXYiWzfHpR_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 350000,
+            "default_price_max": 450000,
+            "sale_price_min": 350000,
+            "sale_price_max": 450000,
+            "seller_admin_id": 36251,
+            "sku_user": "LO5AERF",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 36251,
+                "name": "dhgstore",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 116298001,
+            "name": "Bàn phím laptop Lenovo Ideapad S340-13IML 81UM 2021, Yoga 14SITL 2021, Xiaoxin-13IML 2019 2020 Có Đèn",
+            "category_path": "ban-phim-laptop-lenovo-ideapad-s340-13iml-81um-2021-yoga-14sitl-2021-xiaoxin-13iml-2019-2020-co-den-116298001.html",
+            "image": "https://media3.scdn.vn/img4/2024/01_10/68Jt8avResS21nNCGaCL_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 375000,
+            "default_price_max": 375000,
+            "sale_price_min": 375000,
+            "sale_price_max": 375000,
+            "seller_admin_id": 36251,
+            "sku_user": "LOS34013K",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 36251,
+                "name": "dhgstore",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 114551488,
+            "name": "[OTG] Đầu Chuyển OTG Aluminum [USB to Type C] Tốc Độ Cao Cho Macbook Laptop Samsung Xiaomi Oppo",
+            "category_path": "otg-dau-chuyen-otg-aluminum-usb-to-type-c-toc-do-cao-cho-macbook-laptop-samsung-xiaomi-oppo-114551488.html",
+            "image": "https://media3.scdn.vn/img4/2023/07_07/hLejtK9a69QGmFLUzJv4_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 38000,
+            "default_price_max": 38000,
+            "sale_price_min": 38000,
+            "sale_price_max": 38000,
+            "seller_admin_id": 979770,
+            "sku_user": "3809_114551488",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 979770,
+                "name": "AISTAR",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {}
+        },
+        {
+            "id": 96757418,
+            "name": "Ba lô laptop Xiaomi 90 Point 201602/Ba lô Urban life style Gen2",
+            "category_path": "ba-lo-laptop-xiaomi-90-point-201602ba-lo-urban-life-style-gen2-96757418.html",
+            "image": "https://media3.scdn.vn/img4/2022/07_23/EDp62hMr4mtvgOhk733Y_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 720000,
+            "default_price_max": 720000,
+            "sale_price_min": 720000,
+            "sale_price_max": 720000,
+            "seller_admin_id": 413456,
+            "sku_user": "Balo xiaomi",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 413456,
+                "name": "Chi Hà",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 96757412,
+            "name": "Ba lô laptop Xiaomi 90 Point 201602/Ba lô Urban life style Gen2",
+            "category_path": "ba-lo-laptop-xiaomi-90-point-201602ba-lo-urban-life-style-gen2-96757412.html",
+            "image": "https://media3.scdn.vn/img4/2022/07_23/WXOzfybs31IkW4RV7acV_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 720000,
+            "default_price_max": 720000,
+            "sale_price_min": 720000,
+            "sale_price_max": 720000,
+            "seller_admin_id": 604560,
+            "sku_user": "Balo xiaomi",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 604560,
+                "name": "Phụ Kiện Hà Chi",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 96757398,
+            "name": "Ba lô laptop Xiaomi 90 Point 201602/Ba lô Urban life style Gen2",
+            "category_path": "ba-lo-laptop-xiaomi-90-point-201602ba-lo-urban-life-style-gen2-96757398.html",
+            "image": "https://media3.scdn.vn/img4/2022/07_23/m4ppbEUPhiM8IfMBQpQC_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 720000,
+            "default_price_max": 720000,
+            "sale_price_min": 720000,
+            "sale_price_max": 720000,
+            "seller_admin_id": 119850,
+            "sku_user": "balo xiaomi",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 119850,
+                "name": "Hucocase",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 70203776,
+            "name": "[ Pin ZIN ] Pin laptop Lenovo L17M3P61 320-11 520-12 320S-13IKB Xiaoxin 7000-13 720-12IKB",
+            "category_path": "pin-zin-pin-laptop-lenovo-l17m3p61-320-11-520-12-320s-13ikb-xiaoxin-7000-13-720-12ikb-70203776.html",
+            "image": "https://media3.scdn.vn/img4/2021/12_12/r3AKETqkMhtpEY6k8lVo_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 790000,
+            "default_price_max": 790000,
+            "sale_price_min": 790000,
+            "sale_price_max": 790000,
+            "seller_admin_id": 14023,
+            "sku_user": "sjr-SKU1396",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 14023,
+                "name": "PHỤ KIỆN THIẾT BỊ SỐ",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 70118274,
+            "name": "Balo Laptop chống nước Doanh nhân Xiaomi Classic Business Backpack 2 , đựng vừa laptop 17 inch",
+            "category_path": "balo-laptop-chong-nuoc-doanh-nhan-xiaomi-classic-business-backpack-2-dung-vua-laptop-17-inch-70118274.html",
+            "image": "https://media3.scdn.vn/img3/2019/11_4/vjeplF_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 399000,
+            "default_price_max": 399000,
+            "sale_price_min": 399000,
+            "sale_price_max": 399000,
+            "seller_admin_id": 413456,
+            "sku_user": "Balo xiaomi gen 2..",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 413456,
+                "name": "Chi Hà",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 48822479,
+            "name": "Dây cáp sạc nhanh 100W chuẩn PD 2.0 Type C  QC 4.0 cho iPad Pro 2018 / 2020 / Samsung / Huawei / Xiaomi / Tablet / Macbook / Laptop Type C",
+            "category_path": "day-cap-sac-nhanh-100w-chuan-pd-20-type-c-qc-40-cho-ipad-pro-2018-2020-samsung-huawei-xiaomi-tablet-macbook-laptop-type-c-48822479.html",
+            "image": "https://media3.scdn.vn/img4/2021/08_25/SLkXYQ2Qi2BpGfFZ44vl_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 139000,
+            "default_price_max": 159000,
+            "sale_price_min": 79000,
+            "sale_price_max": 89000,
+            "sale_percent": 45,
+            "sold": 62,
+            "order_count_text": "62",
+            "seller_admin_id": 88262,
+            "sku_user": "Pd100",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 88262,
+                "name": "Đức Hải",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 17,
+                "star": 4.4
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 23324003,
+            "name": "Pin dự phòng 20000mAh Gen3 pro 50w Xiaomi sạc cho Laptop Ipad máy tính bảng",
+            "category_path": "pin-du-phong-20000mah-gen3-pro-50w-xiaomi-sac-cho-laptop-ipad-may-tinh-bang-23324003.html",
+            "image": "https://media3.scdn.vn/img3/2019/11_4/s6c0h6_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 1250000,
+            "default_price_max": 1250000,
+            "sale_price_min": 1250000,
+            "sale_price_max": 1250000,
+            "seller_admin_id": 119850,
+            "sku_user": "gen 3 ro 50W",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 119850,
+                "name": "Hucocase",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        }
+    ]
+}

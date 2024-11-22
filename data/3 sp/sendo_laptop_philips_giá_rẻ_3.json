@@ -1,0 +1,114 @@
+{
+    "total_products": 3,
+    "products": [
+        {
+            "id": 111278387,
+            "name": "CHUỘT KHÔNG DÂY PHILIPS M305 DÙNG CHO MÁY TÍNH - LAPTOP(CHÍNH HÃNG)",
+            "category_path": "chuot-khong-day-philips-m305-dung-cho-may-tinh-laptopchinh-hang-111278387.html",
+            "image": "https://media3.scdn.vn/img4/2023/02_24/oJXT9KFsm7qvZKVJzkTL_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 145000,
+            "default_price_max": 145000,
+            "sale_price_min": 145000,
+            "sale_price_max": 145000,
+            "seller_admin_id": 413456,
+            "sku_user": "Philips M305",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 413456,
+                "name": "Chi Hà",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 111278385,
+            "name": "CHUỘT KHÔNG DÂY PHILIPS M305 DÙNG CHO MÁY TÍNH - LAPTOP(CHÍNH HÃNG)",
+            "category_path": "chuot-khong-day-philips-m305-dung-cho-may-tinh-laptopchinh-hang-111278385.html",
+            "image": "https://media3.scdn.vn/img4/2023/02_24/IN4Fc07GOvKJv0TGhCkP_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 155000,
+            "default_price_max": 155000,
+            "sale_price_min": 155000,
+            "sale_price_max": 155000,
+            "seller_admin_id": 604560,
+            "sku_user": "Philips M305",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 604560,
+                "name": "Phụ Kiện Hà Chi",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 111278380,
+            "name": "CHUỘT KHÔNG DÂY PHILIPS M305 DÙNG CHO MÁY TÍNH - LAPTOP(CHÍNH HÃNG)",
+            "category_path": "chuot-khong-day-philips-m305-dung-cho-may-tinh-laptopchinh-hang-111278380.html",
+            "image": "https://media3.scdn.vn/img4/2023/02_24/ikkl4ITLeeSxalioMBBK_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 160000,
+            "default_price_max": 160000,
+            "sale_price_min": 160000,
+            "sale_price_max": 160000,
+            "seller_admin_id": 119850,
+            "sku_user": "philips M305",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 119850,
+                "name": "Hucocase",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        }
+    ]
+}

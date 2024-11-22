@@ -1,0 +1,3100 @@
+{
+    "total_products": 78,
+    "products": [
+        {
+            "id": 118914617,
+            "name": "Đầm voan xếp tà dài sang trọng quý phái sang chảnh cho các nàng MỚI NHẤT HIỆN NAY",
+            "category_path": "dam-voan-xep-ta-dai-sang-trong-quy-phai-sang-chanh-cho-cac-nang-moi-nhat-hien-nay-118914617.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_28/GYX4TmzboIOXIYcp7bFt_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1075000,
+            "default_price_max": 1075000,
+            "sale_price_min": 1075000,
+            "sale_price_max": 1075000,
+            "discount_app": 5,
+            "seller_admin_id": 988860,
+            "sku_user": "12186110665",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988860,
+                "name": "Siêu Thị Mua 365",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "installment",
+                    "text": "Trả góp 0%",
+                    "text_color": "#133096",
+                    "bg_color": "#f1f3f9",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/gj399CMo7lEnCO3fCiQ9.png"
+                }
+            ]
+        },
+        {
+            "id": 118914376,
+            "name": "Đầm voan xếp tà dài sang trọng quý phái sang chảnh cho các nàng MỚI NHẤT HIỆN NAY",
+            "category_path": "dam-voan-xep-ta-dai-sang-trong-quy-phai-sang-chanh-cho-cac-nang-moi-nhat-hien-nay-118914376.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_28/GYX4TmzboIOXIYcp7bFt_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1075000,
+            "default_price_max": 1075000,
+            "sale_price_min": 1075000,
+            "sale_price_max": 1075000,
+            "discount_app": 5,
+            "seller_admin_id": 988861,
+            "sku_user": "12186110665",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988861,
+                "name": "Siêu Thị Trợ Giá VN",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "installment",
+                    "text": "Trả góp 0%",
+                    "text_color": "#133096",
+                    "bg_color": "#f1f3f9",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/gj399CMo7lEnCO3fCiQ9.png"
+                }
+            ]
+        },
+        {
+            "id": 118681513,
+            "name": "Máy làm bắp rang bơ Sokany 299 phiên bản mới nhất 2019 tiện dụng [Được kiểm hàng] 19265381",
+            "category_path": "may-lam-bap-rang-bo-sokany-299-phien-ban-moi-nhat-2019-tien-dung-duo-c-kie-m-ha-ng-19265381-118681513.html",
+            "image": "https://media3.scdn.vn/img3/2019/6_18/P4UmgB_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1817400,
+            "default_price_max": 1817400,
+            "sale_price_min": 1258200,
+            "sale_price_max": 1258200,
+            "sale_percent": 31,
+            "seller_admin_id": 988982,
+            "sku_user": "19265381",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988982,
+                "name": "Gì Cũng Có Shop 1vmc38u4uu",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118681512,
+            "name": "Máy làm bắp rang bơ Sokany 299 phiên bản mới nhất 2019 tiện dụng [Được kiểm hàng] 19265273",
+            "category_path": "may-lam-bap-rang-bo-sokany-299-phien-ban-moi-nhat-2019-tien-dung-duo-c-kie-m-ha-ng-19265273-118681512.html",
+            "image": "https://media3.scdn.vn/img3/2019/6_18/C6ZDRl_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1817400,
+            "default_price_max": 1817400,
+            "sale_price_min": 1258200,
+            "sale_price_max": 1258200,
+            "sale_percent": 31,
+            "seller_admin_id": 988982,
+            "sku_user": "19265273",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988982,
+                "name": "Gì Cũng Có Shop 1vmc38u4uu",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118680874,
+            "name": "Bếp Gas Mini du lịch tiện dụng mẫu mới nhất [Được kiểm hàng] 12137260",
+            "category_path": "bep-gas-mini-du-lich-tien-dung-mau-moi-nhat-duo-c-kie-m-ha-ng-12137260-118680874.html",
+            "image": "https://media3.scdn.vn/img2/2018/10_8/VFpErY_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 574600,
+            "default_price_max": 574600,
+            "sale_price_min": 397800,
+            "sale_price_max": 397800,
+            "sale_percent": 31,
+            "seller_admin_id": 988982,
+            "sku_user": "12137260",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988982,
+                "name": "Gì Cũng Có Shop 1vmc38u4uu",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118678150,
+            "name": "Bộ hộp nhựa 7 món cao cấp tiện dụng gồm 7 hộp có nắp tiện dụng giúp bảo quản thức ăn luôn tươi mới, sạch, an toàn và đảm bảo chất lượng tốt nhất\nThiết kế xếp lồng không tốn diện tích, gọn nhẹ, sạch sẽ và a [Được kiểm hàng] 43487569",
+            "category_path": "bo-hop-nhua-7-mon-cao-cap-tien-dung-gom-7-hop-co-nap-tien-dung-giup-bao-quan-thuc-an-luon-tuoi-moi-sach-an-toan-va-dam-bao-chat-luong-tot-nhat-thiet-ke-xep-long-khong-ton-dien-tich-gon-nhe-sach-se-va-a-duo-c-kie-m-ha-ng-43487569-118678150.html",
+            "image": "https://media3.scdn.vn/img4/2021/05_06/vEedlIQDsWeYmSPqHwnZ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 210000,
+            "default_price_max": 210000,
+            "sale_price_min": 178500,
+            "sale_price_max": 178500,
+            "sale_percent": 15,
+            "seller_admin_id": 988982,
+            "sku_user": "43487569",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988982,
+                "name": "Gì Cũng Có Shop 1vmc38u4uu",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118677485,
+            "name": "Nồi lẩu xoay vớt thức ăn tiện lợi kiểu mới size 32cm chất liệu inox cao cấp siêu bền dùng trên mọi loại bếp [Được kiểm hàng] 9796020",
+            "category_path": "noi-lau-xoay-vot-thuc-an-tien-loi-kieu-moi-size-32cm-chat-lieu-inox-cao-cap-sieu-ben-dung-tren-moi-loai-bep-duo-c-kie-m-ha-ng-9796020-118677485.html",
+            "image": "https://media3.scdn.vn/img4/2023/02_07/wy9EBTWUxwrzqkTNlyUv_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 699400,
+            "default_price_max": 699400,
+            "sale_price_min": 484200,
+            "sale_price_max": 484200,
+            "sale_percent": 31,
+            "seller_admin_id": 988982,
+            "sku_user": "9796020",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988982,
+                "name": "Gì Cũng Có Shop 1vmc38u4uu",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118676020,
+            "name": "KỆ GIA VỊ INOX 3 TẦNG NGHIÊNG\nMẪU MỚI HIỆN ĐẠI HƠN, PHONG CÁCH NHÀ BẾP 2021:\n🍉Sản phẩm được đóng gói nguyên kiện mới, KHÔNG CẦN ỐC VÍT lắp ghép Chất liệu thép cacbon cao cấp phun sơn tĩnh [Được kiểm hàng] 46140550",
+            "category_path": "ke-gia-vi-inox-3-tang-nghieng-mau-moi-hien-dai-hon-phong-cach-nha-bep-2021-san-pham-duoc-dong-goi-nguyen-kien-moi-khong-can-oc-vit-lap-ghep-chat-lieu-thep-cacbon-cao-cap-phun-son-tinh-duo-c-kie-m-ha-ng-46140550-118676020.html",
+            "image": "https://media3.scdn.vn/img4/2021/06_23/LlDPCs7nmTzPOMhw14Nz_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 310000,
+            "default_price_max": 310000,
+            "sale_price_min": 263500,
+            "sale_price_max": 263500,
+            "sale_percent": 15,
+            "seller_admin_id": 988982,
+            "sku_user": "46140550",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988982,
+                "name": "Gì Cũng Có Shop 1vmc38u4uu",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118654122,
+            "name": "Đầm voan xếp tà dài sang trọng quý phái sang chảnh cho các nàng MỚI NHẤT HIỆN NAY [Được kiểm hàng] 117276667",
+            "category_path": "dam-voan-xep-ta-dai-sang-trong-quy-phai-sang-chanh-cho-cac-nang-moi-nhat-hien-nay-duo-c-kie-m-ha-ng-117276667-118654122.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_28/jE7DVHcvawzf0Grv2V6X_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1075000,
+            "default_price_max": 1075000,
+            "sale_price_min": 913750,
+            "sale_price_max": 913750,
+            "sale_percent": 15,
+            "seller_admin_id": 988982,
+            "sku_user": "117276667",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988982,
+                "name": "Gì Cũng Có Shop 1vmc38u4uu",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118654114,
+            "name": "Đầm voan xếp tà dài sang trọng quý phái sang chảnh cho các nàng MỚI NHẤT HIỆN NAY [Được kiểm hàng] 117276661",
+            "category_path": "dam-voan-xep-ta-dai-sang-trong-quy-phai-sang-chanh-cho-cac-nang-moi-nhat-hien-nay-duo-c-kie-m-ha-ng-117276661-118654114.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_28/GYX4TmzboIOXIYcp7bFt_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1075000,
+            "default_price_max": 1075000,
+            "sale_price_min": 913750,
+            "sale_price_max": 913750,
+            "sale_percent": 15,
+            "seller_admin_id": 988982,
+            "sku_user": "117276661",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988982,
+                "name": "Gì Cũng Có Shop 1vmc38u4uu",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118654109,
+            "name": "Đầm voan xếp tà dài sang trọng quý phái sang chảnh cho các nàng MỚI NHẤT HIỆN NAY [Được kiểm hàng] 117276658",
+            "category_path": "dam-voan-xep-ta-dai-sang-trong-quy-phai-sang-chanh-cho-cac-nang-moi-nhat-hien-nay-duo-c-kie-m-ha-ng-117276658-118654109.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_28/jE7DVHcvawzf0Grv2V6X_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1075000,
+            "default_price_max": 1075000,
+            "sale_price_min": 913750,
+            "sale_price_max": 913750,
+            "sale_percent": 15,
+            "seller_admin_id": 988982,
+            "sku_user": "117276658",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988982,
+                "name": "Gì Cũng Có Shop 1vmc38u4uu",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118653158,
+            "name": "Đầm voan xếp tà dài sang trọng quý phái sang chảnh cho các nàng MỚI NHẤT HIỆN NAY [Được kiểm hàng] 117625808",
+            "category_path": "dam-voan-xep-ta-dai-sang-trong-quy-phai-sang-chanh-cho-cac-nang-moi-nhat-hien-nay-duo-c-kie-m-ha-ng-117625808-118653158.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_28/GYX4TmzboIOXIYcp7bFt_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 2150000,
+            "default_price_max": 2150000,
+            "sale_price_min": 1827500,
+            "sale_price_max": 1827500,
+            "sale_percent": 15,
+            "seller_admin_id": 988982,
+            "sku_user": "117625808",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988982,
+                "name": "Gì Cũng Có Shop 1vmc38u4uu",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118600331,
+            "name": "Giá đỡ điện thoại để bàn xếp gọn hình vuông mẫu mới nhất [Được kiểm hàng] 41676030",
+            "category_path": "gia-do-dien-thoai-de-ban-xep-gon-hinh-vuong-mau-moi-nhat-duo-c-kie-m-ha-ng-41676030-118600331.html",
+            "image": "https://media3.scdn.vn/img4/2021/03_24/xcKymR4jwuNLFu4CtNRU_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 288000,
+            "default_price_max": 288000,
+            "sale_price_min": 244800,
+            "sale_price_max": 244800,
+            "sale_percent": 15,
+            "discount_app": 1,
+            "seller_admin_id": 988843,
+            "sku_user": "41676030",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988843,
+                "name": "Gì Cũng Có Shop fbgrrdha0v",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118476438,
+            "name": "Máy làm bắp rang bơ Sokany 299 phiên bản mới nhất 2019 tiện dụng [Được kiểm hàng] 19265273",
+            "category_path": "may-lam-bap-rang-bo-sokany-299-phien-ban-moi-nhat-2019-tien-dung-duo-c-kie-m-ha-ng-19265273-118476438.html",
+            "image": "https://media3.scdn.vn/img3/2019/6_18/C6ZDRl_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1817400,
+            "default_price_max": 1817400,
+            "sale_price_min": 1258200,
+            "sale_price_max": 1258200,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 988843,
+            "sku_user": "19265273",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988843,
+                "name": "Gì Cũng Có Shop fbgrrdha0v",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118476433,
+            "name": "Máy làm bắp rang bơ Sokany 299 phiên bản mới nhất 2019 tiện dụng [Được kiểm hàng] 19265381",
+            "category_path": "may-lam-bap-rang-bo-sokany-299-phien-ban-moi-nhat-2019-tien-dung-duo-c-kie-m-ha-ng-19265381-118476433.html",
+            "image": "https://media3.scdn.vn/img3/2019/6_18/P4UmgB_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1817400,
+            "default_price_max": 1817400,
+            "sale_price_min": 1258200,
+            "sale_price_max": 1258200,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 988843,
+            "sku_user": "19265381",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988843,
+                "name": "Gì Cũng Có Shop fbgrrdha0v",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118474015,
+            "name": "Bộ hộp nhựa 7 món cao cấp tiện dụng gồm 7 hộp có nắp tiện dụng giúp bảo quản thức ăn luôn tươi mới, sạch, an toàn và đảm bảo chất lượng tốt nhất\nThiết kế xếp lồng không tốn diện tích, gọn nhẹ, sạch sẽ và a [Được kiểm hàng] 43487569",
+            "category_path": "bo-hop-nhua-7-mon-cao-cap-tien-dung-gom-7-hop-co-nap-tien-dung-giup-bao-quan-thuc-an-luon-tuoi-moi-sach-an-toan-va-dam-bao-chat-luong-tot-nhat-thiet-ke-xep-long-khong-ton-dien-tich-gon-nhe-sach-se-va-a-duo-c-kie-m-ha-ng-43487569-118474015.html",
+            "image": "https://media3.scdn.vn/img4/2021/05_06/vEedlIQDsWeYmSPqHwnZ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 210000,
+            "default_price_max": 210000,
+            "sale_price_min": 178500,
+            "sale_price_max": 178500,
+            "sale_percent": 15,
+            "discount_app": 1,
+            "seller_admin_id": 988843,
+            "sku_user": "43487569",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988843,
+                "name": "Gì Cũng Có Shop fbgrrdha0v",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118472730,
+            "name": "Nồi lẩu xoay vớt thức ăn tiện lợi kiểu mới size 32cm chất liệu inox cao cấp siêu bền dùng trên mọi loại bếp [Được kiểm hàng] 9796020",
+            "category_path": "noi-lau-xoay-vot-thuc-an-tien-loi-kieu-moi-size-32cm-chat-lieu-inox-cao-cap-sieu-ben-dung-tren-moi-loai-bep-duo-c-kie-m-ha-ng-9796020-118472730.html",
+            "image": "https://media3.scdn.vn/img4/2023/02_07/wy9EBTWUxwrzqkTNlyUv_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 699400,
+            "default_price_max": 699400,
+            "sale_price_min": 484200,
+            "sale_price_max": 484200,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 988843,
+            "sku_user": "9796020",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988843,
+                "name": "Gì Cũng Có Shop fbgrrdha0v",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118471302,
+            "name": "KỆ GIA VỊ INOX 3 TẦNG NGHIÊNG\nMẪU MỚI HIỆN ĐẠI HƠN, PHONG CÁCH NHÀ BẾP 2021:\n🍉Sản phẩm được đóng gói nguyên kiện mới, KHÔNG CẦN ỐC VÍT lắp ghép Chất liệu thép cacbon cao cấp phun sơn tĩnh [Được kiểm hàng] 46140550",
+            "category_path": "ke-gia-vi-inox-3-tang-nghieng-mau-moi-hien-dai-hon-phong-cach-nha-bep-2021-san-pham-duoc-dong-goi-nguyen-kien-moi-khong-can-oc-vit-lap-ghep-chat-lieu-thep-cacbon-cao-cap-phun-son-tinh-duo-c-kie-m-ha-ng-46140550-118471302.html",
+            "image": "https://media3.scdn.vn/img4/2021/06_23/LlDPCs7nmTzPOMhw14Nz_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 310000,
+            "default_price_max": 310000,
+            "sale_price_min": 263500,
+            "sale_price_max": 263500,
+            "sale_percent": 15,
+            "discount_app": 1,
+            "seller_admin_id": 988843,
+            "sku_user": "46140550",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988843,
+                "name": "Gì Cũng Có Shop fbgrrdha0v",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118447153,
+            "name": "Đầm voan xếp tà dài sang trọng quý phái sang chảnh cho các nàng MỚI NHẤT HIỆN NAY [Được kiểm hàng] 117625808",
+            "category_path": "dam-voan-xep-ta-dai-sang-trong-quy-phai-sang-chanh-cho-cac-nang-moi-nhat-hien-nay-duo-c-kie-m-ha-ng-117625808-118447153.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_28/GYX4TmzboIOXIYcp7bFt_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 2150000,
+            "default_price_max": 2150000,
+            "sale_price_min": 1827500,
+            "sale_price_max": 1827500,
+            "sale_percent": 15,
+            "discount_app": 1,
+            "seller_admin_id": 988843,
+            "sku_user": "117625808",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988843,
+                "name": "Gì Cũng Có Shop fbgrrdha0v",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 117935525,
+            "name": "Đầm voan xếp tà dài sang trọng quý phái sang chảnh cho các nàng MỚI NHẤT HIỆN NAY [Được kiểm hàng] 117625808",
+            "category_path": "dam-voan-xep-ta-dai-sang-trong-quy-phai-sang-chanh-cho-cac-nang-moi-nhat-hien-nay-duo-c-kie-m-ha-ng-117625808-117935525.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_28/GYX4TmzboIOXIYcp7bFt_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 2150000,
+            "default_price_max": 2150000,
+            "sale_price_min": 1827500,
+            "sale_price_max": 1827500,
+            "sale_percent": 15,
+            "discount_app": 1,
+            "seller_admin_id": 988391,
+            "sku_user": "117625808",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988391,
+                "name": "Gì Cũng Có 102201",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 117839051,
+            "name": "Đầm voan xếp tà dài sang trọng quý phái sang chảnh cho các nàng MỚI NHẤT HIỆN NAY",
+            "category_path": "dam-voan-xep-ta-dai-sang-trong-quy-phai-sang-chanh-cho-cac-nang-moi-nhat-hien-nay-117839051.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_28/GYX4TmzboIOXIYcp7bFt_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1075000,
+            "default_price_max": 1075000,
+            "sale_price_min": 1075000,
+            "sale_price_max": 1075000,
+            "discount_app": 5,
+            "seller_admin_id": 988439,
+            "sku_user": "12186110665",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988439,
+                "name": "Sale Online Upto 50",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "installment",
+                    "text": "Trả góp 0%",
+                    "text_color": "#133096",
+                    "bg_color": "#f1f3f9",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/gj399CMo7lEnCO3fCiQ9.png"
+                }
+            ]
+        },
+        {
+            "id": 117737092,
+            "name": "Đầm voan xếp tà dài sang trọng quý phái sang chảnh cho các nàng MỚI NHẤT HIỆN NAY",
+            "category_path": "dam-voan-xep-ta-dai-sang-trong-quy-phai-sang-chanh-cho-cac-nang-moi-nhat-hien-nay-117737092.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_28/GYX4TmzboIOXIYcp7bFt_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1075000,
+            "default_price_max": 1075000,
+            "sale_price_min": 1075000,
+            "sale_price_max": 1075000,
+            "discount_app": 5,
+            "seller_admin_id": 988194,
+            "sku_user": "12186110665",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988194,
+                "name": "Mua Hàng Ưu Đãi",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117713699,
+            "name": "Đầm voan xếp tà dài sang trọng quý phái sang chảnh cho các nàng MỚI NHẤT HIỆN NAY",
+            "category_path": "dam-voan-xep-ta-dai-sang-trong-quy-phai-sang-chanh-cho-cac-nang-moi-nhat-hien-nay-117713699.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_28/GYX4TmzboIOXIYcp7bFt_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1075000,
+            "default_price_max": 1075000,
+            "sale_price_min": 1075000,
+            "sale_price_max": 1075000,
+            "discount_app": 5,
+            "seller_admin_id": 988234,
+            "sku_user": "12186110665",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988234,
+                "name": "SaleShop Mua",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "installment",
+                    "text": "Trả góp 0%",
+                    "text_color": "#133096",
+                    "bg_color": "#f1f3f9",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/gj399CMo7lEnCO3fCiQ9.png"
+                }
+            ]
+        },
+        {
+            "id": 117650022,
+            "name": "Đầm voan xếp tà dài sang trọng quý phái sang chảnh cho các nàng MỚI NHẤT HIỆN NAY",
+            "category_path": "dam-voan-xep-ta-dai-sang-trong-quy-phai-sang-chanh-cho-cac-nang-moi-nhat-hien-nay-117650022.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_28/GYX4TmzboIOXIYcp7bFt_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1075000,
+            "default_price_max": 1075000,
+            "sale_price_min": 1075000,
+            "sale_price_max": 1075000,
+            "discount_app": 5,
+            "seller_admin_id": 988229,
+            "sku_user": "12186110665",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988229,
+                "name": "Siêu Thị Mua Hàng N&N",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117633605,
+            "name": "Đầm voan xếp tà dài sang trọng quý phái sang chảnh cho các nàng MỚI NHẤT HIỆN NAY",
+            "category_path": "dam-voan-xep-ta-dai-sang-trong-quy-phai-sang-chanh-cho-cac-nang-moi-nhat-hien-nay-117633605.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_28/GYX4TmzboIOXIYcp7bFt_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1075000,
+            "default_price_max": 1075000,
+            "sale_price_min": 1075000,
+            "sale_price_max": 1075000,
+            "discount_app": 5,
+            "seller_admin_id": 988232,
+            "sku_user": "12186110665",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988232,
+                "name": "Siêu Thị Dã Ngoại Du Lịch",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "installment",
+                    "text": "Trả góp 0%",
+                    "text_color": "#133096",
+                    "bg_color": "#f1f3f9",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/gj399CMo7lEnCO3fCiQ9.png"
+                }
+            ]
+        },
+        {
+            "id": 116294397,
+            "name": "VỈ HẤP XOÈ INOX TIỆN LỢI 37k/ vỉ Không phải lách cách thêm nồi thêm vung tốn diện tích căn bếp nhà bạn Chỉ với 1 vỉ hấp đa năng bạn sẽ làm được nhiều hơn những gì bạn nghĩ đấy Sản phẩm được làm bằng chất liệu inox cao cấp, sáng bóng và bền",
+            "category_path": "vi-hap-xoe-inox-tien-loi-37k-vi-khong-phai-lach-cach-them-noi-them-vung-ton-dien-tich-can-bep-nha-ban-chi-voi-1-vi-hap-da-nang-ban-se-lam-duoc-nhieu-hon-nhung-gi-ban-nghi-day-san-pham-duoc-lam-bang-chat-lieu-inox-cao-cap-sang-bong-va-ben-116294397.html",
+            "image": "https://media3.scdn.vn/img4/2024/01_08/p3SD51NFhYjm55KoR7kZ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 37000,
+            "default_price_max": 37000,
+            "sale_price_min": 37000,
+            "sale_price_max": 37000,
+            "seller_admin_id": 283181,
+            "sku_user": "1521_116294397",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 283181,
+                "name": "Shop NN",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Khánh Hòa",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 115764148,
+            "name": "KHAY ĐỰNG ĐỒ DÁN TƯỜNG VIỆT NHẬT 34k/ loại lớn  Sản phẩm THÔNG MINH và vô cùng TIỆN LỢI với bất cứ không gian trong nhà bạn như: phòng tắm, nhà bếp, bàn học,...Miếng keo dán chắc chắn, siêu dính, dễ dùng, không cần khoan đục tường",
+            "category_path": "khay-dung-do-dan-tuong-viet-nhat-34k-loai-lon-san-pham-thong-minh-va-vo-cung-tien-loi-voi-bat-cu-khong-gian-trong-nha-ban-nhu-phong-tam-nha-bep-ban-hoc-mieng-keo-dan-chac-chan-sieu-dinh-de-dung-khong-can-khoan-duc-tuong-115764148.html",
+            "image": "https://media3.scdn.vn/img4/2023/09_17/IbZl07n0cHKcNMqZg6LS_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 34000,
+            "default_price_max": 34000,
+            "sale_price_min": 34000,
+            "sale_price_max": 34000,
+            "seller_admin_id": 283181,
+            "sku_user": "1456_115764148",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 283181,
+                "name": "Shop NN",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Khánh Hòa",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 1
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 114192906,
+            "name": "Dụng cụ Bóp Bơm Chất Lỏng + 2 Mét ống tiện dụng, mẫu mới tự giữ chặt ống",
+            "category_path": "dung-cu-bop-bom-chat-long-2-met-ong-tien-dung-mau-moi-tu-giu-chat-ong-114192906.html",
+            "image": "https://media3.scdn.vn/img4/2023/05_25/HYr7eAXlxpsnADTmokl7_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 70000,
+            "default_price_max": 70000,
+            "sale_price_min": 70000,
+            "sale_price_max": 70000,
+            "seller_admin_id": 977687,
+            "sku_user": "DụngcụBópBơmChấtLỏng+2Métốngtiệndụng,mẫumớitự",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 977687,
+                "name": "Kho Hàng Chợ Lớn",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 114174460,
+            "name": "KHAY ĐƯNG ĐỒ DÁN tường việt nhật loại nhỏ  Sản phẩm THÔNG MINH và vô cùng TIỆN LỢI với bất cứ không gian trong nhà bạn như: phòng tắm, nhà bếp, bàn học,...Miếng keo dán chắc chắn, siêu dính, dễ dùng, khô",
+            "category_path": "khay-dung-do-dan-tuong-viet-nhat-loai-nho-san-pham-thong-minh-va-vo-cung-tien-loi-voi-bat-cu-khong-gian-trong-nha-ban-nhu-phong-tam-nha-bep-ban-hoc-mieng-keo-dan-chac-chan-sieu-dinh-de-dung-kho-114174460.html",
+            "image": "https://media3.scdn.vn/img4/2023/05_22/soWhzCjQZ12fXUjuoUsQ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 27000,
+            "default_price_max": 27000,
+            "sale_price_min": 27000,
+            "sale_price_max": 27000,
+            "seller_admin_id": 283181,
+            "sku_user": "1093_114174460",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 283181,
+                "name": "Shop NN",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Khánh Hòa",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 113924412,
+            "name": "VÁ GỖ ĐẸP Chất liệu gỗ thân thiện với môi trường. Với màu gỗ vintage hàn quốc, hơn cả 1 dụng cụ nấu ăn, thìa gỗ còn là sản phẩm decor, trang trí làm đẹp phòng bếp của bạn đó Thìa gỗ này rất tiện dụng trong mọi nhà bếp. Sản p",
+            "category_path": "va-go-dep-chat-lieu-go-than-thien-voi-moi-truong-voi-mau-go-vintage-han-quoc-hon-ca-1-dung-cu-nau-an-thia-go-con-la-san-pham-decor-trang-tri-lam-dep-phong-bep-cua-ban-do-thia-go-nay-rat-tien-dung-trong-moi-nha-bep-san-p-113924412.html",
+            "image": "https://media3.scdn.vn/img4/2023/04_23/RK1zJu2pSDyonRyrcunT_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 33000,
+            "default_price_max": 33000,
+            "sale_price_min": 33000,
+            "sale_price_max": 33000,
+            "seller_admin_id": 283181,
+            "sku_user": "1027_113924412",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 283181,
+                "name": "Shop NN",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Khánh Hòa",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 28386246,
+            "name": "Nồi Lẩu BẦU THÁI mẫu MỚI SIÊU ĐẸP Size18. Lẩu NHÔM CỔ ĐIỂN. Dụng cụ bếp nấu lẩu được gò thủ công mang chất TRUYỀN THỐNG",
+            "category_path": "noi-lau-bau-thai-mau-moi-sieu-dep-size18-lau-nhom-co-dien-dung-cu-bep-nau-lau-duoc-go-thu-cong-mang-chat-truyen-thong-28386246.html",
+            "image": "https://media3.scdn.vn/img4/2020/04_07/VE8z5Xq041eXHeLDevxW_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 422000,
+            "default_price_max": 422000,
+            "sale_price_min": 249000,
+            "sale_price_max": 249000,
+            "sale_percent": 41,
+            "sold": 2,
+            "order_count_text": "2",
+            "seller_admin_id": 42736,
+            "sku_user": "noi lau nhom 18cm",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 42736,
+                "name": "Shop Choáng",
+                "status": 2,
+                "ware_house_region_name": "Vũng Tàu",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 1,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 119129741,
+            "name": "Giá đỡ điện thoại để bàn xếp gọn hình vuông mẫu mới nhất [Được kiểm hàng] 41676030",
+            "category_path": "gia-do-dien-thoai-de-ban-xep-gon-hinh-vuong-mau-moi-nhat-duo-c-kie-m-ha-ng-41676030-119129741.html",
+            "image": "https://media3.scdn.vn/img4/2021/03_24/xcKymR4jwuNLFu4CtNRU_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 288000,
+            "default_price_max": 288000,
+            "sale_price_min": 244800,
+            "sale_price_max": 244800,
+            "sale_percent": 15,
+            "discount_app": 1,
+            "seller_admin_id": 989277,
+            "sku_user": "41676030",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 989277,
+                "name": "Gì Cũng Có Shop wze6olq8gm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118992664,
+            "name": "Máy làm bắp rang bơ Sokany 299 phiên bản mới nhất 2019 tiện dụng [Được kiểm hàng] 19265381",
+            "category_path": "may-lam-bap-rang-bo-sokany-299-phien-ban-moi-nhat-2019-tien-dung-duo-c-kie-m-ha-ng-19265381-118992664.html",
+            "image": "https://media3.scdn.vn/img3/2019/6_18/P4UmgB_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1817400,
+            "default_price_max": 1817400,
+            "sale_price_min": 1258200,
+            "sale_price_max": 1258200,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 989277,
+            "sku_user": "19265381",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 989277,
+                "name": "Gì Cũng Có Shop wze6olq8gm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118992663,
+            "name": "Máy làm bắp rang bơ Sokany 299 phiên bản mới nhất 2019 tiện dụng [Được kiểm hàng] 19265273",
+            "category_path": "may-lam-bap-rang-bo-sokany-299-phien-ban-moi-nhat-2019-tien-dung-duo-c-kie-m-ha-ng-19265273-118992663.html",
+            "image": "https://media3.scdn.vn/img3/2019/6_18/C6ZDRl_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1817400,
+            "default_price_max": 1817400,
+            "sale_price_min": 1258200,
+            "sale_price_max": 1258200,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 989277,
+            "sku_user": "19265273",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 989277,
+                "name": "Gì Cũng Có Shop wze6olq8gm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118992081,
+            "name": "Bếp Gas Mini du lịch tiện dụng mẫu mới nhất [Được kiểm hàng] 12137260",
+            "category_path": "bep-gas-mini-du-lich-tien-dung-mau-moi-nhat-duo-c-kie-m-ha-ng-12137260-118992081.html",
+            "image": "https://media3.scdn.vn/img2/2018/10_8/VFpErY_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 574600,
+            "default_price_max": 574600,
+            "sale_price_min": 397800,
+            "sale_price_max": 397800,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 989277,
+            "sku_user": "12137260",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 989277,
+                "name": "Gì Cũng Có Shop wze6olq8gm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118989384,
+            "name": "Bộ hộp nhựa 7 món cao cấp tiện dụng gồm 7 hộp có nắp tiện dụng giúp bảo quản thức ăn luôn tươi mới, sạch, an toàn và đảm bảo chất lượng tốt nhất\nThiết kế xếp lồng không tốn diện tích, gọn nhẹ, sạch sẽ và a [Được kiểm hàng] 43487569",
+            "category_path": "bo-hop-nhua-7-mon-cao-cap-tien-dung-gom-7-hop-co-nap-tien-dung-giup-bao-quan-thuc-an-luon-tuoi-moi-sach-an-toan-va-dam-bao-chat-luong-tot-nhat-thiet-ke-xep-long-khong-ton-dien-tich-gon-nhe-sach-se-va-a-duo-c-kie-m-ha-ng-43487569-118989384.html",
+            "image": "https://media3.scdn.vn/img4/2021/05_06/vEedlIQDsWeYmSPqHwnZ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 210000,
+            "default_price_max": 210000,
+            "sale_price_min": 178500,
+            "sale_price_max": 178500,
+            "sale_percent": 15,
+            "discount_app": 1,
+            "seller_admin_id": 989277,
+            "sku_user": "43487569",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 989277,
+                "name": "Gì Cũng Có Shop wze6olq8gm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118987473,
+            "name": "KỆ GIA VỊ INOX 3 TẦNG NGHIÊNG\nMẪU MỚI HIỆN ĐẠI HƠN, PHONG CÁCH NHÀ BẾP 2021:\n🍉Sản phẩm được đóng gói nguyên kiện mới, KHÔNG CẦN ỐC VÍT lắp ghép Chất liệu thép cacbon cao cấp phun sơn tĩnh [Được kiểm hàng] 46140550",
+            "category_path": "ke-gia-vi-inox-3-tang-nghieng-mau-moi-hien-dai-hon-phong-cach-nha-bep-2021-san-pham-duoc-dong-goi-nguyen-kien-moi-khong-can-oc-vit-lap-ghep-chat-lieu-thep-cacbon-cao-cap-phun-son-tinh-duo-c-kie-m-ha-ng-46140550-118987473.html",
+            "image": "https://media3.scdn.vn/img4/2021/06_23/LlDPCs7nmTzPOMhw14Nz_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 310000,
+            "default_price_max": 310000,
+            "sale_price_min": 263500,
+            "sale_price_max": 263500,
+            "sale_percent": 15,
+            "discount_app": 1,
+            "seller_admin_id": 989277,
+            "sku_user": "46140550",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 989277,
+                "name": "Gì Cũng Có Shop wze6olq8gm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118963344,
+            "name": "Đầm voan xếp tà dài sang trọng quý phái sang chảnh cho các nàng MỚI NHẤT HIỆN NAY [Được kiểm hàng] 117276661",
+            "category_path": "dam-voan-xep-ta-dai-sang-trong-quy-phai-sang-chanh-cho-cac-nang-moi-nhat-hien-nay-duo-c-kie-m-ha-ng-117276661-118963344.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_28/GYX4TmzboIOXIYcp7bFt_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1075000,
+            "default_price_max": 1075000,
+            "sale_price_min": 913750,
+            "sale_price_max": 913750,
+            "sale_percent": 15,
+            "discount_app": 1,
+            "seller_admin_id": 989277,
+            "sku_user": "117276661",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 989277,
+                "name": "Gì Cũng Có Shop wze6olq8gm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118963337,
+            "name": "Đầm voan xếp tà dài sang trọng quý phái sang chảnh cho các nàng MỚI NHẤT HIỆN NAY [Được kiểm hàng] 117276658",
+            "category_path": "dam-voan-xep-ta-dai-sang-trong-quy-phai-sang-chanh-cho-cac-nang-moi-nhat-hien-nay-duo-c-kie-m-ha-ng-117276658-118963337.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_28/jE7DVHcvawzf0Grv2V6X_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1075000,
+            "default_price_max": 1075000,
+            "sale_price_min": 913750,
+            "sale_price_max": 913750,
+            "sale_percent": 15,
+            "discount_app": 1,
+            "seller_admin_id": 989277,
+            "sku_user": "117276658",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 989277,
+                "name": "Gì Cũng Có Shop wze6olq8gm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118963336,
+            "name": "Đầm voan xếp tà dài sang trọng quý phái sang chảnh cho các nàng MỚI NHẤT HIỆN NAY [Được kiểm hàng] 117276667",
+            "category_path": "dam-voan-xep-ta-dai-sang-trong-quy-phai-sang-chanh-cho-cac-nang-moi-nhat-hien-nay-duo-c-kie-m-ha-ng-117276667-118963336.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_28/jE7DVHcvawzf0Grv2V6X_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1075000,
+            "default_price_max": 1075000,
+            "sale_price_min": 913750,
+            "sale_price_max": 913750,
+            "sale_percent": 15,
+            "discount_app": 1,
+            "seller_admin_id": 989277,
+            "sku_user": "117276667",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 989277,
+                "name": "Gì Cũng Có Shop wze6olq8gm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118962696,
+            "name": "Đầm voan xếp tà dài sang trọng quý phái sang chảnh cho các nàng MỚI NHẤT HIỆN NAY [Được kiểm hàng] 117625808",
+            "category_path": "dam-voan-xep-ta-dai-sang-trong-quy-phai-sang-chanh-cho-cac-nang-moi-nhat-hien-nay-duo-c-kie-m-ha-ng-117625808-118962696.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_28/GYX4TmzboIOXIYcp7bFt_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 2150000,
+            "default_price_max": 2150000,
+            "sale_price_min": 1827500,
+            "sale_price_max": 1827500,
+            "sale_percent": 15,
+            "discount_app": 1,
+            "seller_admin_id": 989277,
+            "sku_user": "117625808",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 989277,
+                "name": "Gì Cũng Có Shop wze6olq8gm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118807072,
+            "name": "Giá đỡ điện thoại để bàn xếp gọn hình vuông mẫu mới nhất [Được kiểm hàng] 41676030",
+            "category_path": "gia-do-dien-thoai-de-ban-xep-gon-hinh-vuong-mau-moi-nhat-duo-c-kie-m-ha-ng-41676030-118807072.html",
+            "image": "https://media3.scdn.vn/img4/2021/03_24/xcKymR4jwuNLFu4CtNRU_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 288000,
+            "default_price_max": 288000,
+            "sale_price_min": 244800,
+            "sale_price_max": 244800,
+            "sale_percent": 15,
+            "seller_admin_id": 988982,
+            "sku_user": "41676030",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988982,
+                "name": "Gì Cũng Có Shop 1vmc38u4uu",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118475796,
+            "name": "Bếp Gas Mini du lịch tiện dụng mẫu mới nhất [Được kiểm hàng] 12137260",
+            "category_path": "bep-gas-mini-du-lich-tien-dung-mau-moi-nhat-duo-c-kie-m-ha-ng-12137260-118475796.html",
+            "image": "https://media3.scdn.vn/img2/2018/10_8/VFpErY_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 574600,
+            "default_price_max": 574600,
+            "sale_price_min": 397800,
+            "sale_price_max": 397800,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 988843,
+            "sku_user": "12137260",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988843,
+                "name": "Gì Cũng Có Shop fbgrrdha0v",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118015270,
+            "name": "Thớt gỗ bếp Chef  hình chữ nhật 28x40x3,5 cm       Đặc điểm nổi bật - Được làm từ gỗ với ưu điểm hạn chế tối đa bị cong vênh, trầy xước. - Thớt được áp dụng các công nghệ xử lí hiện đại, mang lại cảm giác thoải mái khi sử dụng để sơ chế các loại thực",
+            "category_path": "thot-go-bep-chef-hinh-chu-nhat-28x40x3-5-cm-dac-diem-noi-bat-duoc-lam-tu-go-voi-uu-diem-han-che-toi-da-bi-cong-venh-tray-xuoc-thot-duoc-ap-dung-cac-cong-nghe-xu-li-hien-dai-mang-lai-cam-giac-thoai-mai-khi-su-dung-de-so-che-cac-loai-thuc-118015270.html",
+            "image": "https://media3.scdn.vn/img4/2024/09_12/RBHZ2zp26mtRN4evtsbx_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 158000,
+            "default_price_max": 158000,
+            "sale_price_min": 158000,
+            "sale_price_max": 158000,
+            "discount_app": 1,
+            "seller_admin_id": 888076,
+            "sku_user": "1523_118015270",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 888076,
+                "name": "Phu Tung Cong Nong Nghiep",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117625808,
+            "name": "Đầm voan xếp tà dài sang trọng quý phái sang chảnh cho các nàng MỚI NHẤT HIỆN NAY",
+            "category_path": "dam-voan-xep-ta-dai-sang-trong-quy-phai-sang-chanh-cho-cac-nang-moi-nhat-hien-nay-117625808.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_28/GYX4TmzboIOXIYcp7bFt_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1075000,
+            "default_price_max": 1075000,
+            "sale_price_min": 1075000,
+            "sale_price_max": 1075000,
+            "discount_app": 5,
+            "seller_admin_id": 988127,
+            "sku_user": "12186110665",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988127,
+                "name": "Saleshop88",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "installment",
+                    "text": "Trả góp 0%",
+                    "text_color": "#133096",
+                    "bg_color": "#f1f3f9",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/gj399CMo7lEnCO3fCiQ9.png"
+                }
+            ]
+        },
+        {
+            "id": 117609206,
+            "name": "Đầm voan xếp tà dài sang trọng quý phái sang chảnh cho các nàng MỚI NHẤT HIỆN NAY",
+            "category_path": "dam-voan-xep-ta-dai-sang-trong-quy-phai-sang-chanh-cho-cac-nang-moi-nhat-hien-nay-117609206.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_28/GYX4TmzboIOXIYcp7bFt_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1075000,
+            "default_price_max": 1075000,
+            "sale_price_min": 1075000,
+            "sale_price_max": 1075000,
+            "discount_app": 5,
+            "seller_admin_id": 988129,
+            "sku_user": "12186110665",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988129,
+                "name": "Mua Sắm Hàng Chất",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117588125,
+            "name": "Đầm voan xếp tà dài sang trọng quý phái sang chảnh cho các nàng MỚI NHẤT HIỆN NAY",
+            "category_path": "dam-voan-xep-ta-dai-sang-trong-quy-phai-sang-chanh-cho-cac-nang-moi-nhat-hien-nay-117588125.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_28/GYX4TmzboIOXIYcp7bFt_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1075000,
+            "default_price_max": 1075000,
+            "sale_price_min": 1075000,
+            "sale_price_max": 1075000,
+            "discount_app": 5,
+            "seller_admin_id": 988081,
+            "sku_user": "12186110665",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988081,
+                "name": "Bách Hóa Onnline",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "installment",
+                    "text": "Trả góp 0%",
+                    "text_color": "#133096",
+                    "bg_color": "#f1f3f9",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/gj399CMo7lEnCO3fCiQ9.png"
+                }
+            ]
+        },
+        {
+            "id": 117280658,
+            "name": "CÂN RAPIDO đã cập bến tại shop ạ 275k / cái kiểm soát cân nặng mùa mặc bikini chị em êi CÂN ĐIỆN TỬ RAPIDO cực kì chính xác, phân tích đầy đủ chỉ số trong cơ thể mình, giúp cả nhà điều chỉnh chế độ ăn sao cho tốt nhất với sức khỏe",
+            "category_path": "can-rapido-da-cap-ben-tai-shop-a-275k-cai-kiem-soat-can-nang-mua-mac-bikini-chi-em-ei-can-dien-tu-rapido-cuc-ki-chinh-xac-phan-tich-day-du-chi-so-trong-co-the-minh-giup-ca-nha-dieu-chinh-che-do-an-sao-cho-tot-nhat-voi-suc-khoe-117280658.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_30/h39WduK17CQZcy7IE4hr_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 275000,
+            "default_price_max": 275000,
+            "sale_price_min": 275000,
+            "sale_price_max": 275000,
+            "seller_admin_id": 283181,
+            "sku_user": "2007_117280658",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 283181,
+                "name": "Shop NN",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Khánh Hòa",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117276666,
+            "name": "Đầm voan xếp tà dài sang trọng quý phái sang chảnh cho các nàng MỚI NHẤT HIỆN NAY",
+            "category_path": "dam-voan-xep-ta-dai-sang-trong-quy-phai-sang-chanh-cho-cac-nang-moi-nhat-hien-nay-117276666.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_28/w697UTsKMQDxpWBDBxhV_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1075000,
+            "default_price_max": 1075000,
+            "sale_price_min": 1075000,
+            "sale_price_max": 1075000,
+            "discount_app": 5,
+            "seller_admin_id": 984850,
+            "sku_user": "12186110665",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 984850,
+                "name": "Gu Fashion New",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117276661,
+            "name": "Đầm voan xếp tà dài sang trọng quý phái sang chảnh cho các nàng MỚI NHẤT HIỆN NAY",
+            "category_path": "dam-voan-xep-ta-dai-sang-trong-quy-phai-sang-chanh-cho-cac-nang-moi-nhat-hien-nay-117276661.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_28/GYX4TmzboIOXIYcp7bFt_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1075000,
+            "default_price_max": 1075000,
+            "sale_price_min": 537500,
+            "sale_price_max": 537500,
+            "sale_percent": 50,
+            "discount_app": 5,
+            "seller_admin_id": 984943,
+            "sku_user": "12186110665",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 984943,
+                "name": "world shopping VN",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117276660,
+            "name": "Đầm voan xếp tà dài sang trọng quý phái sang chảnh cho các nàng MỚI NHẤT HIỆN NAY",
+            "category_path": "dam-voan-xep-ta-dai-sang-trong-quy-phai-sang-chanh-cho-cac-nang-moi-nhat-hien-nay-117276660.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_28/GhhfjLcl8kaV5IsiB9RZ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1075000,
+            "default_price_max": 1075000,
+            "sale_price_min": 526750,
+            "sale_price_max": 526750,
+            "sale_percent": 51,
+            "discount_app": 5,
+            "seller_admin_id": 984847,
+            "sku_user": "12186110665",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 984847,
+                "name": "Siêu Thị Giày Đẹp",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117276659,
+            "name": "Đầm voan xếp tà dài sang trọng quý phái sang chảnh cho các nàng MỚI NHẤT HIỆN NAY",
+            "category_path": "dam-voan-xep-ta-dai-sang-trong-quy-phai-sang-chanh-cho-cac-nang-moi-nhat-hien-nay-117276659.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_28/1e1j1xZ6ZuaxE1g9on56_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1075000,
+            "default_price_max": 1075000,
+            "sale_price_min": 1075000,
+            "sale_price_max": 1075000,
+            "discount_app": 5,
+            "seller_admin_id": 987961,
+            "sku_user": "12186110665",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 987961,
+                "name": "Chợ Thời Trang New",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117276658,
+            "name": "Đầm voan xếp tà dài sang trọng quý phái sang chảnh cho các nàng MỚI NHẤT HIỆN NAY",
+            "category_path": "dam-voan-xep-ta-dai-sang-trong-quy-phai-sang-chanh-cho-cac-nang-moi-nhat-hien-nay-117276658.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_28/jE7DVHcvawzf0Grv2V6X_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1075000,
+            "default_price_max": 1075000,
+            "sale_price_min": 537500,
+            "sale_price_max": 537500,
+            "sale_percent": 50,
+            "discount_app": 5,
+            "seller_admin_id": 987937,
+            "sku_user": "12186110665",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 987937,
+                "name": "Chợ Việt Chất",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116816806,
+            "name": "Màn xếp Thông minh  thế hệ mới Chân Viền Vải Lụa hiện đại màn chống muỗi hiệu quả mẫu cao cấp nhất thị trường",
+            "category_path": "man-xep-thong-minh-the-he-moi-chan-vien-vai-lua-hien-dai-man-chong-muoi-hieu-qua-ma-u-cao-ca-p-nha-t-thi-truo-ng-116816806.html",
+            "image": "https://media3.scdn.vn/img4/2024/05_16/Y7WTLACgMppIHHVLkYhV_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 185000,
+            "default_price_max": 210000,
+            "sale_price_min": 185000,
+            "sale_price_max": 210000,
+            "seller_admin_id": 945662,
+            "sku_user": "13123",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 945662,
+                "name": "Tổng Kho Màn Anh Thư",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Bắc Ninh",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 115348089,
+            "name": "THẢM LAU CHÂN LÔNG CỪU CHỐNG TRƯỢT 69k/ cái THẢM CHÙI CHÂN CHỐNG TRƯỢT SIÊU THẤM VỚI CHẤT LIỆU LÔNG CỪU CAO CẤP, ĐỘ THẤM NƯỚC TỐT PHÙ HỢP DÙNG LÀM THẢM LAU CHÂN NHÀ TẮM, CỬA RA VÀO, NHÀ BẾP Mẫu mã trẻ trung, hiện đại không chỉ giúp giữ sạch",
+            "category_path": "tham-lau-chan-long-cuu-chong-truot-69k-cai-tham-chui-chan-chong-truot-sieu-tham-voi-chat-lieu-long-cuu-cao-cap-do-tham-nuoc-tot-phu-hop-dung-lam-tham-lau-chan-nha-tam-cua-ra-vao-nha-bep-mau-ma-tre-trung-hien-dai-khong-chi-giup-giu-sach-115348089.html",
+            "image": "https://media3.scdn.vn/img4/2023/08_24/rMND9CJ06GonZt3gPJrQ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 69000,
+            "default_price_max": 69000,
+            "sale_price_min": 69000,
+            "sale_price_max": 69000,
+            "seller_admin_id": 283181,
+            "sku_user": "4328_115348089",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 283181,
+                "name": "Shop NN",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Khánh Hòa",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 114645244,
+            "name": "BỘ 2 VÁ MÚC CƠM RICO 14k/ bộ Được làm từ chất liệu PP, Thìa/muỗng/muôi bếp chống dính này rất an toàn và không độc hại. Với thiết kế chống dính, muỗng xới cơm lúa mạch tiện lợi hơn khi xới cơm. Được thiết kế màu trơn để phù hợp với các phụ ki",
+            "category_path": "bo-2-va-muc-com-rico-14k-bo-duoc-lam-tu-chat-lieu-pp-thiamuongmuoi-bep-chong-dinh-nay-rat-an-toan-va-khong-doc-hai-voi-thiet-ke-chong-dinh-muong-xoi-com-lua-mach-tien-loi-hon-khi-xoi-com-duoc-thiet-ke-mau-tron-de-phu-hop-voi-cac-phu-ki-114645244.html",
+            "image": "https://media3.scdn.vn/img4/2023/07_14/Ems9Qbp6XnAQnM2JOVpE_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 14000,
+            "default_price_max": 14000,
+            "sale_price_min": 14000,
+            "sale_price_max": 14000,
+            "seller_admin_id": 283181,
+            "sku_user": "4261_114645244",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 283181,
+                "name": "Shop NN",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Khánh Hòa",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 113418262,
+            "name": "Máy Mài Dao Kéo Mini Đa Năng Thông Minh Chạy Bằng Điện 220v Tự Động Nhỏ Gọn Tiện Lợi Mài Là Sắc Bắn Đồ Dùng Nhà Bếp Mẫu Mới Nhất",
+            "category_path": "may-mai-dao-keo-mini-da-nang-thong-minh-chay-bang-dien-220v-tu-dong-nho-gon-tien-loi-mai-la-sac-ban-do-dung-nha-bep-mau-moi-nhat-113418262.html",
+            "image": "https://media3.scdn.vn/img4/2023/04_14/znwb2d6h6Np3P7aCEB5J_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 99000,
+            "default_price_max": 99000,
+            "sale_price_min": 75000,
+            "sale_price_max": 75000,
+            "sale_percent": 25,
+            "sold": 4,
+            "order_count_text": "4",
+            "seller_admin_id": 790302,
+            "sku_user": "MÀI DAO BẰNG ĐIỆN",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 790302,
+                "name": "Linh Kiện Lâm Phát",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 110807403,
+            "name": "Bếp từ đôi Can-zy CZ-TL 867T nhập khẩu Thái Lan  - với hệ thống linh kiện cao cấp chất lượng đạt chuẩn Châu Âu",
+            "category_path": "bep-tu-doi-can-zy-cz-tl-867t-nhap-khau-thai-lan-voi-he-thong-linh-kien-cao-cap-chat-luong-dat-chuan-chau-au-110807403.html",
+            "image": "https://media3.scdn.vn/img4/2023/02_12/lsN2cKu8p3m78kgTk9gG_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 9000000,
+            "default_price_max": 9000000,
+            "sale_price_min": 9000000,
+            "sale_price_max": 9000000,
+            "discount_app": 1,
+            "seller_admin_id": 572674,
+            "sku_user": "CZ-TL867T",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 572674,
+                "name": "Máy Lọc Nước Phong Lê",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 110541701,
+            "name": "Board bo mạch bếp từ cảm ứng đa năng dùng để thay thế những bếp cảm ứng trên thị trường hiện nay với độ bền và độ ổn định cao.Sản phẩm đã  kiểm tra đầy đủ trước khi gửi nên các bạn có thể yên tâm về chất lượng. Sản phẩm đi kèm hướng dẫn lắp đặt kèm n",
+            "category_path": "board-bo-mach-bep-tu-cam-ung-da-nang-dung-de-thay-the-nhung-bep-cam-ung-tren-thi-truong-hien-nay-voi-do-ben-va-do-on-dinh-caosan-pham-da-kiem-tra-day-du-truoc-khi-gui-nen-cac-ban-co-the-yen-tam-ve-chat-luong-san-pham-di-kem-huong-dan-lap-dat-kem-n-110541701.html",
+            "image": "https://media3.scdn.vn/img4/2023/01_15/qEoFjMkSOYwQxiwpSEBT_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 218000,
+            "default_price_max": 218000,
+            "sale_price_min": 186000,
+            "sale_price_max": 186000,
+            "sale_percent": 15,
+            "sold": 1,
+            "order_count_text": "1",
+            "discount_app": 1,
+            "seller_admin_id": 888076,
+            "sku_user": "3999_110541701",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 888076,
+                "name": "Phu Tung Cong Nong Nghiep",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 68183947,
+            "name": "Linh Kiện Bếp Từ, Nút Nhấn 6x6x9.5mm 4 Chân - Công Tắc Nhấn Chuyển Đổi DIP-4 Mới (Bộ 20 Con)",
+            "category_path": "linh-kien-bep-tu-nut-nhan-6x6x95mm-4-chan-cong-tac-nhan-chuyen-doi-dip-4-moi-bo-20-con-68183947.html",
+            "image": "https://media3.scdn.vn/img4/2021/11_26/dV5gSpFKtAK9LQqnmM38_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 26000,
+            "default_price_max": 26000,
+            "sale_price_min": 16000,
+            "sale_price_max": 16000,
+            "sale_percent": 39,
+            "sold": 8,
+            "order_count_text": "8",
+            "seller_admin_id": 658708,
+            "sku_user": "CONGTAC6.6.9,5mm",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 658708,
+                "name": "Linh Kiện Điện Tử HĐ",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 8,
+                "star": 4.8
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 48277101,
+            "name": "SIÊU GIÁ VỚI BỘ MÁY ĐO HUYẾT ÁP BẮP TAY LÀ CÔNG NGHỆ MỚI NHẤT VÀ SẢN PHẨM RẤT TIỆN DỤNG MỖI CHO GIA ĐÌNH",
+            "category_path": "sieu-gia-voi-bo-may-do-huyet-ap-bap-tay-la-cong-nghe-moi-nhat-va-san-pham-rat-tien-dung-moi-cho-gia-dinh-48277101.html",
+            "image": "https://media3.scdn.vn/img4/2021/07_30/VTRNeenWENbdUSpJJXoJ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 800000,
+            "default_price_max": 800000,
+            "sale_price_min": 429000,
+            "sale_price_max": 429000,
+            "sale_percent": 47,
+            "seller_admin_id": 917316,
+            "sku_user": "221",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 917316,
+                "name": "THẢO LONG",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Thanh Hóa",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 12137260,
+            "name": "Bếp Gas Mini du lịch tiện dụng mẫu mới nhất",
+            "category_path": "bep-gas-mini-du-lich-tien-dung-mau-moi-nhat-12137260.html",
+            "image": "https://media3.scdn.vn/img2/2018/10_8/VFpErY_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 221000,
+            "default_price_max": 221000,
+            "sale_price_min": 221000,
+            "sale_price_max": 221000,
+            "seller_admin_id": 438264,
+            "sku_user": "gdsheel145",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 438264,
+                "name": "BẢO CHÂU PLAZA",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 9796020,
+            "name": "Nồi lẩu xoay vớt thức ăn tiện lợi kiểu mới size 32cm chất liệu inox cao cấp siêu bền dùng trên mọi loại bếp",
+            "category_path": "noi-lau-xoay-vot-thuc-an-tien-loi-kieu-moi-size-32cm-chat-lieu-inox-cao-cap-sieu-ben-dung-tren-moi-loai-bep-9796020.html",
+            "image": "https://media3.scdn.vn/img4/2023/02_07/wy9EBTWUxwrzqkTNlyUv_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 420000,
+            "default_price_max": 420000,
+            "sale_price_min": 269000,
+            "sale_price_max": 269000,
+            "sale_percent": 36,
+            "sold": 1,
+            "order_count_text": "1",
+            "has_video": true,
+            "seller_admin_id": 127528,
+            "sku_user": "nồi lẩu xoay",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 127528,
+                "name": "sweet boutique86",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {}
+        },
+        {
+            "id": 67579848,
+            "name": "Sét chai kem̀ Hũ Đựng Gia Vị Thủy Tinh Kèm Muỗng Cao Cấp chai kem̀ 3 hũ BỘ ĐỰNG GIA VỊ CỰC XINH CHO CĂN BẾP HIỆN ĐẠI KÈM SẴN MUỖNG, PHẾT SIÊU XINH, SẠCH SẼ  Chất liệu : THỦY TINH Với bộ đựng gia vị nhỏ xinh",
+            "category_path": "set-chai-kem-hu-dung-gia-vi-thuy-tinh-kem-muong-cao-cap-chai-kem-3-hu-bo-dung-gia-vi-cuc-xinh-cho-can-bep-hien-dai-kem-san-muong-phet-sieu-xinh-sach-se-chat-lieu-thuy-tinh-voi-bo-dung-gia-vi-nho-xinh-67579848.html",
+            "image": "https://media3.scdn.vn/img4/2021/11_15/JowBWiN8R5Ru1QyQeFFd_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 109000,
+            "default_price_max": 109000,
+            "sale_price_min": 109000,
+            "sale_price_max": 109000,
+            "seller_admin_id": 283181,
+            "sku_user": "1520_67579848",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 283181,
+                "name": "Shop NN",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Khánh Hòa",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 46140550,
+            "name": "KỆ GIA VỊ INOX 3 TẦNG NGHIÊNG\nMẪU MỚI HIỆN ĐẠI HƠN, PHONG CÁCH NHÀ BẾP 2021:\n🍉Sản phẩm được đóng gói nguyên kiện mới, KHÔNG CẦN ỐC VÍT lắp ghép Chất liệu thép cacbon cao cấp phun sơn tĩnh",
+            "category_path": "ke-gia-vi-inox-3-tang-nghieng-mau-moi-hien-dai-hon-phong-cach-nha-bep-2021-san-pham-duoc-dong-goi-nguyen-kien-moi-khong-can-oc-vit-lap-ghep-chat-lieu-thep-cacbon-cao-cap-phun-son-tinh-46140550.html",
+            "image": "https://media3.scdn.vn/img4/2021/06_23/LlDPCs7nmTzPOMhw14Nz_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 155000,
+            "default_price_max": 155000,
+            "sale_price_min": 155000,
+            "sale_price_max": 155000,
+            "sold": 3,
+            "order_count_text": "3",
+            "seller_admin_id": 283181,
+            "sku_user": "NG3503",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 283181,
+                "name": "Shop NN",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Khánh Hòa",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 1,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 43487569,
+            "name": "Bộ hộp nhựa 7 món cao cấp tiện dụng gồm 7 hộp có nắp tiện dụng giúp bảo quản thức ăn luôn tươi mới, sạch, an toàn và đảm bảo chất lượng tốt nhất\nThiết kế xếp lồng không tốn diện tích, gọn nhẹ, sạch sẽ và a",
+            "category_path": "bo-hop-nhua-7-mon-cao-cap-tien-dung-gom-7-hop-co-nap-tien-dung-giup-bao-quan-thuc-an-luon-tuoi-moi-sach-an-toan-va-dam-bao-chat-luong-tot-nhat-thiet-ke-xep-long-khong-ton-dien-tich-gon-nhe-sach-se-va-a-43487569.html",
+            "image": "https://media3.scdn.vn/img4/2021/05_06/vEedlIQDsWeYmSPqHwnZ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 105000,
+            "default_price_max": 105000,
+            "sale_price_min": 105000,
+            "sale_price_max": 105000,
+            "seller_admin_id": 283181,
+            "sku_user": "NG3399",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 283181,
+                "name": "Shop NN",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Khánh Hòa",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 41676030,
+            "name": "Giá đỡ điện thoại để bàn xếp gọn hình vuông mẫu mới nhất",
+            "category_path": "gia-do-dien-thoai-de-ban-xep-gon-hinh-vuong-mau-moi-nhat-41676030.html",
+            "image": "https://media3.scdn.vn/img4/2021/03_24/xcKymR4jwuNLFu4CtNRU_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 144000,
+            "default_price_max": 144000,
+            "sale_price_min": 144000,
+            "sale_price_max": 144000,
+            "seller_admin_id": 635925,
+            "sku_user": "zxvgfh",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 635925,
+                "name": "gia dung bao chau2 plaza",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 37779353,
+            "name": "FRRE SHIP ] Muỗng xới cơm,bới cơm,múc cơm hình 3D kiểu Nhật gác bếp tiện dụng  ..giao ngẫu nhiên",
+            "category_path": "frre-ship-muong-xoi-com-boi-com-muc-com-hinh-3d-kieu-nhat-gac-bep-tien-dung-giao-ngau-nhien-37779353.html",
+            "image": "https://media3.scdn.vn/img4/2020/11_27/LXjoEHqLovK9GJPVW4Xd_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 18256,
+            "default_price_max": 18256,
+            "sale_price_min": 18256,
+            "sale_price_max": 18256,
+            "seller_admin_id": 732780,
+            "sku_user": "muỗi nhưa",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 732780,
+                "name": "FASHION BẢO BẢO",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 36817852,
+            "name": "BẾP NƯỚNG ĐIỆN KHÔNG KHÓI MS-2088 MẶT VÂN ĐÁ GANG NGUYÊN KHỐI mẫu mới nhất hiện nay",
+            "category_path": "bep-nuong-dien-khong-khoi-ms-2088-mat-van-da-gang-nguyen-khoi-mau-moi-nhat-hien-nay-36817852.html",
+            "image": "https://media3.scdn.vn/img4/2020/10_26/2YHXtG9hjmjOyJSeLyoN_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 319000,
+            "default_price_max": 319000,
+            "sale_price_min": 319000,
+            "sale_price_max": 319000,
+            "seller_admin_id": 438264,
+            "sku_user": "Zxcvnjmkiu764e",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 438264,
+                "name": "BẢO CHÂU PLAZA",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 32425003,
+            "name": "Bếp lẩu nướng điện đa năng THÁI LAN 2 trong 1 dòng cao cấp mới nhất",
+            "category_path": "bep-lau-nuong-dien-da-nang-thai-lan-2-trong-1-dong-cao-cap-moi-nhat-32425003.html",
+            "image": "https://media3.scdn.vn/img4/2020/08_14/WHoIWWR9CWPbSfP8BN4V_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 699000,
+            "default_price_max": 699000,
+            "sale_price_min": 559000,
+            "sale_price_max": 559000,
+            "sale_percent": 21,
+            "sold": 16,
+            "order_count_text": "16",
+            "seller_admin_id": 635925,
+            "sku_user": "vgbhrewa",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 635925,
+                "name": "gia dung bao chau2 plaza",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 2,
+                "star": 3.5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 23862902,
+            "name": "Bếp Nướng Cao Cấp Matka MTK-4928 mẫu mới nhất hiện nay",
+            "category_path": "bep-nuong-cao-cap-matka-mtk-4928-mau-moi-nhat-hien-nay-23862902.html",
+            "image": "https://media3.scdn.vn/img3/2019/11_22/ZMmt3p_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 422000,
+            "default_price_max": 422000,
+            "sale_price_min": 422000,
+            "sale_price_max": 422000,
+            "seller_admin_id": 523079,
+            "sku_user": "sdfvbnm,l",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 523079,
+                "name": "gia dụng linh chi plaza",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 23859623,
+            "name": "Bếp nướng điện Pona PVN-4025 phiên bản mới nhất hiện nay",
+            "category_path": "bep-nuong-dien-pona-pvn-4025-phien-ban-moi-nhat-hien-nay-23859623.html",
+            "image": "https://media3.scdn.vn/img3/2019/11_22/B8NvpS_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 399000,
+            "default_price_max": 399000,
+            "sale_price_min": 399000,
+            "sale_price_max": 399000,
+            "seller_admin_id": 523079,
+            "sku_user": "bnm,kl",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 523079,
+                "name": "gia dụng linh chi plaza",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 23771908,
+            "name": "Bộ Đồ Chơi nấu ăn Nhà Bếp Cho Bé yêu mẫu mới nhất hiện nay",
+            "category_path": "bo-do-choi-nau-an-nha-bep-cho-be-yeu-mau-moi-nhat-hien-nay-23771908.html",
+            "image": "https://media3.scdn.vn/img3/2019/11_19/6LfRTc_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 422000,
+            "default_price_max": 422000,
+            "sale_price_min": 422000,
+            "sale_price_max": 422000,
+            "seller_admin_id": 523079,
+            "sku_user": "fghnjmk,iu",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 523079,
+                "name": "gia dụng linh chi plaza",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 23202721,
+            "name": "Ấm đun trà thủy tinh điện kèm bếp từ đa năng phiên bản mới nhất tiện dụng",
+            "category_path": "am-dun-tra-thuy-tinh-dien-kem-bep-tu-da-nang-phien-ban-moi-nhat-tien-dung-23202721.html",
+            "image": "https://media3.scdn.vn/img3/2019/10_31/9BoPTE_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 433000,
+            "default_price_max": 433000,
+            "sale_price_min": 433000,
+            "sale_price_max": 433000,
+            "seller_admin_id": 635925,
+            "sku_user": "fhtytsfer",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 635925,
+                "name": "gia dung bao chau2 plaza",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 22707704,
+            "name": "Bếp lẩu nướng Fairlady 2 trong 1 mẫu mới nhất hiện nay",
+            "category_path": "bep-lau-nuong-fairlady-2-trong-1-mau-moi-nhat-hien-nay-22707704.html",
+            "image": "https://media3.scdn.vn/img3/2019/10_16/8ZeRYO_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 433000,
+            "default_price_max": 433000,
+            "sale_price_min": 433000,
+            "sale_price_max": 433000,
+            "seller_admin_id": 635925,
+            "sku_user": "vbhghg",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 635925,
+                "name": "gia dung bao chau2 plaza",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 19265381,
+            "name": "Máy làm bắp rang bơ Sokany 299 phiên bản mới nhất 2019 tiện dụng",
+            "category_path": "may-lam-bap-rang-bo-sokany-299-phien-ban-moi-nhat-2019-tien-dung-19265381.html",
+            "image": "https://media3.scdn.vn/img3/2019/6_18/P4UmgB_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 699000,
+            "default_price_max": 699000,
+            "sale_price_min": 699000,
+            "sale_price_max": 699000,
+            "seller_admin_id": 438264,
+            "sku_user": "rtry",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 438264,
+                "name": "BẢO CHÂU PLAZA",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 19265273,
+            "name": "Máy làm bắp rang bơ Sokany 299 phiên bản mới nhất 2019 tiện dụng",
+            "category_path": "may-lam-bap-rang-bo-sokany-299-phien-ban-moi-nhat-2019-tien-dung-19265273.html",
+            "image": "https://media3.scdn.vn/img3/2019/6_18/C6ZDRl_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 699000,
+            "default_price_max": 699000,
+            "sale_price_min": 699000,
+            "sale_price_max": 699000,
+            "seller_admin_id": 523079,
+            "sku_user": "rftyt",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 523079,
+                "name": "gia dụng linh chi plaza",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 16451329,
+            "name": "Cân nhà bếp điện tử mini tối đa 5kg tối thiểu 1g SF2012 mẫu mới nhất 2019",
+            "category_path": "can-nha-bep-dien-tu-mini-toi-da-5kg-toi-thieu-1g-sf2012-mau-moi-nhat-2019-16451329.html",
+            "image": "https://media3.scdn.vn/img3/2019/3_4/X0nyja_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 165000,
+            "default_price_max": 165000,
+            "sale_price_min": 135000,
+            "sale_price_max": 135000,
+            "sale_percent": 19,
+            "sold": 4,
+            "order_count_text": "4",
+            "discount_app": 2,
+            "seller_admin_id": 516363,
+            "sku_user": "001",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 516363,
+                "name": "HKFoods",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        }
+    ]
+}

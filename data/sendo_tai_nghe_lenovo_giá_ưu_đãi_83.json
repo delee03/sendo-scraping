@@ -1,0 +1,3336 @@
+{
+    "total_products": 83,
+    "products": [
+        {
+            "id": 32986037,
+            "name": "IBM. LENOVO THINKPAD.i5 7200 8GB SSD 256GB laptop chính hãng giá rẻ siêu bền huyền thoại(có Free Ship Có  MÃ Giảm Giá Có Quà Tặng 0đ)",
+            "category_path": "ibm-lenovo-thinkpadi5-7200-8gb-ssd-256gb-laptop-chinh-hang-gia-re-sieu-ben-huyen-thoaico-free-ship-co-ma-giam-gia-co-qua-tang-0d-32986037.html",
+            "image": "https://media3.scdn.vn/img4/2020/08_29/Pfpo3Rf9USyYj0klOOb1_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 7000000,
+            "default_price_max": 7000000,
+            "sale_price_min": 7000000,
+            "sale_price_max": 7000000,
+            "sold": 4,
+            "order_count_text": "4",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "IBM. LENOVO THINKPAD. T440",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 118898755,
+            "name": "Tai Nghe Chuyên Game V2000 3.5 Có Mic dài 2.5m âm thanh đa sắc giá cực sốc",
+            "category_path": "tai-nghe-chuyen-game-v2000-35-co-mic-dai-25m-am-thanh-da-sac-gia-cuc-soc-118898755.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_11/paT9MhyJjLwTfCAQmKda_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1165000,
+            "default_price_max": 1165000,
+            "sale_price_min": 1165000,
+            "sale_price_max": 1165000,
+            "discount_app": 5,
+            "seller_admin_id": 988860,
+            "sku_user": "2352949495",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988860,
+                "name": "Siêu Thị Mua 365",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "installment",
+                    "text": "Trả góp 0%",
+                    "text_color": "#133096",
+                    "bg_color": "#f1f3f9",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/gj399CMo7lEnCO3fCiQ9.png"
+                }
+            ]
+        },
+        {
+            "id": 118898724,
+            "name": "Tai Nghe Chuyên Game V2000 3.5 Có Mic dài 2.5m âm thanh đa sắc giá cực sốc",
+            "category_path": "tai-nghe-chuyen-game-v2000-35-co-mic-dai-25m-am-thanh-da-sac-gia-cuc-soc-118898724.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_11/paT9MhyJjLwTfCAQmKda_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1165000,
+            "default_price_max": 1165000,
+            "sale_price_min": 1165000,
+            "sale_price_max": 1165000,
+            "discount_app": 5,
+            "seller_admin_id": 988861,
+            "sku_user": "2352949495",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988861,
+                "name": "Siêu Thị Trợ Giá VN",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "installment",
+                    "text": "Trả góp 0%",
+                    "text_color": "#133096",
+                    "bg_color": "#f1f3f9",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/gj399CMo7lEnCO3fCiQ9.png"
+                }
+            ]
+        },
+        {
+            "id": 117842163,
+            "name": "Tai Nghe Chuyên Game V2000 3.5 Có Mic dài 2.5m âm thanh đa sắc giá cực sốc",
+            "category_path": "tai-nghe-chuyen-game-v2000-35-co-mic-dai-25m-am-thanh-da-sac-gia-cuc-soc-117842163.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_11/paT9MhyJjLwTfCAQmKda_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1165000,
+            "default_price_max": 1165000,
+            "sale_price_min": 1165000,
+            "sale_price_max": 1165000,
+            "discount_app": 5,
+            "seller_admin_id": 988439,
+            "sku_user": "2352949495",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988439,
+                "name": "Sale Online Upto 50",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "installment",
+                    "text": "Trả góp 0%",
+                    "text_color": "#133096",
+                    "bg_color": "#f1f3f9",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/gj399CMo7lEnCO3fCiQ9.png"
+                }
+            ]
+        },
+        {
+            "id": 117842142,
+            "name": "Móc treo Tai Nghe, Giá Đỡ Tai nghe dán cạnh màn hình, cạnh bàn đa năng",
+            "category_path": "moc-treo-tai-nghe-gia-do-tai-nghe-da-n-ca-nh-ma-n-hi-nh-canh-ban-da-nang-117842142.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_11/vQEb7FcmSt27eXwDHJoN_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1017000,
+            "default_price_max": 1017000,
+            "sale_price_min": 1017000,
+            "sale_price_max": 1017000,
+            "discount_app": 5,
+            "seller_admin_id": 988439,
+            "sku_user": "23216575497",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988439,
+                "name": "Sale Online Upto 50",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "installment",
+                    "text": "Trả góp 0%",
+                    "text_color": "#133096",
+                    "bg_color": "#f1f3f9",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/gj399CMo7lEnCO3fCiQ9.png"
+                }
+            ]
+        },
+        {
+            "id": 117731227,
+            "name": "Tai Nghe Chuyên Game V2000 3.5 Có Mic dài 2.5m âm thanh đa sắc giá cực sốc",
+            "category_path": "tai-nghe-chuyen-game-v2000-35-co-mic-dai-25m-am-thanh-da-sac-gia-cuc-soc-117731227.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_11/paT9MhyJjLwTfCAQmKda_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1165000,
+            "default_price_max": 1165000,
+            "sale_price_min": 1165000,
+            "sale_price_max": 1165000,
+            "discount_app": 5,
+            "seller_admin_id": 988194,
+            "sku_user": "2352949495",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988194,
+                "name": "Mua Hàng Ưu Đãi",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117731214,
+            "name": "Móc treo Tai Nghe, Giá Đỡ Tai nghe dán cạnh màn hình, cạnh bàn đa năng",
+            "category_path": "moc-treo-tai-nghe-gia-do-tai-nghe-da-n-ca-nh-ma-n-hi-nh-canh-ban-da-nang-117731214.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_11/vQEb7FcmSt27eXwDHJoN_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1017000,
+            "default_price_max": 1017000,
+            "sale_price_min": 1017000,
+            "sale_price_max": 1017000,
+            "discount_app": 5,
+            "seller_admin_id": 988194,
+            "sku_user": "23216575497",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988194,
+                "name": "Mua Hàng Ưu Đãi",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117718767,
+            "name": "Tai Nghe Chuyên Game V2000 3.5 Có Mic dài 2.5m âm thanh đa sắc giá cực sốc",
+            "category_path": "tai-nghe-chuyen-game-v2000-35-co-mic-dai-25m-am-thanh-da-sac-gia-cuc-soc-117718767.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_11/paT9MhyJjLwTfCAQmKda_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1165000,
+            "default_price_max": 1165000,
+            "sale_price_min": 1165000,
+            "sale_price_max": 1165000,
+            "discount_app": 5,
+            "seller_admin_id": 988234,
+            "sku_user": "2352949495",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988234,
+                "name": "SaleShop Mua",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "installment",
+                    "text": "Trả góp 0%",
+                    "text_color": "#133096",
+                    "bg_color": "#f1f3f9",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/gj399CMo7lEnCO3fCiQ9.png"
+                }
+            ]
+        },
+        {
+            "id": 117718744,
+            "name": "Móc treo Tai Nghe, Giá Đỡ Tai nghe dán cạnh màn hình, cạnh bàn đa năng",
+            "category_path": "moc-treo-tai-nghe-gia-do-tai-nghe-da-n-ca-nh-ma-n-hi-nh-canh-ban-da-nang-117718744.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_11/vQEb7FcmSt27eXwDHJoN_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1017000,
+            "default_price_max": 1017000,
+            "sale_price_min": 1017000,
+            "sale_price_max": 1017000,
+            "discount_app": 5,
+            "seller_admin_id": 988234,
+            "sku_user": "23216575497",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988234,
+                "name": "SaleShop Mua",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "installment",
+                    "text": "Trả góp 0%",
+                    "text_color": "#133096",
+                    "bg_color": "#f1f3f9",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/gj399CMo7lEnCO3fCiQ9.png"
+                }
+            ]
+        },
+        {
+            "id": 117658319,
+            "name": "Tai Nghe Chuyên Game V2000 3.5 Có Mic dài 2.5m âm thanh đa sắc giá cực sốc",
+            "category_path": "tai-nghe-chuyen-game-v2000-35-co-mic-dai-25m-am-thanh-da-sac-gia-cuc-soc-117658319.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_11/OPrrrogt8yJ1BL09djje_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1165000,
+            "default_price_max": 1165000,
+            "sale_price_min": 1165000,
+            "sale_price_max": 1165000,
+            "discount_app": 5,
+            "seller_admin_id": 988229,
+            "sku_user": "2352949495",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988229,
+                "name": "Siêu Thị Mua Hàng N&N",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117658307,
+            "name": "Móc treo Tai Nghe, Giá Đỡ Tai nghe dán cạnh màn hình, cạnh bàn đa năng",
+            "category_path": "moc-treo-tai-nghe-gia-do-tai-nghe-da-n-ca-nh-ma-n-hi-nh-canh-ban-da-nang-117658307.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_11/9XzhsHMnPU9tNuCWax70_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1017000,
+            "default_price_max": 1017000,
+            "sale_price_min": 1017000,
+            "sale_price_max": 1017000,
+            "discount_app": 5,
+            "seller_admin_id": 988229,
+            "sku_user": "23216575497",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988229,
+                "name": "Siêu Thị Mua Hàng N&N",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 113145442,
+            "name": "SALE - Tai nghe chụp tai Odssey OD-112 - jack 3.5mm audio và mic dùng cho sinh viên, văn phòng ,gia đình giá rẻ",
+            "category_path": "sale-tai-nghe-chup-tai-odssey-od-112-jack-35mm-audio-va-mic-dung-cho-sinh-vien-van-phong-gia-dinh-gia-re-113145442.html",
+            "image": "https://media3.scdn.vn/img4/2024/05_17/rrfRs8hHtLOF2M0FtCwq_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 50000,
+            "default_price_max": 50000,
+            "sale_price_min": 50000,
+            "sale_price_max": 50000,
+            "seller_admin_id": 925931,
+            "sku_user": "4163_46665953",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 925931,
+                "name": "TỔNG KHO PHỤ KIỆN SỐ 1",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 113098345,
+            "name": "(SĂN SALE) Tai nghe Bluetooth không dây Gaming K33 / K53 / K55 / K86 TWS 5.0 True Wireless cảm ứng chống nước pin trâu giá rẻ cho Android iOS - SHOP BÁN HÀNG UY TÍN",
+            "category_path": "san-sale-tai-nghe-bluetooth-khong-day-gaming-k33-k53-k55-k86-tws-50-true-wireless-cam-ung-chong-nuoc-pin-trau-gia-re-cho-android-ios-shop-ban-hang-uy-tin-113098345.html",
+            "image": "https://media3.scdn.vn/img4/2023/04_07/LbsjvjZxM26gycRzgMjp_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 325000,
+            "default_price_max": 400000,
+            "sale_price_min": 325000,
+            "sale_price_max": 400000,
+            "seller_admin_id": 925931,
+            "sku_user": "0rq-SKU112",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 925931,
+                "name": "TỔNG KHO PHỤ KIỆN SỐ 1",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 113097507,
+            "name": "(SĂN SALE) Tai nghe Bluetooth không dây M30 TWS 5.2 True Wireless cảm ứng chống nước pin trâu giá rẻ cho Android iOS - SHOP BÁN HÀNG UY TÍN",
+            "category_path": "san-sale-tai-nghe-bluetooth-khong-day-m30-tws-52-true-wireless-cam-ung-chong-nuoc-pin-trau-gia-re-cho-android-ios-shop-ban-hang-uy-tin-113097507.html",
+            "image": "https://media3.scdn.vn/img4/2023/04_07/VFCIxmU5NMhWDo3LBL0a_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 260000,
+            "default_price_max": 260000,
+            "sale_price_min": 260000,
+            "sale_price_max": 260000,
+            "seller_admin_id": 925931,
+            "sku_user": "im5-SKU109",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 925931,
+                "name": "TỔNG KHO PHỤ KIỆN SỐ 1",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 113095441,
+            "name": "(SĂN SALE) Tai nghe Bluetooth không dây K12 TWS 5.3 True Wireless cảm ứng chống nước pin trâu giá rẻ cho Android iOS - SHOP BÁN HÀNG UY TÍN",
+            "category_path": "san-sale-tai-nghe-bluetooth-khong-day-k12-tws-53-true-wireless-cam-ung-chong-nuoc-pin-trau-gia-re-cho-android-ios-shop-ban-hang-uy-tin-113095441.html",
+            "image": "https://media3.scdn.vn/img4/2023/04_07/W3rizfwgEMnVTFQRqSgO_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 400000,
+            "default_price_max": 400000,
+            "sale_price_min": 400000,
+            "sale_price_max": 400000,
+            "seller_admin_id": 925931,
+            "sku_user": "701214867-1594036700581-0",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 925931,
+                "name": "TỔNG KHO PHỤ KIỆN SỐ 1",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 113095217,
+            "name": "(SĂN SALE) Tai nghe Bluetooth không dây GS5 TWS 5.2 True Wireless cảm ứng chống nước pin trâu sạc được tích hợp pin 2500mAh giá rẻ cho Android iOS - SHOP BÁN HÀNG UY TÍN",
+            "category_path": "san-sale-tai-nghe-bluetooth-khong-day-gs5-tws-52-true-wireless-cam-ung-chong-nuoc-pin-trau-sac-duoc-tich-hop-pin-2500mah-gia-re-cho-android-ios-shop-ban-hang-uy-tin-113095217.html",
+            "image": "https://media3.scdn.vn/img4/2023/04_07/LE9RY4aKDBYZRkM7zf84_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 250000,
+            "default_price_max": 250000,
+            "sale_price_min": 250000,
+            "sale_price_max": 250000,
+            "seller_admin_id": 925931,
+            "sku_user": "3237_111864368",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 925931,
+                "name": "TỔNG KHO PHỤ KIỆN SỐ 1",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 111990265,
+            "name": "Kệ Treo Tai Nghe Độc Đáo, Giá Đỡ HeadPhone Bằng Gỗ Thông Tự Nhiên",
+            "category_path": "ke-treo-tai-nghe-doc-dao-gia-do-headphone-bang-go-thong-tu-nhien-111990265.html",
+            "image": "https://media3.scdn.vn/img4/2023/03_19/QCkx7QpHohNVa5qx8CkQ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 85000,
+            "default_price_max": 85000,
+            "sale_price_min": 76000,
+            "sale_price_max": 76000,
+            "sale_percent": 11,
+            "discount_app": 1,
+            "seller_admin_id": 733380,
+            "sku_user": "T454354",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 733380,
+                "name": "ketrangtringocdiep",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Thái Bình",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 111406648,
+            "name": "Vòng tay phong thuỷ may mắn đá Thạch anh Ưu linh đa sắc Size hạt 8mm màu Ưu linh đẹp sang trọng của thạch anh tự nhiên đa sắc Công dụng giúp xoá đi xua tan mệt mỏi, đem đến năng lượng tích cực may mắn tài lộc đẹp cho gia chủ có 650k / 1 chiếc ạ",
+            "category_path": "vong-tay-phong-thuy-may-man-da-thach-anh-uu-linh-da-sac-size-hat-8mm-mau-uu-linh-dep-sang-trong-cua-thach-anh-tu-nhien-da-sac-cong-dung-giup-xoa-di-xua-tan-met-moi-dem-den-nang-luong-tich-cuc-may-man-tai-loc-dep-cho-gia-chu-co-650k-1-chiec-a-111406648.html",
+            "image": "https://media3.scdn.vn/img4/2023/03_01/a5oxaLHZ6jcqRbc5obO7_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1300000,
+            "default_price_max": 1300000,
+            "sale_price_min": 650000,
+            "sale_price_max": 650000,
+            "sale_percent": 50,
+            "seller_admin_id": 389904,
+            "sku_user": "VongtayDaThachAnhUuLinhdasacdepxinh8mm",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 389904,
+                "name": "Godaptsunny",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 94075380,
+            "name": "ÍCH NHĨ ĐAN - Hose - Người bị điếc, nặng tai, ù tai, giảm thính giác, tai nghe không rõ(Lọ 60 viên nang) h",
+            "category_path": "ich-nhi-dan-hose-nguoi-bi-diec-nang-tai-u-tai-giam-thinh-giac-tai-nghe-khong-rolo-60-vien-nang-h-94075380.html",
+            "image": "https://media3.scdn.vn/img4/2022/01_10/govYp6qlVFpATuseuQWL_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 139000,
+            "default_price_max": 139000,
+            "sale_price_min": 139000,
+            "sale_price_max": 139000,
+            "seller_admin_id": 956589,
+            "sku_user": "tu468gfj",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 956589,
+                "name": "Nhà Thuốc Đức Nghiệp",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hưng Yên",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 93919888,
+            "name": "Kim Thính hộp 2 lọ 90 viên tặng thêm 1 hộp 30 viên giúp tăng cường tuần hoàn lưu thông khí huyết tăng sức khỏe thính giác hỗ trợ giảm nghe kém dẫn truyền tiếp nhận ở người trẻ tuổi người già ù tai chóng mặt đau đầu kéo dài đau tai .",
+            "category_path": "kim-thinh-hop-2-lo-90-vien-tang-them-1-hop-30-vien-giup-tang-cuong-tuan-hoan-luu-thong-khi-huyet-tang-suc-khoe-thinh-giac-ho-tro-giam-nghe-kem-dan-truyen-tiep-nhan-o-nguoi-tre-tuoi-nguoi-gia-u-tai-chong-mat-dau-dau-keo-dai-dau-tai-93919888.html",
+            "image": "https://media3.scdn.vn/img4/2021/05_11/4zKPaDmWlk7tKTTqbnG5_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1220000,
+            "default_price_max": 1220000,
+            "sale_price_min": 1220000,
+            "sale_price_max": 1220000,
+            "seller_admin_id": 946616,
+            "sku_user": "kg106jl",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 946616,
+                "name": "Nhà Thuốc Trung Tâm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hưng Yên",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 32989707,
+            "name": "[Freeship]Laptop Lenovo i5 7200 8G SSD 240g 15in phím số HDMi camera siêu mõng nhẹ bền bỉ chuẩn laptop nhập nhật nguyên zin 15in laptop chính hãng giá rẻ nguyên zin bền bỉ(có Free Ship Có  MÃ Giảm Giá Có Quà Tặng 0đ)",
+            "category_path": "freeshiplaptop-lenovo-i5-7200-8g-ssd-240g-15in-phim-so-hdmi-camera-sieu-mong-nhe-ben-bi-chuan-laptop-nhap-nhat-nguyen-zin-15in-laptop-chinh-hang-gia-re-nguyen-zin-ben-bico-free-ship-co-ma-giam-gia-co-qua-tang-0d-32989707.html",
+            "image": "https://media3.scdn.vn/img4/2020/08_29/BRyWkZtuJOsbXeO5J3l4_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 8000000,
+            "default_price_max": 8000000,
+            "sale_price_min": 8000000,
+            "sale_price_max": 8000000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Lenovo ThinkPad. 570 7200",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 26091123,
+            "name": "[Freeship] Laptop Lenovo Thinkpad. X220 nhỏ gọn i5 4G 320G  12.5INchính hãng giá rẻ(có Free Ship Có  MÃ Giảm Giá Có Quà Tặng 0đ)",
+            "category_path": "freeship-laptop-lenovo-thinkpad-x220-nho-gon-i5-4g-320g-125inchinh-hang-gia-reco-free-ship-co-ma-giam-gia-co-qua-tang-0d-26091123.html",
+            "image": "https://media3.scdn.vn/img4/2020/02_19/WIuRuxh9LtuSv2vuqcfy_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 3800000,
+            "default_price_max": 3800000,
+            "sale_price_min": 3800000,
+            "sale_price_max": 3800000,
+            "sold": 1,
+            "order_count_text": "1",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop  chính hãng giá rẻ x220",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 26091725,
+            "name": "[Freeship] Laptop Lenovo Thinkpad. S10e 2G 320G 10in nhỏ gọn mạnh mẽ Webcam(có Free Ship Có  MÃ Giảm Giá Có Quà Tặng 0đ)[Thanh lý Giá Rẻ]",
+            "category_path": "freeship-laptop-lenovo-thinkpad-s10e-2g-320g-10in-nho-gon-manh-me-webcamco-free-ship-co-ma-giam-gia-co-qua-tang-0dthanh-ly-gia-re-26091725.html",
+            "image": "https://media3.scdn.vn/img4/2020/02_19/W6rSfpe2PCrSQTHxyxDm_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1999000,
+            "default_price_max": 1999000,
+            "sale_price_min": 1999000,
+            "sale_price_max": 1999000,
+            "sold": 1,
+            "order_count_text": "1",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "lenovo s10e",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 118898735,
+            "name": "Móc treo Tai Nghe, Giá Đỡ Tai nghe dán cạnh màn hình, cạnh bàn đa năng",
+            "category_path": "moc-treo-tai-nghe-gia-do-tai-nghe-da-n-ca-nh-ma-n-hi-nh-canh-ban-da-nang-118898735.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_11/vQEb7FcmSt27eXwDHJoN_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1017000,
+            "default_price_max": 1017000,
+            "sale_price_min": 1017000,
+            "sale_price_max": 1017000,
+            "discount_app": 5,
+            "seller_admin_id": 988860,
+            "sku_user": "23216575497",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988860,
+                "name": "Siêu Thị Mua 365",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "installment",
+                    "text": "Trả góp 0%",
+                    "text_color": "#133096",
+                    "bg_color": "#f1f3f9",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/gj399CMo7lEnCO3fCiQ9.png"
+                }
+            ]
+        },
+        {
+            "id": 118898699,
+            "name": "Móc treo Tai Nghe, Giá Đỡ Tai nghe dán cạnh màn hình, cạnh bàn đa năng",
+            "category_path": "moc-treo-tai-nghe-gia-do-tai-nghe-da-n-ca-nh-ma-n-hi-nh-canh-ban-da-nang-118898699.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_11/vQEb7FcmSt27eXwDHJoN_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1017000,
+            "default_price_max": 1017000,
+            "sale_price_min": 1017000,
+            "sale_price_max": 1017000,
+            "discount_app": 5,
+            "seller_admin_id": 988861,
+            "sku_user": "23216575497",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988861,
+                "name": "Siêu Thị Trợ Giá VN",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "installment",
+                    "text": "Trả góp 0%",
+                    "text_color": "#133096",
+                    "bg_color": "#f1f3f9",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/gj399CMo7lEnCO3fCiQ9.png"
+                }
+            ]
+        },
+        {
+            "id": 118411290,
+            "name": "Dàn Amply Bóng Đèn AV880 Và Loa D18F - Tạo Nên Hệ Thống Âm Thanh Hoàn Hảo Cho Không Gian Của Bạn, âm thanh chắc bass ấm nghe nhạc vàng cực hay, giá siêu ưu đãi bảo hành 12 tháng sử dụng miễn phí 7 ngày",
+            "category_path": "dan-amply-bong-den-av880-va-loa-d18f-tao-nen-he-thong-am-thanh-hoan-hao-cho-khong-gian-cua-ban-am-thanh-chac-bass-am-nghe-nhac-vang-cuc-hay-gia-sieu-uu-dai-bao-hanh-12-thang-su-dung-mien-phi-7-ngay-118411290.html",
+            "image": "https://media3.scdn.vn/img4/2024/10_08/7mZxB4FudHV6ngPNwwGz_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 15600000,
+            "default_price_max": 15600000,
+            "sale_price_min": 11900000,
+            "sale_price_max": 11900000,
+            "sale_percent": 24,
+            "seller_admin_id": 975730,
+            "sku_user": "2793520550-1726113359245-0",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 975730,
+                "name": "Mạnh Tiến Audio",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {}
+        },
+        {
+            "id": 118411272,
+            "name": "[ƯU ĐÃI CỰC LỚN - GIÁ GIẢM LIỀN TAY] Micro không dây UGX39 Plus - chất lượng âm thanh tuyệt hảo, với công nghệ tiên tiến và thiết kế hiện đại. Sự lựa chọn hoàn hảo cho âm thanh chuyên nghiệp.",
+            "category_path": "uu-dai-cuc-lon-gia-giam-lien-tay-micro-khong-day-ugx39-plus-chat-luong-am-thanh-tuyet-hao-voi-cong-nghe-tien-tien-va-thiet-ke-hien-dai-su-lua-chon-hoan-hao-cho-am-thanh-chuyen-nghiep-118411272.html",
+            "image": "https://media3.scdn.vn/img4/2024/10_08/RYF2hcVKrIWTGNeGFq49_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 2405000,
+            "default_price_max": 2405000,
+            "sale_price_min": 1850000,
+            "sale_price_max": 1850000,
+            "sale_percent": 24,
+            "seller_admin_id": 975730,
+            "sku_user": "2801388916-1726715825502-0",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 975730,
+                "name": "Mạnh Tiến Audio",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {}
+        },
+        {
+            "id": 118410052,
+            "name": "[XẢ KHO - GIÁ ƯU ĐÃI] Dây Chia Tai Nghe 3.5 Ly, 3.5mm 2 in 1 out (1 đầu hỗ trợ Mic, 1 đầu hỗ trợ tai nghe), Chuyên Dùng Hát Livestream, hát Karaoke thu âm Jack Dùng Cho Các Dòng Điện Thoại Android Tương Thích",
+            "category_path": "xa-kho-gia-uu-dai-day-chia-tai-nghe-35-ly-35mm-2-in-1-out-1-dau-ho-tro-mic-1-dau-ho-tro-tai-nghe-chuyen-dung-hat-livestream-hat-karaoke-thu-am-jack-dung-cho-cac-dong-dien-thoai-android-tuong-thich-118410052.html",
+            "image": "https://media3.scdn.vn/img4/2024/10_08/AJCXNmgWmnYqbZND0HeY_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 37000,
+            "default_price_max": 37000,
+            "sale_price_min": 28000,
+            "sale_price_max": 28000,
+            "sale_percent": 25,
+            "seller_admin_id": 975730,
+            "sku_user": "2819387288-1727844553100-0",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 975730,
+                "name": "Mạnh Tiến Audio",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {}
+        },
+        {
+            "id": 118410042,
+            "name": "[ƯU ĐÃI LỚN - GIÁ GIẢM LIỀN TAY] Loa Xách Tay Bluetooth Xdobo Truth, Chế Độ Led Hiện Đại, Kết Nối Bluetooth Nhanh Chóng, Công Nghệ Chống Nước IPX5",
+            "category_path": "uu-dai-lon-gia-giam-lien-tay-loa-xach-tay-bluetooth-xdobo-truth-che-do-led-hien-dai-ket-noi-bluetooth-nhanh-chong-cong-nghe-chong-nuoc-ipx5-118410042.html",
+            "image": "https://media3.scdn.vn/img4/2024/10_08/7jWFD9ItbDtJZOT89Ol6_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 5655000,
+            "default_price_max": 5655000,
+            "sale_price_min": 4350000,
+            "sale_price_max": 4350000,
+            "sale_percent": 24,
+            "seller_admin_id": 975730,
+            "sku_user": "2823303820-1728107698374-0",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 975730,
+                "name": "Mạnh Tiến Audio",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {}
+        },
+        {
+            "id": 118015270,
+            "name": "Thớt gỗ bếp Chef  hình chữ nhật 28x40x3,5 cm       Đặc điểm nổi bật - Được làm từ gỗ với ưu điểm hạn chế tối đa bị cong vênh, trầy xước. - Thớt được áp dụng các công nghệ xử lí hiện đại, mang lại cảm giác thoải mái khi sử dụng để sơ chế các loại thực",
+            "category_path": "thot-go-bep-chef-hinh-chu-nhat-28x40x3-5-cm-dac-diem-noi-bat-duoc-lam-tu-go-voi-uu-diem-han-che-toi-da-bi-cong-venh-tray-xuoc-thot-duoc-ap-dung-cac-cong-nghe-xu-li-hien-dai-mang-lai-cam-giac-thoai-mai-khi-su-dung-de-so-che-cac-loai-thuc-118015270.html",
+            "image": "https://media3.scdn.vn/img4/2024/09_12/RBHZ2zp26mtRN4evtsbx_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 158000,
+            "default_price_max": 158000,
+            "sale_price_min": 158000,
+            "sale_price_max": 158000,
+            "discount_app": 1,
+            "seller_admin_id": 888076,
+            "sku_user": "1523_118015270",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 888076,
+                "name": "Phu Tung Cong Nong Nghiep",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117691768,
+            "name": "Tai Nghe Chuyên Game V2000 3.5 Có Mic dài 2.5m âm thanh đa sắc giá cực sốc",
+            "category_path": "tai-nghe-chuyen-game-v2000-35-co-mic-dai-25m-am-thanh-da-sac-gia-cuc-soc-117691768.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_11/paT9MhyJjLwTfCAQmKda_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1165000,
+            "default_price_max": 1165000,
+            "sale_price_min": 582500,
+            "sale_price_max": 582500,
+            "sale_percent": 50,
+            "discount_app": 5,
+            "seller_admin_id": 984847,
+            "sku_user": "2352949495",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 984847,
+                "name": "Siêu Thị Giày Đẹp",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117691760,
+            "name": "Móc treo Tai Nghe, Giá Đỡ Tai nghe dán cạnh màn hình, cạnh bàn đa năng",
+            "category_path": "moc-treo-tai-nghe-gia-do-tai-nghe-da-n-ca-nh-ma-n-hi-nh-canh-ban-da-nang-117691760.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_11/vQEb7FcmSt27eXwDHJoN_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1017000,
+            "default_price_max": 1017000,
+            "sale_price_min": 508500,
+            "sale_price_max": 508500,
+            "sale_percent": 50,
+            "discount_app": 5,
+            "seller_admin_id": 984847,
+            "sku_user": "23216575497",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 984847,
+                "name": "Siêu Thị Giày Đẹp",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117689626,
+            "name": "Tai Nghe Chuyên Game V2000 3.5 Có Mic dài 2.5m âm thanh đa sắc giá cực sốc",
+            "category_path": "tai-nghe-chuyen-game-v2000-35-co-mic-dai-25m-am-thanh-da-sac-gia-cuc-soc-117689626.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_11/paT9MhyJjLwTfCAQmKda_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1165000,
+            "default_price_max": 1165000,
+            "sale_price_min": 1165000,
+            "sale_price_max": 1165000,
+            "discount_app": 5,
+            "seller_admin_id": 988081,
+            "sku_user": "2352949495",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988081,
+                "name": "Bách Hóa Onnline",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "installment",
+                    "text": "Trả góp 0%",
+                    "text_color": "#133096",
+                    "bg_color": "#f1f3f9",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/gj399CMo7lEnCO3fCiQ9.png"
+                }
+            ]
+        },
+        {
+            "id": 117689619,
+            "name": "Móc treo Tai Nghe, Giá Đỡ Tai nghe dán cạnh màn hình, cạnh bàn đa năng",
+            "category_path": "moc-treo-tai-nghe-gia-do-tai-nghe-da-n-ca-nh-ma-n-hi-nh-canh-ban-da-nang-117689619.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_11/vQEb7FcmSt27eXwDHJoN_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1017000,
+            "default_price_max": 1017000,
+            "sale_price_min": 1017000,
+            "sale_price_max": 1017000,
+            "discount_app": 5,
+            "seller_admin_id": 988081,
+            "sku_user": "23216575497",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988081,
+                "name": "Bách Hóa Onnline",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "installment",
+                    "text": "Trả góp 0%",
+                    "text_color": "#133096",
+                    "bg_color": "#f1f3f9",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/gj399CMo7lEnCO3fCiQ9.png"
+                }
+            ]
+        },
+        {
+            "id": 117685865,
+            "name": "Tai Nghe Chuyên Game V2000 3.5 Có Mic dài 2.5m âm thanh đa sắc giá cực sốc",
+            "category_path": "tai-nghe-chuyen-game-v2000-35-co-mic-dai-25m-am-thanh-da-sac-gia-cuc-soc-117685865.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_11/paT9MhyJjLwTfCAQmKda_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1165000,
+            "default_price_max": 1165000,
+            "sale_price_min": 1165000,
+            "sale_price_max": 1165000,
+            "discount_app": 5,
+            "seller_admin_id": 988127,
+            "sku_user": "2352949495",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988127,
+                "name": "Saleshop88",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "installment",
+                    "text": "Trả góp 0%",
+                    "text_color": "#133096",
+                    "bg_color": "#f1f3f9",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/gj399CMo7lEnCO3fCiQ9.png"
+                }
+            ]
+        },
+        {
+            "id": 117658320,
+            "name": "Tai Nghe Chuyên Game V2000 3.5 Có Mic dài 2.5m âm thanh đa sắc giá cực sốc",
+            "category_path": "tai-nghe-chuyen-game-v2000-35-co-mic-dai-25m-am-thanh-da-sac-gia-cuc-soc-117658320.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_11/paT9MhyJjLwTfCAQmKda_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1165000,
+            "default_price_max": 1165000,
+            "sale_price_min": 582500,
+            "sale_price_max": 582500,
+            "sale_percent": 50,
+            "discount_app": 5,
+            "seller_admin_id": 988232,
+            "sku_user": "2352949495",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988232,
+                "name": "Siêu Thị Dã Ngoại Du Lịch",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "installment",
+                    "text": "Trả góp 0%",
+                    "text_color": "#133096",
+                    "bg_color": "#f1f3f9",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/gj399CMo7lEnCO3fCiQ9.png"
+                }
+            ]
+        },
+        {
+            "id": 117658308,
+            "name": "Móc treo Tai Nghe, Giá Đỡ Tai nghe dán cạnh màn hình, cạnh bàn đa năng",
+            "category_path": "moc-treo-tai-nghe-gia-do-tai-nghe-da-n-ca-nh-ma-n-hi-nh-canh-ban-da-nang-117658308.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_11/vQEb7FcmSt27eXwDHJoN_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1017000,
+            "default_price_max": 1017000,
+            "sale_price_min": 508500,
+            "sale_price_max": 508500,
+            "sale_percent": 50,
+            "discount_app": 5,
+            "seller_admin_id": 988232,
+            "sku_user": "23216575497",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988232,
+                "name": "Siêu Thị Dã Ngoại Du Lịch",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "installment",
+                    "text": "Trả góp 0%",
+                    "text_color": "#133096",
+                    "bg_color": "#f1f3f9",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/gj399CMo7lEnCO3fCiQ9.png"
+                }
+            ]
+        },
+        {
+            "id": 117058527,
+            "name": "Tai nghe chụp tai Bluetooth thông minh không dây thế hệ mới [Ưu đãi giá]",
+            "category_path": "tai-nghe-chup-tai-bluetooth-thong-minh-khong-day-the-he-moi-uu-dai-gia-117058527.html",
+            "image": "https://media3.scdn.vn/img4/2024/06_22/W5xn7yKfwa1mCM3BWXXG_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 299000,
+            "default_price_max": 299000,
+            "sale_price_min": 199000,
+            "sale_price_max": 199000,
+            "sale_percent": 34,
+            "seller_admin_id": 987520,
+            "sku_user": "006",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 987520,
+                "name": "1978 Store",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Nghệ An",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 116242870,
+            "name": "Đai treo tay tam giác GIAHU-029 (Cái). Túi được thiết kế nhằm hổ trợ tay ở trạng thái nghĩ, đồng thời hỗ trợ sau chấn thương, gãy xương ở cẳng tay, khớp vai, cánh tay hoặc khuỷu tay đã được xử lý bó bột hoặc không.",
+            "category_path": "dai-treo-tay-tam-giac-giahu-029-cai-tui-duoc-thiet-ke-nham-ho-tro-tay-o-trang-thai-nghi-dong-thoi-ho-tro-sau-chan-thuong-gay-xuong-o-cang-tay-khop-vai-canh-tay-hoac-khuyu-tay-da-duoc-xu-ly-bo-bot-hoac-khong-116242870.html",
+            "image": "https://media3.scdn.vn/img4/2023/12_16/oxBL4RTuIDVSnWA1WKXX_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 32000,
+            "default_price_max": 32000,
+            "sale_price_min": 32000,
+            "sale_price_max": 32000,
+            "sold": 2,
+            "order_count_text": "2",
+            "seller_admin_id": 967797,
+            "sku_user": "daitreotamgiacgiahu-029",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 967797,
+                "name": "DRVIET6",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 114582099,
+            "name": "Bộ 8 Kẹp Giữ Dây Cáp Sạc / Tai Nghe USB Đa Năng Cho Xe Hơi",
+            "category_path": "bo-8-kep-giu-day-cap-sac-tai-nghe-usb-da-nang-cho-xe-hoi-114582099.html",
+            "image": "https://media3.scdn.vn/img4/2023/07_10/JcvMpEbJY7ToBOYeA7z1_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 24000,
+            "default_price_max": 24000,
+            "sale_price_min": 24000,
+            "sale_price_max": 24000,
+            "seller_admin_id": 613690,
+            "sku_user": "2172_114582099",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 613690,
+                "name": "PhụkiệnôtôAnhThắng",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 114363596,
+            "name": "combo 10 đôi găng tay vải chống tĩnh điện chống nhiệt nhẹ . phủ ngón PU chuyên dụng cho nghề cơ khí làm vườn nhà xưởng , phòng sạch .giá cực ưu đãi",
+            "category_path": "combo-10-doi-gang-tay-vai-chong-tinh-dien-chong-nhiet-nhe-phu-ngon-pu-chuyen-dung-cho-nghe-co-khi-lam-vuon-nha-xuong-phong-sach-gia-cuc-uu-dai-114363596.html",
+            "image": "https://media3.scdn.vn/img4/2023/06_14/rW3xd8rJGPs6wD6YbeNw_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 48000,
+            "default_price_max": 48000,
+            "sale_price_min": 48000,
+            "sale_price_max": 48000,
+            "sold": 2,
+            "order_count_text": "2",
+            "seller_admin_id": 979496,
+            "sku_user": "3035_114363596",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 979496,
+                "name": "Đồ bảo hộ Hưng Linh",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 1,
+                "star": 5
+            },
+            "options": {}
+        },
+        {
+            "id": 113098714,
+            "name": "(SĂN SALE) Tai nghe Bluetooth không dây Gaming JX30 TWS True Wireless cảm ứng chống nước pin trâu giá rẻ cho Android iOS - SHOP BÁN HÀNG UY TÍN",
+            "category_path": "san-sale-tai-nghe-bluetooth-khong-day-gaming-jx30-tws-true-wireless-cam-ung-chong-nuoc-pin-trau-gia-re-cho-android-ios-shop-ban-hang-uy-tin-113098714.html",
+            "image": "https://media3.scdn.vn/img4/2023/04_07/y3oBpsml7LuVmAaFpkiH_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 350000,
+            "default_price_max": 350000,
+            "sale_price_min": 350000,
+            "sale_price_max": 350000,
+            "seller_admin_id": 925931,
+            "sku_user": "SKU146-skk",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 925931,
+                "name": "TỔNG KHO PHỤ KIỆN SỐ 1",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 113098696,
+            "name": "(SĂN SALE) Tai nghe Bluetooth không dây Gaming H03 TWS 5.3  True Wireless cảm ứng chống nước pin trâu giá rẻ cho Android iOS - SHOP BÁN HÀNG UY TÍN",
+            "category_path": "san-sale-tai-nghe-bluetooth-khong-day-gaming-h03-tws-53-true-wireless-cam-ung-chong-nuoc-pin-trau-gia-re-cho-android-ios-shop-ban-hang-uy-tin-113098696.html",
+            "image": "https://media3.scdn.vn/img4/2023/04_07/D3ilNTjbrH6jZUw9IHFf_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 399000,
+            "default_price_max": 399000,
+            "sale_price_min": 399000,
+            "sale_price_max": 399000,
+            "seller_admin_id": 925931,
+            "sku_user": "SKU13-cpv",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 925931,
+                "name": "TỔNG KHO PHỤ KIỆN SỐ 1",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 113098297,
+            "name": "(SĂN SALE) Tai nghe Bluetooth không dây Gaming AMOI K8 TWS True Wireless cảm ứng chống nước pin trâu giá rẻ cho Android iOS - SHOP BÁN HÀNG UY TÍN",
+            "category_path": "san-sale-tai-nghe-bluetooth-khong-day-gaming-amoi-k8-tws-true-wireless-cam-ung-chong-nuoc-pin-trau-gia-re-cho-android-ios-shop-ban-hang-uy-tin-113098297.html",
+            "image": "https://media3.scdn.vn/img4/2023/04_07/swNtOafHEdLeoaF6F9rL_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 320000,
+            "default_price_max": 320000,
+            "sale_price_min": 320000,
+            "sale_price_max": 320000,
+            "seller_admin_id": 925931,
+            "sku_user": "0rq-SKU142",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 925931,
+                "name": "TỔNG KHO PHỤ KIỆN SỐ 1",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 113098026,
+            "name": "(SĂN SALE) Tai nghe Bluetooth không dây Y80 TWS 5.1  True Wireless cảm ứng chống nước pin trâu giá rẻ cho Android iOS - SHOP BÁN HÀNG UY TÍN",
+            "category_path": "san-sale-tai-nghe-bluetooth-khong-day-y80-tws-51-true-wireless-cam-ung-chong-nuoc-pin-trau-gia-re-cho-android-ios-shop-ban-hang-uy-tin-113098026.html",
+            "image": "https://media3.scdn.vn/img4/2023/04_07/f6YTGlYD4c89ggWGqE4G_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 200000,
+            "default_price_max": 200000,
+            "sale_price_min": 200000,
+            "sale_price_max": 200000,
+            "seller_admin_id": 925931,
+            "sku_user": "1220",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 925931,
+                "name": "TỔNG KHO PHỤ KIỆN SỐ 1",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 113098001,
+            "name": "(SĂN SALE) Tai nghe Bluetooth không dây Gaming G9s TWS 5.1  True Wireless cảm ứng chống nước pin trâu giá rẻ cho Android iOS - SHOP BÁN HÀNG UY TÍN",
+            "category_path": "san-sale-tai-nghe-bluetooth-khong-day-gaming-g9s-tws-51-true-wireless-cam-ung-chong-nuoc-pin-trau-gia-re-cho-android-ios-shop-ban-hang-uy-tin-113098001.html",
+            "image": "https://media3.scdn.vn/img4/2023/04_07/8su2APmFZs7cBxtOIoND_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 230000,
+            "default_price_max": 230000,
+            "sale_price_min": 230000,
+            "sale_price_max": 230000,
+            "seller_admin_id": 925931,
+            "sku_user": "2930",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 925931,
+                "name": "TỔNG KHO PHỤ KIỆN SỐ 1",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 113097987,
+            "name": "(SĂN SALE) Tai nghe bluetooth gaming AMOI K8 giá rẻ độ trễ cực thấp, Tai nghe bluetooth không dây tws âm bass to, pin trâu - SHOP BÁN HÀNG UY TÍN",
+            "category_path": "san-sale-tai-nghe-bluetooth-gaming-amoi-k8-gia-re-do-tre-cuc-thap-tai-nghe-bluetooth-khong-day-tws-am-bass-to-pin-trau-shop-ban-hang-uy-tin-113097987.html",
+            "image": "https://media3.scdn.vn/img4/2023/04_07/KB1BwkcSWnrH3ImaMmBR_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 320000,
+            "default_price_max": 320000,
+            "sale_price_min": 320000,
+            "sale_price_max": 320000,
+            "seller_admin_id": 925931,
+            "sku_user": "9070",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 925931,
+                "name": "TỔNG KHO PHỤ KIỆN SỐ 1",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 113096203,
+            "name": "(SĂN SALE) Tai nghe Bluetooth không dây Gaming M10 TWS 5.2  True Wireless cảm ứng chống nước pin trâu giá rẻ cho Android iOS - SHOP BÁN HÀNG UY TÍN",
+            "category_path": "san-sale-tai-nghe-bluetooth-khong-day-gaming-m10-tws-52-true-wireless-cam-ung-chong-nuoc-pin-trau-gia-re-cho-android-ios-shop-ban-hang-uy-tin-113096203.html",
+            "image": "https://media3.scdn.vn/img4/2023/04_07/t4IkWAglILM6JDeN9Qgm_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 250000,
+            "default_price_max": 250000,
+            "sale_price_min": 250000,
+            "sale_price_max": 250000,
+            "seller_admin_id": 925931,
+            "sku_user": "4be-SKU415",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 925931,
+                "name": "TỔNG KHO PHỤ KIỆN SỐ 1",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 112739712,
+            "name": "GIÁ ĐỠ GẤP GỌN KIÊM ĐẾ SẠC KHÔNG DÂY SẠC NHANH 22W REMAX RP-W90 ĐA NĂNG 3 IN 1 ĐIỆN THOẠI, TAI NGHE, ĐỒNG HỒ THÔNG MINH (RP-W90)",
+            "category_path": "gia-do-gap-gon-kiem-de-sac-khong-day-sac-nhanh-22w-remax-rp-w90-da-nang-3-in-1-dien-thoai-tai-nghe-dong-ho-thong-minh-rp-w90-112739712.html",
+            "image": "https://media3.scdn.vn/img4/2023/03_27/vjjEysG18VPz0alLOyEU_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 499000,
+            "default_price_max": 499000,
+            "sale_price_min": 499000,
+            "sale_price_max": 499000,
+            "seller_admin_id": 604560,
+            "sku_user": "remax RP-W90",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 604560,
+                "name": "Phụ Kiện Hà Chi",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 100936292,
+            "name": "(Giá tốt) Tai nghe không dây Bluethooth công nghệ dẫn truyền âm thanh qua xương không cần nhét vào tai mẫu mới bản đặc biệt đeo lâu không gây đau",
+            "category_path": "gia-tot-tai-nghe-khong-day-bluethooth-cong-nghe-dan-truyen-am-thanh-qua-xuong-khong-can-nhet-vao-tai-mau-moi-ban-dac-biet-deo-lau-khong-gay-dau-100936292.html",
+            "image": "https://media3.scdn.vn/img4/2022/09_05/D1zaXenyb1vIbGjU879h_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 398000,
+            "default_price_max": 398000,
+            "sale_price_min": 199000,
+            "sale_price_max": 199000,
+            "sale_percent": 50,
+            "sold": 14,
+            "order_count_text": "14",
+            "seller_admin_id": 625709,
+            "sku_user": "3237_100936292",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 625709,
+                "name": "HT3",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Thanh Hóa",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 5,
+                "star": 4.6
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 96317164,
+            "name": "Bóp đựng tai nghe, cáp sạc, vật dụng đa năng nhỏ gọn siêu tiện lợi, giá rẻ.",
+            "category_path": "bop-dung-tai-nghe-cap-sac-vat-dung-da-nang-nho-gon-sieu-tien-loi-gia-re-96317164.html",
+            "image": "https://media3.scdn.vn/img4/2022/07_17/ohQe50xFikRGzvR1lQKB_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 35000,
+            "default_price_max": 35000,
+            "sale_price_min": 35000,
+            "sale_price_max": 35000,
+            "seller_admin_id": 959940,
+            "sku_user": "BOP1",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 959940,
+                "name": "ASound",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 94075381,
+            "name": "ÍCH NHĨ ĐAN - Hose - Người bị điếc, nặng tai, ù tai, giảm thính giác, tai nghe không rõ(Lọ 60 viên nang) h",
+            "category_path": "ich-nhi-dan-hose-nguoi-bi-diec-nang-tai-u-tai-giam-thinh-giac-tai-nghe-khong-rolo-60-vien-nang-h-94075381.html",
+            "image": "https://media3.scdn.vn/img4/2022/01_10/govYp6qlVFpATuseuQWL_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 139000,
+            "default_price_max": 139000,
+            "sale_price_min": 139000,
+            "sale_price_max": 139000,
+            "seller_admin_id": 946616,
+            "sku_user": "tu469gfj",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 946616,
+                "name": "Nhà Thuốc Trung Tâm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hưng Yên",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 94075379,
+            "name": "ÍCH NHĨ ĐAN - Hose - Người bị điếc, nặng tai, ù tai, giảm thính giác, tai nghe không rõ(Lọ 60 viên nang) h",
+            "category_path": "ich-nhi-dan-hose-nguoi-bi-diec-nang-tai-u-tai-giam-thinh-giac-tai-nghe-khong-rolo-60-vien-nang-h-94075379.html",
+            "image": "https://media3.scdn.vn/img4/2022/01_10/govYp6qlVFpATuseuQWL_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 139000,
+            "default_price_max": 139000,
+            "sale_price_min": 139000,
+            "sale_price_max": 139000,
+            "seller_admin_id": 955579,
+            "sku_user": "tu467gfj",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 955579,
+                "name": "Nhà Thuốc Vàng",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hưng Yên",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 94075377,
+            "name": "ÍCH NHĨ ĐAN - Hose - Người bị điếc, nặng tai, ù tai, giảm thính giác, tai nghe không rõ(Lọ 60 viên nang) h",
+            "category_path": "ich-nhi-dan-hose-nguoi-bi-diec-nang-tai-u-tai-giam-thinh-giac-tai-nghe-khong-rolo-60-vien-nang-h-94075377.html",
+            "image": "https://media3.scdn.vn/img4/2022/01_10/govYp6qlVFpATuseuQWL_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 139000,
+            "default_price_max": 139000,
+            "sale_price_min": 139000,
+            "sale_price_max": 139000,
+            "seller_admin_id": 956591,
+            "sku_user": "tu466gfj",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 956591,
+                "name": "Nhà Thuốc Gia An",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hưng Yên",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 94075375,
+            "name": "ÍCH NHĨ ĐAN - Hose - Người bị điếc, nặng tai, ù tai, giảm thính giác, tai nghe không rõ(Lọ 60 viên nang) h",
+            "category_path": "ich-nhi-dan-hose-nguoi-bi-diec-nang-tai-u-tai-giam-thinh-giac-tai-nghe-khong-rolo-60-vien-nang-h-94075375.html",
+            "image": "https://media3.scdn.vn/img4/2022/01_10/govYp6qlVFpATuseuQWL_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 139000,
+            "default_price_max": 139000,
+            "sale_price_min": 139000,
+            "sale_price_max": 139000,
+            "sold": 3,
+            "order_count_text": "3",
+            "seller_admin_id": 956614,
+            "sku_user": "tu464gfj",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 956614,
+                "name": "Nhà Thuốc Việt Mỹ",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hưng Yên",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 1,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 93919887,
+            "name": "Kim Thính hộp 2 lọ 90 viên tặng thêm 1 hộp 30 viên giúp tăng cường tuần hoàn lưu thông khí huyết tăng sức khỏe thính giác hỗ trợ giảm nghe kém dẫn truyền tiếp nhận ở người trẻ tuổi người già ù tai chóng mặt đau đầu kéo dài đau tai .",
+            "category_path": "kim-thinh-hop-2-lo-90-vien-tang-them-1-hop-30-vien-giup-tang-cuong-tuan-hoan-luu-thong-khi-huyet-tang-suc-khoe-thinh-giac-ho-tro-giam-nghe-kem-dan-truyen-tiep-nhan-o-nguoi-tre-tuoi-nguoi-gia-u-tai-chong-mat-dau-dau-keo-dai-dau-tai-93919887.html",
+            "image": "https://media3.scdn.vn/img4/2021/05_11/4zKPaDmWlk7tKTTqbnG5_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1220000,
+            "default_price_max": 1220000,
+            "sale_price_min": 1220000,
+            "sale_price_max": 1220000,
+            "seller_admin_id": 956589,
+            "sku_user": "kg105jl",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 956589,
+                "name": "Nhà Thuốc Đức Nghiệp",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hưng Yên",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 93919886,
+            "name": "Kim Thính hộp 2 lọ 90 viên tặng thêm 1 hộp 30 viên giúp tăng cường tuần hoàn lưu thông khí huyết tăng sức khỏe thính giác hỗ trợ giảm nghe kém dẫn truyền tiếp nhận ở người trẻ tuổi người già ù tai chóng mặt đau đầu kéo dài đau tai .",
+            "category_path": "kim-thinh-hop-2-lo-90-vien-tang-them-1-hop-30-vien-giup-tang-cuong-tuan-hoan-luu-thong-khi-huyet-tang-suc-khoe-thinh-giac-ho-tro-giam-nghe-kem-dan-truyen-tiep-nhan-o-nguoi-tre-tuoi-nguoi-gia-u-tai-chong-mat-dau-dau-keo-dai-dau-tai-93919886.html",
+            "image": "https://media3.scdn.vn/img4/2021/05_11/4zKPaDmWlk7tKTTqbnG5_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1220000,
+            "default_price_max": 1220000,
+            "sale_price_min": 1220000,
+            "sale_price_max": 1220000,
+            "seller_admin_id": 955579,
+            "sku_user": "kg104jl",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 955579,
+                "name": "Nhà Thuốc Vàng",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hưng Yên",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 93919885,
+            "name": "Kim Thính hộp 2 lọ 90 viên tặng thêm 1 hộp 30 viên giúp tăng cường tuần hoàn lưu thông khí huyết tăng sức khỏe thính giác hỗ trợ giảm nghe kém dẫn truyền tiếp nhận ở người trẻ tuổi người già ù tai chóng mặt đau đầu kéo dài đau tai .",
+            "category_path": "kim-thinh-hop-2-lo-90-vien-tang-them-1-hop-30-vien-giup-tang-cuong-tuan-hoan-luu-thong-khi-huyet-tang-suc-khoe-thinh-giac-ho-tro-giam-nghe-kem-dan-truyen-tiep-nhan-o-nguoi-tre-tuoi-nguoi-gia-u-tai-chong-mat-dau-dau-keo-dai-dau-tai-93919885.html",
+            "image": "https://media3.scdn.vn/img4/2021/05_11/4zKPaDmWlk7tKTTqbnG5_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1220000,
+            "default_price_max": 1220000,
+            "sale_price_min": 1220000,
+            "sale_price_max": 1220000,
+            "seller_admin_id": 956591,
+            "sku_user": "kg103jl",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 956591,
+                "name": "Nhà Thuốc Gia An",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hưng Yên",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 93919883,
+            "name": "Kim Thính hộp 2 lọ 90 viên tặng thêm 1 hộp 30 viên giúp tăng cường tuần hoàn lưu thông khí huyết tăng sức khỏe thính giác hỗ trợ giảm nghe kém dẫn truyền tiếp nhận ở người trẻ tuổi người già ù tai chóng mặt đau đầu kéo dài đau tai .",
+            "category_path": "kim-thinh-hop-2-lo-90-vien-tang-them-1-hop-30-vien-giup-tang-cuong-tuan-hoan-luu-thong-khi-huyet-tang-suc-khoe-thinh-giac-ho-tro-giam-nghe-kem-dan-truyen-tiep-nhan-o-nguoi-tre-tuoi-nguoi-gia-u-tai-chong-mat-dau-dau-keo-dai-dau-tai-93919883.html",
+            "image": "https://media3.scdn.vn/img4/2021/05_11/4zKPaDmWlk7tKTTqbnG5_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1220000,
+            "default_price_max": 1220000,
+            "sale_price_min": 1220000,
+            "sale_price_max": 1220000,
+            "seller_admin_id": 956614,
+            "sku_user": "kg101jl",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 956614,
+                "name": "Nhà Thuốc Việt Mỹ",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hưng Yên",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 72908543,
+            "name": "[Zalo giá tốt] [CẮT LỖ] Sale Kịch Gía TAI NGHE GIÁ RẺ INPODS 12 Tai Nghe BLUETOOTH",
+            "category_path": "zalo-gia-tot-cat-lo-sale-kich-gia-tai-nghe-gia-re-inpods-12-tai-nghe-bluetooth-72908543.html",
+            "image": "https://media3.scdn.vn/img4/2022/03_04/hI81ceWXDs7M5iADKgSx_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 122550,
+            "default_price_max": 122550,
+            "sale_price_min": 122550,
+            "sale_price_max": 122550,
+            "seller_admin_id": 867893,
+            "sku_user": "TR1699AU",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 867893,
+                "name": "Laptop10x",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 71141583,
+            "name": "SALE - Tai nghe chụp tai Odssey OD-112 - jack 3.5mm audio và mic dùng cho sinh viên, văn phòng ,gia đình giá rẻ",
+            "category_path": "sale-tai-nghe-chup-tai-odssey-od-112-jack-35mm-audio-va-mic-dung-cho-sinh-vien-van-phong-gia-dinh-gia-re-71141583.html",
+            "image": "https://media3.scdn.vn/img4/2024/05_19/lnujRJEqrORu124KBZDD_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 60000,
+            "default_price_max": 60000,
+            "sale_price_min": 60000,
+            "sale_price_max": 60000,
+            "seller_admin_id": 118460,
+            "sku_user": "pi2-SKU45",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 118460,
+                "name": "Thiết Bị Kích Sóng Wifi",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 70310059,
+            "name": "Cửa nhựa ABS Hàn Quốc chống ồn, chống cháy, chống nước theo công nghệ hiện đại - Mua ở Saigondoor giá cả ưu đãi",
+            "category_path": "cua-nhua-abs-han-quoc-chong-on-chong-chay-chong-nuoc-theo-cong-nghe-hien-dai-mua-o-saigondoor-gia-ca-uu-dai-70310059.html",
+            "image": "https://media3.scdn.vn/img4/2021/12_14/0HMVJlcTOYWYoZeJKnJP_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 3000000,
+            "default_price_max": 3000000,
+            "sale_price_min": 3000000,
+            "sale_price_max": 3000000,
+            "has_video": true,
+            "seller_admin_id": 939357,
+            "sku_user": "010",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 939357,
+                "name": "Saigondoorcantho",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Cần Thơ",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 48599807,
+            "name": "[ Chính hãng ] Kính Thực Tế Ảo VR Shinecon Phiên Bản 6.0 Hỗ Trợ Tai Nghe G06EB kiểu dáng sang trọng, hiện đại, nhiều tính năng ưu việt",
+            "category_path": "chinh-hang-kinh-thuc-te-ao-vr-shinecon-phien-ban-60-ho-tro-tai-nghe-g06eb-kieu-dang-sang-trong-hien-dai-nhieu-tinh-nang-uu-viet-48599807.html",
+            "image": "https://media3.scdn.vn/img4/2021/08_15/VTURR7ExZSB9oXyLYP93_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 569000,
+            "default_price_max": 569000,
+            "sale_price_min": 569000,
+            "sale_price_max": 569000,
+            "seller_admin_id": 131027,
+            "sku_user": "2099_48599807",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 131027,
+                "name": "BÌNH GIANG",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 26091846,
+            "name": "[Freeship] Lenovo Mini 10 nhiều màu máy đẹp CPU 2Ghz 10in nhỏ gọnLaptop chính hãng đẹp giá rẻ giải trí ,facebook,zalo,Youtube(có Free Ship Có  MÃ Giảm Giá Có Quà Tặng 0đ)",
+            "category_path": "freeship-lenovo-mini-10-nhieu-mau-may-dep-cpu-2ghz-10in-nho-gonlaptop-chinh-hang-dep-gia-re-giai-tri-facebook-zalo-youtubeco-free-ship-co-ma-giam-gia-co-qua-tang-0d-26091846.html",
+            "image": "https://media3.scdn.vn/img4/2020/02_19/0vY4ITKI0u09RY7LXvMn_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 2000000,
+            "default_price_max": 2000000,
+            "sale_price_min": 2000000,
+            "sale_price_max": 2000000,
+            "sold": 1,
+            "order_count_text": "1",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "mini 10 chính hãng giá rẻ",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 26090792,
+            "name": "[Freeship] win10 i5 mỏng nhẹ 1.3kg  FULLHD IPS CẢM ỨNG TAY Laptop Lenovo Thinkpad.- Ram 4G 320G Có HDMI WEBCAM nhẹ đẹp chính hãng giá rẻ(có Free Ship Có  MÃ Giảm Giá Có Quà Tặng 0đ)",
+            "category_path": "freeship-win10-i5-mong-nhe-13kg-fullhd-ips-cam-ung-tay-laptop-lenovo-thinkpad-ram-4g-320g-co-hdmi-webcam-nhe-dep-chinh-hang-gia-reco-free-ship-co-ma-giam-gia-co-qua-tang-0d-26090792.html",
+            "image": "https://media3.scdn.vn/img4/2020/12_03/vewqKWfDhNydzyjuqlEa_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 5900000,
+            "default_price_max": 5900000,
+            "sale_price_min": 5900000,
+            "sale_price_max": 5900000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop chính hãng giá rẻ x2",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 26090490,
+            "name": "[Freeship] Lenovo Thinkpad. L412 i5 520 4G SSD 120G(có Free Ship Có  MÃ Giảm Giá Có Quà Tặng 0đ) [Thanh lý Giá Rẻ]",
+            "category_path": "freeship-lenovo-thinkpad-l412-i5-520-4g-ssd-120gco-free-ship-co-ma-giam-gia-co-qua-tang-0d-thanh-ly-gia-re-26090490.html",
+            "image": "https://media3.scdn.vn/img4/2020/02_19/l7LaIEcaa5HMf5mq1ley_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 3500000,
+            "default_price_max": 3500000,
+            "sale_price_min": 3500000,
+            "sale_price_max": 3500000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop lenovo l412",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 24940558,
+            "name": "Giá Treo Tai Nghe Đa Năng",
+            "category_path": "gia-treo-tai-nghe-da-nang-24940558.html",
+            "image": "https://media3.scdn.vn/img4/2023/03_07/Nk4eGdtvikhW93JT76gk_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 55000,
+            "default_price_max": 55000,
+            "sale_price_min": 55000,
+            "sale_price_max": 55000,
+            "seller_admin_id": 716599,
+            "sku_user": "DHDMIL1",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 716599,
+                "name": "Quag HB",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Nam Định",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 71290721,
+            "name": "SALE - Tai nghe chụp tai Odssey OD-112 - jack 3.5mm audio và mic dùng cho sinh viên, văn phòng ,gia đình giá rẻ",
+            "category_path": "sale-tai-nghe-chup-tai-odssey-od-112-jack-35mm-audio-va-mic-dung-cho-sinh-vien-van-phong-gia-dinh-gia-re-71290721.html",
+            "image": "https://media3.scdn.vn/img4/2024/05_17/4VZMIqKz0RqJ47JCdgXx_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 60000,
+            "default_price_max": 60000,
+            "sale_price_min": 60000,
+            "sale_price_max": 60000,
+            "seller_admin_id": 14023,
+            "sku_user": "t08-SKU130",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 14023,
+                "name": "PHỤ KIỆN THIẾT BỊ SỐ",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 69768467,
+            "name": "SALE - Tai nghe chụp tai Odssey OD-112 - jack 3.5mm audio và mic dùng cho sinh viên, văn phòng ,gia đình giá rẻ",
+            "category_path": "sale-tai-nghe-chup-tai-odssey-od-112-jack-35mm-audio-va-mic-dung-cho-sinh-vien-van-phong-gia-dinh-gia-re-69768467.html",
+            "image": "https://media3.scdn.vn/img4/2024/05_17/Yh1zRvzRdJt7Kv2jzztu_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 60000,
+            "default_price_max": 60000,
+            "sale_price_min": 60000,
+            "sale_price_max": 60000,
+            "seller_admin_id": 151986,
+            "sku_user": "m86-SKU488",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 151986,
+                "name": "Shop Gaming Gears",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 69517198,
+            "name": "JF F135 Hộp đựng dây sạc tai nghe đa năng 2 in 1 vừa đựng dây vừa làm giá đỡ điện thoại",
+            "category_path": "jf-f135-hop-dung-day-sac-tai-nghe-da-nang-2-in-1-vua-dung-day-vua-lam-gia-do-dien-thoai-69517198.html",
+            "image": "https://media3.scdn.vn/img4/2021/11_29/aCgOg8KyNktwNXeAkXJz_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 35000,
+            "default_price_max": 35000,
+            "sale_price_min": 35000,
+            "sale_price_max": 35000,
+            "discount_app": 2,
+            "seller_admin_id": 292231,
+            "sku_user": "1615272140-1638152670269-0",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 292231,
+                "name": "BimMart",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 45336856,
+            "name": "SALE - Tai nghe chụp tai Odssey OD-112 - jack 3.5mm audio và mic dùng cho sinh viên, văn phòng ,gia đình giá rẻ",
+            "category_path": "sale-tai-nghe-chup-tai-odssey-od-112-jack-35mm-audio-va-mic-dung-cho-sinh-vien-van-phong-gia-dinh-gia-re-45336856.html",
+            "image": "https://media3.scdn.vn/img4/2024/05_17/fhNEK60Dd2rrtvidG3NG_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 60000,
+            "default_price_max": 60000,
+            "sale_price_min": 60000,
+            "sale_price_max": 60000,
+            "seller_admin_id": 421855,
+            "sku_user": "2550_45336856",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 421855,
+                "name": "GIẦY NHẬP KHẨU GIÁ TẠI KHO",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 41345373,
+            "name": "Tai Nghe Bluetooth giá sale",
+            "category_path": "tai-nghe-bluetooth-gia-sale-41345373.html",
+            "image": "https://media3.scdn.vn/img4/2021/03_09/MpcH0J7LFjbhC7SzOY1T_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 70000,
+            "default_price_max": 70000,
+            "sale_price_min": 45000,
+            "sale_price_max": 45000,
+            "sale_percent": 36,
+            "seller_admin_id": 240282,
+            "sku_user": "TNBLT",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 240282,
+                "name": "MT Tây Bắc",
+                "status": 2,
+                "ware_house_region_name": "Lào Cai",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 39321572,
+            "name": "[XẢ HÀNG] Tai Nghe Bluetooth Inposd 12 giá rẻ màu thời trang tiện lời không đau tai",
+            "category_path": "xa-hang-tai-nghe-bluetooth-inposd-12-gia-re-mau-thoi-trang-tien-loi-khong-dau-tai-39321572.html",
+            "image": "https://media3.scdn.vn/img4/2021/01_05/bMfoac17vWHcVJ1Cho5j_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 149000,
+            "default_price_max": 149000,
+            "sale_price_min": 149000,
+            "sale_price_max": 149000,
+            "has_video": true,
+            "seller_admin_id": 867893,
+            "sku_user": "Inpods12giare",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 867893,
+                "name": "Laptop10x",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 38161727,
+            "name": "Tai nghe bluetooth M11, bluetooth 5.0, thiết kế xoay 270 độ đeo được cả 2 bên, dung lượng pin cực lớn, hỗ trợ nghe nhạc, đàm thoại chất lượng cao, thiết kế thông minh ôm sát vành tai, cảm giác đéo thoải mái, không gây đau tai",
+            "category_path": "tai-nghe-bluetooth-m11-bluetooth-50-thiet-ke-xoay-270-do-deo-duoc-ca-2-ben-dung-luong-pin-cuc-lon-ho-tro-nghe-nhac-dam-thoai-chat-luong-cao-thiet-ke-thong-minh-om-sat-vanh-tai-cam-giac-deo-thoai-mai-khong-gay-dau-tai-38161727.html",
+            "image": "https://media3.scdn.vn/img4/2021/06_03/YaSMQcq3AWwS3a9HN42L_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 200000,
+            "default_price_max": 200000,
+            "sale_price_min": 149000,
+            "sale_price_max": 149000,
+            "sale_percent": 26,
+            "sold": 73,
+            "order_count_text": "73",
+            "discount_app": 2,
+            "seller_admin_id": 624827,
+            "sku_user": "tai nghe m11",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 624827,
+                "name": "Bách Hoá Online 18",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Nam Định",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 18,
+                "star": 4.7
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 37439974,
+            "name": "Dây cuốn tai nghe [Sale 1k - Giá hủy diệt] dây cuốn cáp sạc điện thoại nhiều màu sắc giúp bảo vệ cáp sạc và tai nghe",
+            "category_path": "day-cuon-tai-nghe-sale-1k-gia-huy-diet-day-cuon-cap-sac-dien-thoai-nhieu-mau-sac-giup-bao-ve-cap-sac-va-tai-nghe-37439974.html",
+            "image": "https://media3.scdn.vn/img4/2020/11_18/6pTrFas2USRnA4dppaR1_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 9000,
+            "default_price_max": 15000,
+            "sale_price_min": 6000,
+            "sale_price_max": 10000,
+            "sale_percent": 34,
+            "sold": 6,
+            "order_count_text": "6",
+            "has_video": true,
+            "seller_admin_id": 817322,
+            "sku_user": "Dây cuốn tai nghe",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 817322,
+                "name": "Phụ Kiện Aha Case",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 37083805,
+            "name": "Nút Nguồn Đa Năng Fami tặng kèm giá treo tai nghe tiện lợi cho phòng nét",
+            "category_path": "nut-nguon-da-nang-fami-tang-kem-gia-treo-tai-nghe-tien-loi-cho-phong-net-37083805.html",
+            "image": "https://media3.scdn.vn/img4/2020/11_05/4plnGxUifCwLQGyTnfYa_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 197000,
+            "default_price_max": 197000,
+            "sale_price_min": 197000,
+            "sale_price_max": 197000,
+            "seller_admin_id": 39681,
+            "sku_user": "gdfgf343",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 39681,
+                "name": "Fastwayshop",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 33044328,
+            "name": "Tai Nghe Bluetooth Không Dây Đa Năng Cho Mọi Điện Thoại Giá Sỉ Hàng",
+            "category_path": "tai-nghe-bluetooth-khong-day-da-nang-cho-moi-dien-thoai-gia-si-hang-33044328.html",
+            "image": "https://media3.scdn.vn/img4/2020/09_01/fhxDgWSGYeEKuyWI3ygu_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 41000,
+            "default_price_max": 41000,
+            "sale_price_min": 41000,
+            "sale_price_max": 41000,
+            "sold": 3,
+            "order_count_text": "3",
+            "seller_admin_id": 826066,
+            "sku_user": "710019924",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 826066,
+                "name": "thailanmarket",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 1,
+                "star": 2
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 32987000,
+            "name": "[Freeship] IBM. Lenovo Thinkpad. T440s i7 4600 14in FullHD IPS RAM 8GB SSD 256GB w10 laptop chính hãng giá rẻ bền bỉ nguyên zin 100(có Free Ship Có  MÃ Giảm Giá Có Quà Tặng 0đ)",
+            "category_path": "freeship-ibm-lenovo-thinkpad-t440s-i7-4600-14in-fullhd-ips-ram-8gb-ssd-256gb-w10-laptop-chinh-hang-gia-re-ben-bi-nguyen-zin-100co-free-ship-co-ma-giam-gia-co-qua-tang-0d-32987000.html",
+            "image": "https://media3.scdn.vn/img4/2020/08_29/2SVx6HOLc0951FjAb65y_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 9999000,
+            "default_price_max": 9999000,
+            "sale_price_min": 9999000,
+            "sale_price_max": 9999000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "IBM. Lenovo Thinkpad. T450s i7 5600 14in Full",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 27075863,
+            "name": "Tai Nghe Bluetooth Phiên Dịch đa quốc gia",
+            "category_path": "tai-nghe-bluetooth-phien-dich-da-quoc-gia-27075863.html",
+            "image": "https://media3.scdn.vn/img4/2020/03_12/Pw5gU6k3G65egMWosy3q_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 1269000,
+            "default_price_max": 1269000,
+            "sale_price_min": 1269000,
+            "sale_price_max": 1269000,
+            "sold": 1,
+            "order_count_text": "1",
+            "seller_admin_id": 253949,
+            "sku_user": "Tai Nghe Bluetooth Phiên Dịch",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 253949,
+                "name": "SmartShop1688",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 26111019,
+            "name": "[Freeship] LENOVO Z470 CORE I5-2450M RAM 4GB HDD 320GB (có Free Ship Có  MÃ Giảm Giá Có Quà Tặng 0đ) [Thanh lý Giá Rẻ]",
+            "category_path": "freeship-lenovo-z470-core-i5-2450m-ram-4gb-hdd-320gb-co-free-ship-co-ma-giam-gia-co-qua-tang-0d-thanh-ly-gia-re-26111019.html",
+            "image": "https://media3.scdn.vn/img4/2020/02_20/02qbbmlOYjXfp8Ey4zzn_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 3900000,
+            "default_price_max": 3900000,
+            "sale_price_min": 3900000,
+            "sale_price_max": 3900000,
+            "sold": 3,
+            "order_count_text": "3",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "lapotp lenovo z470",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 26091011,
+            "name": "[Freeship] Laptop Lenovo Thinkpad. X230 Core i5-3320M 8 GB SSD (có Free Ship Có  MÃ Giảm Giá Có Quà Tặng 0đ) [Thanh lý Giá Rẻ]",
+            "category_path": "freeship-laptop-lenovo-thinkpad-x230-core-i5-3320m-8-gb-ssd-co-free-ship-co-ma-giam-gia-co-qua-tang-0d-thanh-ly-gia-re-26091011.html",
+            "image": "https://media3.scdn.vn/img4/2020/02_19/kHSheaTVbQZAcHSnClkE_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 5500000,
+            "default_price_max": 5500000,
+            "sale_price_min": 5500000,
+            "sale_price_max": 5500000,
+            "sold": 2,
+            "order_count_text": "2",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "lenovo x230",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 26090191,
+            "name": "[Freeship] Laptop Lenovo T460 L460 i5 8G 500G Core I5 4300 Ram 4G(có Free Ship Có  MÃ Giảm Giá Có Quà Tặng 0đ) [Thanh lý Giá Rẻ]",
+            "category_path": "freeship-laptop-lenovo-t460-l460-i5-8g-500g-core-i5-4300-ram-4gco-free-ship-co-ma-giam-gia-co-qua-tang-0d-thanh-ly-gia-re-26090191.html",
+            "image": "https://media3.scdn.vn/img4/2020/02_19/chpI78VMDEzJ1nw8VpCX_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 6999000,
+            "default_price_max": 6999000,
+            "sale_price_min": 6999000,
+            "sale_price_max": 6999000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop Lenovo l460",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 7003975,
+            "name": "[Freeship] lenovo Thinkpad. L520 Core i5 2430 RAM 320G 15.6 Photoshop, game Fifa Laptop bền đẹp nguyên zin mạnh mẽ  chính hãng giá rẻ nguyên zin (có Free Ship Có  MÃ Giảm Giá Có Quà Tặng 0đ)",
+            "category_path": "freeship-lenovo-thinkpad-l520-core-i5-2430-ram-320g-156-photoshop-game-fifa-laptop-ben-dep-nguyen-zin-manh-me-chinh-hang-gia-re-nguyen-zin-co-free-ship-co-ma-giam-gia-co-qua-tang-0d-7003975.html",
+            "image": "https://media3.scdn.vn/img2/2017/9_16/xqiiOo_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 3999000,
+            "default_price_max": 3999000,
+            "sale_price_min": 3999000,
+            "sale_price_max": 3999000,
+            "sold": 3,
+            "order_count_text": "3",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop lenovo L520 4G 320",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        }
+    ]
+}

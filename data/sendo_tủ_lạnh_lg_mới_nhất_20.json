@@ -1,0 +1,756 @@
+{
+    "total_products": 20,
+    "products": [
+        {
+            "id": 117026693,
+            "name": "Quạt tản nhiệt làm mát tủ lạnh LG DC 12V 4 dây mới chính hãng",
+            "category_path": "quat-tan-nhiet-lam-mat-tu-lanh-lg-dc-12v-4-day-moi-chinh-hang-117026693.html",
+            "image": "https://media3.scdn.vn/img4/2024/06_08/a81xdaulNHXbjs8hRCi5_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 250000,
+            "default_price_max": 250000,
+            "sale_price_min": 250000,
+            "sale_price_max": 250000,
+            "seller_admin_id": 509853,
+            "sku_user": "AJ826",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 115621520,
+            "name": "Gas lạnh tủ lạnh oto R134a 13,6Kg - Môi chất lạnh nạp ga ô tô R134 hãng SUPON loại 134 13.6kg Mới",
+            "category_path": "gas-lanh-tu-lanh-oto-r134a-13-6kg-moi-chat-lanh-nap-ga-o-to-r134-hang-supon-loai-134-136kg-moi-115621520.html",
+            "image": "https://media3.scdn.vn/img4/2023/09_09/c33BPDZllgI2vXTFHUju_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1815000,
+            "default_price_max": 1815000,
+            "sale_price_min": 1815000,
+            "sale_price_max": 1815000,
+            "seller_admin_id": 449118,
+            "sku_user": "GAS14",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 449118,
+                "name": "Vật tư điện lạnh Hồng Kính",
+                "status": 2,
+                "ware_house_region_name": "Bắc Ninh",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 114248318,
+            "name": "Bộ 4 cái ĐẾ CHỐNG RUNG MÁY GIẶT - TỦ LẠNH ắc mọi nhà đang cần ạ 23k/ bộ 4 cái- Chất liệu cao su tự nhiên, mạnh mẽ chống rung và giảm tiếng ồn.- Chống rung, trơn trượt.- Thiết kế phù hợp với mọi loại máy giặt.- Kích thước: Đường kính:",
+            "category_path": "bo-4-cai-de-chong-rung-may-giat-tu-lanh-ac-moi-nha-dang-can-a-23k-bo-4-cai-chat-lieu-cao-su-tu-nhien-manh-me-chong-rung-va-giam-tieng-on-chong-rung-tron-truot-thiet-ke-phu-hop-voi-moi-loai-may-giat-kich-thuoc-duong-kinh-114248318.html",
+            "image": "https://media3.scdn.vn/img4/2023/05_27/Jxj3gGVIw3CYc2Mt2NnH_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 23000,
+            "default_price_max": 23000,
+            "sale_price_min": 23000,
+            "sale_price_max": 23000,
+            "seller_admin_id": 283181,
+            "sku_user": "4260_114248318",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 283181,
+                "name": "Shop NN",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Khánh Hòa",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 113604484,
+            "name": "Sensor dùng cho tủ lạnh Toshiba, LG, Electrolux, Đầu Dò Cảm Biến hàng Nhật Điện Lạnh Thuận Dung",
+            "category_path": "sensor-dung-cho-tu-lanh-toshiba-lg-electrolux-dau-do-cam-bien-hang-nhat-dien-lanh-thuan-dung-113604484.html",
+            "image": "https://media3.scdn.vn/img4/2023/04_19/XegylfNuBZpaMCYTpAii_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 70400,
+            "default_price_max": 76800,
+            "sale_price_min": 44000,
+            "sale_price_max": 48000,
+            "sale_percent": 38,
+            "seller_admin_id": 977455,
+            "sku_user": "3260_25022365",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 977455,
+                "name": "Vật Tư Điện Lạnh 02",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Đồng Nai",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 25022365,
+            "name": "Sensor dùng cho tủ lạnh Toshiba, LG, Electrolux, Đầu Dò Cảm Biến hàng Nhật Điện Lạnh Thuận Dung",
+            "category_path": "sensor-dung-cho-tu-lanh-toshiba-lg-electrolux-dau-do-cam-bien-hang-nhat-dien-lanh-thuan-dung-25022365.html",
+            "image": "https://media3.scdn.vn/img4/2022/12_23/pkxmyoj2yGon7ocAmmvu_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 70400,
+            "default_price_max": 76800,
+            "sale_price_min": 39400,
+            "sale_price_max": 45000,
+            "sale_percent": 45,
+            "sold": 15,
+            "order_count_text": "15",
+            "seller_admin_id": 244631,
+            "sku_user": "3260_25022365",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 244631,
+                "name": "VẬT TƯ ĐIỆN LẠNH THUẬN DUNG",
+                "status": 2,
+                "ware_house_region_name": "Đồng Nai",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 3,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117751988,
+            "name": "Motor quạt tản nhiệt tủ lạnh LG mô tơ mới chính hãng",
+            "category_path": "motor-quat-tan-nhiet-tu-lanh-lg-mo-to-moi-chinh-hang-117751988.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_20/W9UVgjvJRnE4Mjv2eyhW_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 200000,
+            "default_price_max": 200000,
+            "sale_price_min": 200000,
+            "sale_price_max": 200000,
+            "seller_admin_id": 509853,
+            "sku_user": "2080_117751988",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117041759,
+            "name": "Khay đá rơi tủ lạnh LG 10 viên mới chính hãng",
+            "category_path": "khay-da-roi-tu-lanh-lg-10-vien-moi-chinh-hang-117041759.html",
+            "image": "https://media3.scdn.vn/img4/2024/06_18/whLAH11NQd9zFvStvNOo_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 150000,
+            "default_price_max": 150000,
+            "sale_price_min": 150000,
+            "sale_price_max": 150000,
+            "seller_admin_id": 509853,
+            "sku_user": "AJ879",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117029035,
+            "name": "Cánh quạt nhựa tủ lạnh LG cỡ 11cm, 14cm mới chính hãng",
+            "category_path": "canh-quat-nhua-tu-lanh-lg-co-11cm-14cm-moi-chinh-hang-117029035.html",
+            "image": "https://media3.scdn.vn/img4/2024/06_09/lnrJTPmesmnFot3wwsrP_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 69000,
+            "default_price_max": 69000,
+            "sale_price_min": 69000,
+            "sale_price_max": 69000,
+            "seller_admin_id": 509853,
+            "sku_user": "2080_117029035",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117028424,
+            "name": "Mô tơ quạt đúc sứ tủ lạnh LG 4 dây DC 12V rắc dẹt mới chính hãng",
+            "category_path": "mo-to-quat-duc-su-tu-lanh-lg-4-day-dc-12v-rac-det-moi-chinh-hang-117028424.html",
+            "image": "https://media3.scdn.vn/img4/2024/06_09/FYGQWqxBzygjy0piMEjy_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 200000,
+            "default_price_max": 200000,
+            "sale_price_min": 200000,
+            "sale_price_max": 200000,
+            "seller_admin_id": 509853,
+            "sku_user": "AJ832",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117026979,
+            "name": "Mô tơ quạt tản nhiệt làm mát tủ lạnh LG DC 12V 4 dây mới chính hãng",
+            "category_path": "mo-to-quat-tan-nhiet-lam-mat-tu-lanh-lg-dc-12v-4-day-moi-chinh-hang-117026979.html",
+            "image": "https://media3.scdn.vn/img4/2024/06_08/hdDAtX8mebCyIE60CUSe_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 200000,
+            "default_price_max": 200000,
+            "sale_price_min": 200000,
+            "sale_price_max": 200000,
+            "seller_admin_id": 509853,
+            "sku_user": "AJ829",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117026826,
+            "name": "Mô tơ quạt giải nhiệt block tủ lạnh LG inverter 4 dây DC 12V mới chính hãng",
+            "category_path": "mo-to-quat-giai-nhiet-block-tu-lanh-lg-inverter-4-day-dc-12v-moi-chinh-hang-117026826.html",
+            "image": "https://media3.scdn.vn/img4/2024/06_08/YMODwxjtMyrCOne8hr4t_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 220000,
+            "default_price_max": 220000,
+            "sale_price_min": 220000,
+            "sale_price_max": 220000,
+            "seller_admin_id": 509853,
+            "sku_user": "AJ827",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116571778,
+            "name": "Mô Tơ Quạt Tủ Lạnh LG DC 12V 4 dây mới chính hãng",
+            "category_path": "mo-to-quat-tu-lanh-lg-dc-12v-4-day-moi-chinh-hang-116571778.html",
+            "image": "https://media3.scdn.vn/img4/2024/04_21/a1tnKsSwjtCfzGbFEI7m_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 260000,
+            "default_price_max": 260000,
+            "sale_price_min": 260000,
+            "sale_price_max": 260000,
+            "seller_admin_id": 509853,
+            "sku_user": "AJ368",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116118668,
+            "name": "Bình nước tủ lạnh 3,5 lít có vòi chuyên để tủ lạnh siêu tiện lợi nhựa an toàn mẫu mới nhất",
+            "category_path": "binh-nuoc-tu-lanh-3-5-lit-co-voi-chuyen-de-tu-lanh-sieu-tien-loi-nhua-an-toan-mau-moi-nhat-116118668.html",
+            "image": "https://media3.scdn.vn/img4/2023/11_01/b1fCIuBb6iG1yvm774Pt_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 89000,
+            "default_price_max": 89000,
+            "sale_price_min": 89000,
+            "sale_price_max": 89000,
+            "seller_admin_id": 892731,
+            "sku_user": "bình đựng nước tủ lạnh",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 892731,
+                "name": "Kho Gia Dụng Thu Khang",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Thái Nguyên",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 115621586,
+            "name": "Gas lạnh tủ lạnh oto R600a 3 Kg - Môi chất lạnh nạp ga ô tô R600 hãng SUPON loại 600 3kg Mới",
+            "category_path": "gas-lanh-tu-lanh-oto-r600a-3-kg-moi-chat-lanh-nap-ga-o-to-r600-hang-supon-loai-600-3kg-moi-115621586.html",
+            "image": "https://media3.scdn.vn/img4/2023/09_09/7QznTiYU8TP5wYmOWaB8_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 428000,
+            "default_price_max": 428000,
+            "sale_price_min": 428000,
+            "sale_price_max": 428000,
+            "sold": 1,
+            "order_count_text": "1",
+            "seller_admin_id": 449118,
+            "sku_user": "GAS07",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 449118,
+                "name": "Vật tư điện lạnh Hồng Kính",
+                "status": 2,
+                "ware_house_region_name": "Bắc Ninh",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 115621513,
+            "name": "Gas lạnh tủ lạnh oto R134a 3Kg - Môi chất lạnh nạp ga ô tô R134 hãng SUPON loại 134 3kg Mới",
+            "category_path": "gas-lanh-tu-lanh-oto-r134a-3kg-moi-chat-lanh-nap-ga-o-to-r134-hang-supon-loai-134-3kg-moi-115621513.html",
+            "image": "https://media3.scdn.vn/img4/2023/09_09/Y8sFZbV2JEkFh1H3jMNQ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 488000,
+            "default_price_max": 488000,
+            "sale_price_min": 488000,
+            "sale_price_max": 488000,
+            "sold": 6,
+            "order_count_text": "6",
+            "seller_admin_id": 449118,
+            "sku_user": "GAS06",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 449118,
+                "name": "Vật tư điện lạnh Hồng Kính",
+                "status": 2,
+                "ware_house_region_name": "Bắc Ninh",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 113604132,
+            "name": "Sensor dùng cho tủ lạnh Toshiba, LG, Electrolux, Đầu Dò Cảm Biến hàng Nhật Điện Lạnh Thuận Dung",
+            "category_path": "sensor-dung-cho-tu-lanh-toshiba-lg-electrolux-dau-do-cam-bien-hang-nhat-dien-lanh-thuan-dung-113604132.html",
+            "image": "https://media3.scdn.vn/img4/2023/04_19/XegylfNuBZpaMCYTpAii_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 70400,
+            "default_price_max": 76800,
+            "sale_price_min": 44000,
+            "sale_price_max": 48000,
+            "sale_percent": 38,
+            "seller_admin_id": 977454,
+            "sku_user": "3260_25022365",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 977454,
+                "name": "Vật Tư Điện Lạnh 01",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Đồng Nai",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 97413602,
+            "name": "ĐẲNG CẤP VỚI BÌNH ĐỰNG NƯỚC RÓT NƯỚC ĐỂ TỦ LẠNH CÓ VÒI 3.5L TIỆN DỤNG MẪU MỚI NHẤT",
+            "category_path": "dang-ca-p-vo-i-bi-nh-dung-nuoc-ro-t-nuo-c-de-tu-la-nh-co-vo-i-35l-tien-dung-mau-mo-i-nha-t-97413602.html",
+            "image": "https://media3.scdn.vn/img4/2022/07_31/shPxsZY9Ko7ndTpYKVXm_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 200000,
+            "default_price_max": 200000,
+            "sale_price_min": 98000,
+            "sale_price_max": 98000,
+            "sale_percent": 51,
+            "seller_admin_id": 565663,
+            "sku_user": "769",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 565663,
+                "name": "MANHDAT",
+                "status": 2,
+                "ware_house_region_name": "Thanh Hóa",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 82841822,
+            "name": "HỘP ĐỰNG TRỨNG 24 QUẢ TRONG SUỐT 1 TẦNG NHỰA VIỆT NHẬT KHAY TRỨNG 24 Ô  MÔ TẢ SẢN PHẨM:- Khay được thiết kế với chức năng chống sốc để ngăn vỡ trứng- Có nắp cài cực chắc chắn- Để được trong tủ lạnh- Khay nhựa",
+            "category_path": "hop-dung-trung-24-qua-trong-suot-1-tang-nhua-viet-nhat-khay-trung-24-o-mo-ta-san-pham-khay-duoc-thiet-ke-voi-chuc-nang-chong-soc-de-ngan-vo-trung-co-nap-cai-cuc-chac-chan-de-duoc-trong-tu-lanh-khay-nhua-82841822.html",
+            "image": "https://media3.scdn.vn/img4/2022/04_14/d0Znpxe0VpGSrxEfukOj_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 42000,
+            "default_price_max": 42000,
+            "sale_price_min": 42000,
+            "sale_price_max": 42000,
+            "seller_admin_id": 283181,
+            "sku_user": "1520_82841822",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 283181,
+                "name": "Shop NN",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Khánh Hòa",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 47861309,
+            "name": "Bình nước tủ lạnh 3,5 lít có vòi chuyên để tủ lạnh siêu tiện lợi nhựa an toàn mẫu mới nhất",
+            "category_path": "binh-nuoc-tu-lanh-3-5-lit-co-voi-chuyen-de-tu-lanh-sieu-tien-loi-nhua-an-toan-mau-moi-nhat-47861309.html",
+            "image": "https://media3.scdn.vn/img4/2021/07_16/fzP1TMdVK5QlmMjmKJGL_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 89000,
+            "default_price_max": 89000,
+            "sale_price_min": 49000,
+            "sale_price_max": 49000,
+            "sale_percent": 45,
+            "sold": 942,
+            "order_count_text": "942",
+            "seller_admin_id": 669991,
+            "sku_user": "bình đựng nước tủ lạnh",
+            "product_type": 23,
+            "like_counter": 2,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 669991,
+                "name": "Thukhangtn Shop",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Thái Nguyên",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 244,
+                "star": 4.5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 41629908,
+            "name": "KỆ NHỰA DÁN TƯỜNG ĐA NĂNG\nSHOP GIAO MÀU NGẪU NHIÊN\nChất liệu: NHỰA PP\nMàu sắc: Nhiều màu sắc\nKích thước: 21.5x21.5 cm\n\nTính năng:\n1. Tự với chất kết dính hai mặt, cố định trên tủ lạnh, phòng tắm, phòng khá",
+            "category_path": "ke-nhua-dan-tuong-da-nang-shop-giao-mau-ngau-nhien-chat-lieu-nhua-pp-mau-sac-nhieu-mau-sac-kich-thuoc-215x215-cm-tinh-nang-1-tu-voi-chat-ket-dinh-hai-mat-co-dinh-tren-tu-lanh-phong-tam-phong-kha-41629908.html",
+            "image": "https://media3.scdn.vn/img4/2021/03_21/oNFBwQj3Qzpkf7VWQsFJ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 59000,
+            "default_price_max": 59000,
+            "sale_price_min": 59000,
+            "sale_price_max": 59000,
+            "seller_admin_id": 283181,
+            "sku_user": "NG3221",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 283181,
+                "name": "Shop NN",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Khánh Hòa",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        }
+    ]
+}

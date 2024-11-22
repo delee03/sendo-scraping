@@ -1,0 +1,98 @@
+{
+    "total_products": 2,
+    "products": [
+        {
+            "id": 5684065,
+            "name": "MÁY TÍNH Hp-Elitebook 12in i7 620 4G Võ nhôm xinh xinh bỏ cóp xeLaptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD -laptop Hp Pavilion giá rẻ củ HP envy Hp i3 i5 i7",
+            "category_path": "may-tinh-hp-elitebook-12in-i7-620-4g-vo-nhom-xinh-xinh-bo-cop-xelaptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-laptop-hp-pavilion-gia-re-cu-hp-envy-hp-i3-i5-i7-5684065.html",
+            "image": "https://media3.scdn.vn/img2/2017/5_15/2OZuhj_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 3599000,
+            "default_price_max": 3599000,
+            "sale_price_min": 3589000,
+            "sale_price_max": 3589000,
+            "sale_percent": 1,
+            "sold": 2,
+            "order_count_text": "2",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "12xaa",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 8325489,
+            "name": "MÁY TÍNH Laptop Hp Elitebook 2710p i7 12.5in nhỏ xinh gọn nhẹ bỏ cóp xeLaptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD -laptop Hp Pavilion giá rẻ củ HP envy Hp i3 i5 i7",
+            "category_path": "may-tinh-laptop-hp-elitebook-2710p-i7-125in-nho-xinh-gon-nhe-bo-cop-xelaptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-laptop-hp-pavilion-gia-re-cu-hp-envy-hp-i3-i5-i7-8325489.html",
+            "image": "https://media3.scdn.vn/img2/2017/12_29/BwIoRJ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 5500000,
+            "default_price_max": 5500000,
+            "sale_price_min": 5500000,
+            "sale_price_max": 5500000,
+            "sold": 1,
+            "order_count_text": "1",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop hp 2170p i7",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        }
+    ]
+}

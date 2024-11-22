@@ -1,0 +1,256 @@
+{
+    "total_products": 6,
+    "products": [
+        {
+            "id": 118949353,
+            "name": "Cốc Sạc 2 Cổng Usb có đèn Led 5V - 2.1A siêu ngon cho mọi điện thoại smartphone SAMSUNG OPPO XIAOMI IPHONE SONY LG HTC ANDROID IOS - quick charger adapter",
+            "category_path": "coc-sac-2-cong-usb-co-den-led-5v-21a-sieu-ngon-cho-moi-dien-thoai-smartphone-samsung-oppo-xiaomi-iphone-sony-lg-htc-android-ios-quick-charger-adapter-118949353.html",
+            "image": "https://media3.scdn.vn/img4/2024/11_06/mt8Bn31MDH9GwrBJbsSl_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 70000,
+            "default_price_max": 70000,
+            "sale_price_min": 50000,
+            "sale_price_max": 50000,
+            "sale_percent": 29,
+            "discount_app": 1,
+            "seller_admin_id": 988804,
+            "sku_user": "ID121",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988804,
+                "name": "Winshop",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 118949351,
+            "name": "Cáp sạc chuẩn Type C Android smartphone Samsung",
+            "category_path": "cap-sac-chuan-type-c-android-smartphone-samsung-118949351.html",
+            "image": "https://media3.scdn.vn/img4/2024/11_06/HPlcxnNgX1RDtizHoJMa_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 30000,
+            "default_price_max": 30000,
+            "sale_price_min": 20000,
+            "sale_price_max": 20000,
+            "sale_percent": 34,
+            "discount_app": 1,
+            "seller_admin_id": 988804,
+            "sku_user": "ID120",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988804,
+                "name": "Winshop",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 118949348,
+            "name": "Cáp sạc chuẩn Type C Android smartphone Samsung",
+            "category_path": "cap-sac-chuan-type-c-android-smartphone-samsung-118949348.html",
+            "image": "https://media3.scdn.vn/img4/2024/11_06/ArWKr5jSfLrPThenf8fy_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 60000,
+            "default_price_max": 60000,
+            "sale_price_min": 40000,
+            "sale_price_max": 40000,
+            "sale_percent": 34,
+            "discount_app": 1,
+            "seller_admin_id": 988804,
+            "sku_user": "ID117",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988804,
+                "name": "Winshop",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 118949338,
+            "name": "Cáp sạc chuẩn Micro USB Android smartphone Samsung",
+            "category_path": "cap-sac-chuan-micro-usb-android-smartphone-samsung-118949338.html",
+            "image": "https://media3.scdn.vn/img4/2024/11_06/VpHt2FYMmRIY1VPgFhts_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 40000,
+            "default_price_max": 40000,
+            "sale_price_min": 20000,
+            "sale_price_max": 20000,
+            "sale_percent": 50,
+            "discount_app": 1,
+            "seller_admin_id": 988804,
+            "sku_user": "ID102",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988804,
+                "name": "Winshop",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 118949336,
+            "name": "Cóc sạc điện thoại Smartphone Samsung 2A",
+            "category_path": "coc-sac-dien-thoai-smartphone-samsung-2a-118949336.html",
+            "image": "https://media3.scdn.vn/img4/2024/11_06/8cn29NvJuDDXDeqYUoc6_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 50000,
+            "default_price_max": 50000,
+            "sale_price_min": 30000,
+            "sale_price_max": 30000,
+            "sale_percent": 40,
+            "discount_app": 1,
+            "seller_admin_id": 988804,
+            "sku_user": "ID101",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988804,
+                "name": "Winshop",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 22678351,
+            "name": "Cáp sạc nhanh Baseus dùng cho Smartphone Android Samsung, Oppo, Xiaomi",
+            "category_path": "cap-sac-nhanh-baseus-dung-cho-smartphone-android-samsung-oppo-xiaomi-22678351.html",
+            "image": "https://media3.scdn.vn/img3/2019/10_15/c9WWhc_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 155000,
+            "default_price_max": 155000,
+            "sale_price_min": 90300,
+            "sale_price_max": 90300,
+            "sale_percent": 42,
+            "sold": 4,
+            "order_count_text": "4",
+            "seller_admin_id": 23537,
+            "sku_user": "Cáp sạc Baseus 5v-4A",
+            "product_type": 23,
+            "active_event_frame": "sale_event",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 23537,
+                "name": "hotmua",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 1,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        }
+    ]
+}

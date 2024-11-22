@@ -1,0 +1,767 @@
+{
+    "total_products": 20,
+    "products": [
+        {
+            "id": 118688490,
+            "name": "Kệ 2 tầng để trên máy giặt, bệ bồn cầu tiện dụng mẫu mới nhất hiện nay [Được kiểm hàng] 32397356",
+            "category_path": "ke-2-tang-de-tren-may-giat-be-bon-cau-tien-dung-mau-moi-nhat-hien-nay-duo-c-kie-m-ha-ng-32397356-118688490.html",
+            "image": "https://media3.scdn.vn/img4/2020/08_13/dDEpkBaho5u5reJns54R_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 673400,
+            "default_price_max": 673400,
+            "sale_price_min": 466200,
+            "sale_price_max": 466200,
+            "sale_percent": 31,
+            "seller_admin_id": 988982,
+            "sku_user": "32397356",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988982,
+                "name": "Gì Cũng Có Shop 1vmc38u4uu",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118675996,
+            "name": "KỆ ĐỂ ĐỒ ĐA NĂNG CÓ BÁNH XE CÓ GIỎ ĐỂ ĐỒ ĐA NĂNG VIỆT NHẬT\nCÓ 3 MÀU XÁM, TRẮNG, HỒNG\nược thiết kế đơn giản nhưng vô cùng tiện ích cho mẹ khi để đồ giặt cho bé với 3 tầng thì mẹ có thể để tầng trên cùng để [Được kiểm hàng] 42716543",
+            "category_path": "ke-de-do-da-nang-co-banh-xe-co-gio-de-do-da-nang-viet-nhat-co-3-mau-xam-trang-hong-uoc-thiet-ke-don-gian-nhung-vo-cung-tien-ich-cho-me-khi-de-do-giat-cho-be-voi-3-tang-thi-me-co-the-de-tang-tren-cung-de-duo-c-kie-m-ha-ng-42716543-118675996.html",
+            "image": "https://media3.scdn.vn/img4/2021/04_19/JnP00WuQpyTV3b843Rv9_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 578000,
+            "default_price_max": 578000,
+            "sale_price_min": 491300,
+            "sale_price_max": 491300,
+            "sale_percent": 15,
+            "seller_admin_id": 988982,
+            "sku_user": "42716543",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988982,
+                "name": "Gì Cũng Có Shop 1vmc38u4uu",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118482776,
+            "name": "Kệ 2 tầng để trên máy giặt, bệ bồn cầu tiện dụng mẫu mới nhất hiện nay [Được kiểm hàng] 32397356",
+            "category_path": "ke-2-tang-de-tren-may-giat-be-bon-cau-tien-dung-mau-moi-nhat-hien-nay-duo-c-kie-m-ha-ng-32397356-118482776.html",
+            "image": "https://media3.scdn.vn/img4/2020/08_13/dDEpkBaho5u5reJns54R_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 673400,
+            "default_price_max": 673400,
+            "sale_price_min": 466200,
+            "sale_price_max": 466200,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 988843,
+            "sku_user": "32397356",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988843,
+                "name": "Gì Cũng Có Shop fbgrrdha0v",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118471280,
+            "name": "KỆ ĐỂ ĐỒ ĐA NĂNG CÓ BÁNH XE CÓ GIỎ ĐỂ ĐỒ ĐA NĂNG VIỆT NHẬT\nCÓ 3 MÀU XÁM, TRẮNG, HỒNG\nược thiết kế đơn giản nhưng vô cùng tiện ích cho mẹ khi để đồ giặt cho bé với 3 tầng thì mẹ có thể để tầng trên cùng để [Được kiểm hàng] 42716543",
+            "category_path": "ke-de-do-da-nang-co-banh-xe-co-gio-de-do-da-nang-viet-nhat-co-3-mau-xam-trang-hong-uoc-thiet-ke-don-gian-nhung-vo-cung-tien-ich-cho-me-khi-de-do-giat-cho-be-voi-3-tang-thi-me-co-the-de-tang-tren-cung-de-duo-c-kie-m-ha-ng-42716543-118471280.html",
+            "image": "https://media3.scdn.vn/img4/2021/04_19/JnP00WuQpyTV3b843Rv9_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 578000,
+            "default_price_max": 578000,
+            "sale_price_min": 491300,
+            "sale_price_max": 491300,
+            "sale_percent": 15,
+            "discount_app": 1,
+            "seller_admin_id": 988843,
+            "sku_user": "42716543",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988843,
+                "name": "Gì Cũng Có Shop fbgrrdha0v",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 115398230,
+            "name": "CHĂN LÔNG XUẤT NHẬT M.ji HÀNG MỚI CỰC HOT chăn mềm mịn, lông không phai không xù và hoàn toàn có thể sử dụng máy giặt",
+            "category_path": "chan-long-xuat-nhat-mji-hang-moi-cuc-hot-chan-mem-min-long-khong-phai-khong-xu-va-hoan-toan-co-the-su-dung-may-giat-115398230.html",
+            "image": "https://media3.scdn.vn/img4/2023/08_27/jmLBi56vIl1wWP13hAAJ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 299000,
+            "default_price_max": 299000,
+            "sale_price_min": 199000,
+            "sale_price_max": 199000,
+            "sale_percent": 34,
+            "seller_admin_id": 438264,
+            "sku_user": "1062_115398230",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 438264,
+                "name": "BẢO CHÂU PLAZA",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 114248318,
+            "name": "Bộ 4 cái ĐẾ CHỐNG RUNG MÁY GIẶT - TỦ LẠNH ắc mọi nhà đang cần ạ 23k/ bộ 4 cái- Chất liệu cao su tự nhiên, mạnh mẽ chống rung và giảm tiếng ồn.- Chống rung, trơn trượt.- Thiết kế phù hợp với mọi loại máy giặt.- Kích thước: Đường kính:",
+            "category_path": "bo-4-cai-de-chong-rung-may-giat-tu-lanh-ac-moi-nha-dang-can-a-23k-bo-4-cai-chat-lieu-cao-su-tu-nhien-manh-me-chong-rung-va-giam-tieng-on-chong-rung-tron-truot-thiet-ke-phu-hop-voi-moi-loai-may-giat-kich-thuoc-duong-kinh-114248318.html",
+            "image": "https://media3.scdn.vn/img4/2023/05_27/Jxj3gGVIw3CYc2Mt2NnH_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 23000,
+            "default_price_max": 23000,
+            "sale_price_min": 23000,
+            "sale_price_max": 23000,
+            "seller_admin_id": 283181,
+            "sku_user": "4260_114248318",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 283181,
+                "name": "Shop NN",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Khánh Hòa",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 70638514,
+            "name": "LÓT NGỒI VUÔNG GIAO MÀU NGẪU NHIÊNSản phẩm có hoa văn, hoạ tiết 2 mặt như nhau- Chất liệu vải Gai họa tiết đa dạng, trẻ trung , không phai màu.- Dễ dàng vệ sinh, phù hợp với cả giặt tay và giặt máy.- Đường chỉ",
+            "category_path": "lot-ngoi-vuong-giao-mau-ngau-nhiensan-pham-co-hoa-van-hoa-tiet-2-mat-nhu-nhau-chat-lieu-vai-gai-hoa-tiet-da-dang-tre-trung-khong-phai-mau-de-dang-ve-sinh-phu-hop-voi-ca-giat-tay-va-giat-may-duong-chi-70638514.html",
+            "image": "https://media3.scdn.vn/img4/2021/12_20/YCyEkepyYJgWBTX2BzRA_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 69000,
+            "default_price_max": 69000,
+            "sale_price_min": 69000,
+            "sale_price_max": 69000,
+            "sold": 1,
+            "order_count_text": "1",
+            "seller_admin_id": 283181,
+            "sku_user": "1093_70638514",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 283181,
+                "name": "Shop NN",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Khánh Hòa",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 118998932,
+            "name": "Kệ 2 tầng để trên máy giặt, bệ bồn cầu tiện dụng mẫu mới nhất hiện nay [Được kiểm hàng] 32397356",
+            "category_path": "ke-2-tang-de-tren-may-giat-be-bon-cau-tien-dung-mau-moi-nhat-hien-nay-duo-c-kie-m-ha-ng-32397356-118998932.html",
+            "image": "https://media3.scdn.vn/img4/2020/08_13/dDEpkBaho5u5reJns54R_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 673400,
+            "default_price_max": 673400,
+            "sale_price_min": 466200,
+            "sale_price_max": 466200,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 989277,
+            "sku_user": "32397356",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 989277,
+                "name": "Gì Cũng Có Shop wze6olq8gm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118987460,
+            "name": "KỆ ĐỂ ĐỒ ĐA NĂNG CÓ BÁNH XE CÓ GIỎ ĐỂ ĐỒ ĐA NĂNG VIỆT NHẬT\nCÓ 3 MÀU XÁM, TRẮNG, HỒNG\nược thiết kế đơn giản nhưng vô cùng tiện ích cho mẹ khi để đồ giặt cho bé với 3 tầng thì mẹ có thể để tầng trên cùng để [Được kiểm hàng] 42716543",
+            "category_path": "ke-de-do-da-nang-co-banh-xe-co-gio-de-do-da-nang-viet-nhat-co-3-mau-xam-trang-hong-uoc-thiet-ke-don-gian-nhung-vo-cung-tien-ich-cho-me-khi-de-do-giat-cho-be-voi-3-tang-thi-me-co-the-de-tang-tren-cung-de-duo-c-kie-m-ha-ng-42716543-118987460.html",
+            "image": "https://media3.scdn.vn/img4/2021/04_19/JnP00WuQpyTV3b843Rv9_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 578000,
+            "default_price_max": 578000,
+            "sale_price_min": 491300,
+            "sale_price_max": 491300,
+            "sale_percent": 15,
+            "discount_app": 1,
+            "seller_admin_id": 989277,
+            "sku_user": "42716543",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 989277,
+                "name": "Gì Cũng Có Shop wze6olq8gm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 116842135,
+            "name": "BỘ 3 CHAI Nước tẩy lồng máy giặt Nhật Bản chai 260ml - Cleaning Fluid - nước tẩy vệ sinh đánh bay mùi hôi, ẩm mốc trong máy giặt lâu ngày - Phiên bản mới",
+            "category_path": "bo-3-chai-nuoc-tay-long-may-giat-nhat-ban-chai-260ml-cleaning-fluid-nuoc-tay-ve-sinh-danh-bay-mui-hoi-am-moc-trong-may-giat-lau-ngay-phien-ban-moi-116842135.html",
+            "image": "https://media3.scdn.vn/img4/2024/05_22/eR1GH3fXcnQlieOY6ksF_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 109000,
+            "default_price_max": 109000,
+            "sale_price_min": 109000,
+            "sale_price_max": 109000,
+            "sold": 1,
+            "order_count_text": "1",
+            "seller_admin_id": 882098,
+            "sku_user": "4135_116842135",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 882098,
+                "name": "muanhanhgiatot6789",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116842134,
+            "name": "BỘ 3 Nước tẩy lồng máy giặt Nhật Bản chai 260ml - Cleaning Fluid - nước tẩy vệ sinh đánh bay mùi hôi- Phiên bản mới",
+            "category_path": "bo-3-nuoc-tay-long-may-giat-nhat-ban-chai-260ml-cleaning-fluid-nuoc-tay-ve-sinh-danh-bay-mui-hoi-phien-ban-moi-116842134.html",
+            "image": "https://media3.scdn.vn/img4/2024/05_22/MzozIeldfKSD29Vkdq63_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 109000,
+            "default_price_max": 109000,
+            "sale_price_min": 109000,
+            "sale_price_max": 109000,
+            "seller_admin_id": 809606,
+            "sku_user": "4135_116842134",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 809606,
+                "name": "shoptrangsang6789",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116047420,
+            "name": "TÚI BỈM SỮA ĐA NĂNG HANG QUỐC 169k/ cái CAM KẾT CHẤT LƯỢNG TỐT, SẢN PHẨM GIỐNG HÌNH Hàng xuất khẩu đảm bảo yêu cầu chất lượng khắt khe Hình in sắc nét không dão không bong khi giặt Mềm Mịn - Thoáng Mát - Thoải Mái",
+            "category_path": "tui-bim-sua-da-nang-hang-quoc-169k-cai-cam-ket-chat-luong-tot-san-pham-giong-hinh-hang-xuat-khau-dam-bao-yeu-cau-chat-luong-khat-khe-hinh-in-sac-net-khong-dao-khong-bong-khi-giat-mem-min-thoang-mat-thoai-mai-116047420.html",
+            "image": "https://media3.scdn.vn/img4/2023/10_14/hrzqCj9e1phIWKfJmYoS_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 169000,
+            "default_price_max": 169000,
+            "sale_price_min": 169000,
+            "sale_price_max": 169000,
+            "seller_admin_id": 283181,
+            "sku_user": "182_116047420",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 283181,
+                "name": "Shop NN",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Khánh Hòa",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 115769266,
+            "name": "Đôi nhún thụt giảm xóc máy giặt nội địa Nhật Panasonic mới chính hãng",
+            "category_path": "doi-nhun-thut-giam-xoc-may-giat-noi-dia-nhat-panasonic-moi-chinh-hang-115769266.html",
+            "image": "https://media3.scdn.vn/img4/2023/09_17/1uwQ2a7VuSMvuyG3kLcZ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 180000,
+            "default_price_max": 180000,
+            "sale_price_min": 180000,
+            "sale_price_max": 180000,
+            "sold": 1,
+            "order_count_text": "1",
+            "seller_admin_id": 509853,
+            "sku_user": "AK204",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 114498195,
+            "name": "Trục càng mâm ba chạc máy giặt TOSHIBA nội địa, Chảng 3 đĩa mg Tô 110v Nhật bãi Mới",
+            "category_path": "truc-cang-mam-ba-chac-may-giat-toshiba-noi-dia-chang-3-dia-mg-to-110v-nhat-bai-moi-114498195.html",
+            "image": "https://media3.scdn.vn/img4/2023/06_28/nkqnzXXeSlGkzptwtaai_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1200000,
+            "default_price_max": 1200000,
+            "sale_price_min": 1200000,
+            "sale_price_max": 1200000,
+            "sold": 1,
+            "order_count_text": "1",
+            "seller_admin_id": 449118,
+            "sku_user": "CMG40",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 449118,
+                "name": "Vật tư điện lạnh Hồng Kính",
+                "status": 2,
+                "ware_house_region_name": "Bắc Ninh",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 114253832,
+            "name": "MÁY GIẶT MINI GẤP GỌN 6 LÍT 299k/ cáiMáy giặt mini gấp gọn, máy giặt đồ lót, tất vớ, giặt đồ cho bé dung tích 6L tự vắt khô khử khuẩn bằng công nghệ mới Chất liệu: Nhựa cao",
+            "category_path": "may-giat-mini-gap-gon-6-lit-299k-caimay-giat-mini-gap-gon-may-giat-do-lot-tat-vo-giat-do-cho-be-dung-tich-6l-tu-vat-kho-khu-khuan-bang-cong-nghe-moi-chat-lieu-nhua-cao-114253832.html",
+            "image": "https://media3.scdn.vn/img4/2023/05_28/Xcb2hDIccvyBeu0KWVnX_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 299000,
+            "default_price_max": 299000,
+            "sale_price_min": 299000,
+            "sale_price_max": 299000,
+            "seller_admin_id": 283181,
+            "sku_user": "2507_114253832",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 283181,
+                "name": "Shop NN",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Khánh Hòa",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 99471754,
+            "name": "CỰC CHẤT AN TOÀN VỚI BỘ DÂY CHỐNG GIẬT MÁY NÓNG LẠNH BÌNH NÓNG LẠNH HÀNG CHUẨN",
+            "category_path": "cu-c-cha-t-an-toa-n-vo-i-bo-day-cho-ng-gia-t-ma-y-no-ng-la-nh-bi-nh-no-ng-la-nh-ha-ng-chua-n-99471754.html",
+            "image": "https://media3.scdn.vn/img4/2022/08_20/4h99Tl6175sWdWzVWf1V_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 400000,
+            "default_price_max": 400000,
+            "sale_price_min": 199000,
+            "sale_price_max": 199000,
+            "sale_percent": 51,
+            "seller_admin_id": 578609,
+            "sku_user": "775",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 578609,
+                "name": "DVM1",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Thanh Hóa",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 95438377,
+            "name": "Sét áo chân váy  thiết kế chất liệu cotton 2 da mịn êm   có độ co giãn nhẹ không nhăn thoải mái vận động chân váy có lót quần ở trong  phần tay áo có phối von tạo lên độ phồng và xuyên thấu phần trước ngực có thiết kế hình giọt nước tạo điểm nhấn áo",
+            "category_path": "set-ao-chan-vay-thiet-ke-chat-lieu-cotton-2-da-min-em-co-do-co-gian-nhe-khong-nhan-thoai-mai-van-dong-chan-vay-co-lot-quan-o-trong-phan-tay-ao-co-phoi-von-tao-len-do-phong-va-xuyen-thau-phan-truoc-nguc-co-thiet-ke-hinh-giot-nuoc-tao-diem-nhan-ao-95438377.html",
+            "image": "https://media3.scdn.vn/img4/2023/05_14/feOUInOXCi3kuHkgjNuS_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 197000,
+            "default_price_max": 197000,
+            "sale_price_min": 197000,
+            "sale_price_max": 197000,
+            "sold": 13,
+            "order_count_text": "13",
+            "seller_admin_id": 762374,
+            "sku_user": "696_95438377",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 762374,
+                "name": "Thời trang nam nữ Lynas",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 4,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 42716543,
+            "name": "KỆ ĐỂ ĐỒ ĐA NĂNG CÓ BÁNH XE CÓ GIỎ ĐỂ ĐỒ ĐA NĂNG VIỆT NHẬT\nCÓ 3 MÀU XÁM, TRẮNG, HỒNG\nược thiết kế đơn giản nhưng vô cùng tiện ích cho mẹ khi để đồ giặt cho bé với 3 tầng thì mẹ có thể để tầng trên cùng để",
+            "category_path": "ke-de-do-da-nang-co-banh-xe-co-gio-de-do-da-nang-viet-nhat-co-3-mau-xam-trang-hong-uoc-thiet-ke-don-gian-nhung-vo-cung-tien-ich-cho-me-khi-de-do-giat-cho-be-voi-3-tang-thi-me-co-the-de-tang-tren-cung-de-42716543.html",
+            "image": "https://media3.scdn.vn/img4/2021/04_19/JnP00WuQpyTV3b843Rv9_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 289000,
+            "default_price_max": 289000,
+            "sale_price_min": 289000,
+            "sale_price_max": 289000,
+            "sold": 4,
+            "order_count_text": "4",
+            "seller_admin_id": 283181,
+            "sku_user": "NG3359",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 283181,
+                "name": "Shop NN",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Khánh Hòa",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 32397356,
+            "name": "Kệ 2 tầng để trên máy giặt, bệ bồn cầu tiện dụng mẫu mới nhất hiện nay",
+            "category_path": "ke-2-tang-de-tren-may-giat-be-bon-cau-tien-dung-mau-moi-nhat-hien-nay-32397356.html",
+            "image": "https://media3.scdn.vn/img4/2020/08_13/dDEpkBaho5u5reJns54R_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 259000,
+            "default_price_max": 259000,
+            "sale_price_min": 259000,
+            "sale_price_max": 259000,
+            "seller_admin_id": 635925,
+            "sku_user": "Zxhjkit5re",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 635925,
+                "name": "gia dung bao chau2 plaza",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 32174854,
+            "name": "Phao Lọc Rác Bụi Bẩn Cho Máy Giặt  Với Chất Liệu Nhựa Và  Túi Được Thiết Kế Dạng Lưới",
+            "category_path": "phao-loc-rac-bui-ban-cho-may-giat-voi-chat-lieu-nhua-va-tui-duoc-thiet-ke-dang-luoi-32174854.html",
+            "image": "https://media3.scdn.vn/img4/2020/04_28/XsASUkvcAaolg49a3jap_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 15000,
+            "default_price_max": 15000,
+            "sale_price_min": 15000,
+            "sale_price_max": 15000,
+            "sold": 2,
+            "order_count_text": "2",
+            "seller_admin_id": 816189,
+            "sku_user": "5029132151",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 816189,
+                "name": "shop gia dụng Châu Lâm",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        }
+    ]
+}

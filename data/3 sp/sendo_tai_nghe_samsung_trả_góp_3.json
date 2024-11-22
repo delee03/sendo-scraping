@@ -1,0 +1,124 @@
+{
+    "total_products": 3,
+    "products": [
+        {
+            "id": 22144622,
+            "name": "[Được kiểm tra hàng] Tai nghe  không dây Amoi F9 bluetooth 5.0 TWS cảm ứng [phiên bản quốc tế] - Amoi F9 cảm ứng chống thấm nước, chống bụi, dùng cho điện thoại iphone, samsung, xiaomi, oppo...",
+            "category_path": "duoc-kiem-tra-hang-tai-nghe-khong-day-amoi-f9-bluetooth-50-tws-cam-ung-phien-ban-quoc-te-amoi-f9-cam-ung-chong-tham-nuoc-chong-bui-dung-cho-dien-thoai-iphone-samsung-xiaomi-oppo-22144622.html",
+            "image": "https://media3.scdn.vn/img3/2019/9_28/yDHKET_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 200000,
+            "default_price_max": 200000,
+            "sale_price_min": 89000,
+            "sale_price_max": 89000,
+            "sale_percent": 56,
+            "sold": 126,
+            "order_count_text": "126",
+            "seller_admin_id": 606056,
+            "sku_user": "tai nghe amoi f9",
+            "product_type": 23,
+            "like_counter": 1,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 606056,
+                "name": "Rẻ Vô Địch No 1",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Nam Định",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 27,
+                "star": 4.6
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116564869,
+            "name": "Quạt đỏ cành hoa mai vàng Việt Nam cao 90 cm,xòe rộng 160 cm nghệ nhân vẽ tay- quạt gấp vải treo tường quà lưu niệm trang trí tết ý nghĩa sang trọng- Nhận vẽ nội dung theo yêu cầu",
+            "category_path": "quat-do-canh-hoa-mai-vang-viet-nam-cao-90-cm-xoe-rong-160-cm-nghe-nhan-ve-tay-quat-gap-vai-treo-tuong-qua-luu-niem-trang-tri-tet-y-nghia-sang-trong-nhan-ve-noi-dung-theo-yeu-cau-116564869.html",
+            "image": "https://media3.scdn.vn/img4/2024/04_13/wx7EVs1uG1Szl1JG12UF_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 650000,
+            "default_price_max": 650000,
+            "sale_price_min": 650000,
+            "sale_price_max": 650000,
+            "seller_admin_id": 403014,
+            "sku_user": "QTT15",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 403014,
+                "name": "CẢNH ĐÔNG",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Bình Định",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 70715589,
+            "name": "[Trả góp 0%]Loa Samsung Soundbar 11.1.4ch HW-Q950A 550W Mới Nhất Năm 2021 - Hàng chính hãng 100% [Bảo Hành 12 Tháng]",
+            "category_path": "tra-gop-0-loa-samsung-soundbar-1114ch-hw-q950a-550w-moi-nhat-nam-2021-hang-chinh-hang-100-bao-hanh-12-thang-70715589.html",
+            "image": "https://media3.scdn.vn/img4/2022/07_29/VzE83Na3UxTxbCzKyRlD_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 14500000,
+            "default_price_max": 14500000,
+            "sale_price_min": 14500000,
+            "sale_price_max": 14500000,
+            "seller_admin_id": 944452,
+            "sku_user": "Q950A",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 944452,
+                "name": "Future Sound",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Thái Bình",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        }
+    ]
+}

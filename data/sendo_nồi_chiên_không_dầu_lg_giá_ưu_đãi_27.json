@@ -1,0 +1,1045 @@
+{
+    "total_products": 27,
+    "products": [
+        {
+            "id": 104902774,
+            "name": "[Giá hủy diệt] [Now-Grap] nồi chiên không dầu vũ trụ  nồi chiên cao cấp [Có sẵn]",
+            "category_path": "gia-huy-diet-now-grap-noi-chien-khong-dau-vu-tru-noi-chien-cao-cap-co-san-104902774.html",
+            "image": "https://media3.scdn.vn/img4/2022/10_18/AqjTrY0b0UBWttPdxXHx_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 2326905,
+            "default_price_max": 2326905,
+            "sale_price_min": 2326905,
+            "sale_price_max": 2326905,
+            "seller_admin_id": 938420,
+            "sku_user": "3144_104902774",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 938420,
+                "name": "ĐT102",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 32756818,
+            "name": "(SIÊU GIẢM GIÁ) NỒI CHIÊN KHÔNG DẦU CAMEL 6L CAO CẤP",
+            "category_path": "sieu-giam-gia-noi-chien-khong-dau-camel-6l-cao-cap-32756818.html",
+            "image": "https://media3.scdn.vn/img4/2021/11_06/cZXcKhoSUSalv5dfiKeZ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 630000,
+            "default_price_max": 1750000,
+            "sale_price_min": 620000,
+            "sale_price_max": 1750000,
+            "sale_percent": 62,
+            "sold": 157,
+            "order_count_text": "157",
+            "has_video": true,
+            "seller_admin_id": 796768,
+            "sku_user": "CAM KẾT HÀNG ĐẢM BẢO CHẤT LƯỢNG",
+            "product_type": 23,
+            "like_counter": 530,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 796768,
+                "name": "dogiadunghoangmai",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 49,
+                "star": 4.8
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116549250,
+            "name": "Set 100 tờ Giấy nến đục lỗ, Giấy nến tròn lót xửng hấp, nồi chiên không dầu, hấp bánh bao 21,5cm - giá sôc",
+            "category_path": "set-100-to-giay-nen-duc-lo-giay-nen-tron-lot-xung-hap-noi-chien-khong-dau-hap-banh-bao-21-5cm-gia-soc-116549250.html",
+            "image": "https://media3.scdn.vn/img4/2024/03_24/tjlI6mDfatTQH50pkXSR_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 34000,
+            "default_price_max": 34000,
+            "sale_price_min": 34000,
+            "sale_price_max": 34000,
+            "seller_admin_id": 985738,
+            "sku_user": "nn55",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 985738,
+                "name": "Tiện Ích Việt Hưng Yên",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hưng Yên",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {}
+        },
+        {
+            "id": 116548047,
+            "name": "(Bộ 10) Khay giấy nến lót nồi chiên không dầu - giá sốc",
+            "category_path": "bo-10-khay-giay-nen-lot-noi-chien-khong-dau-gia-soc-116548047.html",
+            "image": "https://media3.scdn.vn/img4/2024/03_24/zPkdMqgM9hdcUTjgpKVl_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 24250,
+            "default_price_max": 24250,
+            "sale_price_min": 24250,
+            "sale_price_max": 24250,
+            "seller_admin_id": 985738,
+            "sku_user": "fq31sa",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 985738,
+                "name": "Tiện Ích Việt Hưng Yên",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hưng Yên",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {}
+        },
+        {
+            "id": 116308588,
+            "name": "[GIẢM GIÁ] Nồi Chiên Không Dầu Công Suất Cao Dung Tích Lớn, Bếp Chiên Đa Năng Có Chế Độ Hẹn Giờ Tự Động Ngắt Bảo Hành 12 Tháng",
+            "category_path": "giam-gia-noi-chien-khong-dau-cong-suat-cao-dung-tich-lon-bep-chien-da-nang-co-che-do-hen-gio-tu-dong-ngat-bao-hanh-12-thang-116308588.html",
+            "image": "https://media3.scdn.vn/img4/2024/01_14/BMuVUpaOKvbBxcdb0xMz_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 8000,
+            "default_price_max": 500000,
+            "sale_price_min": 1000,
+            "sale_price_max": 359000,
+            "sale_percent": 88,
+            "has_video": true,
+            "seller_admin_id": 984798,
+            "sku_user": "NỒI CHIÊN KHÔNG DẦU",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 984798,
+                "name": "Artnextech Store",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 116272594,
+            "name": "Nồi chiên không dầu 16L Ladomax HA-555 giảm dầu mỡ trong thức ăn, chiên được gà nguyên con-Giá xả kho",
+            "category_path": "noi-chien-khong-dau-16l-ladomax-ha-555-giam-dau-mo-trong-thuc-an-chien-duoc-ga-nguyen-con-gia-xa-kho-116272594.html",
+            "image": "https://media3.scdn.vn/img4/2023/12_30/FdgEGjgIdASg2u7nE6yY_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 3950000,
+            "default_price_max": 3950000,
+            "sale_price_min": 2490000,
+            "sale_price_max": 2490000,
+            "sale_percent": 37,
+            "seller_admin_id": 615405,
+            "sku_user": "3144_116272594",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 615405,
+                "name": "Điện Gia Dụng NuHa",
+                "status": 2,
+                "type": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_type": "https://media3.scdn.vn/img4/2022/08_30/Niw4htmWmKd2rNiMEHpE.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116272593,
+            "name": "Nồi chiên không dầu 16L Ladomax HA-555 giảm dầu mỡ trong thức ăn, chiên được gà nguyên con-Giá xả kho",
+            "category_path": "noi-chien-khong-dau-16l-ladomax-ha-555-giam-dau-mo-trong-thuc-an-chien-duoc-ga-nguyen-con-gia-xa-kho-116272593.html",
+            "image": "https://media3.scdn.vn/img4/2023/12_30/NmkAmyK7LtpnqlTq7ML0_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 3950000,
+            "default_price_max": 3950000,
+            "sale_price_min": 2490000,
+            "sale_price_max": 2490000,
+            "sale_percent": 37,
+            "seller_admin_id": 438593,
+            "sku_user": "3144_116272593",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 438593,
+                "name": "Gia Dụng NuHa",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 113390670,
+            "name": "Khay nướng đồ ăn cho nồi chiên không dầu 20.5cm sale sốc siêu tiện lợi",
+            "category_path": "khay-nuong-do-an-cho-noi-chien-khong-dau-205cm-sale-soc-sieu-tien-loi-113390670.html",
+            "image": "https://media3.scdn.vn/img4/2022/09_25/zVz9aqN96uJsi1qB0qn9_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 150750,
+            "default_price_max": 150750,
+            "sale_price_min": 150750,
+            "sale_price_max": 150750,
+            "seller_admin_id": 974009,
+            "sku_user": "ssstls0406s546",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 974009,
+                "name": "bvtshoponline247",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 113390666,
+            "name": "Nồi chiên không dầu 20cm - Nồi chiên không dầu sale sốc siêu tiện lợi",
+            "category_path": "noi-chien-khong-dau-20cm-noi-chien-khong-dau-sale-soc-sieu-tien-loi-113390666.html",
+            "image": "https://media3.scdn.vn/img4/2023/04_01/A9KEI0RWvbeiB4u1Afgq_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 149745,
+            "default_price_max": 149745,
+            "sale_price_min": 149745,
+            "sale_price_max": 149745,
+            "seller_admin_id": 974009,
+            "sku_user": "ssstls0366s546",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 974009,
+                "name": "bvtshoponline247",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 112000251,
+            "name": "DEAL Nồi Chiên Lọc Dầu Có Giá Gác Size 18Cm tiện ích ms365 fs DEAL",
+            "category_path": "deal-noi-chien-loc-dau-co-gia-gac-size-18cm-tie-n-i-ch-ms365-fs-deal-112000251.html",
+            "image": "https://media3.scdn.vn/img4/2021/11_11/KiQ7liAxTNrYMZxfQGQT_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 230000,
+            "default_price_max": 230000,
+            "sale_price_min": 230000,
+            "sale_price_max": 230000,
+            "seller_admin_id": 974009,
+            "sku_user": "DEAL0019s11",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 974009,
+                "name": "bvtshoponline247",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 107748236,
+            "name": "Gía sỉ tệp 100 Giấy Nến Lót Nồi Chiên Không Dầu Hình Khuôn Bánh (không hộp)",
+            "category_path": "gia-si-tep-100-giay-nen-lot-noi-chien-khong-dau-hinh-khuon-banh-khong-hop-107748236.html",
+            "image": "https://media3.scdn.vn/img4/2022/11_29/u61585cMWfa4jUkKTGDa_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 35000,
+            "default_price_max": 70000,
+            "sale_price_min": 25000,
+            "sale_price_max": 49000,
+            "sale_percent": 30,
+            "sold": 37,
+            "order_count_text": "37",
+            "has_video": true,
+            "seller_admin_id": 553154,
+            "sku_user": "lotnoi",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 553154,
+                "name": "shopbansigiadunghn",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hưng Yên",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 20,
+                "star": 4.5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 106872496,
+            "name": "Gía sỉ 100 Giấy Nến Lót Nồi Chiên Không Dầu Hình Khuôn Bánh (không hộp)",
+            "category_path": "gia-si-100-giay-nen-lot-noi-chien-khong-dau-hinh-khuon-banh-khong-hop-106872496.html",
+            "image": "https://media3.scdn.vn/img4/2022/11_10/pjwPs1S6XOq2tOCOA9bO_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 45000,
+            "default_price_max": 90000,
+            "sale_price_min": 12000,
+            "sale_price_max": 24000,
+            "sale_percent": 74,
+            "sold": 199,
+            "order_count_text": "199",
+            "seller_admin_id": 221146,
+            "sku_user": "LOTNOI",
+            "product_type": 23,
+            "like_counter": 1,
+            "active_event_frame": "sale_event",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 221146,
+                "name": "monkeybaby",
+                "is_certified": true,
+                "status": 2,
+                "level": 3,
+                "ware_house_region_name": "Hưng Yên",
+                "badge_urls": {
+                    "shop_level": "https://media3.scdn.vn/img4/2020/08_11/6UJO86aQpTH2jUlRCEQ3.png",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 91,
+                "star": 4.2
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 104902893,
+            "name": "[Giá hủy diệt] [Now-Grap] nồi chiên không dầu vũ trụ  nồi chiên cao cấp [Có sẵn]",
+            "category_path": "gia-huy-diet-now-grap-noi-chien-khong-dau-vu-tru-noi-chien-cao-cap-co-san-104902893.html",
+            "image": "https://media3.scdn.vn/img4/2022/10_18/dLPBh4jzOLlFk1GBWwN2_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 2326905,
+            "default_price_max": 2326905,
+            "sale_price_min": 2326905,
+            "sale_price_max": 2326905,
+            "seller_admin_id": 955795,
+            "sku_user": "3144_104902893",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 955795,
+                "name": "ĐTSNET",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 103919215,
+            "name": "Nồi chiên không dầu giảm giá sâu 638000 y-638",
+            "category_path": "noi-chien-khong-dau-giam-gia-sau-638000-y-638-103919215.html",
+            "image": "https://media3.scdn.vn/img4/2022/10_09/hea5Q7aVLRkupCWJdtj2_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 638000,
+            "default_price_max": 638000,
+            "sale_price_min": 638000,
+            "sale_price_max": 638000,
+            "sold": 2,
+            "order_count_text": "2",
+            "seller_admin_id": 812990,
+            "sku_user": "c638000",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 812990,
+                "name": "Hai yen quảng châu SLL",
+                "status": 2,
+                "ware_house_region_name": "Hưng Yên",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 103919194,
+            "name": "Nồi chiên không dầu trợ giá 748000 y-748",
+            "category_path": "noi-chien-khong-dau-tro-gia-748000-y-748-103919194.html",
+            "image": "https://media3.scdn.vn/img4/2022/10_09/ym9inXpeiSkpsK7xsBdl_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 748000,
+            "default_price_max": 748000,
+            "sale_price_min": 748000,
+            "sale_price_max": 748000,
+            "sold": 1,
+            "order_count_text": "1",
+            "seller_admin_id": 812990,
+            "sku_user": "c630000",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 812990,
+                "name": "Hai yen quảng châu SLL",
+                "status": 2,
+                "ware_house_region_name": "Hưng Yên",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 103919117,
+            "name": "Nồi chiên không dầu giảm giá sâu 551000 y-551",
+            "category_path": "noi-chien-khong-dau-giam-gia-sau-551000-y-551-103919117.html",
+            "image": "https://media3.scdn.vn/img4/2022/10_09/sTn2GwhkGwFV3w7vYueJ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 551000,
+            "default_price_max": 551000,
+            "sale_price_min": 551000,
+            "sale_price_max": 551000,
+            "sold": 2,
+            "order_count_text": "2",
+            "seller_admin_id": 812990,
+            "sku_user": "c551000",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 812990,
+                "name": "Hai yen quảng châu SLL",
+                "status": 2,
+                "ware_house_region_name": "Hưng Yên",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 2,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 103919100,
+            "name": "Nồi chiên không dầu trợ giá 543000 y-543",
+            "category_path": "noi-chien-khong-dau-tro-gia-543000-y-543-103919100.html",
+            "image": "https://media3.scdn.vn/img4/2022/10_09/u2t5hAoESQCszjAzaFIv_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 543000,
+            "default_price_max": 543000,
+            "sale_price_min": 543000,
+            "sale_price_max": 543000,
+            "sold": 3,
+            "order_count_text": "3",
+            "seller_admin_id": 812990,
+            "sku_user": "c543000",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 812990,
+                "name": "Hai yen quảng châu SLL",
+                "status": 2,
+                "ware_house_region_name": "Hưng Yên",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 103919023,
+            "name": "Nồi chiên không dầu giảm giá sâu 464000 y-464",
+            "category_path": "noi-chien-khong-dau-giam-gia-sau-464000-y-464-103919023.html",
+            "image": "https://media3.scdn.vn/img4/2022/10_09/hea5Q7aVLRkupCWJdtj2_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 464000,
+            "default_price_max": 464000,
+            "sale_price_min": 464000,
+            "sale_price_max": 464000,
+            "sold": 2,
+            "order_count_text": "2",
+            "seller_admin_id": 812990,
+            "sku_user": "c464000",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 812990,
+                "name": "Hai yen quảng châu SLL",
+                "status": 2,
+                "ware_house_region_name": "Hưng Yên",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 83082755,
+            "name": "Nồi Chiên Không Dầu Nine Shield Cho Gia Đình Dung Tích 8L Đa Năng Cực Tiện Lợi",
+            "category_path": "noi-chien-khong-dau-nine-shield-cho-gia-dinh-dung-tich-8l-da-nang-cuc-tien-loi-83082755.html",
+            "image": "https://media3.scdn.vn/img4/2022/04_19/Z7wc56otWI2tBZsNQdPF_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1190000,
+            "default_price_max": 1190000,
+            "sale_price_min": 1190000,
+            "sale_price_max": 1190000,
+            "seller_admin_id": 955795,
+            "sku_user": "3144_83082755",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 955795,
+                "name": "ĐTSNET",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 82004999,
+            "name": "\"[HCM]Bình xịt dầu ăn cho nồi chiên không dầu - Bình xịt dầu ăn phun xương đa năng thủy tinh đựng và phun xịt dấm nước gia vi mắm cho các món nướng thiết kế thông minh dễ sử dụng giúp tẩm ướp gia vị đều lock&lock - Sứa Spa\"",
+            "category_path": "hcmbinh-xit-dau-an-cho-noi-chien-khong-dau-binh-xit-dau-an-phun-xuong-da-nang-thuy-tinh-dung-va-phun-xit-dam-nuoc-gia-vi-mam-cho-cac-mon-nuong-thiet-ke-thong-minh-de-su-dung-giup-tam-uop-gia-vi-deu-lock-lock-sua-spa-82004999.html",
+            "image": "https://media3.scdn.vn/img4/2022/04_11/PVxlKNwESt936XZPt9Vz_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 59000,
+            "default_price_max": 59000,
+            "sale_price_min": 49000,
+            "sale_price_max": 49000,
+            "sale_percent": 17,
+            "seller_admin_id": 882098,
+            "sku_user": "1520_82004999",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 882098,
+                "name": "muanhanhgiatot6789",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 64015350,
+            "name": "Nồi Chiên Không Dầu Nine Shield Cho Gia Đình Dung Tích 8L Đa Năng Cực Tiện Lợi",
+            "category_path": "noi-chien-khong-dau-nine-shield-cho-gia-dinh-dung-tich-8l-da-nang-cuc-tien-loi-64015350.html",
+            "image": "https://media3.scdn.vn/img4/2021/11_12/o5IQ5sHbNgf1WcqOq8cR_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1190000,
+            "default_price_max": 1190000,
+            "sale_price_min": 1190000,
+            "sale_price_max": 1190000,
+            "seller_admin_id": 938420,
+            "sku_user": "3144_64015350",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 938420,
+                "name": "ĐT102",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 51441629,
+            "name": "Nồi chiên không dầu Camel 7L chính hãng giá sỉ bảo hành",
+            "category_path": "noi-chien-khong-dau-camel-7l-chinh-hang-gia-si-bao-hanh-51441629.html",
+            "image": "https://media3.scdn.vn/img4/2022/04_07/lcBbPZDXyiNRVJvZ503p_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 899000,
+            "default_price_max": 899000,
+            "sale_price_min": 499000,
+            "sale_price_max": 499000,
+            "sale_percent": 45,
+            "sold": 236,
+            "order_count_text": "236",
+            "seller_admin_id": 498004,
+            "sku_user": "nckf",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 498004,
+                "name": "Thuongphongshop",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hưng Yên",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 72,
+                "star": 4.9
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 48743416,
+            "name": "[ Chính hãng ] Combo Máy Chiếu T300 Đa Phương Tiện Gia Đình + Thiết Bị Kết nối HDMI Không Dây 2.4G/5G Từ Mobile, Tablet, Laptop ra Tivi 4K Anycast M100 Plus",
+            "category_path": "chinh-hang-combo-may-chieu-t300-da-phuong-tien-gia-dinh-thiet-bi-ket-noi-hdmi-khong-day-24g5g-tu-mobile-tablet-laptop-ra-tivi-4k-anycast-m100-plus-48743416.html",
+            "image": "https://media3.scdn.vn/img4/2021/08_23/aM7avMjOdqKb2Ow84O6A_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 2400000,
+            "default_price_max": 2400000,
+            "sale_price_min": 2400000,
+            "sale_price_max": 2400000,
+            "seller_admin_id": 131027,
+            "sku_user": "3295_48743416",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 131027,
+                "name": "BÌNH GIANG",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 40708273,
+            "name": "NỒI CHIÊN INOX PHONG CÁCH NHẬT BẢN CÓ NHIỆT KẾ VÀ NẮP ĐẬY GẮN GIÁ THOÁT DẦU 'BAHAMAR\" có gắn nhiệt kế kiểm soát nhiệt độ chiên và có giá thoát dầu cho thức ăn không bị đọng dầu dư thừa",
+            "category_path": "noi-chien-inox-phong-cach-nhat-ban-co-nhiet-ke-va-nap-day-gan-gia-thoat-dau-bahamar-co-gan-nhiet-ke-kiem-soat-nhiet-do-chien-va-co-gia-thoat-dau-cho-thuc-an-khong-bi-dong-dau-du-thua-40708273.html",
+            "image": "https://media3.scdn.vn/img4/2021/01_28/hkpoG2xX3b0wzSCmB0sC_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 865000,
+            "default_price_max": 895000,
+            "sale_price_min": 535000,
+            "sale_price_max": 565000,
+            "sale_percent": 39,
+            "seller_admin_id": 779603,
+            "sku_user": "0189",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 779603,
+                "name": "Bahamar",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 40643094,
+            "name": "NỒI CHIÊN KHÔNG DẦU CHEF&CHEF YJ-702 DUNG TÍCH ĐẠI 6,5L-GIÁ TÔT",
+            "category_path": "noi-chien-khong-dau-chef-chef-yj-702-dung-tich-dai-6-5l-gia-tot-40643094.html",
+            "image": "https://media3.scdn.vn/img4/2021/01_26/HnbTCVOWM0Yd7jMHwQnD_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 2050000,
+            "default_price_max": 2050000,
+            "sale_price_min": 2050000,
+            "sale_price_max": 2050000,
+            "seller_admin_id": 867979,
+            "sku_user": "CHEF\\u0026CHEF",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 867979,
+                "name": "Gia Dụng Nguyễn Huyền",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Phú Thọ",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 40121641,
+            "name": "[SIÊU KHUYẾN MÃI] Nồi chiên không dầu CAMEL LOẠI 1",
+            "category_path": "sieu-khuyen-mai-noi-chien-khong-dau-camel-loai-1-40121641.html",
+            "image": "https://media3.scdn.vn/img4/2021/01_16/YJV08BHs0NJqMcXzRSir_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 590000,
+            "default_price_max": 799000,
+            "sale_price_min": 390000,
+            "sale_price_max": 590000,
+            "sale_percent": 52,
+            "sold": 16,
+            "order_count_text": "16",
+            "has_video": true,
+            "seller_admin_id": 796768,
+            "sku_user": "DUY NHẤT 1 NGÀY",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 796768,
+                "name": "dogiadunghoangmai",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 6,
+                "star": 4.7
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 37333975,
+            "name": "Khăn ren trải bàn hoa văn nổi 3D sang trọng không những đẹp sang trọng, màu sắc trang nhã, mà còn tiện dụng và có giá trị sử dụng cao. \n/-li /-li /-li 35k\nSHOP GIAO MẪU NGẪU NHIÊN\nKích thước : 80 cm x 40 cm\nKhăn được sản xuất trên dây chuyền hiện đại",
+            "category_path": "khan-ren-trai-ban-hoa-van-noi-3d-sang-trong-khong-nhung-dep-sang-trong-mau-sac-trang-nha-ma-con-tien-dung-va-co-gia-tri-su-dung-cao-li-li-li-35k-shop-giao-mau-ngau-nhien-kich-thuoc-80-cm-x-40-cm-khan-duoc-san-xuat-tren-day-chuyen-hien-dai-37333975.html",
+            "image": "https://media3.scdn.vn/img4/2020/11_15/aBC6HmDYcLIiibcP12Es_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 35000,
+            "default_price_max": 35000,
+            "sale_price_min": 35000,
+            "sale_price_max": 35000,
+            "sold": 2,
+            "order_count_text": "2",
+            "seller_admin_id": 283181,
+            "sku_user": "NG3022",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 283181,
+                "name": "Shop NN",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Khánh Hòa",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        }
+    ]
+}

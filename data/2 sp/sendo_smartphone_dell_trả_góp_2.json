@@ -1,0 +1,81 @@
+{
+    "total_products": 2,
+    "products": [
+        {
+            "id": 34336880,
+            "name": "Hộp 12 Ly Cốc Thủy Tinh 8 Góc Uống Trà Nhỏ 150 Ml Deli Y5011 M2958",
+            "category_path": "hop-12-ly-coc-thuy-tinh-8-goc-uong-tra-nho-150-ml-deli-y5011-m2958-34336880.html",
+            "image": "https://media3.scdn.vn/img4/2020/09_29/yIFhbbMUndoXc0vzNT3U_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 95000,
+            "default_price_max": 95000,
+            "sale_price_min": 95000,
+            "sale_price_max": 95000,
+            "sold": 4,
+            "order_count_text": "4",
+            "discount_app": 2,
+            "seller_admin_id": 442039,
+            "sku_user": "0055002958",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 442039,
+                "name": "Evakitchen",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 34336858,
+            "name": "Bộ 6 Ly Cốc Thủy Tinh 8 Góc Uống Trà Nhỏ 150 Ml Deli Y5011 M2958",
+            "category_path": "bo-6-ly-coc-thuy-tinh-8-goc-uong-tra-nho-150-ml-deli-y5011-m2958-34336858.html",
+            "image": "https://media3.scdn.vn/img4/2020/09_29/jiJSJwkbSN3NqjoiNBQl_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 55000,
+            "default_price_max": 55000,
+            "sale_price_min": 55000,
+            "sale_price_max": 55000,
+            "discount_app": 2,
+            "seller_admin_id": 442039,
+            "sku_user": "0030002958",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 442039,
+                "name": "Evakitchen",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        }
+    ]
+}

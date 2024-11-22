@@ -1,0 +1,999 @@
+{
+    "total_products": 22,
+    "products": [
+        {
+            "id": 6633870,
+            "name": "Toshiba Siêu phẩm  cpu i5 4G 500GB Laptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD -laptop toshiba satellite dynabook i3 i5 i7n Mãi TẶng chuột và Túi thời trang văn phòng",
+            "category_path": "toshiba-sieu-pham-cpu-i5-4g-500gb-laptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-laptop-toshiba-satellite-dynabook-i3-i5-i7n-mai-tang-chuot-va-tui-thoi-trang-van-phong-6633870.html",
+            "image": "https://media3.scdn.vn/img2/2017/8_10/dp9VmV_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 3990000,
+            "default_price_max": 3990000,
+            "sale_price_min": 3990000,
+            "sale_price_max": 3990000,
+            "sold": 4,
+            "order_count_text": "4",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop toshiba",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 5684065,
+            "name": "MÁY TÍNH Hp-Elitebook 12in i7 620 4G Võ nhôm xinh xinh bỏ cóp xeLaptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD -laptop Hp Pavilion giá rẻ củ HP envy Hp i3 i5 i7",
+            "category_path": "may-tinh-hp-elitebook-12in-i7-620-4g-vo-nhom-xinh-xinh-bo-cop-xelaptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-laptop-hp-pavilion-gia-re-cu-hp-envy-hp-i3-i5-i7-5684065.html",
+            "image": "https://media3.scdn.vn/img2/2017/5_15/2OZuhj_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 3599000,
+            "default_price_max": 3599000,
+            "sale_price_min": 3589000,
+            "sale_price_max": 3589000,
+            "sale_percent": 1,
+            "sold": 2,
+            "order_count_text": "2",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "12xaa",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 23360377,
+            "name": "Laptop Toshiba 15.6in Cpu 2.2Ghz Gen 5 ram 8G SSD 256 Màn hình cảm ứng tay camera hdmi văn phòng giải trí game đồ hoạ",
+            "category_path": "laptop-toshiba-156in-cpu-22ghz-gen-5-ram-8g-ssd-256-man-hinh-cam-ung-tay-camera-hdmi-van-phong-giai-tri-game-do-hoa-23360377.html",
+            "image": "https://media3.scdn.vn/img4/2022/10_24/RRccqM5oPfIDrAjubcuf_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 3999000,
+            "default_price_max": 3999000,
+            "sale_price_min": 3999000,
+            "sale_price_max": 3999000,
+            "sold": 168,
+            "order_count_text": "168",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop laptopcu 2",
+            "product_type": 23,
+            "like_counter": 15,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 39,
+                "star": 4.4
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 26241114,
+            "name": "Laptop Toshiba 15.6in Cpu 2.2Ghz Gen 5 ram 8G SSD 256 Màn hình cảm ứng tay camera hdmi văn phòng giải trí game đồ hoạ Máy tính",
+            "category_path": "laptop-toshiba-156in-cpu-22ghz-gen-5-ram-8g-ssd-256-man-hinh-cam-ung-tay-camera-hdmi-van-phong-giai-tri-game-do-hoa-may-tinh-26241114.html",
+            "image": "https://media3.scdn.vn/img4/2022/10_06/6j1MEGTiubBansAGryOY_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 10000000,
+            "default_price_max": 10000000,
+            "sale_price_min": 10000000,
+            "sale_price_max": 10000000,
+            "sold": 3,
+            "order_count_text": "3",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop lenovo x200 x201 tablet.",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 9629653,
+            "name": "MÁY TÍNH Laptop Toshiba. chuẩn Made in Japan i5 8G 500G 15in Mạnh mẽ Xem đá banh  Laptop chính hãng đẹp giá rẻ giải trí ,facebook,zalo,Youtube Khuyến Mãi TẶng chuột và Túi thời trang văn phòng",
+            "category_path": "may-tinh-laptop-toshiba-chuan-made-in-japan-i5-8g-500g-15in-manh-me-xem-da-banh-laptop-chinh-hang-dep-gia-re-giai-tri-facebook-zalo-youtube-khuyen-mai-tang-chuot-va-tui-thoi-trang-van-phong-9629653.html",
+            "image": "https://media3.scdn.vn/img2/2017/12_5/7LNhoJ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 4499000,
+            "default_price_max": 4499000,
+            "sale_price_min": 4499000,
+            "sale_price_max": 4499000,
+            "sold": 1,
+            "order_count_text": "1",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop chính hãng đẹp rẻ tốt24",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 23854899,
+            "name": "Laptop Toshiba. giải trí i5 2410M 4G 320G đồ họa NVIDIA GeForce GT 525M (SSD 120G BH3Nam SSD) laptop chính hãng giá rẻ có Free ship có mã giảm giá Có Quà Tặng 0Đ",
+            "category_path": "laptop-toshiba-giai-tri-i5-2410m-4g-320g-do-hoa-nvidia-geforce-gt-525m-ssd-120g-bh3nam-ssd-laptop-chinh-hang-gia-re-co-free-ship-co-ma-giam-gia-co-qua-tang-0d-23854899.html",
+            "image": "https://media3.scdn.vn/img3/2019/11_22/INdaFo_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 3999000,
+            "default_price_max": 3999000,
+            "sale_price_min": 3999000,
+            "sale_price_max": 3999000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop toshiba. mỏng",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 10169682,
+            "name": "MÁY TÍNH Laptop Toshiba Z i5 4300 4G SSD {Quà Tết Tặng Bình lắc ly cafe} Laptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD -laptop toshiba satellite dynabook i3 i5 i7",
+            "category_path": "may-tinh-laptop-toshiba-z-i5-4300-4g-ssd-qua-tet-tang-binh-lac-ly-cafe-laptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-laptop-toshiba-satellite-dynabook-i3-i5-i7-10169682.html",
+            "image": "https://media3.scdn.vn/img2/2017/10_16/qfuImN_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 4999000,
+            "default_price_max": 4999000,
+            "sale_price_min": 4999000,
+            "sale_price_max": 4999000,
+            "sold": 4,
+            "order_count_text": "4",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "toshiba z30 r930 r732 z930",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 112178036,
+            "name": "Giá Đỡ Laptop Hợp Kim Nhôm Cao Cấp Có Thể Gấp Gọn, Giúp Tản Nhiệt Laptop, Macbook, Máy Tính Xách Tay. 07 Vị Trí Điều Chỉnh Góc Độ.",
+            "category_path": "gia-do-laptop-hop-kim-nhom-cao-cap-co-the-gap-gon-giup-tan-nhiet-laptop-macbook-may-tinh-xach-tay-07-vi-tri-dieu-chinh-goc-do-112178036.html",
+            "image": "https://media3.scdn.vn/img4/2023/03_24/19IQh1Nso8GcInipergn_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 149000,
+            "default_price_max": 149000,
+            "sale_price_min": 79000,
+            "sale_price_max": 79000,
+            "sale_percent": 47,
+            "sold": 2,
+            "order_count_text": "2",
+            "has_video": true,
+            "seller_admin_id": 552480,
+            "sku_user": "3289_112178036",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 552480,
+                "name": "LINH KIỆN 1984",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 1,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 84838783,
+            "name": "Laptop Toshiba 15.6in Cpu 2.2Ghz Gen 5 ram 8G SSD 256 Màn hình cảm ứng tay camera hdmi văn phòng giải trí game đồ hoạ Máy tính & Thiết bị văn phòng like new nhẹ và tốt máy tính đồng bộ dell optiplex  bộ máy tính bàn",
+            "category_path": "laptop-toshiba-156in-cpu-22ghz-gen-5-ram-8g-ssd-256-man-hinh-cam-ung-tay-camera-hdmi-van-phong-giai-tri-game-do-hoa-may-tinh-thiet-bi-van-phong-like-new-nhe-va-tot-may-tinh-dong-bo-dell-optiplex-bo-may-tinh-ban-84838783.html",
+            "image": "https://media3.scdn.vn/img4/2022/04_26/bZqhIo2z6flOU4vOpMOo_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 4999000,
+            "default_price_max": 4999000,
+            "sale_price_min": 4999000,
+            "sale_price_max": 4999000,
+            "sold": 1,
+            "order_count_text": "1",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop Toshiba 15.6in Cpu 2.2Ghz Gen 5 ram 8G",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 19787417,
+            "name": "Laptop Toshiba. NB200 13in 2G 10 inch Netbook xinh xinhLaptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD",
+            "category_path": "laptop-toshiba-nb200-13in-2g-10-inch-netbook-xinh-xinhlaptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-19787417.html",
+            "image": "https://media3.scdn.vn/img3/2019/7_10/p9qOwM_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 2500000,
+            "default_price_max": 2500000,
+            "sale_price_min": 2500000,
+            "sale_price_max": 2500000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop Toshiba. NB200 2g",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 19133254,
+            "name": "Laptop Toshiba, Satelite L10 core2duo 14in nhanh mạnh bền zin đẹp Laptop chính hãng Laptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD",
+            "category_path": "laptop-toshiba-satelite-l10-core2duo-14in-nhanh-manh-ben-zin-dep-laptop-chinh-hang-laptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-19133254.html",
+            "image": "https://media3.scdn.vn/img3/2019/6_12/GibMez_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1998000,
+            "default_price_max": 1998000,
+            "sale_price_min": 1998000,
+            "sale_price_max": 1998000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop toshiba, r930 r732 zin",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 17105095,
+            "name": "Laptop Toshiba. i5 2.6Ghz 8G 320G hàng nhật bản Văn phòng bền đẹp  Laptop chính hãng Laptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD",
+            "category_path": "laptop-toshiba-i5-26ghz-8g-320g-hang-nhat-ban-van-phong-ben-dep-laptop-chinh-hang-laptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-17105095.html",
+            "image": "https://media3.scdn.vn/img3/2019/3_31/ypwecr_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 4998000,
+            "default_price_max": 4998000,
+            "sale_price_min": 4998000,
+            "sale_price_max": 4998000,
+            "sold": 1,
+            "order_count_text": "1",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "toshiba. r940 r930 r732 r632 i5",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 16638579,
+            "name": "Laptop Toshiba. i7 2.9Ghz 8G 500G 15.6in Game Đồ Họa 3D Web Văn phòng 24h Laptop chính hãngLaptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD",
+            "category_path": "laptop-toshiba-i7-29ghz-8g-500g-156in-game-do-hoa-3d-web-van-phong-24h-laptop-chinh-hanglaptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-16638579.html",
+            "image": "https://media3.scdn.vn/img3/2019/3_12/wAttTj_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 5999000,
+            "default_price_max": 5999000,
+            "sale_price_min": 5999000,
+            "sale_price_max": 5999000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "toshiba. r940 r930 r732 z930",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 16638564,
+            "name": "Laptop Toshiba. i5 2.6Ghz 4G 320G  Chạy nhanh ổn định 24h Văn phòng Game Laptop chính hãng Laptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD",
+            "category_path": "laptop-toshiba-i5-26ghz-4g-320g-chay-nhanh-on-dinh-24h-van-phong-game-laptop-chinh-hang-laptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-16638564.html",
+            "image": "https://media3.scdn.vn/img3/2019/3_12/awVTdZ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 3900000,
+            "default_price_max": 3900000,
+            "sale_price_min": 3900000,
+            "sale_price_max": 3900000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "toshiba. r940 r930 r732 z30",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 16278042,
+            "name": "Laptop Toshiba. i3 4000 Thế hệ 4 15.6in 320G game BUG FiFa 3D CAD Laptop chính hãng Laptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD",
+            "category_path": "laptop-toshiba-i3-4000-the-he-4-156in-320g-game-bug-fifa-3d-cad-laptop-chinh-hang-laptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-16278042.html",
+            "image": "https://media3.scdn.vn/img3/2019/2_25/SXmiyO_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 3990000,
+            "default_price_max": 3990000,
+            "sale_price_min": 3990000,
+            "sale_price_max": 3990000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "toshiba. .r940 r930 r732 b554",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 16277340,
+            "name": "Laptop Toshiba. i5 4200 Thế hệ 4 15.6in game BUG FiFa 3D CAD Laptop chính hãng Laptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD",
+            "category_path": "laptop-toshiba-i5-4200-the-he-4-156in-game-bug-fifa-3d-cad-laptop-chinh-hang-laptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-16277340.html",
+            "image": "https://media3.scdn.vn/img3/2019/2_25/AXxJIN_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 3999000,
+            "default_price_max": 3999000,
+            "sale_price_min": 3999000,
+            "sale_price_max": 3999000,
+            "sold": 1,
+            "order_count_text": "1",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "toshiba. r930 r930 r732 b554",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 16277328,
+            "name": "Laptop Toshiba. i3 4000 Thế hệ 4 15.6in game BUG FiFa 3D CAD Laptop chính hãng Laptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD",
+            "category_path": "laptop-toshiba-i3-4000-the-he-4-156in-game-bug-fifa-3d-cad-laptop-chinh-hang-laptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-16277328.html",
+            "image": "https://media3.scdn.vn/img3/2019/2_25/VJGG8N_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 5000000,
+            "default_price_max": 5000000,
+            "sale_price_min": 5000000,
+            "sale_price_max": 5000000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "toshiba. r700 r930 r732 b554",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 13717105,
+            "name": "Laptop Toshiba. i5 2.6ghz 8G 320G japan siêu mạnh mẽ Game Đồ họa 3DLaptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD",
+            "category_path": "laptop-toshiba-i5-26ghz-8g-320g-japan-sieu-manh-me-game-do-hoa-3dlaptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-13717105.html",
+            "image": "https://media3.scdn.vn/img2/2018/8_2/yTmQY4_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 5599000,
+            "default_price_max": 5599000,
+            "sale_price_min": 5599000,
+            "sale_price_max": 5599000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop toshib.a b553 8g 2",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 12548648,
+            "name": "Laptop Toshiba. i7 4G 320G japan siêu mạnh mẽ Game Đồ họa 3D Laptop chính hãng đẹp giá rẻ giải trí Laptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD",
+            "category_path": "laptop-toshiba-i7-4g-320g-japan-sieu-manh-me-game-do-hoa-3d-laptop-chinh-hang-dep-gia-re-giai-tri-laptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-12548648.html",
+            "image": "https://media3.scdn.vn/img2/2018/8_2/GkS6YZ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 4999000,
+            "default_price_max": 4999000,
+            "sale_price_min": 4999000,
+            "sale_price_max": 4999000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop toshiba. b553 i7 vp",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 10945095,
+            "name": "Laptop Toshiba i7 4G 320G  {Quà Tết Tặng Bình lắc ly cafe} Laptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD -laptop toshiba satellite dynabook i3 i5 i7",
+            "category_path": "laptop-toshiba-i7-4g-320g-qua-tet-tang-binh-lac-ly-cafe-laptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-laptop-toshiba-satellite-dynabook-i3-i5-i7-10945095.html",
+            "image": "https://media3.scdn.vn/img2/2018/8_2/GkS6YZ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 4900000,
+            "default_price_max": 4900000,
+            "sale_price_min": 4900000,
+            "sale_price_max": 4900000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "toshiba r940 r930 r732 b552",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 10169586,
+            "name": "MÁY TÍNH Laptop Toshiba. core i5 SSD 13in mỏng nhẹ đầy tinh tế Laptop chính hãng đẹp giá rẻ giải trí ,facebook,zalo,Youtube Khuyến Mãi TẶng chuột và Túi thời trang văn phòng",
+            "category_path": "may-tinh-laptop-toshiba-core-i5-ssd-13in-mong-nhe-day-tinh-te-laptop-chinh-hang-dep-gia-re-giai-tri-facebook-zalo-youtube-khuyen-mai-tang-chuot-va-tui-thoi-trang-van-phong-10169586.html",
+            "image": "https://media3.scdn.vn/img2/2018/2_2/5ct3IJ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 4900000,
+            "default_price_max": 4900000,
+            "sale_price_min": 4900000,
+            "sale_price_max": 4900000,
+            "sold": 4,
+            "order_count_text": "4",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "toshiba. r940 r930 r30 z30",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 8325489,
+            "name": "MÁY TÍNH Laptop Hp Elitebook 2710p i7 12.5in nhỏ xinh gọn nhẹ bỏ cóp xeLaptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD -laptop Hp Pavilion giá rẻ củ HP envy Hp i3 i5 i7",
+            "category_path": "may-tinh-laptop-hp-elitebook-2710p-i7-125in-nho-xinh-gon-nhe-bo-cop-xelaptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-laptop-hp-pavilion-gia-re-cu-hp-envy-hp-i3-i5-i7-8325489.html",
+            "image": "https://media3.scdn.vn/img2/2017/12_29/BwIoRJ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 5500000,
+            "default_price_max": 5500000,
+            "sale_price_min": 5500000,
+            "sale_price_max": 5500000,
+            "sold": 1,
+            "order_count_text": "1",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop hp 2170p i7",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        }
+    ]
+}

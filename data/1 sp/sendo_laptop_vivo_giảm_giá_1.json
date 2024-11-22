@@ -1,0 +1,33 @@
+{
+    "total_products": 1,
+    "products": [
+        {
+            "id": 117058566,
+            "name": "Pin Laptop ASUS VIVO Book A441U F441U X441N X441S X441UA ZIN LOGO ASUS LAPTOPMINHKHOI",
+            "category_path": "pin-laptop-asus-vivo-book-a441u-f441u-x441n-x441s-x441ua-zin-logo-asus-laptopminhkhoi-117058566.html",
+            "image": "https://media3.scdn.vn/img4/2024/06_22/a1UhxzS3mtZ5nD7fCRkH_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 465000,
+            "default_price_max": 465000,
+            "sale_price_min": 465000,
+            "sale_price_max": 465000,
+            "seller_admin_id": 987512,
+            "sku_user": "1719073516",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 987512,
+                "name": "LAPTOPMINHKHOI",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {}
+        }
+    ]
+}

@@ -15,8 +15,41 @@ headers = {
 }
 
 # Danh sách từ khóa danh mục sản phẩm
-keywords = [ "2339" ]
+# keywords = ["may-co-khi-va-che-tao,trang-tri-ban","set-trang-phuc","quan-shorts-nam","bep-dien-am-dun","tro-choi","sim-card-dung-cu-chuyen-doi-sim","kinh-mat-nam"]
 
+# Các danh mục sản phẩm cơ bản
+categories = [
+    "smartphone", "laptop", "tai nghe", "tủ lạnh", "máy giặt", 
+    "máy lạnh", "nồi chiên không dầu", "bếp điện", "loa bluetooth", 
+    "đèn trang trí", "chăn ga gối đệm", "giày thể thao", "váy", 
+    "túi xách", "nước hoa", "kem dưỡng da", "thực phẩm chức năng"
+]
+
+# Các thương hiệu hoặc từ khóa bổ sung
+brands = [
+    "samsung", "apple", "xiaomi", "asus", "dell", "sony", "panasonic", 
+    "lg", "philips", "toshiba", "realme", "oppo", "vivo", "hp", "lenovo"
+]
+
+# Các thuộc tính bổ sung
+attributes = [
+    "giá rẻ", "cao cấp", "tốt nhất", "mới nhất", "giảm giá", "hàng mới", 
+    "hàng chính hãng", "giá ưu đãi", "trả góp"
+]
+
+
+keywords = []
+for category in categories:
+    for brand in brands:
+        for attribute in attributes:
+            keywords.append(f"{category} {brand} {attribute}")
+            if len(keywords) >= 1000:  # Dừng khi đủ 1,000 từ khóa
+                break
+        if len(keywords) >= 1000:
+            break
+    if len(keywords) >= 1000:
+        break
+  
 # Hàm thu thập sản phẩm từ một từ khóa
 def collect_products(keyword):
     page = 1  # Bắt đầu từ trang đầu tiên
@@ -68,11 +101,11 @@ def collect_products(keyword):
             break
 
     # Lưu tất cả sản phẩm vào một tệp JSON duy nhất
-    file_name = f"sendo_{keyword.replace(' ', '_')}.json"
-    with open(file_name, "w", encoding="utf-8") as f:
-        json.dump({"total_products": total_products_collected, "products": all_products}, f, ensure_ascii=False, indent=4)
-
-    print(f"--- Đã thu thập tổng cộng {total_products_collected} sản phẩm cho từ khóa '{keyword}' và lưu vào {file_name} ---")
+    if total_products_collected != 0:
+        file_name = f"sendo_{keyword.replace(' ', '_')}_{total_products_collected}.json"
+        with open(file_name, "w", encoding="utf-8") as f:
+            json.dump({"total_products": total_products_collected, "products": all_products}, f, ensure_ascii=False, indent=4)
+        print(f"--- Đã thu thập tổng cộng {total_products_collected} sản phẩm cho từ khóa '{keyword}' và lưu vào {file_name} ---")
 
 # Lặp qua danh sách từ khóa
 for keyword in keywords:

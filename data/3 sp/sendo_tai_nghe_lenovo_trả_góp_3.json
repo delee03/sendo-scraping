@@ -1,0 +1,113 @@
+{
+    "total_products": 3,
+    "products": [
+        {
+            "id": 116588674,
+            "name": "Tai nghe Headphone LECOO HT401 LED Box Chính hãng (1 jack 3.5mm TRRS Headset + Jack USB Led, Kèm cáp gộp audio)",
+            "category_path": "tai-nghe-headphone-lecoo-ht401-led-box-chinh-hang-1-jack-35mm-trrs-headset-jack-usb-led-kem-cap-gop-audio-116588674.html",
+            "image": "https://media3.scdn.vn/img4/2024/05_01/FU4PmL9RSf1LKYH1MR94_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 341000,
+            "default_price_max": 341000,
+            "sale_price_min": 341000,
+            "sale_price_max": 341000,
+            "seller_admin_id": 289839,
+            "sku_user": "LECOOHT401",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 289839,
+                "name": "VI TÍNH QUỐC DUY",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116564869,
+            "name": "Quạt đỏ cành hoa mai vàng Việt Nam cao 90 cm,xòe rộng 160 cm nghệ nhân vẽ tay- quạt gấp vải treo tường quà lưu niệm trang trí tết ý nghĩa sang trọng- Nhận vẽ nội dung theo yêu cầu",
+            "category_path": "quat-do-canh-hoa-mai-vang-viet-nam-cao-90-cm-xoe-rong-160-cm-nghe-nhan-ve-tay-quat-gap-vai-treo-tuong-qua-luu-niem-trang-tri-tet-y-nghia-sang-trong-nhan-ve-noi-dung-theo-yeu-cau-116564869.html",
+            "image": "https://media3.scdn.vn/img4/2024/04_13/wx7EVs1uG1Szl1JG12UF_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 650000,
+            "default_price_max": 650000,
+            "sale_price_min": 650000,
+            "sale_price_max": 650000,
+            "seller_admin_id": 403014,
+            "sku_user": "QTT15",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 403014,
+                "name": "CẢNH ĐÔNG",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Bình Định",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 94457375,
+            "name": "Tai nghe Lenovo HD200 loại bỏ tiếng ồn bluetooth 5.0 có thể gấp gọn nghe nhạc thích hợp IOS, Android",
+            "category_path": "tai-nghe-lenovo-hd200-loai-bo-tieng-on-bluetooth-50-co-the-gap-gon-nghe-nhac-thich-hop-ios-android-94457375.html",
+            "image": "https://media3.scdn.vn/img4/2022/06_09/pzzKQBbp78yebY61JdgX_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 349000,
+            "default_price_max": 349000,
+            "sale_price_min": 349000,
+            "sale_price_max": 349000,
+            "seller_admin_id": 312205,
+            "sku_user": "tainghehd200",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 312205,
+                "name": "trung tâm thiết bị số hà nội",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        }
+    ]
+}
