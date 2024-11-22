@@ -1,0 +1,1219 @@
+{
+    "total_products": 34,
+    "products": [
+        {
+            "id": 45312446,
+            "name": "Ốc laptop Apple MacBook Pro 13 \"15\" 17 \"A1278 A1286 A1297",
+            "category_path": "oc-laptop-apple-macbook-pro-13-15-17-a1278-a1286-a1297-45312446.html",
+            "image": "https://media3.scdn.vn/img4/2021/06_16/SPUbEIHNbwl26c6zbXJr_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 55000,
+            "default_price_max": 55000,
+            "sale_price_min": 55000,
+            "sale_price_max": 55000,
+            "seller_admin_id": 36251,
+            "sku_user": "AP1278O",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 36251,
+                "name": "dhgstore",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 27583782,
+            "name": "Sạc laptop Apple  Macbook 14.5V-3.1A  45W  magsafe1 2008-2011",
+            "category_path": "sac-laptop-apple-macbook-145v-31a-45w-magsafe1-2008-2011-27583782.html",
+            "image": "https://media3.scdn.vn/img4/2020/03_18/8qSd3kq3QUW0H1P9kQ2g_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 455000,
+            "default_price_max": 550000,
+            "sale_price_min": 455000,
+            "sale_price_max": 550000,
+            "seller_admin_id": 36251,
+            "sku_user": "AP451AC",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 36251,
+                "name": "dhgstore",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 32435777,
+            "name": "Sạc laptop Apple Macbook 61W USB-C A1718",
+            "category_path": "sac-laptop-apple-macbook-61w-usb-c-a1718-32435777.html",
+            "image": "https://media3.scdn.vn/img4/2020/08_14/nV6E7STE6ASrcl0LGOhm_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 990000,
+            "default_price_max": 990000,
+            "sale_price_min": 990000,
+            "sale_price_max": 990000,
+            "seller_admin_id": 36251,
+            "sku_user": "AP61AC",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 36251,
+                "name": "dhgstore",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 28907127,
+            "name": "Fan quạt tản nhiệt CPU laptop Apple Macbook Air 11 \" A1370 2011 A1465 2012-2015",
+            "category_path": "fan-quat-tan-nhiet-cpu-laptop-apple-macbook-air-11-a1370-2011-a1465-2012-2015-28907127.html",
+            "image": "https://media3.scdn.vn/img4/2021/06_03/bxPQD4eI4LTaYoURTm3d_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 200000,
+            "default_price_max": 285000,
+            "sale_price_min": 200000,
+            "sale_price_max": 285000,
+            "sold": 1,
+            "order_count_text": "1",
+            "seller_admin_id": 36251,
+            "sku_user": "AP1465F",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 36251,
+                "name": "dhgstore",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 16871191,
+            "name": "Sạc laptop Apple  Macbook 14.5V-3.1A  45W  magsafe1 2008-2011",
+            "category_path": "sac-laptop-apple-macbook-145v-31a-45w-magsafe1-2008-2011-16871191.html",
+            "image": "https://media3.scdn.vn/img3/2019/3_21/aWj2z9_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 495000,
+            "default_price_max": 495000,
+            "sale_price_min": 495000,
+            "sale_price_max": 495000,
+            "sold": 2,
+            "order_count_text": "2",
+            "seller_admin_id": 36251,
+            "sku_user": "AP4511AC",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 36251,
+                "name": "dhgstore",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 12337830,
+            "name": "Sạc laptop Apple MacBook 87W USB-C  A1719",
+            "category_path": "sac-laptop-apple-macbook-87w-usb-c-a1719-12337830.html",
+            "image": "https://media3.scdn.vn/img2/2018/10_18/RjEpUU_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1100000,
+            "default_price_max": 1100000,
+            "sale_price_min": 1100000,
+            "sale_price_max": 1100000,
+            "seller_admin_id": 36251,
+            "sku_user": "AP87AC",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 36251,
+                "name": "dhgstore",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 28905277,
+            "name": "Fan quạt tản nhiệt CPU laptop  Apple Macbook Pro Unibody 13 \" A1278 A1342 2008 2009 2010 2011",
+            "category_path": "fan-quat-tan-nhiet-cpu-laptop-apple-macbook-pro-unibody-13-a1278-a1342-2008-2009-2010-2011-28905277.html",
+            "image": "https://media3.scdn.vn/img4/2021/06_17/sobssjtMnpn2ufvmujCx_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 250000,
+            "default_price_max": 350000,
+            "sale_price_min": 250000,
+            "sale_price_max": 350000,
+            "sold": 2,
+            "order_count_text": "2",
+            "seller_admin_id": 36251,
+            "sku_user": "AP1278F",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 36251,
+                "name": "dhgstore",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 28906371,
+            "name": "Fan quạt tản nhiệt CPU laptop Apple Macbook Air 13 \"A1369  A1466 2010-2015",
+            "category_path": "fan-quat-tan-nhiet-cpu-laptop-apple-macbook-air-13-a1369-a1466-2010-2015-28906371.html",
+            "image": "https://media3.scdn.vn/img4/2021/06_03/iV56ngWHtLctQ1dM9cvG_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 200000,
+            "default_price_max": 285000,
+            "sale_price_min": 200000,
+            "sale_price_max": 285000,
+            "seller_admin_id": 36251,
+            "sku_user": "AP1466F",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 36251,
+                "name": "dhgstore",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 16889145,
+            "name": "Sạc laptop Apple Macbook  29W  USB-C A1540",
+            "category_path": "sac-laptop-apple-macbook-29w-usb-c-a1540-16889145.html",
+            "image": "https://media3.scdn.vn/img3/2019/3_22/d74PxV_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 850000,
+            "default_price_max": 850000,
+            "sale_price_min": 850000,
+            "sale_price_max": 850000,
+            "seller_admin_id": 36251,
+            "sku_user": "AP29AC",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 36251,
+                "name": "dhgstore",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 28909085,
+            "name": "Dây nguồn nối dài sạc laptop Apple Macbook 1.5M",
+            "category_path": "day-nguon-noi-dai-sac-laptop-apple-macbook-15m-28909085.html",
+            "image": "https://media3.scdn.vn/img4/2020/04_24/kE8iwfB1bau5J1rL5yLq_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 195000,
+            "default_price_max": 195000,
+            "sale_price_min": 195000,
+            "sale_price_max": 195000,
+            "seller_admin_id": 36251,
+            "sku_user": "AP15D",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 36251,
+                "name": "dhgstore",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 17974922,
+            "name": "Pin laptop Apple MacBook 13  A1278  A1280 Mid 2008",
+            "category_path": "pin-laptop-apple-macbook-13-a1278-a1280-mid-2008-17974922.html",
+            "image": "https://media3.scdn.vn/img3/2019/5_8/kBwLbO_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 890000,
+            "default_price_max": 890000,
+            "sale_price_min": 890000,
+            "sale_price_max": 890000,
+            "seller_admin_id": 36251,
+            "sku_user": "AP1280ZLH",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 36251,
+                "name": "dhgstore",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 19010921,
+            "name": "Bàn phím laptop Apple MacBook Pro 13 inch A1278",
+            "category_path": "ban-phim-laptop-apple-macbook-pro-13-inch-a1278-19010921.html",
+            "image": "https://media3.scdn.vn/img4/2022/11_03/jhEpZvleeOFA4Oj25W2Y_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 255000,
+            "default_price_max": 355000,
+            "sale_price_min": 255000,
+            "sale_price_max": 355000,
+            "sold": 3,
+            "order_count_text": "3",
+            "seller_admin_id": 36251,
+            "sku_user": "AP1278K",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 36251,
+                "name": "dhgstore",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 16870553,
+            "name": "Sạc laptop Apple Macbook 16.4V-3.65A  60W Magsafe A1344",
+            "category_path": "sac-laptop-apple-macbook-164v-365a-60w-magsafe-a1344-16870553.html",
+            "image": "https://media3.scdn.vn/img4/2021/09_22/pZ8gEHBZC3aEuSr8FPpJ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 455000,
+            "default_price_max": 550000,
+            "sale_price_min": 455000,
+            "sale_price_max": 550000,
+            "sold": 2,
+            "order_count_text": "2",
+            "seller_admin_id": 36251,
+            "sku_user": "APA1344AC",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 36251,
+                "name": "dhgstore",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 16888320,
+            "name": "Sạc laptop Apple Macbook 20V-4.25A 85W Magsafe 2",
+            "category_path": "sac-laptop-apple-macbook-20v-425a-85w-magsafe-2-16888320.html",
+            "image": "https://media3.scdn.vn/img3/2019/3_22/OW28rF_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 590000,
+            "default_price_max": 590000,
+            "sale_price_min": 590000,
+            "sale_price_max": 590000,
+            "seller_admin_id": 36251,
+            "sku_user": "AP852AC",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 36251,
+                "name": "dhgstore",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 117000945,
+            "name": "Đầu chuyển đổi HOCO HB14 chia cổng Type C 3.1 sang USB3.0 HDMI Type C video 4K/ 2K thích hợp cho laptop Apple Hoco Mall",
+            "category_path": "dau-chuyen-doi-hoco-hb14-chia-cong-type-c-31-sang-usb30-hdmi-type-c-video-4k-2k-thich-hop-cho-laptop-apple-hoco-mall-117000945.html",
+            "image": "https://media3.scdn.vn/img4/2024/05_31/FGpXeoQFoK25WfRT7g3B_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 476000,
+            "default_price_max": 476000,
+            "sale_price_min": 476000,
+            "sale_price_max": 476000,
+            "seller_admin_id": 986985,
+            "sku_user": "hb14",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 986985,
+                "name": "Hoco Việt Nam",
+                "status": 2,
+                "type": 2,
+                "ware_house_region_name": "Bình Thuận",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": "https://media3.scdn.vn/img4/2022/08_30/Niw4htmWmKd2rNiMEHpE.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 48141758,
+            "name": "Cáp bàn phím laptop Apple Macbook Pro 13 Inch A1989 2018 2019 821-01699-A",
+            "category_path": "cap-ban-phim-laptop-apple-macbook-pro-13-inch-a1989-2018-2019-821-01699-a-48141758.html",
+            "image": "https://media3.scdn.vn/img4/2021/07_24/qXNqNf3p1oAMul5pnChc_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 155000,
+            "default_price_max": 255000,
+            "sale_price_min": 155000,
+            "sale_price_max": 255000,
+            "seller_admin_id": 36251,
+            "sku_user": "AP1989CK",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 36251,
+                "name": "dhgstore",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 48139963,
+            "name": "Cáp bàn phím laptop Apple MacBook Pro 15\" A1990 2018 2019 821-01664-A",
+            "category_path": "cap-ban-phim-laptop-apple-macbook-pro-15-a1990-2018-2019-821-01664-a-48139963.html",
+            "image": "https://media3.scdn.vn/img4/2021/07_24/3FZjQsSR272xGTAz6PFp_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 155000,
+            "default_price_max": 255000,
+            "sale_price_min": 155000,
+            "sale_price_max": 255000,
+            "seller_admin_id": 36251,
+            "sku_user": "AP1990CK",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 36251,
+                "name": "dhgstore",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 48136906,
+            "name": "Cáp pin laptop Apple Macbook Pro 15 Inch  A1990 2018 821-01648",
+            "category_path": "cap-pin-laptop-apple-macbook-pro-15-inch-a1990-2018-821-01648-48136906.html",
+            "image": "https://media3.scdn.vn/img4/2021/07_24/fExJXsEySsvqF9pzyw5w_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 155000,
+            "default_price_max": 250000,
+            "sale_price_min": 155000,
+            "sale_price_max": 250000,
+            "seller_admin_id": 36251,
+            "sku_user": "AP1990CB",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 36251,
+                "name": "dhgstore",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 48113161,
+            "name": "Fan quạt tản nhiệt CPU laptop Apple Macbook Pro Retina A1708 2016 2017",
+            "category_path": "fan-quat-tan-nhiet-cpu-laptop-apple-macbook-pro-retina-a1708-2016-2017-48113161.html",
+            "image": "https://media3.scdn.vn/img4/2021/07_23/cDdttBYihLrrwqnbUZdK_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 350000,
+            "default_price_max": 450000,
+            "sale_price_min": 350000,
+            "sale_price_max": 450000,
+            "seller_admin_id": 36251,
+            "sku_user": "AP1708F",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 36251,
+                "name": "dhgstore",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 48050609,
+            "name": "Loa Laptop Apple MacBook Pro Retina 13 Inch  A1708 2016 2017",
+            "category_path": "loa-laptop-apple-macbook-pro-retina-13-inch-a1708-2016-2017-48050609.html",
+            "image": "https://media3.scdn.vn/img4/2021/07_21/MEtoIhVE4rJzGZYkLUZl_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 450000,
+            "default_price_max": 850000,
+            "sale_price_min": 450000,
+            "sale_price_max": 850000,
+            "seller_admin_id": 36251,
+            "sku_user": "AP1708L",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 36251,
+                "name": "dhgstore",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 48048199,
+            "name": "Loa Laptop Apple MacBook Retina 12 A1534 2015 2016",
+            "category_path": "loa-laptop-apple-macbook-retina-12-a1534-2015-2016-48048199.html",
+            "image": "https://media3.scdn.vn/img4/2021/07_21/00vhSS97i7lreJ5fARsX_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 350000,
+            "default_price_max": 650000,
+            "sale_price_min": 350000,
+            "sale_price_max": 650000,
+            "seller_admin_id": 36251,
+            "sku_user": "AP1534L",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 36251,
+                "name": "dhgstore",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 48027691,
+            "name": "Loa Laptop Apple Macbook Air 13.3 Inch A1369 2011 A1466 2012 2013 2014 2015",
+            "category_path": "loa-laptop-apple-macbook-air-133-inch-a1369-2011-a1466-2012-2013-2014-2015-48027691.html",
+            "image": "https://media3.scdn.vn/img4/2021/07_20/XgyLnAQLGFX4XvEYUBF2_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 350000,
+            "default_price_max": 650000,
+            "sale_price_min": 350000,
+            "sale_price_max": 650000,
+            "seller_admin_id": 36251,
+            "sku_user": "AP1369L",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 36251,
+                "name": "dhgstore",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 48018320,
+            "name": "Loa laptop Apple Macbook Pro 13 Inch A1278 2011 2012",
+            "category_path": "loa-laptop-apple-macbook-pro-13-inch-a1278-2011-2012-48018320.html",
+            "image": "https://media3.scdn.vn/img4/2021/07_20/4VTsAWPtTKcnOjh4ra59_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 155000,
+            "default_price_max": 295000,
+            "sale_price_min": 155000,
+            "sale_price_max": 295000,
+            "seller_admin_id": 36251,
+            "sku_user": "AP1278L",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 36251,
+                "name": "dhgstore",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 47968065,
+            "name": "Loa laptop Apple MacBook Pro Retina 15\" A1398 2012 2013 2014 2015",
+            "category_path": "loa-laptop-apple-macbook-pro-retina-15-a1398-2012-2013-2014-2015-47968065.html",
+            "image": "https://media3.scdn.vn/img4/2022/01_14/GtxFa3WzPEqyUFXcDEFB_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 250000,
+            "default_price_max": 450000,
+            "sale_price_min": 250000,
+            "sale_price_max": 450000,
+            "seller_admin_id": 36251,
+            "sku_user": "AP1398L",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 36251,
+                "name": "dhgstore",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 46776911,
+            "name": "Fan quạt tản nhiệt CPU laptop Apple Macbook Pro Retina 13 A1706  2016 2017",
+            "category_path": "fan-quat-tan-nhiet-cpu-laptop-apple-macbook-pro-retina-13-a1706-2016-2017-46776911.html",
+            "image": "https://media3.scdn.vn/img4/2021/07_07/aGjiQbBkOG2koasCGvfG_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 295000,
+            "default_price_max": 550000,
+            "sale_price_min": 295000,
+            "sale_price_max": 550000,
+            "seller_admin_id": 36251,
+            "sku_user": "AP1706F",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 36251,
+                "name": "dhgstore",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 43736219,
+            "name": "Sạc Laptop Appple Macbook 13'' and macbook pro 13'' MA700LL/A MA699LL/A MA472LL/A  MA255LL/A MB467J/A  chuẩn hãng 60w",
+            "category_path": "sac-laptop-appple-macbook-13-and-macbook-pro-13-ma700lla-ma699lla-ma472lla-ma255lla-mb467ja-chuan-hang-60w-43736219.html",
+            "image": "https://media3.scdn.vn/img4/2021/05_14/zBd0jXiew19bJJNKMN97_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 395000,
+            "default_price_max": 495000,
+            "sale_price_min": 395000,
+            "sale_price_max": 495000,
+            "has_video": true,
+            "seller_admin_id": 315691,
+            "sku_user": "MA700LL/A MA699LL/A MA472LL/A  MA255LL/A",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 315691,
+                "name": "vumyzonsilk",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 43736012,
+            "name": "Sạc Laptop Apple Macbook 13'' and macbook pro 13'' MB062LL/A , MB062LL/B, MB061LL/B, MA701LL/A MB467LL/A hàng cao cấp 60w",
+            "category_path": "sac-laptop-apple-macbook-13-and-macbook-pro-13-mb062lla-mb062llb-mb061llb-ma701lla-mb467lla-hang-cao-cap-60w-43736012.html",
+            "image": "https://media3.scdn.vn/img4/2021/05_14/lxu1Xu1PtdudDJojgX4m_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 395000,
+            "default_price_max": 495000,
+            "sale_price_min": 395000,
+            "sale_price_max": 495000,
+            "has_video": true,
+            "seller_admin_id": 315691,
+            "sku_user": "MB062LL/A , MB062LL/B, MB061LL/B, MA701LL/A",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 315691,
+                "name": "vumyzonsilk",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 43735532,
+            "name": "Sạc Laptop Apple Macbook 13'' and macbook pro 13'' MA090LL MA254LL/A MA463LL/A MB063LL/A MB063LL/B cao cấp 60w",
+            "category_path": "sac-laptop-apple-macbook-13-and-macbook-pro-13-ma090ll-ma254lla-ma463lla-mb063lla-mb063llb-cao-cap-60w-43735532.html",
+            "image": "https://media3.scdn.vn/img4/2021/05_14/pXSRdfh662hx0UzVwyuf_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 395000,
+            "default_price_max": 495000,
+            "sale_price_min": 395000,
+            "sale_price_max": 495000,
+            "has_video": true,
+            "seller_admin_id": 315691,
+            "sku_user": "MA090LL MA254LL/A MA463LL/A MB063LL/A MB063LL",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 315691,
+                "name": "vumyzonsilk",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 43734609,
+            "name": "Sạc Laptop Apple Macbook 13'' and macbook pro 13'' MA609LL , MA092LL/A , MA601LL, MA600LL chuẩn 60w cao cấp",
+            "category_path": "sac-laptop-apple-macbook-13-and-macbook-pro-13-ma609ll-ma092lla-ma601ll-ma600ll-chuan-60w-cao-cap-43734609.html",
+            "image": "https://media3.scdn.vn/img4/2021/05_14/bf9qid0Ly0sCcgyDsdQX_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 395000,
+            "default_price_max": 495000,
+            "sale_price_min": 395000,
+            "sale_price_max": 495000,
+            "has_video": true,
+            "seller_admin_id": 315691,
+            "sku_user": "MA609LL , MA092LL/A , MA601LL, MA600LL",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 315691,
+                "name": "vumyzonsilk",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 43734364,
+            "name": "Sạc Laptop Apple Macbook 13'' and macbook pro 13'' MA895LL/A ,MA895LL , MA896LL/A MA611LL/A chuẩn 60w chân L",
+            "category_path": "sac-laptop-apple-macbook-13-and-macbook-pro-13-ma895lla-ma895ll-ma896lla-ma611lla-chuan-60w-chan-l-43734364.html",
+            "image": "https://media3.scdn.vn/img4/2021/05_14/VoHbxXO6CPWQg4KQ0e1K_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 395000,
+            "default_price_max": 495000,
+            "sale_price_min": 395000,
+            "sale_price_max": 495000,
+            "has_video": true,
+            "seller_admin_id": 315691,
+            "sku_user": "MA895LL/A ,MA895LL , MA896LL/A, MA611LL/A",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 315691,
+                "name": "vumyzonsilk",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 1
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 40885287,
+            "name": "Fan quạt tản nhiệt CPU-GPU laptop Apple Macbook Pro 15 A1286 2008 2009 2010 2011",
+            "category_path": "fan-quat-tan-nhiet-cpu-gpu-laptop-apple-macbook-pro-15-a1286-2008-2009-2010-2011-40885287.html",
+            "image": "https://media3.scdn.vn/img4/2023/03_11/yoNOpMAVNVfxTKwVhKwS_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 255000,
+            "default_price_max": 495000,
+            "sale_price_min": 255000,
+            "sale_price_max": 495000,
+            "seller_admin_id": 36251,
+            "sku_user": "APA1286F",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 36251,
+                "name": "dhgstore",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 38517322,
+            "name": "Bàn phím laptop Apple Macbook Pro Unibody 15 \" A1286  2008",
+            "category_path": "ban-phim-laptop-apple-macbook-pro-unibody-15-a1286-2008-38517322.html",
+            "image": "https://media3.scdn.vn/img4/2020/12_19/vK9igdy497DSfZybERHd_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 355000,
+            "default_price_max": 355000,
+            "sale_price_min": 355000,
+            "sale_price_max": 355000,
+            "sold": 1,
+            "order_count_text": "1",
+            "seller_admin_id": 36251,
+            "sku_user": "AP1286K8",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 36251,
+                "name": "dhgstore",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 26180148,
+            "name": "Laptop Apple Macbook Pro Touch 2019 i5 quad core 1.4GHz 8GB 128GB 13.3in MUHN2SA.A BẢO HÀNH TGDD 6 THÁNG",
+            "category_path": "laptop-apple-macbook-pro-touch-2019-i5-quad-core-14ghz-8gb-128gb-133in-muhn2saa-bao-hanh-tgdd-6-thang-26180148.html",
+            "image": "https://media3.scdn.vn/img4/2020/02_23/8dcOK1S6BpW5cKAB9jQZ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 31700000,
+            "default_price_max": 31700000,
+            "sale_price_min": 31700000,
+            "sale_price_max": 31700000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop Macbook Pro 2019 tgdd",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 26167984,
+            "name": "KHÔNG SHIP COD LAPTOP APPLE MACBOOK PRO TOUCH MPTR2SA.A I7 2.8GHZ 16GB 256GB BH 6 THÁNG TGDĐ",
+            "category_path": "khong-ship-cod-laptop-apple-macbook-pro-touch-mptr2saa-i7-28ghz-16gb-256gb-bh-6-thang-tgdd-26167984.html",
+            "image": "https://media3.scdn.vn/img4/2020/02_22/NHC7mnAo72o2e9NIA5Z9_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 52000000,
+            "default_price_max": 52000000,
+            "sale_price_min": 52000000,
+            "sale_price_max": 52000000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "macbook pro mptr2sa.a",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        }
+    ]
+}

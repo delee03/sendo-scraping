@@ -1,0 +1,181 @@
+{
+    "total_products": 5,
+    "products": [
+        {
+            "id": 118805525,
+            "name": "Cốc sạc nhanh Hoco N23 45W cho các dòng máy iPhone, Samsung, Oppo mới...và máy tính xách tay, laptop, Macbook... với cổng sạc type C [Được kiểm hàng] 111411978",
+            "category_path": "coc-sac-nhanh-hoco-n23-45w-cho-cac-dong-may-iphone-samsung-oppo-moiva-may-tinh-xach-tay-laptop-macbook-voi-cong-sac-type-c-duo-c-kie-m-ha-ng-111411978-118805525.html",
+            "image": "https://media3.scdn.vn/img4/2023/03_01/FF9V9JmU5Z6kBrPxPmrM_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 710000,
+            "default_price_max": 710000,
+            "sale_price_min": 603500,
+            "sale_price_max": 603500,
+            "sale_percent": 15,
+            "seller_admin_id": 988982,
+            "sku_user": "111411978",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988982,
+                "name": "Gì Cũng Có Shop 1vmc38u4uu",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118598930,
+            "name": "Cốc sạc nhanh Hoco N23 45W cho các dòng máy iPhone, Samsung, Oppo mới...và máy tính xách tay, laptop, Macbook... với cổng sạc type C [Được kiểm hàng] 111411978",
+            "category_path": "coc-sac-nhanh-hoco-n23-45w-cho-cac-dong-may-iphone-samsung-oppo-moiva-may-tinh-xach-tay-laptop-macbook-voi-cong-sac-type-c-duo-c-kie-m-ha-ng-111411978-118598930.html",
+            "image": "https://media3.scdn.vn/img4/2023/03_01/FF9V9JmU5Z6kBrPxPmrM_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 710000,
+            "default_price_max": 710000,
+            "sale_price_min": 603500,
+            "sale_price_max": 603500,
+            "sale_percent": 15,
+            "discount_app": 1,
+            "seller_admin_id": 988843,
+            "sku_user": "111411978",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988843,
+                "name": "Gì Cũng Có Shop fbgrrdha0v",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 114551451,
+            "name": "[OTG] Đầu Chuyển OTG Aluminum [Micro USB to Type C] Tốc Độ Cao Cho Macbook Laptop Samsung Xiaomi Oppo",
+            "category_path": "otg-dau-chuyen-otg-aluminum-micro-usb-to-type-c-toc-do-cao-cho-macbook-laptop-samsung-xiaomi-oppo-114551451.html",
+            "image": "https://media3.scdn.vn/img4/2023/07_07/hLejtK9a69QGmFLUzJv4_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 34000,
+            "default_price_max": 34000,
+            "sale_price_min": 34000,
+            "sale_price_max": 34000,
+            "seller_admin_id": 979770,
+            "sku_user": "MICRO-OTG",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 979770,
+                "name": "AISTAR",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {}
+        },
+        {
+            "id": 111411978,
+            "name": "Cốc sạc nhanh Hoco N23 45W cho các dòng máy iPhone, Samsung, Oppo mới...và máy tính xách tay, laptop, Macbook... với cổng sạc type C",
+            "category_path": "coc-sac-nhanh-hoco-n23-45w-cho-cac-dong-may-iphone-samsung-oppo-moiva-may-tinh-xach-tay-laptop-macbook-voi-cong-sac-type-c-111411978.html",
+            "image": "https://media3.scdn.vn/img4/2023/03_01/FF9V9JmU5Z6kBrPxPmrM_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 495000,
+            "default_price_max": 495000,
+            "sale_price_min": 355000,
+            "sale_price_max": 355000,
+            "sale_percent": 29,
+            "sold": 2,
+            "order_count_text": "2",
+            "seller_admin_id": 23537,
+            "sku_user": "Cốc sạc nhanh Hoco N23 45W",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 23537,
+                "name": "hotmua",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 114551488,
+            "name": "[OTG] Đầu Chuyển OTG Aluminum [USB to Type C] Tốc Độ Cao Cho Macbook Laptop Samsung Xiaomi Oppo",
+            "category_path": "otg-dau-chuyen-otg-aluminum-usb-to-type-c-toc-do-cao-cho-macbook-laptop-samsung-xiaomi-oppo-114551488.html",
+            "image": "https://media3.scdn.vn/img4/2023/07_07/hLejtK9a69QGmFLUzJv4_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 38000,
+            "default_price_max": 38000,
+            "sale_price_min": 38000,
+            "sale_price_max": 38000,
+            "seller_admin_id": 979770,
+            "sku_user": "3809_114551488",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 979770,
+                "name": "AISTAR",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {}
+        }
+    ]
+}

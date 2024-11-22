@@ -1,0 +1,679 @@
+{
+    "total_products": 16,
+    "products": [
+        {
+            "id": 26376664,
+            "name": "Laptop Hp probook 15in i5 2,5GHz 8G SSD 256G cổng COM phím số chuẩn usa nguyên zin bền đẹp mạnh mẽ web game 3D đồ hoạ corel Máy tín nhập khẩu USALaptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí",
+            "category_path": "laptop-hp-probook-15in-i5-2-5ghz-8g-ssd-256g-cong-com-phim-so-chuan-usa-nguyen-zin-ben-dep-manh-me-web-game-3d-do-hoa-corel-may-tin-nhap-khau-usalaptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-26376664.html",
+            "image": "https://media3.scdn.vn/img4/2022/06_18/g6Wg2fS8GzqFMdgGHDu5_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 2999000,
+            "default_price_max": 2999000,
+            "sale_price_min": 2999000,
+            "sale_price_max": 2999000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "HP 430 G2",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 7999963,
+            "name": "MÁY TÍNH Laptop Hp 14in võ nhôm i7 mạnh mẽ sang trọng đẵng cấpLaptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD -laptop Hp Pavilion giá rẻ củ HP envy Hp i3 i5 i7",
+            "category_path": "may-tinh-laptop-hp-14in-vo-nhom-i7-manh-me-sang-trong-dang-caplaptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-laptop-hp-pavilion-gia-re-cu-hp-envy-hp-i3-i5-i7-7999963.html",
+            "image": "https://media3.scdn.vn/img2/2017/12_5/0OatJ2_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 5998000,
+            "default_price_max": 5998000,
+            "sale_price_min": 5998000,
+            "sale_price_max": 5998000,
+            "sold": 6,
+            "order_count_text": "6",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "hp 8440p i7 4g 320g",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 118753718,
+            "name": "Máy mài khuôn mini 3.2mm 130W kèm 109 phụ kiện TOTAL TG513326 - mài góc, cạnh nhỏ, vị trí hẹp [Được kiểm hàng] 114537596",
+            "category_path": "may-mai-khuon-mini-32mm-130w-kem-109-phu-kien-total-tg513326-mai-goc-canh-nho-vi-tri-hep-duo-c-kie-m-ha-ng-114537596-118753718.html",
+            "image": "https://media3.scdn.vn/img4/2023/07_04/YUfh98cvYYLGZf69rIUP_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1365000,
+            "default_price_max": 1365000,
+            "sale_price_min": 945000,
+            "sale_price_max": 945000,
+            "sale_percent": 31,
+            "seller_admin_id": 988982,
+            "sku_user": "114537596",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988982,
+                "name": "Gì Cũng Có Shop 1vmc38u4uu",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118549100,
+            "name": "Máy mài khuôn mini 3.2mm 130W kèm 109 phụ kiện TOTAL TG513326 - mài góc, cạnh nhỏ, vị trí hẹp [Được kiểm hàng] 114537596",
+            "category_path": "may-mai-khuon-mini-32mm-130w-kem-109-phu-kien-total-tg513326-mai-goc-canh-nho-vi-tri-hep-duo-c-kie-m-ha-ng-114537596-118549100.html",
+            "image": "https://media3.scdn.vn/img4/2023/07_04/YUfh98cvYYLGZf69rIUP_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1365000,
+            "default_price_max": 1365000,
+            "sale_price_min": 945000,
+            "sale_price_max": 945000,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 988843,
+            "sku_user": "114537596",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988843,
+                "name": "Gì Cũng Có Shop fbgrrdha0v",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 117989616,
+            "name": "Máy mài khuôn mini 3.2mm 130W kèm 109 phụ kiện TOTAL TG513326 - mài góc, cạnh nhỏ, vị trí hẹp [Được kiểm hàng] 114537596",
+            "category_path": "may-mai-khuon-mini-32mm-130w-kem-109-phu-kien-total-tg513326-mai-goc-canh-nho-vi-tri-hep-duo-c-kie-m-ha-ng-114537596-117989616.html",
+            "image": "https://media3.scdn.vn/img4/2023/07_04/YUfh98cvYYLGZf69rIUP_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1365000,
+            "default_price_max": 1365000,
+            "sale_price_min": 945000,
+            "sale_price_max": 945000,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 988391,
+            "sku_user": "114537596",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988391,
+                "name": "Gì Cũng Có 102201",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 10447845,
+            "name": "may tinh Laptop Hp i5 6g 500g siêu mỏng nhẹ mạnh mẽ zin 3D lolLaptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD -laptop Hp Pavilion giá rẻ củ HP envy Hp i3 i5 i7",
+            "category_path": "may-tinh-laptop-hp-i5-6g-500g-sieu-mong-nhe-manh-me-zin-3d-lollaptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-laptop-hp-pavilion-gia-re-cu-hp-envy-hp-i3-i5-i7-10447845.html",
+            "image": "https://media3.scdn.vn/img2/2017/12_29/7cD9p3_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 2999000,
+            "default_price_max": 2999000,
+            "sale_price_min": 2999000,
+            "sale_price_max": 2999000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "hp 2170p i7 8g 500 game.",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 6632503,
+            "name": "MÁY TÍNH HP Pro 430G1 i5 siêu phẩm thời trang và mạnh mẽ Laptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD -laptop Hp Pavilion giá rẻ củ HP envy Hp i3 i5 i7",
+            "category_path": "may-tinh-hp-pro-430g1-i5-sieu-pham-thoi-trang-va-manh-me-laptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-laptop-hp-pavilion-gia-re-cu-hp-envy-hp-i3-i5-i7-6632503.html",
+            "image": "https://media3.scdn.vn/img2/2017/8_10/75oy17_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 6900000,
+            "default_price_max": 6900000,
+            "sale_price_min": 6900000,
+            "sale_price_max": 6900000,
+            "sold": 4,
+            "order_count_text": "4",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "hp 430g1 cu ssd",
+            "product_type": 23,
+            "like_counter": 5,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 5684065,
+            "name": "MÁY TÍNH Hp-Elitebook 12in i7 620 4G Võ nhôm xinh xinh bỏ cóp xeLaptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD -laptop Hp Pavilion giá rẻ củ HP envy Hp i3 i5 i7",
+            "category_path": "may-tinh-hp-elitebook-12in-i7-620-4g-vo-nhom-xinh-xinh-bo-cop-xelaptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-laptop-hp-pavilion-gia-re-cu-hp-envy-hp-i3-i5-i7-5684065.html",
+            "image": "https://media3.scdn.vn/img2/2017/5_15/2OZuhj_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 3599000,
+            "default_price_max": 3599000,
+            "sale_price_min": 3589000,
+            "sale_price_max": 3589000,
+            "sale_percent": 1,
+            "sold": 2,
+            "order_count_text": "2",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "12xaa",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 119069943,
+            "name": "Máy mài khuôn mini 3.2mm 130W kèm 109 phụ kiện TOTAL TG513326 - mài góc, cạnh nhỏ, vị trí hẹp [Được kiểm hàng] 114537596",
+            "category_path": "may-mai-khuon-mini-32mm-130w-kem-109-phu-kien-total-tg513326-mai-goc-canh-nho-vi-tri-hep-duo-c-kie-m-ha-ng-114537596-119069943.html",
+            "image": "https://media3.scdn.vn/img4/2023/07_04/YUfh98cvYYLGZf69rIUP_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1365000,
+            "default_price_max": 1365000,
+            "sale_price_min": 945000,
+            "sale_price_max": 945000,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 989277,
+            "sku_user": "114537596",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 989277,
+                "name": "Gì Cũng Có Shop wze6olq8gm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118020896,
+            "name": "100 gam Mực in laser màu đen HP Canon Ngày nay nhờ sự phát triển mạnh mẽ của công nghệ in ấn mà rất nhiều hình ảnh phức tạp khó xử lý có thể in lên được hầu hết vật liệu mà bạn muốn. Và sự ra đời của mực in laser và các loại mực khác đã góp phần khôn",
+            "category_path": "100-gam-muc-in-laser-mau-den-hp-canon-ngay-nay-nho-su-phat-trien-manh-me-cua-cong-nghe-in-an-ma-rat-nhieu-hinh-anh-phuc-tap-kho-xu-ly-co-the-in-len-duoc-hau-het-vat-lieu-ma-ban-muon-va-su-ra-doi-cua-muc-in-laser-va-cac-loai-muc-khac-da-gop-phan-khon-118020896.html",
+            "image": "https://media3.scdn.vn/img4/2024/09_16/EVDEU2D2Gk65wN5SyvAg_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 82000,
+            "default_price_max": 82000,
+            "sale_price_min": 82000,
+            "sale_price_max": 82000,
+            "discount_app": 1,
+            "seller_admin_id": 888076,
+            "sku_user": "2937_118020896",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 888076,
+                "name": "Phu Tung Cong Nong Nghiep",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 115694724,
+            "name": "Đế Kê Mài Dao Lạng Đục Tròn Oval Cây Gọt Tỉa Viền Da Dụng Cụ Đồ Nghề Làm Túi Xách Thắt Lưng Bóp Ví Thủ Công Handmade DIY",
+            "category_path": "de-ke-mai-dao-lang-duc-tron-oval-cay-got-tia-vien-da-dung-cu-do-nghe-lam-tui-xach-that-lung-bop-vi-thu-cong-handmade-diy-115694724.html",
+            "image": "https://media3.scdn.vn/img4/2023/09_13/5KSifF7ny4lp4yOJVd9W_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 420000,
+            "default_price_max": 420000,
+            "sale_price_min": 219000,
+            "sale_price_max": 219000,
+            "sale_percent": 48,
+            "seller_admin_id": 976580,
+            "sku_user": "dekemaidaolangdaogotvien",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 976580,
+                "name": "NomDIYStore",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 114537596,
+            "name": "Máy mài khuôn mini 3.2mm 130W kèm 109 phụ kiện TOTAL TG513326 - mài góc, cạnh nhỏ, vị trí hẹp",
+            "category_path": "may-mai-khuon-mini-32mm-130w-kem-109-phu-kien-total-tg513326-mai-goc-canh-nho-vi-tri-hep-114537596.html",
+            "image": "https://media3.scdn.vn/img4/2023/07_04/YUfh98cvYYLGZf69rIUP_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 881000,
+            "default_price_max": 881000,
+            "sale_price_min": 525000,
+            "sale_price_max": 525000,
+            "sale_percent": 41,
+            "seller_admin_id": 392664,
+            "sku_user": "TO-TG513326",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 392664,
+                "name": "Tốc Độ 247",
+                "status": 2,
+                "type": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": "https://media3.scdn.vn/img4/2022/08_30/Niw4htmWmKd2rNiMEHpE.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 106494995,
+            "name": "[Trả góp 0%]Hệ thống Dàn Loa Thanh SONY HT-S700RF 1000W Home Cinema 5.1 kênh , tích hợp Bluetooth",
+            "category_path": "tra-gop-0-he-thong-dan-loa-thanh-sony-ht-s700rf-1000w-home-cinema-51-kenh-tich-hop-bluetooth-106494995.html",
+            "image": "https://media3.scdn.vn/img4/2023/02_17/ZnNzG2HQBlY9aj7uUdJ6_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 9990000,
+            "default_price_max": 9990000,
+            "sale_price_min": 9990000,
+            "sale_price_max": 9990000,
+            "seller_admin_id": 944452,
+            "sku_user": "4745y768et",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 944452,
+                "name": "Future Sound",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Thái Bình",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 8325575,
+            "name": "MÁY TÍNH Laptop Hp i5 6g 500G siêu mỏng nhẹ mạnh mẽ zin Laptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD -laptop Hp Pavilion giá rẻ củ HP envy Hp i3 i5 i7",
+            "category_path": "may-tinh-laptop-hp-i5-6g-500g-sieu-mong-nhe-manh-me-zin-laptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-laptop-hp-pavilion-gia-re-cu-hp-envy-hp-i3-i5-i7-8325575.html",
+            "image": "https://media3.scdn.vn/img2/2017/12_29/7cD9p3_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 3000000,
+            "default_price_max": 3000000,
+            "sale_price_min": 3000000,
+            "sale_price_max": 3000000,
+            "sold": 3,
+            "order_count_text": "3",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "hp 2170p i7 8g 500 laptop",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 8325489,
+            "name": "MÁY TÍNH Laptop Hp Elitebook 2710p i7 12.5in nhỏ xinh gọn nhẹ bỏ cóp xeLaptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD -laptop Hp Pavilion giá rẻ củ HP envy Hp i3 i5 i7",
+            "category_path": "may-tinh-laptop-hp-elitebook-2710p-i7-125in-nho-xinh-gon-nhe-bo-cop-xelaptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-laptop-hp-pavilion-gia-re-cu-hp-envy-hp-i3-i5-i7-8325489.html",
+            "image": "https://media3.scdn.vn/img2/2017/12_29/BwIoRJ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 5500000,
+            "default_price_max": 5500000,
+            "sale_price_min": 5500000,
+            "sale_price_max": 5500000,
+            "sold": 1,
+            "order_count_text": "1",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop hp 2170p i7",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 8126612,
+            "name": "[QUÀ ĐỈNH 0Đ] MÁY TÍNH  Laptop Hp i5 6G 500g 14in Ati 7570m Siêu mạnh mẽ Laptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD -laptop Hp Pavilion giá rẻ củ HP envy Hp i3 i5 i7",
+            "category_path": "qua-dinh-0d-may-tinh-laptop-hp-i5-6g-500g-14in-ati-7570m-sieu-manh-me-laptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-laptop-hp-pavilion-gia-re-cu-hp-envy-hp-i3-i5-i7-8126612.html",
+            "image": "https://media3.scdn.vn/img2/2017/12_14/CTgOTl_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 3000000,
+            "default_price_max": 3000000,
+            "sale_price_min": 3000000,
+            "sale_price_max": 3000000,
+            "sold": 2,
+            "order_count_text": "2",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop hp 8470p i7 3630Q",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        }
+    ]
+}

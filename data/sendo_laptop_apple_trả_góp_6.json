@@ -1,0 +1,252 @@
+{
+    "total_products": 6,
+    "products": [
+        {
+            "id": 95191905,
+            "name": "Bao da iPad Pro 12.9 inch chính hãng TOMTOC (USA) từ tính đa góc SMART-TRI-B02-004 hỗ trợ sạc không dây APPLE PENCIL",
+            "category_path": "bao-da-ipad-pro-129-inch-chinh-hang-tomtoc-usa-tu-tinh-da-goc-smart-tri-b02-004-ho-tro-sac-khong-day-apple-pencil-95191905.html",
+            "image": "https://media3.scdn.vn/img4/2022/06_23/3ZxLyDUjSawsb34oxYVW_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1190000,
+            "default_price_max": 1190000,
+            "sale_price_min": 1190000,
+            "sale_price_max": 1190000,
+            "discount_app": 2,
+            "seller_admin_id": 70102,
+            "sku_user": "BDIPADB02-004",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 70102,
+                "name": "hasan",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 95144104,
+            "name": "Bao da iPad 10.9 inch (iPad AIR 4) chính hãng TOMTOC (USA) từ tính đa góc SMART-TRI-B02-005 hỗ trợ sạc không dây APPLE PENCIL",
+            "category_path": "bao-da-ipad-109-inch-ipad-air-4-chinh-hang-tomtoc-usa-tu-tinh-da-goc-smart-tri-b02-005-ho-tro-sac-khong-day-apple-pencil-95144104.html",
+            "image": "https://media3.scdn.vn/img4/2022/06_21/UGDG1yFRzJAUmIupJwXM_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1090000,
+            "default_price_max": 1090000,
+            "sale_price_min": 1090000,
+            "sale_price_max": 1090000,
+            "discount_app": 2,
+            "seller_admin_id": 70102,
+            "sku_user": "BDIPADB02-005",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 70102,
+                "name": "hasan",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 5684065,
+            "name": "MÁY TÍNH Hp-Elitebook 12in i7 620 4G Võ nhôm xinh xinh bỏ cóp xeLaptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD -laptop Hp Pavilion giá rẻ củ HP envy Hp i3 i5 i7",
+            "category_path": "may-tinh-hp-elitebook-12in-i7-620-4g-vo-nhom-xinh-xinh-bo-cop-xelaptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-laptop-hp-pavilion-gia-re-cu-hp-envy-hp-i3-i5-i7-5684065.html",
+            "image": "https://media3.scdn.vn/img2/2017/5_15/2OZuhj_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 3599000,
+            "default_price_max": 3599000,
+            "sale_price_min": 3589000,
+            "sale_price_max": 3589000,
+            "sale_percent": 1,
+            "sold": 2,
+            "order_count_text": "2",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "12xaa",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 112178036,
+            "name": "Giá Đỡ Laptop Hợp Kim Nhôm Cao Cấp Có Thể Gấp Gọn, Giúp Tản Nhiệt Laptop, Macbook, Máy Tính Xách Tay. 07 Vị Trí Điều Chỉnh Góc Độ.",
+            "category_path": "gia-do-laptop-hop-kim-nhom-cao-cap-co-the-gap-gon-giup-tan-nhiet-laptop-macbook-may-tinh-xach-tay-07-vi-tri-dieu-chinh-goc-do-112178036.html",
+            "image": "https://media3.scdn.vn/img4/2023/03_24/19IQh1Nso8GcInipergn_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 149000,
+            "default_price_max": 149000,
+            "sale_price_min": 79000,
+            "sale_price_max": 79000,
+            "sale_percent": 47,
+            "sold": 2,
+            "order_count_text": "2",
+            "has_video": true,
+            "seller_admin_id": 552480,
+            "sku_user": "3289_112178036",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 552480,
+                "name": "LINH KIỆN 1984",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 1,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 95188214,
+            "name": "Bao da iPad Pro 11 inch chính hãng TOMTOC (USA) từ tính đa góc SMART-TRI-B02-003 hỗ trợ sạc không dây APPLE PENCIL",
+            "category_path": "bao-da-ipad-pro-11-inch-chinh-hang-tomtoc-usa-tu-tinh-da-goc-smart-tri-b02-003-ho-tro-sac-khong-day-apple-pencil-95188214.html",
+            "image": "https://media3.scdn.vn/img4/2022/06_23/ZA8GY3f6N1XPtV1c8zaA_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1090000,
+            "default_price_max": 1090000,
+            "sale_price_min": 1090000,
+            "sale_price_max": 1090000,
+            "discount_app": 2,
+            "seller_admin_id": 70102,
+            "sku_user": "BDIPADB02-003",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 70102,
+                "name": "hasan",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 8325489,
+            "name": "MÁY TÍNH Laptop Hp Elitebook 2710p i7 12.5in nhỏ xinh gọn nhẹ bỏ cóp xeLaptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD -laptop Hp Pavilion giá rẻ củ HP envy Hp i3 i5 i7",
+            "category_path": "may-tinh-laptop-hp-elitebook-2710p-i7-125in-nho-xinh-gon-nhe-bo-cop-xelaptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-laptop-hp-pavilion-gia-re-cu-hp-envy-hp-i3-i5-i7-8325489.html",
+            "image": "https://media3.scdn.vn/img2/2017/12_29/BwIoRJ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 5500000,
+            "default_price_max": 5500000,
+            "sale_price_min": 5500000,
+            "sale_price_max": 5500000,
+            "sold": 1,
+            "order_count_text": "1",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop hp 2170p i7",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        }
+    ]
+}

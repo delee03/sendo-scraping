@@ -1,0 +1,1485 @@
+{
+    "total_products": 32,
+    "products": [
+        {
+            "id": 19979480,
+            "name": "Laptop Màn 3K, 3200X1800 cảm ứng samsung mõng, i5 SSD 512G độ phân giải cao 3K, 3200X1800 touch screen, đẹp hàng zin chuẩn xách tay hàn quốc Ultralbook Samsung",
+            "category_path": "laptop-man-3k-3200x1800-cam-ung-samsung-mong-i5-ssd-512g-do-phan-giai-cao-3k-3200x1800-touch-screen-dep-hang-zin-chuan-xach-tay-han-quoc-ultralbook-samsung-19979480.html",
+            "image": "https://media3.scdn.vn/img4/2024/03_20/YIDC88wC40Qvzf79g835_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 5999000,
+            "default_price_max": 5999000,
+            "sale_price_min": 5999000,
+            "sale_price_max": 5999000,
+            "sold": 1,
+            "order_count_text": "1",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop Panasonic. CF B11",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 18936928,
+            "name": "[Freeship] Laptop văn phòng i5 4300M 4G 500G xem phim NEC Fujicsu Toshiba. chuẩn nhật bản nguyên zin made in japan laptop chính hãng giá rẻ có Free ship có mã giảm giá Có Quà Tặng 0Đ",
+            "category_path": "freeship-laptop-van-phong-i5-4300m-4g-500g-xem-phim-nec-fujicsu-toshiba-chuan-nhat-ban-nguyen-zin-made-in-japan-laptop-chinh-hang-gia-re-co-free-ship-co-ma-giam-gia-co-qua-tang-0d-18936928.html",
+            "image": "https://media3.scdn.vn/img4/2020/06_20/BT3zNTk5O1PFgzs5pqhE_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 5000000,
+            "default_price_max": 5000000,
+            "sale_price_min": 4900000,
+            "sale_price_max": 4900000,
+            "sale_percent": 2,
+            "sold": 8,
+            "order_count_text": "8",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop Panasonic. NEC toshiba, CF-Y7 zin",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 1,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 12358158,
+            "name": "Panasonic Pin6-8H CPu i5 2.7Gx4cpu 12in 1600x900 cực hiếm cực bền bỉLaptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD -laptop Lenovo thinkpad ideapad i3 i5 i7",
+            "category_path": "panasonic-pin6-8h-cpu-i5-27gx4cpu-12in-1600x900-cuc-hiem-cuc-ben-bilaptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-laptop-lenovo-thinkpad-ideapad-i3-i5-i7-12358158.html",
+            "image": "https://media3.scdn.vn/img2/2018/8_24/0crYO9_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 4999000,
+            "default_price_max": 4999000,
+            "sale_price_min": 4999000,
+            "sale_price_max": 4999000,
+            "sold": 1,
+            "order_count_text": "1",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop panasonic cf SX2 i5",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 32687396,
+            "name": "Laptop Panasonic. NX3 i7 4500 8G SSD 256G siêu nhẹ 1.2kg Pin trâu nguyên zin made in japan",
+            "category_path": "laptop-panasonic-nx3-i7-4500-8g-ssd-256g-sieu-nhe-12kg-pin-trau-nguyen-zin-made-in-japan-32687396.html",
+            "image": "https://media3.scdn.vn/img4/2020/08_22/LQwI1w8ty32nPvu9Kn8X_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 9999000,
+            "default_price_max": 9999000,
+            "sale_price_min": 9999000,
+            "sale_price_max": 9999000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop Panasonic. NX3 i7 4600 8G SSD 256G siê",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 24946398,
+            "name": "Mainboard của  laptop Panasonic. CF SX2",
+            "category_path": "mainboard-cua-laptop-panasonic-cf-sx2-24946398.html",
+            "image": "https://media3.scdn.vn/img4/2019/12_27/lGexTixkL3LtiYSZe9gD_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 2000000,
+            "default_price_max": 2000000,
+            "sale_price_min": 1990000,
+            "sale_price_max": 1990000,
+            "sale_percent": 1,
+            "sold": 9,
+            "order_count_text": "9",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Main laptop Panasonic. CF SX2",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 13722891,
+            "name": "Panasonic. SX2 i5 3340 2.7G 4G 500G 12 1600x900 HDMi webcam Pin 6H",
+            "category_path": "panasonic-sx2-i5-3340-27g-4g-500g-12-1600x900-hdmi-webcam-pin-6h-13722891.html",
+            "image": "https://media3.scdn.vn/img2/2018/8_24/3SRz4h_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 4998000,
+            "default_price_max": 4998000,
+            "sale_price_min": 4998000,
+            "sale_price_max": 4998000,
+            "sold": 2,
+            "order_count_text": "2",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop Panasonic. CF SX2 i5",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 13716782,
+            "name": "Panasonic SX2 i5 3340 2.7G 4G 500G 1600X900 HDMi webcam Pin 6HLaptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD -laptop Lenovo thinkpad ideapad i3 i5 i7",
+            "category_path": "panasonic-sx2-i5-3340-27g-4g-500g-1600x900-hdmi-webcam-pin-6hlaptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-laptop-lenovo-thinkpad-ideapad-i3-i5-i7-13716782.html",
+            "image": "https://media3.scdn.vn/img2/2018/8_24/3SRz4h_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 4998000,
+            "default_price_max": 4998000,
+            "sale_price_min": 4997000,
+            "sale_price_max": 4997000,
+            "sale_percent": 1,
+            "sold": 1,
+            "order_count_text": "1",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Panasonic CF SX2 i5 3340 2",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 12553686,
+            "name": "Laptop Màn 3K, 3200X1800 cảm ứng samsung mõng, i5 SSD 512G độ phân giải cao 3K, 3200X1800 touch screen, đẹp hàng zin chuẩn xách tay hàn quốc Ultralbook Samsung",
+            "category_path": "laptop-man-3k-3200x1800-cam-ung-samsung-mong-i5-ssd-512g-do-phan-giai-cao-3k-3200x1800-touch-screen-dep-hang-zin-chuan-xach-tay-han-quoc-ultralbook-samsung-12553686.html",
+            "image": "https://media3.scdn.vn/img4/2024/03_20/lGuEXExVJuprqGGMflWs_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 5999000,
+            "default_price_max": 5999000,
+            "sale_price_min": 5999000,
+            "sale_price_max": 5999000,
+            "sold": 9,
+            "order_count_text": "9",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop panasonic. cf sx2 i5 v",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 5,
+                "star": 3.6
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 12544572,
+            "name": "Panasonic SX2 i5 3340 2.7G 4G 500G 12in HD+ 1600x900 HDMi webcam Pin 6HLaptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD -laptop Lenovo thinkpad ideapad i3 i5 i7",
+            "category_path": "panasonic-sx2-i5-3340-27g-4g-500g-12in-hd-1600x900-hdmi-webcam-pin-6hlaptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-laptop-lenovo-thinkpad-ideapad-i3-i5-i7-12544572.html",
+            "image": "https://media3.scdn.vn/img2/2018/8_24/3SRz4h_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 4999000,
+            "default_price_max": 4999000,
+            "sale_price_min": 4999000,
+            "sale_price_max": 4999000,
+            "sold": 2,
+            "order_count_text": "2",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Panasonic CF SX2 w",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 12358124,
+            "name": "Laptop Màn 3K, 3200X1800 cảm ứng samsung mõng, i5 SSD 512G độ phân giải cao 3K, 3200X1800 touch screen, đẹp hàng zin chuẩn xách tay hàn quốc Ultralbook Samsung",
+            "category_path": "laptop-man-3k-3200x1800-cam-ung-samsung-mong-i5-ssd-512g-do-phan-giai-cao-3k-3200x1800-touch-screen-dep-hang-zin-chuan-xach-tay-han-quoc-ultralbook-samsung-12358124.html",
+            "image": "https://media3.scdn.vn/img4/2024/03_20/DEBSnlMEXwKhm7soPRbp_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 5999000,
+            "default_price_max": 5999000,
+            "sale_price_min": 5999000,
+            "sale_price_max": 5999000,
+            "sold": 6,
+            "order_count_text": "6",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop panasonic. cf sx2 b",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 2,
+                "star": 4.5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 11349075,
+            "name": "Panasonic. SX2 i5 2.7Ghz 8G 320G Pin 6H HDMi 12in 1600x900 chính hãng giá rẻ nguyên zin",
+            "category_path": "panasonic-sx2-i5-27ghz-8g-320g-pin-6h-hdmi-12in-1600x900-chinh-hang-gia-re-nguyen-zin-11349075.html",
+            "image": "https://media3.scdn.vn/img2/2018/8_24/ntbRMy_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 5900000,
+            "default_price_max": 5900000,
+            "sale_price_min": 5900000,
+            "sale_price_max": 5900000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Panasonic. laptop 8g cf sx2",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 11349006,
+            "name": "Panasonic Pin6-8H CPu i5 2.7Gx4cpu 1600x900 cực hiếm cực bền bỉLaptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD -laptop Lenovo thinkpad ideapad i3 i5 i7",
+            "category_path": "panasonic-pin6-8h-cpu-i5-27gx4cpu-1600x900-cuc-hiem-cuc-ben-bilaptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-laptop-lenovo-thinkpad-ideapad-i3-i5-i7-11349006.html",
+            "image": "https://media3.scdn.vn/img2/2018/8_24/0crYO9_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 4998000,
+            "default_price_max": 4998000,
+            "sale_price_min": 4998000,
+            "sale_price_max": 4998000,
+            "sold": 1,
+            "order_count_text": "1",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop panasonic cf sx2 i5 4G",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 10663669,
+            "name": "MÁY TÍNH Laptop Panasonic CF-R7 10.4 inch gọn nhẹ 0.9kg, hàng Nhật chống va đập",
+            "category_path": "may-tinh-laptop-panasonic-cf-r7-104-inch-gon-nhe-09kg-hang-nhat-chong-va-dap-10663669.html",
+            "image": "https://media3.scdn.vn/img2/2018/4_16/HCYkrz_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 2999000,
+            "default_price_max": 2999000,
+            "sale_price_min": 2999000,
+            "sale_price_max": 2999000,
+            "sold": 6,
+            "order_count_text": "6",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "may tinh laptop Pana CF-R7 v",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 24456236,
+            "name": "Laptop Panasonic CF-Y7 14 inch văn phòng, xem phim",
+            "category_path": "laptop-panasonic-cf-y7-14-inch-van-phong-xem-phim-24456236.html",
+            "image": "https://media3.scdn.vn/img3/2019/12_9/DzvWqU_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 2349000,
+            "default_price_max": 2349000,
+            "sale_price_min": 2349000,
+            "sale_price_max": 2349000,
+            "sold": 9,
+            "order_count_text": "9",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop Panasonic Y7",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 71083422,
+            "name": "Laptop Panasonic Made in japan i5 3340M 2.7Ghz 8G SSD 256g 12.5in camera mic hdmi pin ok nhẹ và tốt máy tính đồng bộ dell optiplex  bộ máy tính bàn",
+            "category_path": "laptop-panasonic-made-in-japan-i5-3340m-27ghz-8g-ssd-256g-125in-camera-mic-hdmi-pin-ok-nhe-va-tot-may-tinh-dong-bo-dell-optiplex-bo-may-tinh-ban-71083422.html",
+            "image": "https://media3.scdn.vn/img4/2021/12_31/1AmsPkRlaCjmXmIQoj3Z_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 3000000,
+            "default_price_max": 3000000,
+            "sale_price_min": 2999000,
+            "sale_price_max": 2999000,
+            "sale_percent": 1,
+            "sold": 3,
+            "order_count_text": "3",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop panasonic cf sx",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 45293400,
+            "name": "Xác linh kiện Laptop Dell Hp lenovo Fujicsu Sony Asus Acer samsung LG Msi Gateway Toshib.a  Panasoni.c.",
+            "category_path": "xac-linh-kien-laptop-dell-hp-lenovo-fujicsu-sony-asus-acer-samsung-lg-msi-gateway-toshiba-panasonic-45293400.html",
+            "image": "https://media3.scdn.vn/img4/2021/06_15/06YeAIY1VWzXv6hSufMj_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 200000,
+            "default_price_max": 200000,
+            "sale_price_min": 190000,
+            "sale_price_max": 190000,
+            "sale_percent": 5,
+            "sold": 19,
+            "order_count_text": "19",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop Dell Hp lenovo Toshiba Panasonic Fuji",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 6,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 24930255,
+            "name": "Main board bao gồm cpu i5 3340M 2.7Ghz của laptop may tinh panasonic. cf sx2",
+            "category_path": "main-board-bao-gom-cpu-i5-3340m-27ghz-cua-laptop-may-tinh-panasonic-cf-sx2-24930255.html",
+            "image": "https://media3.scdn.vn/img3/2019/12_27/We9ttD_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1000000,
+            "default_price_max": 1000000,
+            "sale_price_min": 1000000,
+            "sale_price_max": 1000000,
+            "sold": 4,
+            "order_count_text": "4",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "mainboard pana cf sx2",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 1,
+                "star": 4
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 24929635,
+            "name": "mainboard là cái main không phải laptop nhe, mainboard dell hp lenovo asus fujicsu sony samsung toshiba nec panasonic",
+            "category_path": "mainboard-la-cai-main-khong-phai-laptop-nhe-mainboard-dell-hp-lenovo-asus-fujicsu-sony-samsung-toshiba-nec-panasonic-24929635.html",
+            "image": "https://media3.scdn.vn/img3/2019/12_27/BdzToe_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 700000,
+            "default_price_max": 700000,
+            "sale_price_min": 700000,
+            "sale_price_max": 700000,
+            "sold": 26,
+            "order_count_text": "26",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "fujitsu r8270",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 19414027,
+            "name": "Laptop Panasonic CF B11 i5 3340M 2.7Ghz 8G 500 15.6in FullHD game LMHT Fifa Pubg",
+            "category_path": "laptop-panasonic-cf-b11-i5-3340m-27ghz-8g-500-156in-fullhd-game-lmht-fifa-pubg-19414027.html",
+            "image": "https://media3.scdn.vn/img3/2019/6_24/dptiiH_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 5499000,
+            "default_price_max": 5499000,
+            "sale_price_min": 5499000,
+            "sale_price_max": 5499000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop Panasonic CF B11 8",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 19414011,
+            "name": "Laptop Panasonic. CF B11 i5 3340M 2.7Ghz 4G 500 15.6in FullHD game LMHT Fifa Pubg",
+            "category_path": "laptop-panasonic-cf-b11-i5-3340m-27ghz-4g-500-156in-fullhd-game-lmht-fifa-pubg-19414011.html",
+            "image": "https://media3.scdn.vn/img3/2019/6_24/vgsek3_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 5000000,
+            "default_price_max": 5000000,
+            "sale_price_min": 5000000,
+            "sale_price_max": 5000000,
+            "sold": 2,
+            "order_count_text": "2",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop Panasonic. CF B11 4g",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 19413956,
+            "name": "Laptop Panasonic CF B11 i5 3340M 2.7Ghz 4G 500G 15.6in FullHD Pin 4-5h zin 100",
+            "category_path": "laptop-panasonic-cf-b11-i5-3340m-27ghz-4g-500g-156in-fullhd-pin-4-5h-zin-100-19413956.html",
+            "image": "https://media3.scdn.vn/img3/2019/6_24/enI7nM_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 5999000,
+            "default_price_max": 5999000,
+            "sale_price_min": 5999000,
+            "sale_price_max": 5999000,
+            "sold": 3,
+            "order_count_text": "3",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "ptop Panasonic CF B11 500",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 19413933,
+            "name": "Laptop Panasonic CF B11 i5 3340M 2.7Ghz 8G SSD256 15.6in FullHD Pin 4-5h zin 100",
+            "category_path": "laptop-panasonic-cf-b11-i5-3340m-27ghz-8g-ssd256-156in-fullhd-pin-4-5h-zin-100-19413933.html",
+            "image": "https://media3.scdn.vn/img3/2019/6_24/njgQNU_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 6999000,
+            "default_price_max": 6999000,
+            "sale_price_min": 6999000,
+            "sale_price_max": 6999000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop Panasonic",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 19413918,
+            "name": "Laptop Panasonic CF B11 i5 3340M 2.7Ghz 8G SSD 15.6in FullHD Pin 4-5h zin 100",
+            "category_path": "laptop-panasonic-cf-b11-i5-3340m-27ghz-8g-ssd-156in-fullhd-pin-4-5h-zin-100-19413918.html",
+            "image": "https://media3.scdn.vn/img3/2019/6_24/UZWlqD_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 6900000,
+            "default_price_max": 6900000,
+            "sale_price_min": 6900000,
+            "sale_price_max": 6900000,
+            "sold": 1,
+            "order_count_text": "1",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop Panasonic CF",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 19413905,
+            "name": "Laptop 15in Game Win 10 cpu Gen4 i5 4200M 2.5Ghz mạnh hơn chip 4300U 1.9Ghz [FREESHIP] LAPTOP NEC CỔNG COM RJ233 MADE IN JAPAN CPU I5 4200M 2.5GHZ 15IN CHUẨN NHẬT BẢN SIÊU BỀN - Laptop NEC COM JJ232",
+            "category_path": "laptop-15in-game-win-10-cpu-gen4-i5-4200m-25ghz-manh-hon-chip-4300u-19ghz-freeship-laptop-nec-cong-com-rj233-made-in-japan-cpu-i5-4200m-25ghz-15in-chuan-nhat-ban-sieu-ben-laptop-nec-com-jj232-19413905.html",
+            "image": "https://media3.scdn.vn/img4/2021/03_22/q4B8kN8jzHYEpb0nhqz2_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 5000000,
+            "default_price_max": 5000000,
+            "sale_price_min": 5000000,
+            "sale_price_max": 5000000,
+            "sold": 1,
+            "order_count_text": "1",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop Panasonic, CF i5",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 17079044,
+            "name": "Laptop Panasonic CF-NX2 core i5 3320M ram 4G SSD 120G 12,5 inch",
+            "category_path": "laptop-panasonic-cf-nx2-core-i5-3320m-ram-4g-ssd-120g-12-5-inch-17079044.html",
+            "image": "https://media3.scdn.vn/img3/2019/3_30/YAiCMR_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 4500000,
+            "default_price_max": 4500000,
+            "sale_price_min": 4500000,
+            "sale_price_max": 4500000,
+            "sold": 2,
+            "order_count_text": "2",
+            "seller_admin_id": 145270,
+            "sku_user": "cfnx2",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 145270,
+                "name": "laptop xách tay 2n VM",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 1,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 16652826,
+            "name": "Panasonic SX2  i5 3340 2.7G 4G 250 1600X900 HDMi webcam Pin 6H",
+            "category_path": "panasonic-sx2-i5-3340-27g-4g-250-1600x900-hdmi-webcam-pin-6h-16652826.html",
+            "image": "https://media3.scdn.vn/img3/2019/3_13/39EmGi_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 4990000,
+            "default_price_max": 4990000,
+            "sale_price_min": 4990000,
+            "sale_price_max": 4990000,
+            "sold": 4,
+            "order_count_text": "4",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Panasonic SX2 i5 laptop",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 13100111,
+            "name": "Laptop siêu bền pin trâu - Ram2G . ổ cứng 320G siêu bền",
+            "category_path": "laptop-sieu-ben-pin-trau-ram2g-o-cung-320g-sieu-ben-13100111.html",
+            "image": "https://media3.scdn.vn/img4/2020/10_29/rgo7nFDEJyw15cneLVjG_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1299000,
+            "default_price_max": 1299000,
+            "sale_price_min": 1289000,
+            "sale_price_max": 1289000,
+            "sale_percent": 1,
+            "sold": 27,
+            "order_count_text": "27",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop Panasonic. 12 vpc lenovo",
+            "product_type": 23,
+            "like_counter": 5,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 2,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 12548669,
+            "name": "Laptop Panasonic CF-SX 11 inch 1600X900 gọn nhẹ 0.9kg, HDmi Webcam Pin6HLaptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD -laptop Lenovo thinkpad ideapad i3 i5 i7",
+            "category_path": "laptop-panasonic-cf-sx-11-inch-1600x900-gon-nhe-09kg-hdmi-webcam-pin6hlaptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-laptop-lenovo-thinkpad-ideapad-i3-i5-i7-12548669.html",
+            "image": "https://media3.scdn.vn/img2/2018/9_11/4iyyqS_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 4999000,
+            "default_price_max": 4999000,
+            "sale_price_min": 4999000,
+            "sale_price_max": 4999000,
+            "sold": 3,
+            "order_count_text": "3",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Pana CF-sx2 vp",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 11349130,
+            "name": "Panasonic i5 2.7Ghz x4cpu 112in HD+  sắc nét đồ họa Game 3D LMHT 3DLaptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD -laptop Lenovo thinkpad ideapad i3 i5 i7",
+            "category_path": "panasonic-i5-27ghz-x4cpu-112in-hd-sac-net-do-hoa-game-3d-lmht-3dlaptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-laptop-lenovo-thinkpad-ideapad-i3-i5-i7-11349130.html",
+            "image": "https://media3.scdn.vn/img2/2018/8_24/JC9RWC_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 4990000,
+            "default_price_max": 4990000,
+            "sale_price_min": 4990000,
+            "sale_price_max": 4990000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "panasonic cf sx2 game",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 11349099,
+            "name": "Panasonic i5 2.7G x4cpu 8G SSD256G 12in 1600x900 Pin6H webcamLaptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD -laptop Lenovo thinkpad ideapad i3 i5 i7",
+            "category_path": "panasonic-i5-27g-x4cpu-8g-ssd256g-12in-1600x900-pin6h-webcamlaptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-laptop-lenovo-thinkpad-ideapad-i3-i5-i7-11349099.html",
+            "image": "https://media3.scdn.vn/img2/2018/8_24/c6QG8l_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 6990000,
+            "default_price_max": 6990000,
+            "sale_price_min": 6990000,
+            "sale_price_max": 6990000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "panasonic cf sx2 8 256",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 10663869,
+            "name": "MÁY TÍNH Laptop Panasonic.  CF sx2 Core i5-Ram 4G-Ổ cứng 320G 15IN 1600x900 chính hãng giá rẻ nguyên zin",
+            "category_path": "may-tinh-laptop-panasonic-cf-sx2-core-i5-ram-4g-o-cung-320g-15in-1600x900-chinh-hang-gia-re-nguyen-zin-10663869.html",
+            "image": "https://media3.scdn.vn/img2/2018/9_11/cwUEYN_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 4999000,
+            "default_price_max": 4999000,
+            "sale_price_min": 4999000,
+            "sale_price_max": 4999000,
+            "sold": 2,
+            "order_count_text": "2",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop laptop CF sx2",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 9537700,
+            "name": "MÁY TÍNH Laptop Panasonic CF-R7 10.4 inch gọn nhẹ 0.9kg, hàng Nhật chống va đập Xem đá banh laptop củ giá rẻ Tặng Túi +Chuột",
+            "category_path": "may-tinh-laptop-panasonic-cf-r7-104-inch-gon-nhe-09kg-hang-nhat-chong-va-dap-xem-da-banh-laptop-cu-gia-re-tang-tui-chuot-9537700.html",
+            "image": "https://media3.scdn.vn/img2/2018/4_16/HCYkrz_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 2900000,
+            "default_price_max": 2900000,
+            "sale_price_min": 2900000,
+            "sale_price_max": 2900000,
+            "sold": 3,
+            "order_count_text": "3",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop Pana CF-R7",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,429 @@
+{
+    "total_products": 10,
+    "products": [
+        {
+            "id": 20038852,
+            "name": "Sạc laptop ASUS A7 A7K A8 A8F C90 C90S F70 F70SL G1 G1S G1Sn G2 G2K G2S G2P G2Pc G2Pb N750JV T5041H N750Y47JV SL Zin",
+            "category_path": "sac-laptop-asus-a7-a7k-a8-a8f-c90-c90s-f70-f70sl-g1-g1s-g1sn-g2-g2k-g2s-g2p-g2pc-g2pb-n750jv-t5041h-n750y47jv-sl-zin-20038852.html",
+            "image": "https://media3.scdn.vn/img3/2019/7_19/OT33zM_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 580000,
+            "default_price_max": 580000,
+            "sale_price_min": 580000,
+            "sale_price_max": 580000,
+            "seller_admin_id": 296201,
+            "sku_user": "2387501046",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 296201,
+                "name": "minhha",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 5684065,
+            "name": "MÁY TÍNH Hp-Elitebook 12in i7 620 4G Võ nhôm xinh xinh bỏ cóp xeLaptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD -laptop Hp Pavilion giá rẻ củ HP envy Hp i3 i5 i7",
+            "category_path": "may-tinh-hp-elitebook-12in-i7-620-4g-vo-nhom-xinh-xinh-bo-cop-xelaptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-laptop-hp-pavilion-gia-re-cu-hp-envy-hp-i3-i5-i7-5684065.html",
+            "image": "https://media3.scdn.vn/img2/2017/5_15/2OZuhj_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 3599000,
+            "default_price_max": 3599000,
+            "sale_price_min": 3589000,
+            "sale_price_max": 3589000,
+            "sale_percent": 1,
+            "sold": 2,
+            "order_count_text": "2",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "12xaa",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 25021221,
+            "name": "may tinh  Asus Q524 i7 6xxx 12G 2000G 940MX FHD Touch 2G Full HD Laptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD -",
+            "category_path": "may-tinh-asus-q524-i7-6xxx-12g-2000g-940mx-fhd-touch-2g-full-hd-laptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-25021221.html",
+            "image": "https://media3.scdn.vn/img4/2019/12_30/3Z22YMeBbGjS60mrL424_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 9999000,
+            "default_price_max": 9999000,
+            "sale_price_min": 9999000,
+            "sale_price_max": 9999000,
+            "sold": 2,
+            "order_count_text": "2",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Asus Q524 i7 12G 2T Touch",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 112178036,
+            "name": "Giá Đỡ Laptop Hợp Kim Nhôm Cao Cấp Có Thể Gấp Gọn, Giúp Tản Nhiệt Laptop, Macbook, Máy Tính Xách Tay. 07 Vị Trí Điều Chỉnh Góc Độ.",
+            "category_path": "gia-do-laptop-hop-kim-nhom-cao-cap-co-the-gap-gon-giup-tan-nhiet-laptop-macbook-may-tinh-xach-tay-07-vi-tri-dieu-chinh-goc-do-112178036.html",
+            "image": "https://media3.scdn.vn/img4/2023/03_24/19IQh1Nso8GcInipergn_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 149000,
+            "default_price_max": 149000,
+            "sale_price_min": 79000,
+            "sale_price_max": 79000,
+            "sale_percent": 47,
+            "sold": 2,
+            "order_count_text": "2",
+            "has_video": true,
+            "seller_admin_id": 552480,
+            "sku_user": "3289_112178036",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 552480,
+                "name": "LINH KIỆN 1984",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 1,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 108981341,
+            "name": "Laptop Asus mini, Chíp Atom - 1.6Ghz / Ổ HDD 320G / màn hình 10 inch / Windows 7  / Intel HD Graphics, dùng làm việc văn phòng, học tập, giải trí, tặng kèm chuột và lót chuột",
+            "category_path": "laptop-asus-mini-chip-atom-16ghz-o-hdd-320g-man-hinh-10-inch-windows-7-intel-hd-graphics-dung-lam-viec-van-phong-hoc-tap-giai-tri-tang-kem-chuot-va-lot-chuot-108981341.html",
+            "image": "https://media3.scdn.vn/img4/2023/10_16/UOadNZz26x8aV2DD2vVt_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 2000000,
+            "default_price_max": 2000000,
+            "sale_price_min": 2000000,
+            "sale_price_max": 2000000,
+            "discount_app": 3,
+            "seller_admin_id": 811604,
+            "sku_user": "2910_108981341",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 811604,
+                "name": "3S Stores",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 2
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 40279611,
+            "name": "Bàn phím laptop Asus Vivobook A407 A407M A407U X407 X407M X407U – X407 Cáp góc",
+            "category_path": "ban-phim-laptop-asus-vivobook-a407-a407m-a407u-x407-x407m-x407u-x407-cap-goc-40279611.html",
+            "image": "https://media3.scdn.vn/img4/2021/01_21/0DDVMrSjoO0llpdRQWTJ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 320000,
+            "default_price_max": 320000,
+            "sale_price_min": 320000,
+            "sale_price_max": 320000,
+            "seller_admin_id": 315691,
+            "sku_user": "Asus Vivobook A407 A407M A407U X407 X407M X40",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 315691,
+                "name": "vumyzonsilk",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 24581652,
+            "name": "Máy tính bảng Asus Memo Pad HD7 16GB ME173XLaptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD -laptop Lenovo thinkpad ideapad i3 i5 i7",
+            "category_path": "may-tinh-bang-asus-memo-pad-hd7-16gb-me173xlaptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-laptop-lenovo-thinkpad-ideapad-i3-i5-i7-24581652.html",
+            "image": "https://media3.scdn.vn/img3/2019/12_14/HbbxUf_simg_de2fe0_250x250_maxb.jpeg",
+            "default_price_min": 3900000,
+            "default_price_max": 3900000,
+            "sale_price_min": 3900000,
+            "sale_price_max": 3900000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "asus me173x",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 18032667,
+            "name": "Laptop Asús A556UF-DM263D, I5 7200U 4G 1000G Vga GT930MX Full HD Đẹp keng zin 100 Giá rẻLaptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD -laptop Lenovo thinkpad ideapad i3 i5 i7",
+            "category_path": "laptop-asus-a556uf-dm263d-i5-7200u-4g-1000g-vga-gt930mx-full-hd-dep-keng-zin-100-gia-relaptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-laptop-lenovo-thinkpad-ideapad-i3-i5-i7-18032667.html",
+            "image": "https://media3.scdn.vn/img3/2019/5_10/WyQXfy_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 10500000,
+            "default_price_max": 10500000,
+            "sale_price_min": 10500000,
+            "sale_price_max": 10500000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop Asus A556UF-DM263D",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 18032117,
+            "name": "Laptop Asús K555L, i5 5200U 4G 500G 15inch Đẹp zin 100 Giá rẻLaptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD -laptop Lenovo thinkpad ideapad i3 i5 i7",
+            "category_path": "laptop-asus-k555l-i5-5200u-4g-500g-15inch-dep-zin-100-gia-relaptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-laptop-lenovo-thinkpad-ideapad-i3-i5-i7-18032117.html",
+            "image": "https://media3.scdn.vn/img3/2019/5_10/6Fv0mW_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 7500000,
+            "default_price_max": 7500000,
+            "sale_price_min": 7500000,
+            "sale_price_max": 7500000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop Asus K555L",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 8325489,
+            "name": "MÁY TÍNH Laptop Hp Elitebook 2710p i7 12.5in nhỏ xinh gọn nhẹ bỏ cóp xeLaptop - Laptop rẻ - Laptop sinh viên - Laptop văn phòng - Laptop cũ - Laptop chơi game - Laptop giải trí - Laptop SSD -laptop Hp Pavilion giá rẻ củ HP envy Hp i3 i5 i7",
+            "category_path": "may-tinh-laptop-hp-elitebook-2710p-i7-125in-nho-xinh-gon-nhe-bo-cop-xelaptop-laptop-re-laptop-sinh-vien-laptop-van-phong-laptop-cu-laptop-choi-game-laptop-giai-tri-laptop-ssd-laptop-hp-pavilion-gia-re-cu-hp-envy-hp-i3-i5-i7-8325489.html",
+            "image": "https://media3.scdn.vn/img2/2017/12_29/BwIoRJ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 5500000,
+            "default_price_max": 5500000,
+            "sale_price_min": 5500000,
+            "sale_price_max": 5500000,
+            "sold": 1,
+            "order_count_text": "1",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop hp 2170p i7",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        }
+    ]
+}

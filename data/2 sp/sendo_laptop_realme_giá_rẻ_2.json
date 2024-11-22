@@ -1,0 +1,81 @@
+{
+    "total_products": 2,
+    "products": [
+        {
+            "id": 117905792,
+            "name": "Balo Đựng Laptop Sonoz Le Calme Militant0316 - Màu Be [Được kiểm hàng] 113102508",
+            "category_path": "balo-dung-laptop-sonoz-le-calme-militant0316-mau-be-duo-c-kie-m-ha-ng-113102508-117905792.html",
+            "image": "https://media3.scdn.vn/img4/2023/04_07/bMhaIacEwFW5XaM2ikSj_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1090180,
+            "default_price_max": 1090180,
+            "sale_price_min": 754740,
+            "sale_price_max": 754740,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 988391,
+            "sku_user": "113102508",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988391,
+                "name": "Gì Cũng Có 102201",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 115635694,
+            "name": "Bộ Men Vi Sinh SSEDAM Real Lacto Black Label Kit Phục Hồi & Tăng Sinh Tế Bào Củng Cố Hàng Rào Bảo Vệ Da ( có bán tách lẻ các sản phẩm )",
+            "category_path": "bo-men-vi-sinh-ssedam-real-lacto-black-label-kit-phuc-hoi-tang-sinh-te-bao-cung-co-hang-rao-bao-ve-da-co-ban-tach-le-cac-san-pham-115635694.html",
+            "image": "https://media3.scdn.vn/img4/2023/09_10/ohich9zWjDbMGFp1cWNP_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 120000,
+            "default_price_max": 5000000,
+            "sale_price_min": 68000,
+            "sale_price_max": 3790000,
+            "sale_percent": 44,
+            "has_video": true,
+            "seller_admin_id": 889799,
+            "sku_user": "sp2111",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 889799,
+                "name": "Korea Cosmetics Shop",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Phú Thọ",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        }
+    ]
+}

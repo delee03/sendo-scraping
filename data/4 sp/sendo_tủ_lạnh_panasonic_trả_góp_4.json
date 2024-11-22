@@ -1,0 +1,168 @@
+{
+    "total_products": 4,
+    "products": [
+        {
+            "id": 113765203,
+            "name": "Tem dán tủ lạnh PANASONIC, miếng dán trang trí tủ lạnh - tặng kèm băng keo 2 mặt",
+            "category_path": "tem-dan-tu-lanh-panasonic-mieng-dan-trang-tri-tu-lanh-tang-kem-bang-keo-2-mat-113765203.html",
+            "image": "https://media3.scdn.vn/img4/2023/04_21/MSRfczEFrIUpwwUJqIWk_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 92800,
+            "default_price_max": 92800,
+            "sale_price_min": 58000,
+            "sale_price_max": 58000,
+            "sale_percent": 38,
+            "seller_admin_id": 977455,
+            "sku_user": "TTLPANASONIC5_01",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 977455,
+                "name": "Vật Tư Điện Lạnh 02",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Đồng Nai",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116018540,
+            "name": "Khóa gài tủ lạnh  ngăn kéo  tủ đồ  thiết kế  bắt mắt vừa giúp trang trí và góp phần giữ  an toàn cho trẻ nhỏ hiếu động",
+            "category_path": "khoa-gai-tu-lanh-ngan-keo-tu-do-thiet-ke-bat-mat-vua-giup-trang-tri-va-gop-phan-giu-an-toan-cho-tre-nho-hieu-dong-116018540.html",
+            "image": "https://media3.scdn.vn/img4/2023/10_05/6KABEeX1sXuIkcIcHxsF_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 8000,
+            "default_price_max": 15000,
+            "sale_price_min": 8000,
+            "sale_price_max": 15000,
+            "sold": 5,
+            "order_count_text": "5",
+            "seller_admin_id": 982553,
+            "sku_user": "22220737136",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 982553,
+                "name": "Kho Sỉ Hưng Phú",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 113765426,
+            "name": "Tem dán tủ lạnh PANASONIC, miếng dán trang trí tủ lạnh - tặng kèm băng keo 2 mặt",
+            "category_path": "tem-dan-tu-lanh-panasonic-mieng-dan-trang-tri-tu-lanh-tang-kem-bang-keo-2-mat-113765426.html",
+            "image": "https://media3.scdn.vn/img4/2023/04_21/MSRfczEFrIUpwwUJqIWk_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 92800,
+            "default_price_max": 92800,
+            "sale_price_min": 58000,
+            "sale_price_max": 58000,
+            "sale_percent": 38,
+            "sold": 3,
+            "order_count_text": "3",
+            "seller_admin_id": 977454,
+            "sku_user": "TTLPANASONIC5_01",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 977454,
+                "name": "Vật Tư Điện Lạnh 01",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Đồng Nai",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 10406109,
+            "name": "Tem dán tủ lạnh PANASONIC, miếng dán trang trí tủ lạnh - tặng kèm băng keo 2 mặt",
+            "category_path": "tem-dan-tu-lanh-panasonic-mieng-dan-trang-tri-tu-lanh-tang-kem-bang-keo-2-mat-10406109.html",
+            "image": "https://media3.scdn.vn/img2/2018/6_29/V1g2md_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 92800,
+            "default_price_max": 92800,
+            "sale_price_min": 22000,
+            "sale_price_max": 22000,
+            "sale_percent": 77,
+            "sold": 13,
+            "order_count_text": "13",
+            "seller_admin_id": 244631,
+            "sku_user": "TTLPANASONIC5_01",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 244631,
+                "name": "VẬT TƯ ĐIỆN LẠNH THUẬN DUNG",
+                "status": 2,
+                "ware_house_region_name": "Đồng Nai",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 2,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        }
+    ]
+}

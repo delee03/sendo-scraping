@@ -1,0 +1,770 @@
+{
+    "total_products": 20,
+    "products": [
+        {
+            "id": 118944503,
+            "name": "Tờ 2 Đô 2 USD 12 Con Giáp Mạ Vàng 3D Kỷ Niệm Làm Quà Tặng Sưu Tầm Trang Trí để bóp ví ốp điện thoại",
+            "category_path": "to-2-do-2-usd-12-con-giap-ma-vang-3d-ky-niem-lam-qua-tang-suu-tam-trang-tri-de-bop-vi-op-dien-thoai-118944503.html",
+            "image": "https://media3.scdn.vn/img4/2024/11_03/qVRwTrCLkh5lbLVylKjZ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 23999,
+            "default_price_max": 118800,
+            "sale_price_min": 23999,
+            "sale_price_max": 118800,
+            "discount_app": 2,
+            "seller_admin_id": 544101,
+            "sku_user": "29214710264",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 544101,
+                "name": "Shop Quà Tặng Sưu Tầm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 118696707,
+            "name": "Thùng Rác Gấp Gọn Thông Minh, Treo Cửa Bếp Cửa Tủ Tiện Lợi giadungtienich DEAL SALE SỐC [Được kiểm hàng] 111224678",
+            "category_path": "thung-rac-gap-gon-thong-minh-treo-cua-bep-cua-tu-tien-loi-giadungtienich-deal-sale-so-c-duo-c-kie-m-ha-ng-111224678-118696707.html",
+            "image": "https://media3.scdn.vn/img4/2022/04_27/ewXtkoEWX0xMsUQC5z00_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 468000,
+            "default_price_max": 468000,
+            "sale_price_min": 324000,
+            "sale_price_max": 324000,
+            "sale_percent": 31,
+            "seller_admin_id": 988982,
+            "sku_user": "111224678",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988982,
+                "name": "Gì Cũng Có Shop 1vmc38u4uu",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118489928,
+            "name": "Thùng Rác Gấp Gọn Thông Minh, Treo Cửa Bếp Cửa Tủ Tiện Lợi giadungtienich DEAL SALE SỐC [Được kiểm hàng] 111224678",
+            "category_path": "thung-rac-gap-gon-thong-minh-treo-cua-bep-cua-tu-tien-loi-giadungtienich-deal-sale-so-c-duo-c-kie-m-ha-ng-111224678-118489928.html",
+            "image": "https://media3.scdn.vn/img4/2022/04_27/ewXtkoEWX0xMsUQC5z00_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 468000,
+            "default_price_max": 468000,
+            "sale_price_min": 324000,
+            "sale_price_max": 324000,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 988843,
+            "sku_user": "111224678",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988843,
+                "name": "Gì Cũng Có Shop fbgrrdha0v",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 117599452,
+            "name": "Giường Xếp Ngủ Trưa Văn Phòng Giường Gấp Gọn Vải Bạt Khung Thép Sơn Tĩnh Điện Bảo Hành Bảo Trì Dài Hạn",
+            "category_path": "giuong-xep-ngu-trua-van-phong-giuong-gap-gon-vai-bat-khung-thep-son-tinh-dien-bao-hanh-bao-tri-dai-han-117599452.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_05/TgvTwBrWHIHJ55SQqh8a_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 380000,
+            "default_price_max": 380000,
+            "sale_price_min": 380000,
+            "sale_price_max": 380000,
+            "seller_admin_id": 943898,
+            "sku_user": "bbbb",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 943898,
+                "name": "Tổng kho màn Bảo An",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Bắc Ninh",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 111224678,
+            "name": "Thùng Rác Gấp Gọn Thông Minh, Treo Cửa Bếp Cửa Tủ Tiện Lợi giadungtienich DEAL SALE SỐC",
+            "category_path": "thung-rac-gap-gon-thong-minh-treo-cua-bep-cua-tu-tien-loi-giadungtienich-deal-sale-so-c-111224678.html",
+            "image": "https://media3.scdn.vn/img4/2022/04_27/ewXtkoEWX0xMsUQC5z00_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 180000,
+            "default_price_max": 180000,
+            "sale_price_min": 180000,
+            "sale_price_max": 180000,
+            "seller_admin_id": 974009,
+            "sku_user": "sfgj0032s21",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 974009,
+                "name": "bvtshoponline247",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 107982706,
+            "name": "KỆ ĐỰNG XÀ PHÒNG 2 TẦNG CAO CẤP kệ góc tường trang trí nhà tắm phòng bếp khay chứa xà bông sữa tắm đồ dùng toilet hộp để gia vị đồ dùng làm bếp làm đẹp nhà cửa hiện đại gọn gàng chất lượng tốt giá rẻ LOTA SHOP",
+            "category_path": "ke-dung-xa-phong-2-tang-cao-cap-ke-goc-tuong-trang-tri-nha-tam-phong-bep-khay-chua-xa-bong-sua-tam-do-dung-toilet-hop-de-gia-vi-do-dung-lam-bep-lam-dep-nha-cua-hien-dai-gon-gang-chat-luong-tot-gia-re-lota-shop-107982706.html",
+            "image": "https://media3.scdn.vn/img4/2022/12_03/B3OIuR0PQc3oARxBi3Rq_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 180000,
+            "default_price_max": 180000,
+            "sale_price_min": 128000,
+            "sale_price_max": 128000,
+            "sale_percent": 29,
+            "seller_admin_id": 959253,
+            "sku_user": "K553",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 959253,
+                "name": "lotashop",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 97231824,
+            "name": "[GIÁ SỈ] Tờ 2 Đô 2 USD Hình 12 Con Giáp Mạ Vàng 3D Kỷ Niệm Làm Quà Tặng Sưu Tầm Trang Trí để bóp ví ốp điện thoại",
+            "category_path": "gia-si-to-2-do-2-usd-hinh-12-con-giap-ma-vang-3d-ky-niem-lam-qua-tang-suu-tam-trang-tri-de-bop-vi-op-dien-thoai-97231824.html",
+            "image": "https://media3.scdn.vn/img4/2022/07_28/c4582f21Wf7av0H0lasw_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 23000,
+            "default_price_max": 115000,
+            "sale_price_min": 23000,
+            "sale_price_max": 115000,
+            "discount_app": 1,
+            "seller_admin_id": 711764,
+            "sku_user": "18716867637",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 711764,
+                "name": "MOON 1080 SHOP",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 97231780,
+            "name": "[GIÁ SỈ] Tờ 2 Đô 2 USD In Hình 12 Con Giáp Mạ Vàng 3D Kỷ Niệm Làm Quà Tặng Sưu Tầm Trang Trí để bóp ví ốp lưng điện thoại",
+            "category_path": "gia-si-to-2-do-2-usd-in-hinh-12-con-giap-ma-vang-3d-ky-niem-lam-qua-tang-suu-tam-trang-tri-de-bop-vi-op-lung-dien-thoai-97231780.html",
+            "image": "https://media3.scdn.vn/img4/2022/07_28/zA5p58bd1HFcnfhGcMWG_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 23000,
+            "default_price_max": 115000,
+            "sale_price_min": 23000,
+            "sale_price_max": 115000,
+            "discount_app": 1,
+            "seller_admin_id": 711764,
+            "sku_user": "18316862184",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 711764,
+                "name": "MOON 1080 SHOP",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 97231751,
+            "name": "[HÀNG XỊN] Tờ 2 Đô 2 USD Hình 12 Con Giáp Mạ Vàng 3D Kỷ Niệm Làm Quà Tặng Sưu Tầm Trang Trí để bóp ví ốp điện thoại",
+            "category_path": "hang-xin-to-2-do-2-usd-hinh-12-con-giap-ma-vang-3d-ky-niem-lam-qua-tang-suu-tam-trang-tri-de-bop-vi-op-dien-thoai-97231751.html",
+            "image": "https://media3.scdn.vn/img4/2022/07_28/3e3HgvqtgC2QoHEkgnTX_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 23000,
+            "default_price_max": 115000,
+            "sale_price_min": 23000,
+            "sale_price_max": 115000,
+            "discount_app": 2,
+            "seller_admin_id": 544101,
+            "sku_user": "18716867637",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 544101,
+                "name": "Shop Quà Tặng Sưu Tầm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 119005956,
+            "name": "Thùng Rác Gấp Gọn Thông Minh, Treo Cửa Bếp Cửa Tủ Tiện Lợi giadungtienich DEAL SALE SỐC [Được kiểm hàng] 111224678",
+            "category_path": "thung-rac-gap-gon-thong-minh-treo-cua-bep-cua-tu-tien-loi-giadungtienich-deal-sale-so-c-duo-c-kie-m-ha-ng-111224678-119005956.html",
+            "image": "https://media3.scdn.vn/img4/2022/04_27/ewXtkoEWX0xMsUQC5z00_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 468000,
+            "default_price_max": 468000,
+            "sale_price_min": 324000,
+            "sale_price_max": 324000,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 989277,
+            "sku_user": "111224678",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 989277,
+                "name": "Gì Cũng Có Shop wze6olq8gm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 117696388,
+            "name": "Đầu Trù Chân Quai Túi Ren Vặn Chất Antimon Mạ Điện Phụ Liệu Làm Đồ Da Thủ Công Giỏ Xách Bóp Ví Thắt Lưng Handmade DIY",
+            "category_path": "dau-tru-chan-quai-tui-ren-van-chat-antimon-ma-dien-phu-lieu-lam-do-da-thu-cong-gio-xach-bop-vi-that-lung-handmade-diy-117696388.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_13/GYoF2Lb1WfHLu772lvKM_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 20000,
+            "default_price_max": 36000,
+            "sale_price_min": 10500,
+            "sale_price_max": 18300,
+            "sale_percent": 50,
+            "has_video": true,
+            "seller_admin_id": 976580,
+            "sku_user": "dautruquaitui",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 976580,
+                "name": "NomDIYStore",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117287710,
+            "name": "Dây Xích Túi Xách Sợi Chuỗi Hợp Kim Mạ Điện Phụ Liệu Trang Trí Làm Đồ Da Thủ Công Giỏ Xách Bóp Ví Vòng Tay Handmade DIY",
+            "category_path": "day-xich-tui-xach-soi-chuoi-hop-kim-ma-dien-phu-lieu-trang-tri-lam-do-da-thu-cong-gio-xach-bop-vi-vong-tay-handmade-diy-117287710.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_02/jEvqKpTJwa4cdCp2SYPc_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 8000,
+            "default_price_max": 12000,
+            "sale_price_min": 2490,
+            "sale_price_max": 6800,
+            "sale_percent": 69,
+            "seller_admin_id": 976580,
+            "sku_user": "dayxichtuixach",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 976580,
+                "name": "NomDIYStore",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116385431,
+            "name": "Máy Chơi Điện Tử Pop It, Bopit Thế Hệ Mới Đồ Chơi Bóp Bóp Giải Trí Xả Stress",
+            "category_path": "may-choi-dien-tu-pop-it-bopit-the-he-moi-do-choi-bop-bop-giai-tri-xa-stress-116385431.html",
+            "image": "https://media3.scdn.vn/img4/2024/02_24/upmspoku0sb1WR93dkr9_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 99000,
+            "default_price_max": 99000,
+            "sale_price_min": 68000,
+            "sale_price_max": 68000,
+            "sale_percent": 32,
+            "sold": 9,
+            "order_count_text": "9",
+            "seller_admin_id": 976577,
+            "sku_user": "4xhcthunhan",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 976577,
+                "name": "Gia dụng hà nội 68",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 2,
+                "star": 5
+            },
+            "options": {}
+        },
+        {
+            "id": 116340438,
+            "name": "Đầu Trù Nấm Ốc Vít Chân Ren Vặn Chất Antimon Mạ Điện Phụ Liệu Đồ Da Giỏ Xách Thắt Lưng Túi Bóp Ví Thủ Công Handmade DIY",
+            "category_path": "dau-tru-nam-oc-vit-chan-ren-van-chat-antimon-ma-dien-phu-lieu-do-da-gio-xach-that-lung-tui-bop-vi-thu-cong-handmade-diy-116340438.html",
+            "image": "https://media3.scdn.vn/img4/2024/01_30/GPMrcSlu68OAUWsiLApW_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 12000,
+            "default_price_max": 18000,
+            "sale_price_min": 6400,
+            "sale_price_max": 9200,
+            "sale_percent": 49,
+            "has_video": true,
+            "seller_admin_id": 976580,
+            "sku_user": "dautrunamhopkim",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 976580,
+                "name": "NomDIYStore",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116106920,
+            "name": "Chính hãng Ví da nam sang trọng dáng đứng dáng ngang có 6 ngăn đựng thẻ - Bóp siêu bền đẹp - Shin Shop Phụ Kiện Thời Tra",
+            "category_path": "chinh-hang-vi-da-nam-sang-trong-dang-dung-dang-ngang-co-6-ngan-dung-the-bop-sieu-ben-dep-shin-shop-phu-kien-thoi-tra-116106920.html",
+            "image": "https://media3.scdn.vn/img4/2023/10_28/w7ze2CtUTJLJGcwcac3U_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 39000,
+            "default_price_max": 39000,
+            "sale_price_min": 39000,
+            "sale_price_max": 39000,
+            "seller_admin_id": 982152,
+            "sku_user": "11915012352",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 982152,
+                "name": "shop01122",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 114742099,
+            "name": "Chính hãng Ví da nam sang trọng dáng đứng dáng ngang có 6 ngăn đựng thẻ - Bóp siêu bền đẹp - Shin Shop Phụ Kiện Thời Tra",
+            "category_path": "chinh-hang-vi-da-nam-sang-trong-dang-dung-dang-ngang-co-6-ngan-dung-the-bop-sieu-ben-dep-shin-shop-phu-kien-thoi-tra-114742099.html",
+            "image": "https://media3.scdn.vn/img4/2023/07_16/EDSFZkysAiseZmVN6Ajn_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 39000,
+            "default_price_max": 39000,
+            "sale_price_min": 39000,
+            "sale_price_max": 39000,
+            "seller_admin_id": 53627,
+            "sku_user": "ewqw14033123",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 53627,
+                "name": "Làn Da Hoàn Hảo",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 114598847,
+            "name": "Chính hãng Ví da nam sang trọng dáng đứng dáng ngang có 6 ngăn đựng thẻ - Bóp siêu bền đẹp - Shin Shop Phụ Kiện Thời Tra",
+            "category_path": "chinh-hang-vi-da-nam-sang-trong-dang-dung-dang-ngang-co-6-ngan-dung-the-bop-sieu-ben-dep-shin-shop-phu-kien-thoi-tra-114598847.html",
+            "image": "https://media3.scdn.vn/img4/2023/07_12/aO7nD4X2Bch6SOJ7H1kJ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 39000,
+            "default_price_max": 39000,
+            "sale_price_min": 39000,
+            "sale_price_max": 39000,
+            "seller_admin_id": 53627,
+            "sku_user": "343q4345345492trterte",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 53627,
+                "name": "Làn Da Hoàn Hảo",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 97231722,
+            "name": "[HÀNG XỊN] Tờ 2 Đô 2 USD In Hình 12 Con Giáp Mạ Vàng 3D Kỷ Niệm Làm Quà Tặng Sưu Tầm Trang Trí để bóp ví ốp lưng điện thoại",
+            "category_path": "hang-xin-to-2-do-2-usd-in-hinh-12-con-giap-ma-vang-3d-ky-niem-lam-qua-tang-suu-tam-trang-tri-de-bop-vi-op-lung-dien-thoai-97231722.html",
+            "image": "https://media3.scdn.vn/img4/2022/07_28/HsSoY0zVzXkgZwwQE6VG_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 23000,
+            "default_price_max": 115000,
+            "sale_price_min": 23000,
+            "sale_price_max": 115000,
+            "discount_app": 2,
+            "seller_admin_id": 544101,
+            "sku_user": "18316862184",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 544101,
+                "name": "Shop Quà Tặng Sưu Tầm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 97223967,
+            "name": "1Chai thủy tinh bọc gỗ tre bi lăn dùng đựng tinh dầu trầm hương,nước hoa mỹ phẩm trang điểm mắt tiện dụng bỏ túi ví bóp mang theo mình đi du lịch",
+            "category_path": "1chai-thuy-tinh-boc-go-tre-bi-lan-dung-dung-tinh-dau-tram-huong-nuoc-hoa-my-pham-trang-diem-mat-tien-dung-bo-tui-vi-bop-mang-theo-minh-di-du-lich-97223967.html",
+            "image": "https://media3.scdn.vn/img4/2022/07_28/odSgqtw9BhTqsMlEQCpE_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 35000,
+            "default_price_max": 45000,
+            "sale_price_min": 35000,
+            "sale_price_max": 45000,
+            "seller_admin_id": 728261,
+            "sku_user": "1chai bọc gỗ tre",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 728261,
+                "name": "parfum123",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Tây Ninh",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 38008877,
+            "name": "Siêu Hot-Siêu Rẻ- Bàn xếp trà chanh gấp xếp 4 chân đứng, bàn mặt rời full sơn tĩnh điện phù hợp dành cho quán cà phê, trà sữa, bia úp ngược",
+            "category_path": "sieu-hot-sieu-re-ban-xep-tra-chanh-gap-xep-4-chan-dung-ban-mat-roi-full-son-tinh-dien-phu-hop-danh-cho-quan-ca-phe-tra-sua-bia-up-nguoc-38008877.html",
+            "image": "https://media3.scdn.vn/img4/2020/12_04/V0elGHE4TjYmbXmfoEzk_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 125000,
+            "default_price_max": 130000,
+            "sale_price_min": 125000,
+            "sale_price_max": 130000,
+            "sold": 10,
+            "order_count_text": "10",
+            "has_video": true,
+            "seller_admin_id": 855479,
+            "sku_user": "BTC4",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 855479,
+                "name": "Table & Chair Man01",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 5,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,352 @@
+{
+    "total_products": 9,
+    "products": [
+        {
+            "id": 118779419,
+            "name": "Bo mạch máy giặt SAMSUNG 4888-05 loại đèn lệch góc cạnh trái Broad MG [Được kiểm hàng] 25293949",
+            "category_path": "bo-mach-may-giat-samsung-4888-05-loai-den-lech-goc-canh-trai-broad-mg-duo-c-kie-m-ha-ng-25293949-118779419.html",
+            "image": "https://media3.scdn.vn/img4/2020/01_13/MgdUqqQanpO6X39C30bX_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 715000,
+            "default_price_max": 715000,
+            "sale_price_min": 495000,
+            "sale_price_max": 495000,
+            "sale_percent": 31,
+            "seller_admin_id": 988982,
+            "sku_user": "25293949",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988982,
+                "name": "Gì Cũng Có Shop 1vmc38u4uu",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118779299,
+            "name": "Bo mạch máy giặt SAMSUNG 4888-05 loại đèn góc [Được kiểm hàng] 13333378",
+            "category_path": "bo-mach-may-giat-samsung-4888-05-loai-den-goc-duo-c-kie-m-ha-ng-13333378-118779299.html",
+            "image": "https://media3.scdn.vn/img2/2018/12_7/dv8smt_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 725400,
+            "default_price_max": 725400,
+            "sale_price_min": 502200,
+            "sale_price_max": 502200,
+            "sale_percent": 31,
+            "seller_admin_id": 988982,
+            "sku_user": "13333378",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988982,
+                "name": "Gì Cũng Có Shop 1vmc38u4uu",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118574171,
+            "name": "Bo mạch máy giặt SAMSUNG 4888-05 loại đèn lệch góc cạnh trái Broad MG [Được kiểm hàng] 25293949",
+            "category_path": "bo-mach-may-giat-samsung-4888-05-loai-den-lech-goc-canh-trai-broad-mg-duo-c-kie-m-ha-ng-25293949-118574171.html",
+            "image": "https://media3.scdn.vn/img4/2020/01_13/MgdUqqQanpO6X39C30bX_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 715000,
+            "default_price_max": 715000,
+            "sale_price_min": 495000,
+            "sale_price_max": 495000,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 988843,
+            "sku_user": "25293949",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988843,
+                "name": "Gì Cũng Có Shop fbgrrdha0v",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118574061,
+            "name": "Bo mạch máy giặt SAMSUNG 4888-05 loại đèn góc [Được kiểm hàng] 13333378",
+            "category_path": "bo-mach-may-giat-samsung-4888-05-loai-den-goc-duo-c-kie-m-ha-ng-13333378-118574061.html",
+            "image": "https://media3.scdn.vn/img2/2018/12_7/dv8smt_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 725400,
+            "default_price_max": 725400,
+            "sale_price_min": 502200,
+            "sale_price_max": 502200,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 988843,
+            "sku_user": "13333378",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988843,
+                "name": "Gì Cũng Có Shop fbgrrdha0v",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 13333378,
+            "name": "Bo mạch máy giặt SAMSUNG 4888-05 loại đèn góc",
+            "category_path": "bo-mach-may-giat-samsung-4888-05-loai-den-goc-13333378.html",
+            "image": "https://media3.scdn.vn/img2/2018/12_7/dv8smt_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 279000,
+            "default_price_max": 279000,
+            "sale_price_min": 279000,
+            "sale_price_max": 279000,
+            "sold": 5,
+            "order_count_text": "5",
+            "seller_admin_id": 449118,
+            "sku_user": "MG-08-SS4",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 449118,
+                "name": "Vật tư điện lạnh Hồng Kính",
+                "status": 2,
+                "ware_house_region_name": "Bắc Ninh",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 1,
+                "star": 3
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 25293949,
+            "name": "Bo mạch máy giặt SAMSUNG 4888-05 loại đèn lệch góc cạnh trái Broad MG",
+            "category_path": "bo-mach-may-giat-samsung-4888-05-loai-den-lech-goc-canh-trai-broad-mg-25293949.html",
+            "image": "https://media3.scdn.vn/img4/2020/01_13/MgdUqqQanpO6X39C30bX_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 275000,
+            "default_price_max": 275000,
+            "sale_price_min": 275000,
+            "sale_price_max": 275000,
+            "seller_admin_id": 449118,
+            "sku_user": "mạch 4888-05",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 449118,
+                "name": "Vật tư điện lạnh Hồng Kính",
+                "status": 2,
+                "ware_house_region_name": "Bắc Ninh",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 119097915,
+            "name": "Bo mạch máy giặt SAMSUNG 4888-05 loại đèn lệch góc cạnh trái Broad MG [Được kiểm hàng] 25293949",
+            "category_path": "bo-mach-may-giat-samsung-4888-05-loai-den-lech-goc-canh-trai-broad-mg-duo-c-kie-m-ha-ng-25293949-119097915.html",
+            "image": "https://media3.scdn.vn/img4/2020/01_13/MgdUqqQanpO6X39C30bX_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 715000,
+            "default_price_max": 715000,
+            "sale_price_min": 495000,
+            "sale_price_max": 495000,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 989277,
+            "sku_user": "25293949",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 989277,
+                "name": "Gì Cũng Có Shop wze6olq8gm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 119097800,
+            "name": "Bo mạch máy giặt SAMSUNG 4888-05 loại đèn góc [Được kiểm hàng] 13333378",
+            "category_path": "bo-mach-may-giat-samsung-4888-05-loai-den-goc-duo-c-kie-m-ha-ng-13333378-119097800.html",
+            "image": "https://media3.scdn.vn/img2/2018/12_7/dv8smt_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 725400,
+            "default_price_max": 725400,
+            "sale_price_min": 502200,
+            "sale_price_max": 502200,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 989277,
+            "sku_user": "13333378",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 989277,
+                "name": "Gì Cũng Có Shop wze6olq8gm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 32158676,
+            "name": "Miếng dán máy giặt các loại : \" Toshiba, Panasonic, Samsung, Sanyo Aqua, Sharp \"  Dùng Để Trang Trí",
+            "category_path": "mieng-dan-may-giat-cac-loai-toshiba-panasonic-samsung-sanyo-aqua-sharp-dung-de-trang-tri-32158676.html",
+            "image": "https://media3.scdn.vn/img4/2020/08_03/YIAnUOiOYilMjka1gYgM_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 19000,
+            "default_price_max": 85000,
+            "sale_price_min": 19000,
+            "sale_price_max": 85000,
+            "seller_admin_id": 516622,
+            "sku_user": "MDMG2",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 516622,
+                "name": "HVAC",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        }
+    ]
+}

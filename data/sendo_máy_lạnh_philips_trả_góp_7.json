@@ -1,0 +1,275 @@
+{
+    "total_products": 7,
+    "products": [
+        {
+            "id": 118753718,
+            "name": "Máy mài khuôn mini 3.2mm 130W kèm 109 phụ kiện TOTAL TG513326 - mài góc, cạnh nhỏ, vị trí hẹp [Được kiểm hàng] 114537596",
+            "category_path": "may-mai-khuon-mini-32mm-130w-kem-109-phu-kien-total-tg513326-mai-goc-canh-nho-vi-tri-hep-duo-c-kie-m-ha-ng-114537596-118753718.html",
+            "image": "https://media3.scdn.vn/img4/2023/07_04/YUfh98cvYYLGZf69rIUP_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1365000,
+            "default_price_max": 1365000,
+            "sale_price_min": 945000,
+            "sale_price_max": 945000,
+            "sale_percent": 31,
+            "seller_admin_id": 988982,
+            "sku_user": "114537596",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988982,
+                "name": "Gì Cũng Có Shop 1vmc38u4uu",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118549100,
+            "name": "Máy mài khuôn mini 3.2mm 130W kèm 109 phụ kiện TOTAL TG513326 - mài góc, cạnh nhỏ, vị trí hẹp [Được kiểm hàng] 114537596",
+            "category_path": "may-mai-khuon-mini-32mm-130w-kem-109-phu-kien-total-tg513326-mai-goc-canh-nho-vi-tri-hep-duo-c-kie-m-ha-ng-114537596-118549100.html",
+            "image": "https://media3.scdn.vn/img4/2023/07_04/YUfh98cvYYLGZf69rIUP_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1365000,
+            "default_price_max": 1365000,
+            "sale_price_min": 945000,
+            "sale_price_max": 945000,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 988843,
+            "sku_user": "114537596",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988843,
+                "name": "Gì Cũng Có Shop fbgrrdha0v",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 117989616,
+            "name": "Máy mài khuôn mini 3.2mm 130W kèm 109 phụ kiện TOTAL TG513326 - mài góc, cạnh nhỏ, vị trí hẹp [Được kiểm hàng] 114537596",
+            "category_path": "may-mai-khuon-mini-32mm-130w-kem-109-phu-kien-total-tg513326-mai-goc-canh-nho-vi-tri-hep-duo-c-kie-m-ha-ng-114537596-117989616.html",
+            "image": "https://media3.scdn.vn/img4/2023/07_04/YUfh98cvYYLGZf69rIUP_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1365000,
+            "default_price_max": 1365000,
+            "sale_price_min": 945000,
+            "sale_price_max": 945000,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 988391,
+            "sku_user": "114537596",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988391,
+                "name": "Gì Cũng Có 102201",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 119069943,
+            "name": "Máy mài khuôn mini 3.2mm 130W kèm 109 phụ kiện TOTAL TG513326 - mài góc, cạnh nhỏ, vị trí hẹp [Được kiểm hàng] 114537596",
+            "category_path": "may-mai-khuon-mini-32mm-130w-kem-109-phu-kien-total-tg513326-mai-goc-canh-nho-vi-tri-hep-duo-c-kie-m-ha-ng-114537596-119069943.html",
+            "image": "https://media3.scdn.vn/img4/2023/07_04/YUfh98cvYYLGZf69rIUP_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1365000,
+            "default_price_max": 1365000,
+            "sale_price_min": 945000,
+            "sale_price_max": 945000,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 989277,
+            "sku_user": "114537596",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 989277,
+                "name": "Gì Cũng Có Shop wze6olq8gm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 116386379,
+            "name": "Máy cạo râu khô và ướt Philips S5880/20 đầu cạo linh hoạt 360 độ, tích hợp đầu tỉa tóc mai, bảo hành 24 tháng - Hàng chính hãng",
+            "category_path": "may-cao-rau-kho-va-uot-philips-s588020-dau-cao-linh-hoat-360-do-tich-hop-dau-tia-toc-mai-bao-hanh-24-thang-hang-chinh-hang-116386379.html",
+            "image": "https://media3.scdn.vn/img4/2024/02_25/3sHFRP36nls5SKJsY74r_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 2899000,
+            "default_price_max": 2899000,
+            "sale_price_min": 2199000,
+            "sale_price_max": 2199000,
+            "sale_percent": 25,
+            "seller_admin_id": 320787,
+            "sku_user": "S5880/20",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 320787,
+                "name": "Điện máy VÀNG Việt Nam",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 115694724,
+            "name": "Đế Kê Mài Dao Lạng Đục Tròn Oval Cây Gọt Tỉa Viền Da Dụng Cụ Đồ Nghề Làm Túi Xách Thắt Lưng Bóp Ví Thủ Công Handmade DIY",
+            "category_path": "de-ke-mai-dao-lang-duc-tron-oval-cay-got-tia-vien-da-dung-cu-do-nghe-lam-tui-xach-that-lung-bop-vi-thu-cong-handmade-diy-115694724.html",
+            "image": "https://media3.scdn.vn/img4/2023/09_13/5KSifF7ny4lp4yOJVd9W_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 420000,
+            "default_price_max": 420000,
+            "sale_price_min": 219000,
+            "sale_price_max": 219000,
+            "sale_percent": 48,
+            "seller_admin_id": 976580,
+            "sku_user": "dekemaidaolangdaogotvien",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 976580,
+                "name": "NomDIYStore",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 114537596,
+            "name": "Máy mài khuôn mini 3.2mm 130W kèm 109 phụ kiện TOTAL TG513326 - mài góc, cạnh nhỏ, vị trí hẹp",
+            "category_path": "may-mai-khuon-mini-32mm-130w-kem-109-phu-kien-total-tg513326-mai-goc-canh-nho-vi-tri-hep-114537596.html",
+            "image": "https://media3.scdn.vn/img4/2023/07_04/YUfh98cvYYLGZf69rIUP_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 881000,
+            "default_price_max": 881000,
+            "sale_price_min": 525000,
+            "sale_price_max": 525000,
+            "sale_percent": 41,
+            "seller_admin_id": 392664,
+            "sku_user": "TO-TG513326",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 392664,
+                "name": "Tốc Độ 247",
+                "status": 2,
+                "type": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": "https://media3.scdn.vn/img4/2022/08_30/Niw4htmWmKd2rNiMEHpE.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "total_products": 1,
+    "products": [
+        {
+            "id": 93934221,
+            "name": "[Trả góp 0%]Loa Bluetooth EXTRA BASS SONY SRS-XB43 2 màu - Bảo hành 12 tháng chính hãng",
+            "category_path": "tra-gop-0-loa-bluetooth-extra-bass-sony-srs-xb43-2-mau-bao-hanh-12-thang-chinh-hang-93934221.html",
+            "image": "https://media3.scdn.vn/img4/2022/05_24/lVr6uhs72CaZgyjLRKe5_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 4190000,
+            "default_price_max": 4990000,
+            "sale_price_min": 4190000,
+            "sale_price_max": 4990000,
+            "sold": 3,
+            "order_count_text": "3",
+            "seller_admin_id": 944452,
+            "sku_user": "1570",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 944452,
+                "name": "Future Sound",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Thái Bình",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        }
+    ]
+}

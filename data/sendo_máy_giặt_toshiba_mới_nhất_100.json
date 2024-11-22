@@ -1,0 +1,3747 @@
+{
+    "total_products": 100,
+    "products": [
+        {
+            "id": 38042140,
+            "name": "[Hàng mới] Công tắc khóa cửa máy giặt TOSHIBA. các loại (chọn đúng loại khi đặt hàng)",
+            "category_path": "hang-moi-cong-tac-khoa-cua-may-giat-toshiba-cac-loai-chon-dung-loai-khi-dat-hang-38042140.html",
+            "image": "https://media3.scdn.vn/img4/2020/12_05/YPs8n94TdFiiU7mz6L0s_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 199000,
+            "default_price_max": 300000,
+            "sale_price_min": 199000,
+            "sale_price_max": 300000,
+            "sold": 13,
+            "order_count_text": "13",
+            "seller_admin_id": 449118,
+            "sku_user": "Công tắc cửa Tô",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 449118,
+                "name": "Vật tư điện lạnh Hồng Kính",
+                "status": 2,
+                "ware_house_region_name": "Bắc Ninh",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 3,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 22276386,
+            "name": "[Hàng mới] Bo mạch máy giặt Toshiba- A800 - Board AW-A800SV",
+            "category_path": "hang-moi-bo-mach-may-giat-toshiba-a800-board-aw-a800sv-22276386.html",
+            "image": "https://media3.scdn.vn/img3/2019/10_3/O4Rr6I_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 519000,
+            "default_price_max": 519000,
+            "sale_price_min": 519000,
+            "sale_price_max": 519000,
+            "sold": 99,
+            "order_count_text": "99",
+            "seller_admin_id": 449118,
+            "sku_user": "mạch A800",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 449118,
+                "name": "Vật tư điện lạnh Hồng Kính",
+                "status": 2,
+                "ware_house_region_name": "Bắc Ninh",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 15,
+                "star": 4.5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 118779225,
+            "name": "[Hàng mới] Bo mạch máy giặt Toshiba- A800 - Board AW-A800SV [Được kiểm hàng] 22276386",
+            "category_path": "hang-moi-bo-mach-may-giat-toshiba-a800-board-aw-a800sv-duo-c-kie-m-ha-ng-22276386-118779225.html",
+            "image": "https://media3.scdn.vn/img3/2019/10_3/O4Rr6I_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1349400,
+            "default_price_max": 1349400,
+            "sale_price_min": 934200,
+            "sale_price_max": 934200,
+            "sale_percent": 31,
+            "seller_admin_id": 988982,
+            "sku_user": "22276386",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988982,
+                "name": "Gì Cũng Có Shop 1vmc38u4uu",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118778508,
+            "name": "Tay quang treo - ty treo ti gióng máy giặt TOSHIBA cửa đứng dài 54.5cm hàng Mới [Được kiểm hàng] 116301215",
+            "category_path": "tay-quang-treo-ty-treo-ti-giong-may-giat-toshiba-cua-dung-dai-545cm-hang-moi-duo-c-kie-m-ha-ng-116301215-118778508.html",
+            "image": "https://media3.scdn.vn/img4/2024/01_11/v0gpqxwhjGch6NgJY6Pi_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 358800,
+            "default_price_max": 358800,
+            "sale_price_min": 248400,
+            "sale_price_max": 248400,
+            "sale_percent": 31,
+            "seller_admin_id": 988982,
+            "sku_user": "116301215",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988982,
+                "name": "Gì Cũng Có Shop 1vmc38u4uu",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118688490,
+            "name": "Kệ 2 tầng để trên máy giặt, bệ bồn cầu tiện dụng mẫu mới nhất hiện nay [Được kiểm hàng] 32397356",
+            "category_path": "ke-2-tang-de-tren-may-giat-be-bon-cau-tien-dung-mau-moi-nhat-hien-nay-duo-c-kie-m-ha-ng-32397356-118688490.html",
+            "image": "https://media3.scdn.vn/img4/2020/08_13/dDEpkBaho5u5reJns54R_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 673400,
+            "default_price_max": 673400,
+            "sale_price_min": 466200,
+            "sale_price_max": 466200,
+            "sale_percent": 31,
+            "seller_admin_id": 988982,
+            "sku_user": "32397356",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988982,
+                "name": "Gì Cũng Có Shop 1vmc38u4uu",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118675996,
+            "name": "KỆ ĐỂ ĐỒ ĐA NĂNG CÓ BÁNH XE CÓ GIỎ ĐỂ ĐỒ ĐA NĂNG VIỆT NHẬT\nCÓ 3 MÀU XÁM, TRẮNG, HỒNG\nược thiết kế đơn giản nhưng vô cùng tiện ích cho mẹ khi để đồ giặt cho bé với 3 tầng thì mẹ có thể để tầng trên cùng để [Được kiểm hàng] 42716543",
+            "category_path": "ke-de-do-da-nang-co-banh-xe-co-gio-de-do-da-nang-viet-nhat-co-3-mau-xam-trang-hong-uoc-thiet-ke-don-gian-nhung-vo-cung-tien-ich-cho-me-khi-de-do-giat-cho-be-voi-3-tang-thi-me-co-the-de-tang-tren-cung-de-duo-c-kie-m-ha-ng-42716543-118675996.html",
+            "image": "https://media3.scdn.vn/img4/2021/04_19/JnP00WuQpyTV3b843Rv9_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 578000,
+            "default_price_max": 578000,
+            "sale_price_min": 491300,
+            "sale_price_max": 491300,
+            "sale_percent": 15,
+            "seller_admin_id": 988982,
+            "sku_user": "42716543",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988982,
+                "name": "Gì Cũng Có Shop 1vmc38u4uu",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118573969,
+            "name": "[Hàng mới] Bo mạch máy giặt Toshiba- A800 - Board AW-A800SV [Được kiểm hàng] 22276386",
+            "category_path": "hang-moi-bo-mach-may-giat-toshiba-a800-board-aw-a800sv-duo-c-kie-m-ha-ng-22276386-118573969.html",
+            "image": "https://media3.scdn.vn/img3/2019/10_3/O4Rr6I_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1349400,
+            "default_price_max": 1349400,
+            "sale_price_min": 934200,
+            "sale_price_max": 934200,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 988843,
+            "sku_user": "22276386",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988843,
+                "name": "Gì Cũng Có Shop fbgrrdha0v",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118493477,
+            "name": "Bộ xả máy giặt TOSHIBA đời mới [Được kiểm hàng] 23504121",
+            "category_path": "bo-xa-may-giat-toshiba-doi-moi-duo-c-kie-m-ha-ng-23504121-118493477.html",
+            "image": "https://media3.scdn.vn/img4/2021/11_20/xJP8CzooL2z1BLyalEij_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 621400,
+            "default_price_max": 621400,
+            "sale_price_min": 430200,
+            "sale_price_max": 430200,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 988843,
+            "sku_user": "23504121",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988843,
+                "name": "Gì Cũng Có Shop fbgrrdha0v",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118482776,
+            "name": "Kệ 2 tầng để trên máy giặt, bệ bồn cầu tiện dụng mẫu mới nhất hiện nay [Được kiểm hàng] 32397356",
+            "category_path": "ke-2-tang-de-tren-may-giat-be-bon-cau-tien-dung-mau-moi-nhat-hien-nay-duo-c-kie-m-ha-ng-32397356-118482776.html",
+            "image": "https://media3.scdn.vn/img4/2020/08_13/dDEpkBaho5u5reJns54R_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 673400,
+            "default_price_max": 673400,
+            "sale_price_min": 466200,
+            "sale_price_max": 466200,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 988843,
+            "sku_user": "32397356",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988843,
+                "name": "Gì Cũng Có Shop fbgrrdha0v",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118471280,
+            "name": "KỆ ĐỂ ĐỒ ĐA NĂNG CÓ BÁNH XE CÓ GIỎ ĐỂ ĐỒ ĐA NĂNG VIỆT NHẬT\nCÓ 3 MÀU XÁM, TRẮNG, HỒNG\nược thiết kế đơn giản nhưng vô cùng tiện ích cho mẹ khi để đồ giặt cho bé với 3 tầng thì mẹ có thể để tầng trên cùng để [Được kiểm hàng] 42716543",
+            "category_path": "ke-de-do-da-nang-co-banh-xe-co-gio-de-do-da-nang-viet-nhat-co-3-mau-xam-trang-hong-uoc-thiet-ke-don-gian-nhung-vo-cung-tien-ich-cho-me-khi-de-do-giat-cho-be-voi-3-tang-thi-me-co-the-de-tang-tren-cung-de-duo-c-kie-m-ha-ng-42716543-118471280.html",
+            "image": "https://media3.scdn.vn/img4/2021/04_19/JnP00WuQpyTV3b843Rv9_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 578000,
+            "default_price_max": 578000,
+            "sale_price_min": 491300,
+            "sale_price_max": 491300,
+            "sale_percent": 15,
+            "discount_app": 1,
+            "seller_admin_id": 988843,
+            "sku_user": "42716543",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988843,
+                "name": "Gì Cũng Có Shop fbgrrdha0v",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118002755,
+            "name": "Bộ tay treo lồng máy giặt samsung, panasonic, lg, Toshiba quang treo mg 63.5cm hàng Mới [Được kiểm hàng] 116150192",
+            "category_path": "bo-tay-treo-long-may-giat-samsung-panasonic-lg-toshiba-quang-treo-mg-635cm-hang-moi-duo-c-kie-m-ha-ng-116150192-118002755.html",
+            "image": "https://media3.scdn.vn/img4/2023/11_09/K3oLbqRazyICnf1givVy_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 439400,
+            "default_price_max": 439400,
+            "sale_price_min": 304200,
+            "sale_price_max": 304200,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 988391,
+            "sku_user": "116150192",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988391,
+                "name": "Gì Cũng Có 102201",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118002618,
+            "name": "Trục càng ba chạc máy giặt có sấy TOSHIBA Midea CASPER Buli TO, Chảng 3 mg Tô Media Mới [Được kiểm hàng] 114192772",
+            "category_path": "truc-cang-ba-chac-may-giat-co-say-toshiba-midea-casper-buli-to-chang-3-mg-to-media-moi-duo-c-kie-m-ha-ng-114192772-118002618.html",
+            "image": "https://media3.scdn.vn/img4/2023/05_25/Na8jhzgROs7gPqqW4wvm_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 949000,
+            "default_price_max": 949000,
+            "sale_price_min": 657000,
+            "sale_price_max": 657000,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 988391,
+            "sku_user": "114192772",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988391,
+                "name": "Gì Cũng Có 102201",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118002609,
+            "name": "Trục càng ba chạc máy giặt có sấy TOSHIBA Midea CASPER Buli bé, Chảng 3 mg Tô Media Mới [Được kiểm hàng] 114192763",
+            "category_path": "truc-cang-ba-chac-may-giat-co-say-toshiba-midea-casper-buli-be-chang-3-mg-to-media-moi-duo-c-kie-m-ha-ng-114192763-118002609.html",
+            "image": "https://media3.scdn.vn/img4/2023/05_25/yPDjeLNrUCnctIUXzpmq_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 949000,
+            "default_price_max": 949000,
+            "sale_price_min": 657000,
+            "sale_price_max": 657000,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 988391,
+            "sku_user": "114192763",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988391,
+                "name": "Gì Cũng Có 102201",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118002608,
+            "name": "Trục càng ba chạc máy giặt TOSHIBA Midea CASPER trục bé Buli bé, Chảng 3 mg Tô Media Mới [Được kiểm hàng] 114192721",
+            "category_path": "truc-cang-ba-chac-may-giat-toshiba-midea-casper-truc-be-buli-be-chang-3-mg-to-media-moi-duo-c-kie-m-ha-ng-114192721-118002608.html",
+            "image": "https://media3.scdn.vn/img4/2023/05_25/dL6tPyuUvv1rLsFPpZa8_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 897000,
+            "default_price_max": 897000,
+            "sale_price_min": 621000,
+            "sale_price_max": 621000,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 988391,
+            "sku_user": "114192721",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988391,
+                "name": "Gì Cũng Có 102201",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 117936540,
+            "name": "Máy cắt cỏ oshima cx330 thương hiệu Nhật bản, máy cắt cỏ mới 2020 [Được kiểm hàng] 31123388",
+            "category_path": "may-cat-co-oshima-cx330-thuong-hieu-nhat-ban-may-cat-co-moi-2020-duo-c-kie-m-ha-ng-31123388-117936540.html",
+            "image": "https://media3.scdn.vn/img4/2020/06_26/eCEgO08EOngjr59i0axP_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 6630000,
+            "default_price_max": 6630000,
+            "sale_price_min": 4590000,
+            "sale_price_max": 4590000,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 988391,
+            "sku_user": "31123388",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988391,
+                "name": "Gì Cũng Có 102201",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 117583148,
+            "name": "Bộ hộp số máy giặt Toshiba AW - K1005FV, K1000FV 9kg bộ ly hợp mới loại tốt",
+            "category_path": "bo-hop-so-may-giat-toshiba-aw-k1005fv-k1000fv-9kg-bo-ly-hop-moi-loai-tot-117583148.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_04/xsjrfn4AxOahodZBHemM_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 650000,
+            "default_price_max": 650000,
+            "sale_price_min": 650000,
+            "sale_price_max": 650000,
+            "seller_admin_id": 509853,
+            "sku_user": "AJ479",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117583133,
+            "name": "Van cấp nước đơn máy giặt Toshiba AW - K900DV, J900DV 8kg mới chính hãng",
+            "category_path": "van-cap-nuoc-don-may-giat-toshiba-aw-k900dv-j900dv-8kg-moi-chinh-hang-117583133.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_04/VEZRtxHT1QL9h4KJNKvm_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 130000,
+            "default_price_max": 130000,
+            "sale_price_min": 130000,
+            "sale_price_max": 130000,
+            "sold": 1,
+            "order_count_text": "1",
+            "seller_admin_id": 509853,
+            "sku_user": "AJ480",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117280971,
+            "name": "Vành buli, buly, bu ly máy giặt Toshiba 8,5kg, 9kg, 9,5kg cửa ngang mới chính hãng",
+            "category_path": "vanh-buli-buly-bu-ly-may-giat-toshiba-8-5kg-9kg-9-5kg-cua-ngang-moi-chinh-hang-117280971.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_31/f6Np3T3xIqcfX92K1oUx_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 300000,
+            "default_price_max": 300000,
+            "sale_price_min": 300000,
+            "sale_price_max": 300000,
+            "seller_admin_id": 509853,
+            "sku_user": "AJ387",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117173277,
+            "name": "Bộ nhông máy giặt Toshiba AW - 8970SV 8kg mới chính hãng",
+            "category_path": "bo-nhong-may-giat-toshiba-aw-8970sv-8kg-moi-chinh-hang-117173277.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_21/5uyqGf6b1DwyfRGyyvIL_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 300000,
+            "default_price_max": 300000,
+            "sale_price_min": 300000,
+            "sale_price_max": 300000,
+            "seller_admin_id": 509853,
+            "sku_user": "AJ222",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117170453,
+            "name": "Đếm từ máy giặt Toshiba AW - K1000FV mới chính hãng",
+            "category_path": "dem-tu-may-giat-toshiba-aw-k1000fv-moi-chinh-hang-117170453.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_18/ILPv8SMHZAwSqaRi5hUA_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 350000,
+            "default_price_max": 350000,
+            "sale_price_min": 350000,
+            "sale_price_max": 350000,
+            "seller_admin_id": 509853,
+            "sku_user": "AJ777",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117099857,
+            "name": "Van cấp nước đơn máy giặt Toshiba B1000GV, H1000GV, G1000GV, H1100GV, B1100GV mới chính hãng",
+            "category_path": "van-cap-nuoc-don-may-giat-toshiba-b1000gv-h1000gv-g1000gv-h1100gv-b1100gv-moi-chinh-hang-117099857.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_15/8bVaWblFjq1rC9QoMcrr_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 60000,
+            "default_price_max": 60000,
+            "sale_price_min": 60000,
+            "sale_price_max": 60000,
+            "seller_admin_id": 509853,
+            "sku_user": "AJ765",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117026015,
+            "name": "Van cấp nước xả vải máy giặt TOSHIBA 3 vòi ra 220V mới chính hãng",
+            "category_path": "van-cap-nuoc-xa-vai-may-giat-toshiba-3-voi-ra-220v-moi-chinh-hang-117026015.html",
+            "image": "https://media3.scdn.vn/img4/2024/06_07/h2GStBJ748sYQrSK2JSH_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 150000,
+            "default_price_max": 150000,
+            "sale_price_min": 150000,
+            "sale_price_max": 150000,
+            "seller_admin_id": 509853,
+            "sku_user": "AJ818",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116835251,
+            "name": "Trục càng ba chạc máy giặt Toshiba TW - BK 115G4V 10,5kg mới chính hãng",
+            "category_path": "truc-cang-ba-chac-may-giat-toshiba-tw-bk-115g4v-10-5kg-moi-chinh-hang-116835251.html",
+            "image": "https://media3.scdn.vn/img4/2024/05_20/bN42mjGpeBKQWgetCz96_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 390000,
+            "default_price_max": 390000,
+            "sale_price_min": 390000,
+            "sale_price_max": 390000,
+            "seller_admin_id": 509853,
+            "sku_user": "AJ705",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116833047,
+            "name": "Van cấp nước đơn máy giặt Toshiba AW - L850AV 7kg mới chính hãng",
+            "category_path": "van-cap-nuoc-don-may-giat-toshiba-aw-l850av-7kg-moi-chinh-hang-116833047.html",
+            "image": "https://media3.scdn.vn/img4/2024/05_19/ftNXjTrb61DrLDKBEmwC_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 180000,
+            "default_price_max": 180000,
+            "sale_price_min": 180000,
+            "sale_price_max": 180000,
+            "seller_admin_id": 509853,
+            "sku_user": "AJ700",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116649603,
+            "name": "Van cấp nước máy giặt Toshiba AW - DUK1160HV 10,5kg 3 ngả mới chính hãng",
+            "category_path": "van-cap-nuoc-may-giat-toshiba-aw-duk1160hv-10-5kg-3-nga-moi-chinh-hang-116649603.html",
+            "image": "https://media3.scdn.vn/img4/2024/05_09/3SP5KeurQOS71WptRr4k_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 250000,
+            "default_price_max": 250000,
+            "sale_price_min": 250000,
+            "sale_price_max": 250000,
+            "seller_admin_id": 509853,
+            "sku_user": "AJ414",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116534417,
+            "name": "Bộ hộp số máy giặt Toshiba AW - H1100GV, G1100GV bộ ly hợp mới loại tốt",
+            "category_path": "bo-hop-so-may-giat-toshiba-aw-h1100gv-g1100gv-bo-ly-hop-moi-loai-tot-116534417.html",
+            "image": "https://media3.scdn.vn/img4/2024/04_10/8oKF58HCENDceSgJ9BRb_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 845000,
+            "default_price_max": 845000,
+            "sale_price_min": 845000,
+            "sale_price_max": 845000,
+            "seller_admin_id": 509853,
+            "sku_user": "AJ302",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116526757,
+            "name": "Công Tắc Khóa Cửa Máy Giặt Toshiba AW -  H1000GV, G1100GV Mới Loại Tốt",
+            "category_path": "cong-tac-khoa-cua-may-giat-toshiba-aw-h1000gv-g1100gv-moi-loai-tot-116526757.html",
+            "image": "https://media3.scdn.vn/img4/2024/04_09/wwyFzhLrd4PyRq7kVASy_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 200000,
+            "default_price_max": 200000,
+            "sale_price_min": 200000,
+            "sale_price_max": 200000,
+            "seller_admin_id": 509853,
+            "sku_user": "AJ283",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116509217,
+            "name": "Bộ nhông máy giặt Toshiba AW - 9760SV 9kg mới chính hãng",
+            "category_path": "bo-nhong-may-giat-toshiba-aw-9760sv-9kg-moi-chinh-hang-116509217.html",
+            "image": "https://media3.scdn.vn/img4/2024/03_28/G5fm0feqzydKFCjVlQab_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 300000,
+            "default_price_max": 300000,
+            "sale_price_min": 300000,
+            "sale_price_max": 300000,
+            "seller_admin_id": 509853,
+            "sku_user": "AJ617",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116410455,
+            "name": "Quang treo giảm xóc máy giặt Toshiba 12kg AW - DUK1300KV mới chính hãng",
+            "category_path": "quang-treo-giam-xoc-may-giat-toshiba-12kg-aw-duk1300kv-moi-chinh-hang-116410455.html",
+            "image": "https://media3.scdn.vn/img4/2024/03_10/tywir0j4xnDfB2sNWJuZ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 226000,
+            "default_price_max": 226000,
+            "sale_price_min": 226000,
+            "sale_price_max": 226000,
+            "sold": 9,
+            "order_count_text": "9",
+            "seller_admin_id": 509853,
+            "sku_user": "AJ541",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116394004,
+            "name": "Công Tắc Khóa Cửa Máy Giặt Toshiba AW - DUH1200GV, DUH1100GV, DUJ1400GV mới chính hãng",
+            "category_path": "cong-tac-khoa-cua-may-giat-toshiba-aw-duh1200gv-duh1100gv-duj1400gv-moi-chinh-hang-116394004.html",
+            "image": "https://media3.scdn.vn/img4/2024/03_01/npNFE08Ycx5qGk9Df4p1_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 200000,
+            "default_price_max": 200000,
+            "sale_price_min": 200000,
+            "sale_price_max": 200000,
+            "sold": 1,
+            "order_count_text": "1",
+            "seller_admin_id": 509853,
+            "sku_user": "AJ523",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 2,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 119118388,
+            "name": "Bộ xả thay thế cho máy giặt TO SHIBA đời mới [Được kiểm hàng] 24969733",
+            "category_path": "bo-xa-thay-the-cho-may-giat-to-shiba-doi-moi-duo-c-kie-m-ha-ng-24969733-119118388.html",
+            "image": "https://media3.scdn.vn/img4/2021/11_20/Nf6NaxgWVHPBjFopw5WR_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 621400,
+            "default_price_max": 621400,
+            "sale_price_min": 430200,
+            "sale_price_max": 430200,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 989277,
+            "sku_user": "24969733",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 989277,
+                "name": "Gì Cũng Có Shop wze6olq8gm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 119097719,
+            "name": "[Hàng mới] Bo mạch máy giặt Toshiba- A800 - Board AW-A800SV [Được kiểm hàng] 22276386",
+            "category_path": "hang-moi-bo-mach-may-giat-toshiba-a800-board-aw-a800sv-duo-c-kie-m-ha-ng-22276386-119097719.html",
+            "image": "https://media3.scdn.vn/img3/2019/10_3/O4Rr6I_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1349400,
+            "default_price_max": 1349400,
+            "sale_price_min": 934200,
+            "sale_price_max": 934200,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 989277,
+            "sku_user": "22276386",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 989277,
+                "name": "Gì Cũng Có Shop wze6olq8gm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 119008905,
+            "name": "Bộ xả máy giặt TOSHIBA đời mới [Được kiểm hàng] 23504121",
+            "category_path": "bo-xa-may-giat-toshiba-doi-moi-duo-c-kie-m-ha-ng-23504121-119008905.html",
+            "image": "https://media3.scdn.vn/img4/2021/11_20/xJP8CzooL2z1BLyalEij_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 621400,
+            "default_price_max": 621400,
+            "sale_price_min": 430200,
+            "sale_price_max": 430200,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 989277,
+            "sku_user": "23504121",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 989277,
+                "name": "Gì Cũng Có Shop wze6olq8gm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118998932,
+            "name": "Kệ 2 tầng để trên máy giặt, bệ bồn cầu tiện dụng mẫu mới nhất hiện nay [Được kiểm hàng] 32397356",
+            "category_path": "ke-2-tang-de-tren-may-giat-be-bon-cau-tien-dung-mau-moi-nhat-hien-nay-duo-c-kie-m-ha-ng-32397356-118998932.html",
+            "image": "https://media3.scdn.vn/img4/2020/08_13/dDEpkBaho5u5reJns54R_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 673400,
+            "default_price_max": 673400,
+            "sale_price_min": 466200,
+            "sale_price_max": 466200,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 989277,
+            "sku_user": "32397356",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 989277,
+                "name": "Gì Cũng Có Shop wze6olq8gm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118987460,
+            "name": "KỆ ĐỂ ĐỒ ĐA NĂNG CÓ BÁNH XE CÓ GIỎ ĐỂ ĐỒ ĐA NĂNG VIỆT NHẬT\nCÓ 3 MÀU XÁM, TRẮNG, HỒNG\nược thiết kế đơn giản nhưng vô cùng tiện ích cho mẹ khi để đồ giặt cho bé với 3 tầng thì mẹ có thể để tầng trên cùng để [Được kiểm hàng] 42716543",
+            "category_path": "ke-de-do-da-nang-co-banh-xe-co-gio-de-do-da-nang-viet-nhat-co-3-mau-xam-trang-hong-uoc-thiet-ke-don-gian-nhung-vo-cung-tien-ich-cho-me-khi-de-do-giat-cho-be-voi-3-tang-thi-me-co-the-de-tang-tren-cung-de-duo-c-kie-m-ha-ng-42716543-118987460.html",
+            "image": "https://media3.scdn.vn/img4/2021/04_19/JnP00WuQpyTV3b843Rv9_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 578000,
+            "default_price_max": 578000,
+            "sale_price_min": 491300,
+            "sale_price_max": 491300,
+            "sale_percent": 15,
+            "discount_app": 1,
+            "seller_admin_id": 989277,
+            "sku_user": "42716543",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 989277,
+                "name": "Gì Cũng Có Shop wze6olq8gm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118002763,
+            "name": "Tay quang treo - ty treo ti gióng máy giặt TOSHIBA cửa đứng dài 54.5cm hàng Mới [Được kiểm hàng] 116301215",
+            "category_path": "tay-quang-treo-ty-treo-ti-giong-may-giat-toshiba-cua-dung-dai-545cm-hang-moi-duo-c-kie-m-ha-ng-116301215-118002763.html",
+            "image": "https://media3.scdn.vn/img4/2024/01_11/v0gpqxwhjGch6NgJY6Pi_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 358800,
+            "default_price_max": 358800,
+            "sale_price_min": 248400,
+            "sale_price_max": 248400,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 988391,
+            "sku_user": "116301215",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988391,
+                "name": "Gì Cũng Có 102201",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 117746146,
+            "name": "Van cấp đôi máy giặt Toshiba AW - D950SV 9kg mới chính hãng",
+            "category_path": "van-cap-doi-may-giat-toshiba-aw-d950sv-9kg-moi-chinh-hang-117746146.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_18/EgorM1Itx2k8VkzP7xRh_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 110000,
+            "default_price_max": 110000,
+            "sale_price_min": 110000,
+            "sale_price_max": 110000,
+            "seller_admin_id": 509853,
+            "sku_user": "AQ080",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117724638,
+            "name": "Bộ 2 vòng bi máy giặt Toshiba TW - BK105S2V, BK105G4V, BK105S3V, BK95G4V cửa ngang mới chính hãng",
+            "category_path": "bo-2-vong-bi-may-giat-toshiba-tw-bk105s2v-bk105g4v-bk105s3v-bk95g4v-cua-ngang-moi-chinh-hang-117724638.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_17/SVLprnR3rf6jfs40xvZr_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 150000,
+            "default_price_max": 150000,
+            "sale_price_min": 150000,
+            "sale_price_max": 150000,
+            "seller_admin_id": 509853,
+            "sku_user": "AQ072",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117724637,
+            "name": "Bo Mạch Điều Khiển Máy Giặt TOSHIBA AW - DUK1150HV mới chính hãng",
+            "category_path": "bo-mach-dieu-khien-may-giat-toshiba-aw-duk1150hv-moi-chinh-hang-117724637.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_17/uYzD3moETNxocVYzJfAC_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 600000,
+            "default_price_max": 600000,
+            "sale_price_min": 600000,
+            "sale_price_max": 600000,
+            "seller_admin_id": 509853,
+            "sku_user": "AQ070",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117722576,
+            "name": "Bộ 2 vòng bi máy giặt Toshiba 6206 - 6207 mới chính hãng",
+            "category_path": "bo-2-vong-bi-may-giat-toshiba-6206-6207-moi-chinh-hang-117722576.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_17/yFJ8ZArdyBw1l17D0DCX_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 150000,
+            "default_price_max": 150000,
+            "sale_price_min": 150000,
+            "sale_price_max": 150000,
+            "seller_admin_id": 509853,
+            "sku_user": "AQ065",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117583116,
+            "name": "Bộ hộp số máy giặt Toshiba AW - K900DV, J900DV 8kg bộ ly hợp mới loại tốt",
+            "category_path": "bo-hop-so-may-giat-toshiba-aw-k900dv-j900dv-8kg-bo-ly-hop-moi-loai-tot-117583116.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_04/DfyYqHNTgTPv6D0hcYHA_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 650000,
+            "default_price_max": 650000,
+            "sale_price_min": 650000,
+            "sale_price_max": 650000,
+            "seller_admin_id": 509853,
+            "sku_user": "AJ484",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117281050,
+            "name": "Trục càng chạc ba máy giặt Toshiba TW - BK105G4V 9,5kg mới chính hãng",
+            "category_path": "tru-c-ca-ng-cha-c-ba-ma-y-gia-t-toshiba-tw-bk105g4v-9-5kg-moi-chinh-hang-117281050.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_31/nTPSRb0P9hWKXI5y7Idu_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 350000,
+            "default_price_max": 350000,
+            "sale_price_min": 350000,
+            "sale_price_max": 350000,
+            "seller_admin_id": 509853,
+            "sku_user": "AJ395",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117173275,
+            "name": "Bộ hộp số máy giặt Toshiba AW - 8970SV bộ ly hợp mới loại tốt",
+            "category_path": "bo-hop-so-may-giat-toshiba-aw-8970sv-bo-ly-hop-moi-loai-tot-117173275.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_21/fhi2Vni1FXp3VSPTDQny_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 845000,
+            "default_price_max": 845000,
+            "sale_price_min": 845000,
+            "sale_price_max": 845000,
+            "seller_admin_id": 509853,
+            "sku_user": "AJ221",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117172409,
+            "name": "Mâm đĩa máy giặt Toshiba AW - 8970SV 8kg mới chính hãng",
+            "category_path": "mam-dia-may-giat-toshiba-aw-8970sv-8kg-moi-chinh-hang-117172409.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_20/34ozIhbvfqPrIRuDDfdI_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 220000,
+            "default_price_max": 220000,
+            "sale_price_min": 220000,
+            "sale_price_max": 220000,
+            "seller_admin_id": 509853,
+            "sku_user": "AJ248",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117172104,
+            "name": "Công tắc khóa cửa máy giặt Toshiba AW - D980SV mới chính hãng",
+            "category_path": "cong-ta-c-kho-a-cu-a-ma-y-gia-t-toshiba-aw-d980sv-moi-chi-nh-ha-ng-117172104.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_20/buVs7C3bpWGnpNCL66sO_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 380000,
+            "default_price_max": 380000,
+            "sale_price_min": 380000,
+            "sale_price_max": 380000,
+            "sold": 1,
+            "order_count_text": "1",
+            "seller_admin_id": 509853,
+            "sku_user": "AJ427",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117161720,
+            "name": "Trục càng chạc ba máy giặt Toshiba TW - BK105S3V 9,5kg mới chính hãng",
+            "category_path": "tru-c-ca-ng-cha-c-ba-ma-y-gia-t-toshiba-tw-bk105s3v-9-5kg-moi-chinh-hang-117161720.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_17/wUOfbg1wto7avW4y9zKA_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 350000,
+            "default_price_max": 350000,
+            "sale_price_min": 350000,
+            "sale_price_max": 350000,
+            "seller_admin_id": 509853,
+            "sku_user": "AJ769",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117068608,
+            "name": "Trục càng chạc ba máy giặt Toshiba 9,5 Kg TW - BK105S2V mới chính hãng",
+            "category_path": "tru-c-ca-ng-cha-c-ba-ma-y-gia-t-toshiba-9-5-kg-tw-bk105s2v-moi-chinh-hang-117068608.html",
+            "image": "https://media3.scdn.vn/img4/2024/06_28/i6qFRIqRmcomKZHxU3hk_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 360000,
+            "default_price_max": 360000,
+            "sale_price_min": 360000,
+            "sale_price_max": 360000,
+            "sold": 1,
+            "order_count_text": "1",
+            "seller_admin_id": 509853,
+            "sku_user": "AJ933",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 1,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116842135,
+            "name": "BỘ 3 CHAI Nước tẩy lồng máy giặt Nhật Bản chai 260ml - Cleaning Fluid - nước tẩy vệ sinh đánh bay mùi hôi, ẩm mốc trong máy giặt lâu ngày - Phiên bản mới",
+            "category_path": "bo-3-chai-nuoc-tay-long-may-giat-nhat-ban-chai-260ml-cleaning-fluid-nuoc-tay-ve-sinh-danh-bay-mui-hoi-am-moc-trong-may-giat-lau-ngay-phien-ban-moi-116842135.html",
+            "image": "https://media3.scdn.vn/img4/2024/05_22/eR1GH3fXcnQlieOY6ksF_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 109000,
+            "default_price_max": 109000,
+            "sale_price_min": 109000,
+            "sale_price_max": 109000,
+            "sold": 1,
+            "order_count_text": "1",
+            "seller_admin_id": 882098,
+            "sku_user": "4135_116842135",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 882098,
+                "name": "muanhanhgiatot6789",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116842134,
+            "name": "BỘ 3 Nước tẩy lồng máy giặt Nhật Bản chai 260ml - Cleaning Fluid - nước tẩy vệ sinh đánh bay mùi hôi- Phiên bản mới",
+            "category_path": "bo-3-nuoc-tay-long-may-giat-nhat-ban-chai-260ml-cleaning-fluid-nuoc-tay-ve-sinh-danh-bay-mui-hoi-phien-ban-moi-116842134.html",
+            "image": "https://media3.scdn.vn/img4/2024/05_22/MzozIeldfKSD29Vkdq63_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 109000,
+            "default_price_max": 109000,
+            "sale_price_min": 109000,
+            "sale_price_max": 109000,
+            "seller_admin_id": 809606,
+            "sku_user": "4135_116842134",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 809606,
+                "name": "shoptrangsang6789",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116833024,
+            "name": "Bo Mạch Máy Giặt Toshiba AW - KL850AV 7kg cửa đứng mới",
+            "category_path": "bo-mach-may-giat-toshiba-aw-kl850av-7kg-cua-dung-moi-116833024.html",
+            "image": "https://media3.scdn.vn/img4/2024/05_19/TXOsahzFPJoBjbdvd42D_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 540000,
+            "default_price_max": 540000,
+            "sale_price_min": 540000,
+            "sale_price_max": 540000,
+            "seller_admin_id": 509853,
+            "sku_user": "AJ600",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116578010,
+            "name": "Bộ nhông máy giặt Toshiba AW - H1100GV mới chính hãng",
+            "category_path": "bo-nhong-may-giat-toshiba-aw-h1100gv-moi-chinh-hang-116578010.html",
+            "image": "https://media3.scdn.vn/img4/2024/04_23/6P6ty1lYz1JAB4XofxAQ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 300000,
+            "default_price_max": 300000,
+            "sale_price_min": 300000,
+            "sale_price_max": 300000,
+            "seller_admin_id": 509853,
+            "sku_user": "AJ296",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116554469,
+            "name": "Gioăng ron cửa máy giặt Toshiba TW - BL115A2 10.5kg mới chính hãng",
+            "category_path": "gioang-ron-cua-may-giat-toshiba-tw-bl115a2-105kg-moi-chinh-hang-116554469.html",
+            "image": "https://media3.scdn.vn/img4/2024/04_13/JlmAo5vRaXwNKAQi5hWc_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 350000,
+            "default_price_max": 350000,
+            "sale_price_min": 350000,
+            "sale_price_max": 350000,
+            "seller_admin_id": 509853,
+            "sku_user": "AJ327",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116537710,
+            "name": "Bo Mạch Máy Giặt Toshiba AW - K800AV 7kg cửa đứng mới chính hãng",
+            "category_path": "bo-mach-may-giat-toshiba-aw-k800av-7kg-cua-dung-moi-chinh-hang-116537710.html",
+            "image": "https://media3.scdn.vn/img4/2024/04_11/5djBXP5kMYTwG1rJ8IjU_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 540000,
+            "default_price_max": 540000,
+            "sale_price_min": 540000,
+            "sale_price_max": 540000,
+            "seller_admin_id": 509853,
+            "sku_user": "AJ311",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116537365,
+            "name": "Bộ nhông máy giặt Toshiba AW - DUK1300KV mới chính hãng",
+            "category_path": "bo-nhong-may-giat-toshiba-aw-duk1300kv-moi-chinh-hang-116537365.html",
+            "image": "https://media3.scdn.vn/img4/2024/04_11/fvV7UBCEzyHwseCpWzZm_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 300000,
+            "default_price_max": 300000,
+            "sale_price_min": 300000,
+            "sale_price_max": 300000,
+            "seller_admin_id": 509853,
+            "sku_user": "AJ310",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116534412,
+            "name": "Công Tắc Khóa Cửa Máy Giặt Toshiba AW - G1000GV Mới Loại Tốt",
+            "category_path": "cong-tac-khoa-cua-may-giat-toshiba-aw-g1000gv-moi-loai-tot-116534412.html",
+            "image": "https://media3.scdn.vn/img4/2024/04_10/X2vMvmfdyHxtkJqdaatg_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 200000,
+            "default_price_max": 200000,
+            "sale_price_min": 200000,
+            "sale_price_max": 200000,
+            "seller_admin_id": 509853,
+            "sku_user": "AJ301",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116526751,
+            "name": "Bo mạch máy giặt Toshiba AW - H1000GV mới loại tốt",
+            "category_path": "bo-mach-may-giat-toshiba-aw-h1000gv-moi-loai-tot-116526751.html",
+            "image": "https://media3.scdn.vn/img4/2024/04_09/PR0ivNsahhg14SdaTSXw_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 600000,
+            "default_price_max": 600000,
+            "sale_price_min": 600000,
+            "sale_price_max": 600000,
+            "seller_admin_id": 509853,
+            "sku_user": "AJ284",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116526744,
+            "name": "Bộ nhông máy giặt Toshiba AW - G1000GV, H1000GV mới chính hãng",
+            "category_path": "bo-nhong-may-giat-toshiba-aw-g1000gv-h1000gv-moi-chinh-hang-116526744.html",
+            "image": "https://media3.scdn.vn/img4/2024/04_09/sTVrcZ1FH4Ss71wMjsSA_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 300000,
+            "default_price_max": 300000,
+            "sale_price_min": 300000,
+            "sale_price_max": 300000,
+            "seller_admin_id": 509853,
+            "sku_user": "AJ286",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116525137,
+            "name": "Bộ hộp số máy giặt Toshiba AW - E89SV, 8960SV, 9760SV, 9790SV bộ ly hợp mới loại tốt",
+            "category_path": "bo-hop-so-may-giat-toshiba-aw-e89sv-8960sv-9760sv-9790sv-bo-ly-hop-moi-loai-tot-116525137.html",
+            "image": "https://media3.scdn.vn/img4/2024/04_09/svyMw2Kvu18AGnrZJ5a6_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 845000,
+            "default_price_max": 845000,
+            "sale_price_min": 845000,
+            "sale_price_max": 845000,
+            "seller_admin_id": 509853,
+            "sku_user": "AJ289",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116515587,
+            "name": "Bo mạch máy giặt Toshiba AW - H1100GV 10kg cửa đứng mới",
+            "category_path": "bo-mach-may-giat-toshiba-aw-h1100gv-10kg-cua-dung-moi-116515587.html",
+            "image": "https://media3.scdn.vn/img4/2024/04_01/976NKa1C2wtsx65lTYce_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 600000,
+            "default_price_max": 600000,
+            "sale_price_min": 600000,
+            "sale_price_max": 600000,
+            "seller_admin_id": 509853,
+            "sku_user": "AJ267",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116365724,
+            "name": "Tem bảng điều khiển Máy Giặt Toshiba tem dán mặt bàn phím mới chính hãng",
+            "category_path": "tem-bang-dieu-khien-may-giat-toshiba-tem-dan-ma-t-ban-phi-m-moi-chinh-hang-116365724.html",
+            "image": "https://media3.scdn.vn/img4/2024/02_09/nM6f9cjYRHr0KXY2At1S_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 30000,
+            "default_price_max": 30000,
+            "sale_price_min": 30000,
+            "sale_price_max": 30000,
+            "seller_admin_id": 509853,
+            "sku_user": "4012_116365724",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116216086,
+            "name": "Gioăng ron cửa máy giặt Toshiba 10.5kg TW - BL115A2V mới chính hãng",
+            "category_path": "gioang-ron-cua-may-giat-toshiba-105kg-tw-bl115a2v-moi-chinh-hang-116216086.html",
+            "image": "https://media3.scdn.vn/img4/2023/12_02/5c0JIv0k3VHcSWmuSDTM_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 350000,
+            "default_price_max": 350000,
+            "sale_price_min": 350000,
+            "sale_price_max": 350000,
+            "seller_admin_id": 509853,
+            "sku_user": "AK931",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 115881613,
+            "name": "Gioăng ron máy giặt Toshiba 8,5kg TW - BK95S2V mới chính hãng",
+            "category_path": "gioang-ron-may-giat-toshiba-8-5kg-tw-bk95s2v-moi-chinh-hang-115881613.html",
+            "image": "https://media3.scdn.vn/img4/2023/09_24/FJzDIoZO91gGKw6f8NmE_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 350000,
+            "default_price_max": 350000,
+            "sale_price_min": 350000,
+            "sale_price_max": 350000,
+            "sold": 1,
+            "order_count_text": "1",
+            "seller_admin_id": 509853,
+            "sku_user": "AK340",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 115398230,
+            "name": "CHĂN LÔNG XUẤT NHẬT M.ji HÀNG MỚI CỰC HOT chăn mềm mịn, lông không phai không xù và hoàn toàn có thể sử dụng máy giặt",
+            "category_path": "chan-long-xuat-nhat-mji-hang-moi-cuc-hot-chan-mem-min-long-khong-phai-khong-xu-va-hoan-toan-co-the-su-dung-may-giat-115398230.html",
+            "image": "https://media3.scdn.vn/img4/2023/08_27/jmLBi56vIl1wWP13hAAJ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 299000,
+            "default_price_max": 299000,
+            "sale_price_min": 199000,
+            "sale_price_max": 199000,
+            "sale_percent": 34,
+            "seller_admin_id": 438264,
+            "sku_user": "1062_115398230",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 438264,
+                "name": "BẢO CHÂU PLAZA",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 115238170,
+            "name": "Quang treo giảm xóc máy giặt Toshiba 9kg AW - K1000FV mới chính hãng",
+            "category_path": "quang-treo-giam-xoc-may-giat-toshiba-9kg-aw-k1000fv-moi-chinh-hang-115238170.html",
+            "image": "https://media3.scdn.vn/img4/2023/08_11/wacufuuTDr03VvelCZXi_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 260000,
+            "default_price_max": 260000,
+            "sale_price_min": 260000,
+            "sale_price_max": 260000,
+            "seller_admin_id": 509853,
+            "sku_user": "AK508",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 114248318,
+            "name": "Bộ 4 cái ĐẾ CHỐNG RUNG MÁY GIẶT - TỦ LẠNH ắc mọi nhà đang cần ạ 23k/ bộ 4 cái- Chất liệu cao su tự nhiên, mạnh mẽ chống rung và giảm tiếng ồn.- Chống rung, trơn trượt.- Thiết kế phù hợp với mọi loại máy giặt.- Kích thước: Đường kính:",
+            "category_path": "bo-4-cai-de-chong-rung-may-giat-tu-lanh-ac-moi-nha-dang-can-a-23k-bo-4-cai-chat-lieu-cao-su-tu-nhien-manh-me-chong-rung-va-giam-tieng-on-chong-rung-tron-truot-thiet-ke-phu-hop-voi-moi-loai-may-giat-kich-thuoc-duong-kinh-114248318.html",
+            "image": "https://media3.scdn.vn/img4/2023/05_27/Jxj3gGVIw3CYc2Mt2NnH_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 23000,
+            "default_price_max": 23000,
+            "sale_price_min": 23000,
+            "sale_price_max": 23000,
+            "seller_admin_id": 283181,
+            "sku_user": "4260_114248318",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 283181,
+                "name": "Shop NN",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Khánh Hòa",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 81794979,
+            "name": "Máy giặt Toshiba Inverter 12 kg AW-DUK1300KV(SG) Mới 2021",
+            "category_path": "may-giat-toshiba-inverter-12-kg-aw-duk1300kvsg-moi-2021-81794979.html",
+            "image": "https://media3.scdn.vn/img4/2022/04_11/8okhw4YMHheSOSYPrfiS_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 6500000,
+            "default_price_max": 6500000,
+            "sale_price_min": 6500000,
+            "sale_price_max": 6500000,
+            "seller_admin_id": 407352,
+            "sku_user": "AW-DUK1300KV(SG)",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 407352,
+                "name": "GIA KHANG ĐIỆN MÁY",
+                "status": 2,
+                "level": 99,
+                "type": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_type": "https://media3.scdn.vn/img4/2022/08_30/Niw4htmWmKd2rNiMEHpE.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 71359949,
+            "name": "Van xả quay máy giặt Toshiba mới chính hãng",
+            "category_path": "van-xa-quay-may-giat-toshiba-moi-chinh-hang-71359949.html",
+            "image": "https://media3.scdn.vn/img4/2022/01_08/O1yWztQ3ScvD6lqfoeMT_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 250000,
+            "default_price_max": 250000,
+            "sale_price_min": 250000,
+            "sale_price_max": 250000,
+            "sold": 1,
+            "order_count_text": "1",
+            "seller_admin_id": 509853,
+            "sku_user": "A514",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 70638514,
+            "name": "LÓT NGỒI VUÔNG GIAO MÀU NGẪU NHIÊNSản phẩm có hoa văn, hoạ tiết 2 mặt như nhau- Chất liệu vải Gai họa tiết đa dạng, trẻ trung , không phai màu.- Dễ dàng vệ sinh, phù hợp với cả giặt tay và giặt máy.- Đường chỉ",
+            "category_path": "lot-ngoi-vuong-giao-mau-ngau-nhiensan-pham-co-hoa-van-hoa-tiet-2-mat-nhu-nhau-chat-lieu-vai-gai-hoa-tiet-da-dang-tre-trung-khong-phai-mau-de-dang-ve-sinh-phu-hop-voi-ca-giat-tay-va-giat-may-duong-chi-70638514.html",
+            "image": "https://media3.scdn.vn/img4/2021/12_20/YCyEkepyYJgWBTX2BzRA_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 69000,
+            "default_price_max": 69000,
+            "sale_price_min": 69000,
+            "sale_price_max": 69000,
+            "sold": 1,
+            "order_count_text": "1",
+            "seller_admin_id": 283181,
+            "sku_user": "1093_70638514",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 283181,
+                "name": "Shop NN",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Khánh Hòa",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 24969733,
+            "name": "Bộ xả thay thế cho máy giặt TO SHIBA đời mới",
+            "category_path": "bo-xa-thay-the-cho-may-giat-to-shiba-doi-moi-24969733.html",
+            "image": "https://media3.scdn.vn/img4/2021/11_20/Nf6NaxgWVHPBjFopw5WR_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 350000,
+            "default_price_max": 350000,
+            "sale_price_min": 239000,
+            "sale_price_max": 239000,
+            "sale_percent": 32,
+            "seller_admin_id": 583271,
+            "sku_user": "A-1662",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 583271,
+                "name": "VattulinhkienAZ",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116340014,
+            "name": "bo mạch máy giặt TOSHIBA E920LV- F920LV hàng mới full box",
+            "category_path": "bo-mach-may-giat-toshiba-e920lv-f920lv-hang-moi-full-box-116340014.html",
+            "image": "https://media3.scdn.vn/img4/2024/10_07/zVFz6dkLLdwarmUps5gP_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 520000,
+            "default_price_max": 520000,
+            "sale_price_min": 520000,
+            "sale_price_max": 520000,
+            "sold": 1,
+            "order_count_text": "1",
+            "seller_admin_id": 981642,
+            "sku_user": "4031_116340014",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 981642,
+                "name": "Bo Mạch Ngành Lạnh",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116308679,
+            "name": "Van cấp nước đơn máy giặt Toshiba AW - L805AV 7kg mới chính hãng",
+            "category_path": "van-cap-nuoc-don-may-giat-toshiba-aw-l805av-7kg-moi-chinh-hang-116308679.html",
+            "image": "https://media3.scdn.vn/img4/2024/01_14/VjZebfSKo1Vam3Iwm9S8_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 180000,
+            "default_price_max": 180000,
+            "sale_price_min": 180000,
+            "sale_price_max": 180000,
+            "seller_admin_id": 509853,
+            "sku_user": "AJ032",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116301220,
+            "name": "Tay quang treo - ty treo ti gióng máy giặt TOSHIBA cửa đứng dài 60cm hàng Mới",
+            "category_path": "tay-quang-treo-ty-treo-ti-giong-may-giat-toshiba-cua-dung-dai-60cm-hang-moi-116301220.html",
+            "image": "https://media3.scdn.vn/img4/2024/01_11/1OUgrcVwZGlSj7gYBGKa_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 138000,
+            "default_price_max": 138000,
+            "sale_price_min": 138000,
+            "sale_price_max": 138000,
+            "seller_admin_id": 449118,
+            "sku_user": "BTQTMG09",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 449118,
+                "name": "Vật tư điện lạnh Hồng Kính",
+                "status": 2,
+                "ware_house_region_name": "Bắc Ninh",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116301217,
+            "name": "Tay quang treo - ty treo ti gióng máy giặt TOSHIBA cửa đứng dài 56.5cm hàng Mới",
+            "category_path": "tay-quang-treo-ty-treo-ti-giong-may-giat-toshiba-cua-dung-dai-565cm-hang-moi-116301217.html",
+            "image": "https://media3.scdn.vn/img4/2024/01_11/46OsUwmhVzH23qtEoBaV_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 138000,
+            "default_price_max": 138000,
+            "sale_price_min": 138000,
+            "sale_price_max": 138000,
+            "seller_admin_id": 449118,
+            "sku_user": "BTQTMG08",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 449118,
+                "name": "Vật tư điện lạnh Hồng Kính",
+                "status": 2,
+                "ware_house_region_name": "Bắc Ninh",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116301215,
+            "name": "Tay quang treo - ty treo ti gióng máy giặt TOSHIBA cửa đứng dài 54.5cm hàng Mới",
+            "category_path": "tay-quang-treo-ty-treo-ti-giong-may-giat-toshiba-cua-dung-dai-545cm-hang-moi-116301215.html",
+            "image": "https://media3.scdn.vn/img4/2024/01_11/v0gpqxwhjGch6NgJY6Pi_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 138000,
+            "default_price_max": 138000,
+            "sale_price_min": 138000,
+            "sale_price_max": 138000,
+            "seller_admin_id": 449118,
+            "sku_user": "BTQTMG07",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 449118,
+                "name": "Vật tư điện lạnh Hồng Kính",
+                "status": 2,
+                "ware_house_region_name": "Bắc Ninh",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116301195,
+            "name": "Tay quang treo - ty treo - ti gióng máy giặt TOSHIBA cửa đứng các cỡ Mới",
+            "category_path": "tay-quang-treo-ty-treo-ti-giong-may-giat-toshiba-cua-dung-cac-co-moi-116301195.html",
+            "image": "https://media3.scdn.vn/img4/2024/01_11/PCJUjmZnyLAwSjLZKFvj_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 129000,
+            "default_price_max": 129000,
+            "sale_price_min": 129000,
+            "sale_price_max": 129000,
+            "seller_admin_id": 449118,
+            "sku_user": "3260_116301195",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 449118,
+                "name": "Vật tư điện lạnh Hồng Kính",
+                "status": 2,
+                "ware_house_region_name": "Bắc Ninh",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116210286,
+            "name": "Van cấp nước 3 ngả máy giặt Toshiba AW - UK1150HV 10,5kg mới chính hãng",
+            "category_path": "van-cap-nuoc-3-nga-may-giat-toshiba-aw-uk1150hv-10-5kg-moi-chinh-hang-116210286.html",
+            "image": "https://media3.scdn.vn/img4/2023/11_28/sTEYxVvJe3vrsBzAHeMa_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 250000,
+            "default_price_max": 250000,
+            "sale_price_min": 250000,
+            "sale_price_max": 250000,
+            "seller_admin_id": 509853,
+            "sku_user": "AK916",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116184847,
+            "name": "Van xả máy giặt Toshiba AW - DUH1200GV mới chính hãng",
+            "category_path": "van-xa-may-giat-toshiba-aw-duh1200gv-moi-chinh-hang-116184847.html",
+            "image": "https://media3.scdn.vn/img4/2023/11_21/U7csXq3HsSoljxjAkCHL_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 250000,
+            "default_price_max": 250000,
+            "sale_price_min": 250000,
+            "sale_price_max": 250000,
+            "seller_admin_id": 509853,
+            "sku_user": "AK570",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116150192,
+            "name": "Bộ tay treo lồng máy giặt samsung, panasonic, lg, Toshiba quang treo mg 63.5cm hàng Mới",
+            "category_path": "bo-tay-treo-long-may-giat-samsung-panasonic-lg-toshiba-quang-treo-mg-635cm-hang-moi-116150192.html",
+            "image": "https://media3.scdn.vn/img4/2023/11_09/K3oLbqRazyICnf1givVy_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 169000,
+            "default_price_max": 169000,
+            "sale_price_min": 169000,
+            "sale_price_max": 169000,
+            "seller_admin_id": 449118,
+            "sku_user": "BTQTMG03",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 449118,
+                "name": "Vật tư điện lạnh Hồng Kính",
+                "status": 2,
+                "ware_house_region_name": "Bắc Ninh",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116053166,
+            "name": "bo mạch máy giặt Toshiba dùng chung nhiều moden B-H-G 1000 1100 1050 mới full box",
+            "category_path": "bo-mach-may-giat-toshiba-dung-chung-nhieu-moden-b-h-g-1000-1100-1050-moi-full-box-116053166.html",
+            "image": "https://media3.scdn.vn/img4/2024/10_07/J2IOdity7xnYmgcYZcXM_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 600000,
+            "default_price_max": 600000,
+            "sale_price_min": 600000,
+            "sale_price_max": 600000,
+            "seller_admin_id": 981642,
+            "sku_user": "4031_116053166",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 981642,
+                "name": "Bo Mạch Ngành Lạnh",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116047420,
+            "name": "TÚI BỈM SỮA ĐA NĂNG HANG QUỐC 169k/ cái CAM KẾT CHẤT LƯỢNG TỐT, SẢN PHẨM GIỐNG HÌNH Hàng xuất khẩu đảm bảo yêu cầu chất lượng khắt khe Hình in sắc nét không dão không bong khi giặt Mềm Mịn - Thoáng Mát - Thoải Mái",
+            "category_path": "tui-bim-sua-da-nang-hang-quoc-169k-cai-cam-ket-chat-luong-tot-san-pham-giong-hinh-hang-xuat-khau-dam-bao-yeu-cau-chat-luong-khat-khe-hinh-in-sac-net-khong-dao-khong-bong-khi-giat-mem-min-thoang-mat-thoai-mai-116047420.html",
+            "image": "https://media3.scdn.vn/img4/2023/10_14/hrzqCj9e1phIWKfJmYoS_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 169000,
+            "default_price_max": 169000,
+            "sale_price_min": 169000,
+            "sale_price_max": 169000,
+            "seller_admin_id": 283181,
+            "sku_user": "182_116047420",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 283181,
+                "name": "Shop NN",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Khánh Hòa",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116046402,
+            "name": "Bo mạch máy giặt TOSHIBA cửa ngang phím cơ TW- BH95S2V / TW - BK105S2V mới full box",
+            "category_path": "bo-mach-may-giat-toshiba-cua-ngang-phim-co-tw-bh95s2v-tw-bk105s2v-moi-full-box-116046402.html",
+            "image": "https://media3.scdn.vn/img4/2023/10_13/r9wUeCXywynWwNyQS582_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1050000,
+            "default_price_max": 1050000,
+            "sale_price_min": 1050000,
+            "sale_price_max": 1050000,
+            "sold": 3,
+            "order_count_text": "3",
+            "seller_admin_id": 981642,
+            "sku_user": "4031_116046402",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 981642,
+                "name": "Bo Mạch Ngành Lạnh",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 2,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 115903115,
+            "name": "Quang treo giảm xóc máy giặt Toshiba 9kg AW - DK1000FV mới chính hãng",
+            "category_path": "quang-treo-giam-xoc-may-giat-toshiba-9kg-aw-dk1000fv-moi-chinh-hang-115903115.html",
+            "image": "https://media3.scdn.vn/img4/2023/09_25/eb9isN9TechVGy50ckNO_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 250000,
+            "default_price_max": 250000,
+            "sale_price_min": 250000,
+            "sale_price_max": 250000,
+            "sold": 1,
+            "order_count_text": "1",
+            "seller_admin_id": 509853,
+            "sku_user": "AK350",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 1,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 115769266,
+            "name": "Đôi nhún thụt giảm xóc máy giặt nội địa Nhật Panasonic mới chính hãng",
+            "category_path": "doi-nhun-thut-giam-xoc-may-giat-noi-dia-nhat-panasonic-moi-chinh-hang-115769266.html",
+            "image": "https://media3.scdn.vn/img4/2023/09_17/1uwQ2a7VuSMvuyG3kLcZ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 180000,
+            "default_price_max": 180000,
+            "sale_price_min": 180000,
+            "sale_price_max": 180000,
+            "sold": 1,
+            "order_count_text": "1",
+            "seller_admin_id": 509853,
+            "sku_user": "AK204",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 114553853,
+            "name": "Buli máy giặt Toshiba AW - A800SV E920LV hàng MỚI Buli buly hộp số li hợp mg Tô A800 E920 8500 Tốt",
+            "category_path": "buli-may-giat-toshiba-aw-a800sv-e920lv-hang-moi-buli-buly-hop-so-li-hop-mg-to-a800-e920-8500-tot-114553853.html",
+            "image": "https://media3.scdn.vn/img4/2023/07_06/nBReMiLZWCC8WgkXwP1d_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 54000,
+            "default_price_max": 54000,
+            "sale_price_min": 54000,
+            "sale_price_max": 54000,
+            "seller_admin_id": 449118,
+            "sku_user": "BLMGT01",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 449118,
+                "name": "Vật tư điện lạnh Hồng Kính",
+                "status": 2,
+                "ware_house_region_name": "Bắc Ninh",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 114498195,
+            "name": "Trục càng mâm ba chạc máy giặt TOSHIBA nội địa, Chảng 3 đĩa mg Tô 110v Nhật bãi Mới",
+            "category_path": "truc-cang-mam-ba-chac-may-giat-toshiba-noi-dia-chang-3-dia-mg-to-110v-nhat-bai-moi-114498195.html",
+            "image": "https://media3.scdn.vn/img4/2023/06_28/nkqnzXXeSlGkzptwtaai_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1200000,
+            "default_price_max": 1200000,
+            "sale_price_min": 1200000,
+            "sale_price_max": 1200000,
+            "sold": 1,
+            "order_count_text": "1",
+            "seller_admin_id": 449118,
+            "sku_user": "CMG40",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 449118,
+                "name": "Vật tư điện lạnh Hồng Kính",
+                "status": 2,
+                "ware_house_region_name": "Bắc Ninh",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 114253832,
+            "name": "MÁY GIẶT MINI GẤP GỌN 6 LÍT 299k/ cáiMáy giặt mini gấp gọn, máy giặt đồ lót, tất vớ, giặt đồ cho bé dung tích 6L tự vắt khô khử khuẩn bằng công nghệ mới Chất liệu: Nhựa cao",
+            "category_path": "may-giat-mini-gap-gon-6-lit-299k-caimay-giat-mini-gap-gon-may-giat-do-lot-tat-vo-giat-do-cho-be-dung-tich-6l-tu-vat-kho-khu-khuan-bang-cong-nghe-moi-chat-lieu-nhua-cao-114253832.html",
+            "image": "https://media3.scdn.vn/img4/2023/05_28/Xcb2hDIccvyBeu0KWVnX_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 299000,
+            "default_price_max": 299000,
+            "sale_price_min": 299000,
+            "sale_price_max": 299000,
+            "seller_admin_id": 283181,
+            "sku_user": "2507_114253832",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 283181,
+                "name": "Shop NN",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Khánh Hòa",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 114192772,
+            "name": "Trục càng ba chạc máy giặt có sấy TOSHIBA Midea CASPER Buli TO, Chảng 3 mg Tô Media Mới",
+            "category_path": "truc-cang-ba-chac-may-giat-co-say-toshiba-midea-casper-buli-to-chang-3-mg-to-media-moi-114192772.html",
+            "image": "https://media3.scdn.vn/img4/2023/05_25/Na8jhzgROs7gPqqW4wvm_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 365000,
+            "default_price_max": 365000,
+            "sale_price_min": 365000,
+            "sale_price_max": 365000,
+            "seller_admin_id": 449118,
+            "sku_user": "CMG37",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 449118,
+                "name": "Vật tư điện lạnh Hồng Kính",
+                "status": 2,
+                "ware_house_region_name": "Bắc Ninh",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 114192763,
+            "name": "Trục càng ba chạc máy giặt có sấy TOSHIBA Midea CASPER Buli bé, Chảng 3 mg Tô Media Mới",
+            "category_path": "truc-cang-ba-chac-may-giat-co-say-toshiba-midea-casper-buli-be-chang-3-mg-to-media-moi-114192763.html",
+            "image": "https://media3.scdn.vn/img4/2023/05_25/yPDjeLNrUCnctIUXzpmq_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 365000,
+            "default_price_max": 365000,
+            "sale_price_min": 365000,
+            "sale_price_max": 365000,
+            "seller_admin_id": 449118,
+            "sku_user": "CMG36",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 449118,
+                "name": "Vật tư điện lạnh Hồng Kính",
+                "status": 2,
+                "ware_house_region_name": "Bắc Ninh",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 114192721,
+            "name": "Trục càng ba chạc máy giặt TOSHIBA Midea CASPER trục bé Buli bé, Chảng 3 mg Tô Media Mới",
+            "category_path": "truc-cang-ba-chac-may-giat-toshiba-midea-casper-truc-be-buli-be-chang-3-mg-to-media-moi-114192721.html",
+            "image": "https://media3.scdn.vn/img4/2023/05_25/dL6tPyuUvv1rLsFPpZa8_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 345000,
+            "default_price_max": 345000,
+            "sale_price_min": 345000,
+            "sale_price_max": 345000,
+            "seller_admin_id": 449118,
+            "sku_user": "CMG39",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 449118,
+                "name": "Vật tư điện lạnh Hồng Kính",
+                "status": 2,
+                "ware_house_region_name": "Bắc Ninh",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 112119401,
+            "name": "Lò xo côn máy giặt TOSHIBA, lx hộp số ly hợp mg tô Chất lượng",
+            "category_path": "lo-xo-con-may-giat-toshiba-lx-hop-so-ly-hop-mg-to-chat-luong-112119401.html",
+            "image": "https://media3.scdn.vn/img4/2023/03_23/zEKYqtPQGx2rFhV8HtCf_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 9000,
+            "default_price_max": 9000,
+            "sale_price_min": 9000,
+            "sale_price_max": 9000,
+            "sold": 6,
+            "order_count_text": "6",
+            "seller_admin_id": 449118,
+            "sku_user": "LX08",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 449118,
+                "name": "Vật tư điện lạnh Hồng Kính",
+                "status": 2,
+                "ware_house_region_name": "Bắc Ninh",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 3,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 111703577,
+            "name": "Bộ hộp số máy giặt TOSHIBA 8kg, 9kg, 10kg ly hợp máy giặt mới tốt",
+            "category_path": "bo-hop-so-may-giat-toshiba-8kg-9kg-10kg-ly-hop-may-giat-moi-tot-111703577.html",
+            "image": "https://media3.scdn.vn/img4/2023/03_10/jEWeXNvGlfJotHX2aRql_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1000000,
+            "default_price_max": 1000000,
+            "sale_price_min": 1000000,
+            "sale_price_max": 1000000,
+            "seller_admin_id": 509853,
+            "sku_user": "AB091",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 108263023,
+            "name": "Gioăng máy giặt Toshiba 9,5kg TW - BK105S3V cửa ngang mới chính hãng",
+            "category_path": "gioang-may-giat-toshiba-9-5kg-tw-bk105s3v-cua-ngang-moi-chinh-hang-108263023.html",
+            "image": "https://media3.scdn.vn/img4/2022/12_07/BjKzW9HQkQ6vwTkBjlcb_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 400000,
+            "default_price_max": 400000,
+            "sale_price_min": 400000,
+            "sale_price_max": 400000,
+            "seller_admin_id": 509853,
+            "sku_user": "HU1301",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 509853,
+                "name": "shopgiadungtienich",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 99471754,
+            "name": "CỰC CHẤT AN TOÀN VỚI BỘ DÂY CHỐNG GIẬT MÁY NÓNG LẠNH BÌNH NÓNG LẠNH HÀNG CHUẨN",
+            "category_path": "cu-c-cha-t-an-toa-n-vo-i-bo-day-cho-ng-gia-t-ma-y-no-ng-la-nh-bi-nh-no-ng-la-nh-ha-ng-chua-n-99471754.html",
+            "image": "https://media3.scdn.vn/img4/2022/08_20/4h99Tl6175sWdWzVWf1V_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 400000,
+            "default_price_max": 400000,
+            "sale_price_min": 199000,
+            "sale_price_max": 199000,
+            "sale_percent": 51,
+            "seller_admin_id": 578609,
+            "sku_user": "775",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 578609,
+                "name": "DVM1",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Thanh Hóa",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 95438377,
+            "name": "Sét áo chân váy  thiết kế chất liệu cotton 2 da mịn êm   có độ co giãn nhẹ không nhăn thoải mái vận động chân váy có lót quần ở trong  phần tay áo có phối von tạo lên độ phồng và xuyên thấu phần trước ngực có thiết kế hình giọt nước tạo điểm nhấn áo",
+            "category_path": "set-ao-chan-vay-thiet-ke-chat-lieu-cotton-2-da-min-em-co-do-co-gian-nhe-khong-nhan-thoai-mai-van-dong-chan-vay-co-lot-quan-o-trong-phan-tay-ao-co-phoi-von-tao-len-do-phong-va-xuyen-thau-phan-truoc-nguc-co-thiet-ke-hinh-giot-nuoc-tao-diem-nhan-ao-95438377.html",
+            "image": "https://media3.scdn.vn/img4/2023/05_14/feOUInOXCi3kuHkgjNuS_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 197000,
+            "default_price_max": 197000,
+            "sale_price_min": 197000,
+            "sale_price_max": 197000,
+            "sold": 13,
+            "order_count_text": "13",
+            "seller_admin_id": 762374,
+            "sku_user": "696_95438377",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 762374,
+                "name": "Thời trang nam nữ Lynas",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 4,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 42716543,
+            "name": "KỆ ĐỂ ĐỒ ĐA NĂNG CÓ BÁNH XE CÓ GIỎ ĐỂ ĐỒ ĐA NĂNG VIỆT NHẬT\nCÓ 3 MÀU XÁM, TRẮNG, HỒNG\nược thiết kế đơn giản nhưng vô cùng tiện ích cho mẹ khi để đồ giặt cho bé với 3 tầng thì mẹ có thể để tầng trên cùng để",
+            "category_path": "ke-de-do-da-nang-co-banh-xe-co-gio-de-do-da-nang-viet-nhat-co-3-mau-xam-trang-hong-uoc-thiet-ke-don-gian-nhung-vo-cung-tien-ich-cho-me-khi-de-do-giat-cho-be-voi-3-tang-thi-me-co-the-de-tang-tren-cung-de-42716543.html",
+            "image": "https://media3.scdn.vn/img4/2021/04_19/JnP00WuQpyTV3b843Rv9_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 289000,
+            "default_price_max": 289000,
+            "sale_price_min": 289000,
+            "sale_price_max": 289000,
+            "sold": 4,
+            "order_count_text": "4",
+            "seller_admin_id": 283181,
+            "sku_user": "NG3359",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 283181,
+                "name": "Shop NN",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Khánh Hòa",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 42446793,
+            "name": "VAN XẢ MÁY GIẶT ToShi.. A800 mới",
+            "category_path": "van-xa-may-giat-toshi-a800-moi-42446793.html",
+            "image": "https://media3.scdn.vn/img4/2021/04_14/cRLhNNEeNBxXqjQSKESg_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 250000,
+            "default_price_max": 250000,
+            "sale_price_min": 250000,
+            "sale_price_max": 250000,
+            "sold": 1,
+            "order_count_text": "1",
+            "discount_app": 1,
+            "seller_admin_id": 851204,
+            "sku_user": "ToSiba-A800M",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 851204,
+                "name": "CÔNG TY THUẬN THÀNH",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Khánh Hòa",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 32566403,
+            "name": "MÁY CẮT CỎ OSHIMA XD 430 CẦN XOAY MẪU MỚI NHẤT HIỆN NAY- MÁY CẮT CỎ NHUNG NHẬT",
+            "category_path": "may-cat-co-oshima-xd-430-can-xoay-mau-moi-nhat-hien-nay-may-cat-co-nhung-nhat-32566403.html",
+            "image": "https://media3.scdn.vn/img4/2020/08_19/YpkAO02B3kvyhzfO03og_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 2450000,
+            "default_price_max": 2450000,
+            "sale_price_min": 2450000,
+            "sale_price_max": 2450000,
+            "discount_app": 1,
+            "seller_admin_id": 490478,
+            "sku_user": "OSHIMA XD430",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 490478,
+                "name": "Chuyenmay moccong nongnghiep",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 32397356,
+            "name": "Kệ 2 tầng để trên máy giặt, bệ bồn cầu tiện dụng mẫu mới nhất hiện nay",
+            "category_path": "ke-2-tang-de-tren-may-giat-be-bon-cau-tien-dung-mau-moi-nhat-hien-nay-32397356.html",
+            "image": "https://media3.scdn.vn/img4/2020/08_13/dDEpkBaho5u5reJns54R_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 259000,
+            "default_price_max": 259000,
+            "sale_price_min": 259000,
+            "sale_price_max": 259000,
+            "seller_admin_id": 635925,
+            "sku_user": "Zxhjkit5re",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 635925,
+                "name": "gia dung bao chau2 plaza",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 32174854,
+            "name": "Phao Lọc Rác Bụi Bẩn Cho Máy Giặt  Với Chất Liệu Nhựa Và  Túi Được Thiết Kế Dạng Lưới",
+            "category_path": "phao-loc-rac-bui-ban-cho-may-giat-voi-chat-lieu-nhua-va-tui-duoc-thiet-ke-dang-luoi-32174854.html",
+            "image": "https://media3.scdn.vn/img4/2020/04_28/XsASUkvcAaolg49a3jap_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 15000,
+            "default_price_max": 15000,
+            "sale_price_min": 15000,
+            "sale_price_max": 15000,
+            "sold": 2,
+            "order_count_text": "2",
+            "seller_admin_id": 816189,
+            "sku_user": "5029132151",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 816189,
+                "name": "shop gia dụng Châu Lâm",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 31123388,
+            "name": "Máy cắt cỏ oshima cx330 thương hiệu Nhật bản, máy cắt cỏ mới 2020",
+            "category_path": "may-cat-co-oshima-cx330-thuong-hieu-nhat-ban-may-cat-co-moi-2020-31123388.html",
+            "image": "https://media3.scdn.vn/img4/2020/06_26/eCEgO08EOngjr59i0axP_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 2550000,
+            "default_price_max": 2550000,
+            "sale_price_min": 2550000,
+            "sale_price_max": 2550000,
+            "seller_admin_id": 454008,
+            "sku_user": "Oshima vx330",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 454008,
+                "name": "SavimaxLAN",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        }
+    ]
+}

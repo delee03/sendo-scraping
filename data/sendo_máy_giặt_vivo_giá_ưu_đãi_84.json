@@ -1,0 +1,3252 @@
+{
+    "total_products": 84,
+    "products": [
+        {
+            "id": 118697433,
+            "name": "ÁO TRÙM MÁY GIẶT CỬA TRÊN VÀ CỬA TRƯỚC đa dụng tiện lợi kèm giảm giá freeship [Được kiểm hàng] 109332343",
+            "category_path": "ao-trum-may-giat-cua-tren-va-cua-truoc-da-du-ng-tie-n-lo-i-ke-m-gia-m-gia-freeship-duo-c-kie-m-ha-ng-109332343-118697433.html",
+            "image": "https://media3.scdn.vn/img4/2020/07_31/AVk8DlxWLB7Ewasy8X2s_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 309400,
+            "default_price_max": 309400,
+            "sale_price_min": 214200,
+            "sale_price_max": 214200,
+            "sale_percent": 31,
+            "seller_admin_id": 988982,
+            "sku_user": "109332343",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988982,
+                "name": "Gì Cũng Có Shop 1vmc38u4uu",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118688218,
+            "name": "CHÂN GIÁ ĐỠ MÁY GIẶT TỦ LẠNH ĐA NĂNG [Được kiểm hàng] 9200538",
+            "category_path": "chan-gia-do-may-giat-tu-lanh-da-nang-duo-c-kie-m-ha-ng-9200538-118688218.html",
+            "image": "https://media3.scdn.vn/img2/2018/4_3/0Zamq6_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 517400,
+            "default_price_max": 517400,
+            "sale_price_min": 358200,
+            "sale_price_max": 358200,
+            "sale_percent": 31,
+            "seller_admin_id": 988982,
+            "sku_user": "9200538",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988982,
+                "name": "Gì Cũng Có Shop 1vmc38u4uu",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118687879,
+            "name": "CHÂN GIÁ ĐỠ MÁY GIẶT TỦ LẠNH CÓ BÁNH XE ĐA NĂNG [Được kiểm hàng] 13079383",
+            "category_path": "chan-gia-do-may-giat-tu-lanh-co-banh-xe-da-nang-duo-c-kie-m-ha-ng-13079383-118687879.html",
+            "image": "https://media3.scdn.vn/img2/2018/11_24/oIM1rX_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 517400,
+            "default_price_max": 517400,
+            "sale_price_min": 358200,
+            "sale_price_max": 358200,
+            "sale_percent": 31,
+            "seller_admin_id": 988982,
+            "sku_user": "13079383",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988982,
+                "name": "Gì Cũng Có Shop 1vmc38u4uu",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118675996,
+            "name": "KỆ ĐỂ ĐỒ ĐA NĂNG CÓ BÁNH XE CÓ GIỎ ĐỂ ĐỒ ĐA NĂNG VIỆT NHẬT\nCÓ 3 MÀU XÁM, TRẮNG, HỒNG\nược thiết kế đơn giản nhưng vô cùng tiện ích cho mẹ khi để đồ giặt cho bé với 3 tầng thì mẹ có thể để tầng trên cùng để [Được kiểm hàng] 42716543",
+            "category_path": "ke-de-do-da-nang-co-banh-xe-co-gio-de-do-da-nang-viet-nhat-co-3-mau-xam-trang-hong-uoc-thiet-ke-don-gian-nhung-vo-cung-tien-ich-cho-me-khi-de-do-giat-cho-be-voi-3-tang-thi-me-co-the-de-tang-tren-cung-de-duo-c-kie-m-ha-ng-42716543-118675996.html",
+            "image": "https://media3.scdn.vn/img4/2021/04_19/JnP00WuQpyTV3b843Rv9_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 578000,
+            "default_price_max": 578000,
+            "sale_price_min": 491300,
+            "sale_price_max": 491300,
+            "sale_percent": 15,
+            "seller_admin_id": 988982,
+            "sku_user": "42716543",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988982,
+                "name": "Gì Cũng Có Shop 1vmc38u4uu",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118490706,
+            "name": "ÁO TRÙM MÁY GIẶT CỬA TRÊN VÀ CỬA TRƯỚC đa dụng tiện lợi kèm giảm giá freeship [Được kiểm hàng] 109332343",
+            "category_path": "ao-trum-may-giat-cua-tren-va-cua-truoc-da-du-ng-tie-n-lo-i-ke-m-gia-m-gia-freeship-duo-c-kie-m-ha-ng-109332343-118490706.html",
+            "image": "https://media3.scdn.vn/img4/2020/07_31/AVk8DlxWLB7Ewasy8X2s_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 309400,
+            "default_price_max": 309400,
+            "sale_price_min": 214200,
+            "sale_price_max": 214200,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 988843,
+            "sku_user": "109332343",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988843,
+                "name": "Gì Cũng Có Shop fbgrrdha0v",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118482488,
+            "name": "CHÂN GIÁ ĐỠ MÁY GIẶT TỦ LẠNH ĐA NĂNG [Được kiểm hàng] 9200538",
+            "category_path": "chan-gia-do-may-giat-tu-lanh-da-nang-duo-c-kie-m-ha-ng-9200538-118482488.html",
+            "image": "https://media3.scdn.vn/img2/2018/4_3/0Zamq6_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 517400,
+            "default_price_max": 517400,
+            "sale_price_min": 358200,
+            "sale_price_max": 358200,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 988843,
+            "sku_user": "9200538",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988843,
+                "name": "Gì Cũng Có Shop fbgrrdha0v",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118482145,
+            "name": "CHÂN GIÁ ĐỠ MÁY GIẶT TỦ LẠNH CÓ BÁNH XE ĐA NĂNG [Được kiểm hàng] 13079383",
+            "category_path": "chan-gia-do-may-giat-tu-lanh-co-banh-xe-da-nang-duo-c-kie-m-ha-ng-13079383-118482145.html",
+            "image": "https://media3.scdn.vn/img2/2018/11_24/oIM1rX_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 517400,
+            "default_price_max": 517400,
+            "sale_price_min": 358200,
+            "sale_price_max": 358200,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 988843,
+            "sku_user": "13079383",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988843,
+                "name": "Gì Cũng Có Shop fbgrrdha0v",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118471871,
+            "name": "Kệ Chân Để Máy Giặt,Tủ Lạnh Đa Năng Chống Rung Lắc Dễ Vệ Sinh Gầm Phù Hợp Mọi Kích Thước đa dụng tiện lợi kèm giảm giá freeship [Được kiểm hàng] 109332336",
+            "category_path": "ke-chan-de-may-giat-tu-lanh-da-nang-chong-rung-lac-de-ve-sinh-gam-phu-hop-moi-kich-thuoc-da-du-ng-tie-n-lo-i-ke-m-gia-m-gia-freeship-duo-c-kie-m-ha-ng-109332336-118471871.html",
+            "image": "https://media3.scdn.vn/img4/2022/01_04/PpyuZuMp0tS3c1xXt8Bd_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 300000,
+            "default_price_max": 300000,
+            "sale_price_min": 255000,
+            "sale_price_max": 255000,
+            "sale_percent": 15,
+            "discount_app": 1,
+            "seller_admin_id": 988843,
+            "sku_user": "109332336",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988843,
+                "name": "Gì Cũng Có Shop fbgrrdha0v",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118471280,
+            "name": "KỆ ĐỂ ĐỒ ĐA NĂNG CÓ BÁNH XE CÓ GIỎ ĐỂ ĐỒ ĐA NĂNG VIỆT NHẬT\nCÓ 3 MÀU XÁM, TRẮNG, HỒNG\nược thiết kế đơn giản nhưng vô cùng tiện ích cho mẹ khi để đồ giặt cho bé với 3 tầng thì mẹ có thể để tầng trên cùng để [Được kiểm hàng] 42716543",
+            "category_path": "ke-de-do-da-nang-co-banh-xe-co-gio-de-do-da-nang-viet-nhat-co-3-mau-xam-trang-hong-uoc-thiet-ke-don-gian-nhung-vo-cung-tien-ich-cho-me-khi-de-do-giat-cho-be-voi-3-tang-thi-me-co-the-de-tang-tren-cung-de-duo-c-kie-m-ha-ng-42716543-118471280.html",
+            "image": "https://media3.scdn.vn/img4/2021/04_19/JnP00WuQpyTV3b843Rv9_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 578000,
+            "default_price_max": 578000,
+            "sale_price_min": 491300,
+            "sale_price_max": 491300,
+            "sale_percent": 15,
+            "discount_app": 1,
+            "seller_admin_id": 988843,
+            "sku_user": "42716543",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988843,
+                "name": "Gì Cũng Có Shop fbgrrdha0v",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 117941868,
+            "name": "CHÂN GIÁ ĐỠ MÁY GIẶT TỦ LẠNH ĐA NĂNG [Được kiểm hàng] 9200538",
+            "category_path": "chan-gia-do-may-giat-tu-lanh-da-nang-duo-c-kie-m-ha-ng-9200538-117941868.html",
+            "image": "https://media3.scdn.vn/img2/2018/4_3/0Zamq6_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 517400,
+            "default_price_max": 517400,
+            "sale_price_min": 358200,
+            "sale_price_max": 358200,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 988391,
+            "sku_user": "9200538",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988391,
+                "name": "Gì Cũng Có 102201",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 117777600,
+            "name": "GIÁ CẮT LỖ - Bộ Đồ Thể Thao Nam Umi Q33 Thiết Kế Đẹp, Mềm Mại và Bộ Sọc Đen Chất Nỉ Da Cá chéo Q35 Giá Siêu Ưu Đãi",
+            "category_path": "gia-cat-lo-bo-do-the-thao-nam-umi-q33-thiet-ke-dep-mem-mai-va-bo-soc-den-chat-ni-da-ca-cheo-q35-gia-sieu-uu-dai-117777600.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_26/4459erMrvVKaFBfv0P01_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 159000,
+            "default_price_max": 159000,
+            "sale_price_min": 159000,
+            "sale_price_max": 159000,
+            "seller_admin_id": 14023,
+            "sku_user": "adl-SKU149-u6l",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 14023,
+                "name": "PHỤ KIỆN THIẾT BỊ SỐ",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117777314,
+            "name": "GIÁ CẮT LỖ - Bộ Đồ Thể Thao Nam Umi Q33 Thiết Kế Đẹp, Mềm Mại và Bộ Sọc Đen Chất Nỉ Da Cá chéo Q35 Giá Siêu Ưu Đãi",
+            "category_path": "gia-cat-lo-bo-do-the-thao-nam-umi-q33-thiet-ke-dep-mem-mai-va-bo-soc-den-chat-ni-da-ca-cheo-q35-gia-sieu-uu-dai-117777314.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_26/4459erMrvVKaFBfv0P01_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 159000,
+            "default_price_max": 159000,
+            "sale_price_min": 159000,
+            "sale_price_max": 159000,
+            "seller_admin_id": 421855,
+            "sku_user": "adl-SKU149-u6l",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 421855,
+                "name": "GIẦY NHẬP KHẨU GIÁ TẠI KHO",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117776835,
+            "name": "GIÁ CẮT LỖ - Bộ Đồ Thể Thao Nam Umi Q33 Thiết Kế Đẹp, Mềm Mại và Bộ Sọc Đen Chất Nỉ Da Cá chéo Q35 Giá Siêu Ưu Đãi",
+            "category_path": "gia-cat-lo-bo-do-the-thao-nam-umi-q33-thiet-ke-dep-mem-mai-va-bo-soc-den-chat-ni-da-ca-cheo-q35-gia-sieu-uu-dai-117776835.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_26/4459erMrvVKaFBfv0P01_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 159000,
+            "default_price_max": 159000,
+            "sale_price_min": 159000,
+            "sale_price_max": 159000,
+            "seller_admin_id": 118460,
+            "sku_user": "adl-SKU149-u6l",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 118460,
+                "name": "Thiết Bị Kích Sóng Wifi",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117776834,
+            "name": "GIÁ CẮT LỖ - Ưu Đãi Lớn Bộ Đồ Thể Thao Nam Umi Q33 Chất Lượng Cao , Bộ Sọc Đen Chất Nỉ Da Cá chéo Q35 Mềm Mại, Thiết Kế Đẹp Mắt Sự Lựa Chọn Hoàn Hảo",
+            "category_path": "gia-cat-lo-uu-dai-lon-bo-do-the-thao-nam-umi-q33-chat-luong-cao-bo-soc-den-chat-ni-da-ca-cheo-q35-mem-mai-thiet-ke-dep-mat-su-lua-chon-hoan-hao-117776834.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_26/9wxI0pQqyo9Bc8Xwn5DZ_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 159000,
+            "default_price_max": 159000,
+            "sale_price_min": 159000,
+            "sale_price_max": 159000,
+            "seller_admin_id": 118460,
+            "sku_user": "adl-SKU138-4j2",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 118460,
+                "name": "Thiết Bị Kích Sóng Wifi",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117776599,
+            "name": "GIÁ CẮT LỖ - Bộ Đồ Thể Thao Nam Umi Q33 Thiết Kế Đẹp, Mềm Mại và Bộ Sọc Đen Chất Nỉ Da Cá chéo Q35 Giá Siêu Ưu Đãi",
+            "category_path": "gia-cat-lo-bo-do-the-thao-nam-umi-q33-thiet-ke-dep-mem-mai-va-bo-soc-den-chat-ni-da-ca-cheo-q35-gia-sieu-uu-dai-117776599.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_26/4459erMrvVKaFBfv0P01_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 159000,
+            "default_price_max": 159000,
+            "sale_price_min": 159000,
+            "sale_price_max": 159000,
+            "seller_admin_id": 925931,
+            "sku_user": "adl-SKU149-u6l",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 925931,
+                "name": "TỔNG KHO PHỤ KIỆN SỐ 1",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117196532,
+            "name": "Bộ Đồ Thể Thao Nam Umi Q33 Thiết Kế Đẹp, Mềm Mại và Bộ Sọc Đen Chất Nỉ Da Cá chéo Q35 Giá Siêu Ưu Đãi",
+            "category_path": "bo-do-the-thao-nam-umi-q33-thiet-ke-dep-mem-mai-va-bo-soc-den-chat-ni-da-ca-cheo-q35-gia-sieu-uu-dai-117196532.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_23/r8nJYQFyseWhcmIqc8if_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 159000,
+            "default_price_max": 159000,
+            "sale_price_min": 159000,
+            "sale_price_max": 159000,
+            "seller_admin_id": 118460,
+            "sku_user": "adl-SKU149-97z",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 118460,
+                "name": "Thiết Bị Kích Sóng Wifi",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117196083,
+            "name": "Bộ Đồ Thể Thao Nam Umi Q33 Thiết Kế Đẹp, Mềm Mại và Bộ Sọc Đen Chất Nỉ Da Cá chéo Q35 Giá Siêu Ưu Đãi",
+            "category_path": "bo-do-the-thao-nam-umi-q33-thiet-ke-dep-mem-mai-va-bo-soc-den-chat-ni-da-ca-cheo-q35-gia-sieu-uu-dai-117196083.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_23/r8nJYQFyseWhcmIqc8if_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 159000,
+            "default_price_max": 159000,
+            "sale_price_min": 159000,
+            "sale_price_max": 159000,
+            "seller_admin_id": 151986,
+            "sku_user": "adl-SKU149-97z",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 151986,
+                "name": "Shop Gaming Gears",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117194618,
+            "name": "Bộ Đồ Thể Thao Nam Umi Q33 Thiết Kế Đẹp, Mềm Mại và Bộ Sọc Đen Chất Nỉ Da Cá chéo Q35 Giá Siêu Ưu Đãi",
+            "category_path": "bo-do-the-thao-nam-umi-q33-thiet-ke-dep-mem-mai-va-bo-soc-den-chat-ni-da-ca-cheo-q35-gia-sieu-uu-dai-117194618.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_23/r8nJYQFyseWhcmIqc8if_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 159000,
+            "default_price_max": 159000,
+            "sale_price_min": 159000,
+            "sale_price_max": 159000,
+            "seller_admin_id": 14023,
+            "sku_user": "adl-SKU149-97z",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 14023,
+                "name": "PHỤ KIỆN THIẾT BỊ SỐ",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116548078,
+            "name": "Bàn chải giặt giày quần áo cọ rửa nhà cửa đa năng nhựa pp dạng bàn là ủi nhiều màu sắc - giá sốc",
+            "category_path": "ban-chai-giat-giay-quan-ao-co-rua-nha-cua-da-nang-nhua-pp-dang-ban-la-ui-nhieu-mau-sac-gia-soc-116548078.html",
+            "image": "https://media3.scdn.vn/img4/2024/03_24/cly3TD8kHrI8dDK2NqGe_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 22884,
+            "default_price_max": 22884,
+            "sale_price_min": 22884,
+            "sale_price_max": 22884,
+            "seller_admin_id": 985738,
+            "sku_user": "lam14h",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 985738,
+                "name": "Tiện Ích Việt Hưng Yên",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hưng Yên",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {}
+        },
+        {
+            "id": 114080282,
+            "name": "Máy Băm Nghiền Xơ Dừa Vinmax - Liên Hệ Nhận Báo Giá và Ưu Đãi - Miễn phí vận chuyển Toàn Quốc",
+            "category_path": "may-bam-nghien-xo-dua-vinmax-lien-he-nhan-bao-gia-va-uu-dai-mien-phi-van-chuyen-toan-quoc-114080282.html",
+            "image": "https://media3.scdn.vn/img4/2023/05_08/qGHbrAPNgS29KoswRFTw_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 30000000,
+            "default_price_max": 30000000,
+            "sale_price_min": 30000000,
+            "sale_price_max": 30000000,
+            "has_video": true,
+            "seller_admin_id": 454008,
+            "sku_user": "3251_114080282",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 454008,
+                "name": "SavimaxLAN",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {}
+        },
+        {
+            "id": 113419237,
+            "name": "Đai roang cửa ngang máy giặt, đai giữ ron cao su đường kính 33cm Vật Tư Điện Lạnh 01",
+            "category_path": "dai-roang-cua-ngang-may-giat-dai-giu-ron-cao-su-duong-kinh-33cm-vat-tu-dien-lanh-01-113419237.html",
+            "image": "https://media3.scdn.vn/img4/2023/04_15/hmVIioPaJMyNOMQxH6is_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 115200,
+            "default_price_max": 115200,
+            "sale_price_min": 72000,
+            "sale_price_max": 72000,
+            "sale_percent": 38,
+            "seller_admin_id": 977454,
+            "sku_user": "DAIRON",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 977454,
+                "name": "Vật Tư Điện Lạnh 01",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Đồng Nai",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 111406648,
+            "name": "Vòng tay phong thuỷ may mắn đá Thạch anh Ưu linh đa sắc Size hạt 8mm màu Ưu linh đẹp sang trọng của thạch anh tự nhiên đa sắc Công dụng giúp xoá đi xua tan mệt mỏi, đem đến năng lượng tích cực may mắn tài lộc đẹp cho gia chủ có 650k / 1 chiếc ạ",
+            "category_path": "vong-tay-phong-thuy-may-man-da-thach-anh-uu-linh-da-sac-size-hat-8mm-mau-uu-linh-dep-sang-trong-cua-thach-anh-tu-nhien-da-sac-cong-dung-giup-xoa-di-xua-tan-met-moi-dem-den-nang-luong-tich-cuc-may-man-tai-loc-dep-cho-gia-chu-co-650k-1-chiec-a-111406648.html",
+            "image": "https://media3.scdn.vn/img4/2023/03_01/a5oxaLHZ6jcqRbc5obO7_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1300000,
+            "default_price_max": 1300000,
+            "sale_price_min": 650000,
+            "sale_price_max": 650000,
+            "sale_percent": 50,
+            "seller_admin_id": 389904,
+            "sku_user": "VongtayDaThachAnhUuLinhdasacdepxinh8mm",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 389904,
+                "name": "Godaptsunny",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 99006444,
+            "name": "Công tắc hẹn giờ đa năng DFJ-A 180 phút cho máy giặt sấy",
+            "category_path": "cong-tac-hen-gio-da-nang-dfj-a-180-phut-cho-may-giat-say-99006444.html",
+            "image": "https://media3.scdn.vn/img4/2023/08_17/sX5tWhOllVLxg5o1UwnD_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 48000,
+            "default_price_max": 48000,
+            "sale_price_min": 48000,
+            "sale_price_max": 48000,
+            "sold": 1,
+            "order_count_text": "1",
+            "seller_admin_id": 323442,
+            "sku_user": "CL08730",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 323442,
+                "name": "linhkienchatluong",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 48187435,
+            "name": "SALE - Bộ Đồ Thể Thao Nam Umi Q33 Thiết Kế Đẹp, Mềm Mại và Bộ Sọc Đen Chất Nỉ Da Cá chéo Q35 Giá Siêu Ưu Đãi",
+            "category_path": "sale-bo-do-the-thao-nam-umi-q33-thiet-ke-dep-mem-mai-va-bo-soc-den-chat-ni-da-ca-cheo-q35-gia-sieu-uu-dai-48187435.html",
+            "image": "https://media3.scdn.vn/img4/2024/06_26/zUt9xOPWtMyqokhbYvfi_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 99000,
+            "default_price_max": 159000,
+            "sale_price_min": 99000,
+            "sale_price_max": 159000,
+            "seller_admin_id": 151986,
+            "sku_user": "SKU632-y7f",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 151986,
+                "name": "Shop Gaming Gears",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 32483685,
+            "name": "Chân đế giá đỡ tủ lạnh , máy giặt, máy lọc nước đa năng 48 - 60cm",
+            "category_path": "chan-de-gia-do-tu-lanh-may-giat-may-loc-nuoc-da-nang-48-60cm-32483685.html",
+            "image": "https://media3.scdn.vn/img4/2021/03_28/y07tpx0w4zv26JR2iwIb_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 80000,
+            "default_price_max": 80000,
+            "sale_price_min": 80000,
+            "sale_price_max": 80000,
+            "sold": 4,
+            "order_count_text": "4",
+            "seller_admin_id": 604322,
+            "sku_user": "ms877",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 604322,
+                "name": "Minh Anh 299",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Ninh Bình",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 22820291,
+            "name": "Khuyến mãi hàng chính hãng Máy nước nóng trực tiếp Ferroli bơm Divo SSP, Best sales bình nước nóng chống giật có bơm sử dụng tốt",
+            "category_path": "khuyen-mai-hang-chinh-hang-may-nuoc-nong-truc-tiep-ferroli-bom-divo-ssp-best-sales-binh-nuoc-nong-chong-giat-co-bom-su-dung-tot-22820291.html",
+            "image": "https://media3.scdn.vn/img3/2019/10_19/VuDlfj_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 4300000,
+            "default_price_max": 4300000,
+            "sale_price_min": 4300000,
+            "sale_price_max": 4300000,
+            "sold": 7,
+            "order_count_text": "7",
+            "seller_admin_id": 365706,
+            "sku_user": "Ferroli KAG-Divo SSP 4.5S bơm",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 365706,
+                "name": "Kiến An Gia",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 119157660,
+            "name": "Củ số công tơ mét xe Wave RS - Bộ số xe WAVE  RS[Giá ưu đãi] siêu bền chắc - Củ số xe máy - lắp zin. [Được kiểm hàng] 46647285",
+            "category_path": "cu-so-cong-to-met-xe-wave-rs-bo-so-xe-wave-rsgia-uu-dai-sieu-ben-chac-cu-so-xe-may-lap-zin-duo-c-kie-m-ha-ng-46647285-119157660.html",
+            "default_price_min": 361400,
+            "default_price_max": 361400,
+            "sale_price_min": 250200,
+            "sale_price_max": 250200,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 989277,
+            "sku_user": "46647285",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 989277,
+                "name": "Gì Cũng Có Shop wze6olq8gm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 119156005,
+            "name": "Củ số công tơ mét xe Wave - Bộ số xe WAVE [Giá ưu đãi] siêu bền chắc - Củ số xe máy - lắp zin. [Được kiểm hàng] 46646786",
+            "category_path": "cu-so-cong-to-met-xe-wave-bo-so-xe-wave-gia-uu-dai-sieu-ben-chac-cu-so-xe-may-lap-zin-duo-c-kie-m-ha-ng-46646786-119156005.html",
+            "image": "https://media3.scdn.vn/img4/2021/07_01/rWBXAyB9BHkigMLjOjYo_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 361400,
+            "default_price_max": 361400,
+            "sale_price_min": 250200,
+            "sale_price_max": 250200,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 989277,
+            "sku_user": "46646786",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 989277,
+                "name": "Gì Cũng Có Shop wze6olq8gm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 119154390,
+            "name": "[ Gía ưu đãi ] Heo BREMBO 2piston , có pát cho tất cả cá dòng xe máy [Được kiểm hàng] 41581518",
+            "category_path": "gia-uu-dai-heo-brembo-2piston-co-pat-cho-tat-ca-ca-dong-xe-may-duo-c-kie-m-ha-ng-41581518-119154390.html",
+            "image": "https://media3.scdn.vn/img4/2021/03_18/WtMo7Qa9hhN7A368y5BA_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 660000,
+            "default_price_max": 1100000,
+            "sale_price_min": 561000,
+            "sale_price_max": 935000,
+            "sale_percent": 15,
+            "discount_app": 1,
+            "seller_admin_id": 989277,
+            "sku_user": "41581518",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 989277,
+                "name": "Gì Cũng Có Shop wze6olq8gm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 119116630,
+            "name": "Giá đỡ đa năng máy giặt tủ lạnh [Được kiểm hàng] 20500182",
+            "category_path": "gia-do-da-nang-may-giat-tu-lanh-duo-c-kie-m-ha-ng-20500182-119116630.html",
+            "image": "https://media3.scdn.vn/img3/2019/8_5/NrhMlv_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 351000,
+            "default_price_max": 351000,
+            "sale_price_min": 243000,
+            "sale_price_max": 243000,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 989277,
+            "sku_user": "20500182",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 989277,
+                "name": "Gì Cũng Có Shop wze6olq8gm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 119116596,
+            "name": "Giá đỡ đa năng máy giặt tủ lạnh HT [Được kiểm hàng] 20500216",
+            "category_path": "gia-do-da-nang-may-giat-tu-lanh-ht-duo-c-kie-m-ha-ng-20500216-119116596.html",
+            "image": "https://media3.scdn.vn/img3/2019/8_5/lgvh8B_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 416000,
+            "default_price_max": 416000,
+            "sale_price_min": 288000,
+            "sale_price_max": 288000,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 989277,
+            "sku_user": "20500216",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 989277,
+                "name": "Gì Cũng Có Shop wze6olq8gm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118998633,
+            "name": "CHÂN GIÁ ĐỠ MÁY GIẶT TỦ LẠNH ĐA NĂNG [Được kiểm hàng] 9200538",
+            "category_path": "chan-gia-do-may-giat-tu-lanh-da-nang-duo-c-kie-m-ha-ng-9200538-118998633.html",
+            "image": "https://media3.scdn.vn/img2/2018/4_3/0Zamq6_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 517400,
+            "default_price_max": 517400,
+            "sale_price_min": 358200,
+            "sale_price_max": 358200,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 989277,
+            "sku_user": "9200538",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 989277,
+                "name": "Gì Cũng Có Shop wze6olq8gm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118998312,
+            "name": "CHÂN GIÁ ĐỠ MÁY GIẶT TỦ LẠNH CÓ BÁNH XE ĐA NĂNG [Được kiểm hàng] 13079383",
+            "category_path": "chan-gia-do-may-giat-tu-lanh-co-banh-xe-da-nang-duo-c-kie-m-ha-ng-13079383-118998312.html",
+            "image": "https://media3.scdn.vn/img2/2018/11_24/oIM1rX_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 517400,
+            "default_price_max": 517400,
+            "sale_price_min": 358200,
+            "sale_price_max": 358200,
+            "sale_percent": 31,
+            "discount_app": 1,
+            "seller_admin_id": 989277,
+            "sku_user": "13079383",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 989277,
+                "name": "Gì Cũng Có Shop wze6olq8gm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118987460,
+            "name": "KỆ ĐỂ ĐỒ ĐA NĂNG CÓ BÁNH XE CÓ GIỎ ĐỂ ĐỒ ĐA NĂNG VIỆT NHẬT\nCÓ 3 MÀU XÁM, TRẮNG, HỒNG\nược thiết kế đơn giản nhưng vô cùng tiện ích cho mẹ khi để đồ giặt cho bé với 3 tầng thì mẹ có thể để tầng trên cùng để [Được kiểm hàng] 42716543",
+            "category_path": "ke-de-do-da-nang-co-banh-xe-co-gio-de-do-da-nang-viet-nhat-co-3-mau-xam-trang-hong-uoc-thiet-ke-don-gian-nhung-vo-cung-tien-ich-cho-me-khi-de-do-giat-cho-be-voi-3-tang-thi-me-co-the-de-tang-tren-cung-de-duo-c-kie-m-ha-ng-42716543-118987460.html",
+            "image": "https://media3.scdn.vn/img4/2021/04_19/JnP00WuQpyTV3b843Rv9_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 578000,
+            "default_price_max": 578000,
+            "sale_price_min": 491300,
+            "sale_price_max": 491300,
+            "sale_percent": 15,
+            "discount_app": 1,
+            "seller_admin_id": 989277,
+            "sku_user": "42716543",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 989277,
+                "name": "Gì Cũng Có Shop wze6olq8gm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118676623,
+            "name": "Kệ Chân Để Máy Giặt,Tủ Lạnh Đa Năng Chống Rung Lắc Dễ Vệ Sinh Gầm Phù Hợp Mọi Kích Thước đa dụng tiện lợi kèm giảm giá freeship [Được kiểm hàng] 109332336",
+            "category_path": "ke-chan-de-may-giat-tu-lanh-da-nang-chong-rung-lac-de-ve-sinh-gam-phu-hop-moi-kich-thuoc-da-du-ng-tie-n-lo-i-ke-m-gia-m-gia-freeship-duo-c-kie-m-ha-ng-109332336-118676623.html",
+            "image": "https://media3.scdn.vn/img4/2022/01_04/PpyuZuMp0tS3c1xXt8Bd_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 300000,
+            "default_price_max": 300000,
+            "sale_price_min": 255000,
+            "sale_price_max": 255000,
+            "sale_percent": 15,
+            "seller_admin_id": 988982,
+            "sku_user": "109332336",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 988982,
+                "name": "Gì Cũng Có Shop 1vmc38u4uu",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 118015270,
+            "name": "Thớt gỗ bếp Chef  hình chữ nhật 28x40x3,5 cm       Đặc điểm nổi bật - Được làm từ gỗ với ưu điểm hạn chế tối đa bị cong vênh, trầy xước. - Thớt được áp dụng các công nghệ xử lí hiện đại, mang lại cảm giác thoải mái khi sử dụng để sơ chế các loại thực",
+            "category_path": "thot-go-bep-chef-hinh-chu-nhat-28x40x3-5-cm-dac-diem-noi-bat-duoc-lam-tu-go-voi-uu-diem-han-che-toi-da-bi-cong-venh-tray-xuoc-thot-duoc-ap-dung-cac-cong-nghe-xu-li-hien-dai-mang-lai-cam-giac-thoai-mai-khi-su-dung-de-so-che-cac-loai-thuc-118015270.html",
+            "image": "https://media3.scdn.vn/img4/2024/09_12/RBHZ2zp26mtRN4evtsbx_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 158000,
+            "default_price_max": 158000,
+            "sale_price_min": 158000,
+            "sale_price_max": 158000,
+            "discount_app": 1,
+            "seller_admin_id": 888076,
+            "sku_user": "1523_118015270",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 888076,
+                "name": "Phu Tung Cong Nong Nghiep",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117777599,
+            "name": "GIÁ CẮT LỖ - Ưu Đãi Lớn Bộ Đồ Thể Thao Nam Umi Q33 Chất Lượng Cao , Bộ Sọc Đen Chất Nỉ Da Cá chéo Q35 Mềm Mại, Thiết Kế Đẹp Mắt Sự Lựa Chọn Hoàn Hảo",
+            "category_path": "gia-cat-lo-uu-dai-lon-bo-do-the-thao-nam-umi-q33-chat-luong-cao-bo-soc-den-chat-ni-da-ca-cheo-q35-mem-mai-thiet-ke-dep-mat-su-lua-chon-hoan-hao-117777599.html",
+            "image": "https://media3.scdn.vn/img4/2024/08_26/9wxI0pQqyo9Bc8Xwn5DZ_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 159000,
+            "default_price_max": 159000,
+            "sale_price_min": 159000,
+            "sale_price_max": 159000,
+            "seller_admin_id": 14023,
+            "sku_user": "adl-SKU138-4j2",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 14023,
+                "name": "PHỤ KIỆN THIẾT BỊ SỐ",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 117280452,
+            "name": "Đai siết ron, đai lò xo xiết giữ gioăng cao su máy giặt cửa ngang lồng trước hàng Chuẩn",
+            "category_path": "dai-siet-ron-dai-lo-xo-xiet-giu-gioang-cao-su-may-giat-cua-ngang-long-truoc-hang-chuan-117280452.html",
+            "image": "https://media3.scdn.vn/img4/2024/07_30/7VL7Zo5kbbk232SqJjEr_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 24000,
+            "default_price_max": 24000,
+            "sale_price_min": 24000,
+            "sale_price_max": 24000,
+            "seller_admin_id": 449118,
+            "sku_user": "DGGMG01",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 449118,
+                "name": "Vật tư điện lạnh Hồng Kính",
+                "status": 2,
+                "ware_house_region_name": "Bắc Ninh",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116311767,
+            "name": "Nước giặt Ariel chuyên gia cửa trước hương sen nhài 330g 39k/túi Ưu điểm của nước giặt Ariel chuyên gia cửa trước hương sen nhài:Là dòng sản phẩm sản xuất với công thức chuyên biệt dành cho máy giặt cửa trước với công thức ít bọt, nước giặt A",
+            "category_path": "nuoc-giat-ariel-chuyen-gia-cua-truoc-huong-sen-nhai-330g-39ktui-uu-diem-cua-nuoc-giat-ariel-chuyen-gia-cua-truoc-huong-sen-nhaila-dong-san-pham-san-xuat-voi-cong-thuc-chuyen-biet-danh-cho-may-giat-cua-truoc-voi-cong-thuc-it-bot-nuoc-giat-a-116311767.html",
+            "image": "https://media3.scdn.vn/img4/2024/01_16/ZUkNmaFqqF8wyLl97Q49_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 39000,
+            "default_price_max": 39000,
+            "sale_price_min": 39000,
+            "sale_price_max": 39000,
+            "sold": 2,
+            "order_count_text": "2",
+            "seller_admin_id": 283181,
+            "sku_user": "2608_116311767",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 283181,
+                "name": "Shop NN",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Khánh Hòa",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 115998580,
+            "name": "Hàng hót, Giá siêu rẻ, Dây cấp máy giặt đa năng 1,5 mét",
+            "category_path": "hang-hot-gia-sieu-re-day-cap-may-giat-da-nang-1-5-met-115998580.html",
+            "image": "https://media3.scdn.vn/img4/2023/09_30/9suenilYqpJyuwAxDl3r_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 55000,
+            "default_price_max": 55000,
+            "sale_price_min": 55000,
+            "sale_price_max": 55000,
+            "discount_app": 1,
+            "seller_admin_id": 982360,
+            "sku_user": "KENISI50T",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 982360,
+                "name": "Đại Phát Lộc Group Điện nước",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Nam Định",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 115998577,
+            "name": "Hàng hót, Giá siêu rẻ, Dây cấp máy giặt đa năng 1,5 mét",
+            "category_path": "hang-hot-gia-sieu-re-day-cap-may-giat-da-nang-1-5-met-115998577.html",
+            "image": "https://media3.scdn.vn/img4/2023/09_30/mDptzWeMQHurHTBEOM5e_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 55000,
+            "default_price_max": 55000,
+            "sale_price_min": 55000,
+            "sale_price_max": 55000,
+            "discount_app": 1,
+            "seller_admin_id": 982360,
+            "sku_user": "KENISI48T",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 982360,
+                "name": "Đại Phát Lộc Group Điện nước",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Nam Định",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 115293167,
+            "name": "SET 8 TẤM LÓT SƠ SINH CHỐNG THẤM AIKO 68k/ setTấm lót chống thấm Aiko với ưu điểm mềm mại, thấm hút tốt, bền chắc, giặt được bằng máy giặt. Sản phẩm không thể thiếu trong giỏ đồ của mẹ. THÔNG TIN SẢN PHẨM Kích thước 30 x 30 cm",
+            "category_path": "set-8-tam-lot-so-sinh-chong-tham-aiko-68k-settam-lot-chong-tham-aiko-voi-uu-diem-mem-mai-tham-hut-tot-ben-chac-giat-duoc-bang-may-giat-san-pham-khong-the-thieu-trong-gio-do-cua-me-thong-tin-san-pham-kich-thuoc-30-x-30-cm-115293167.html",
+            "image": "https://media3.scdn.vn/img4/2023/08_17/bXPyxSdtKbvBmUAn196Q_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 68000,
+            "default_price_max": 68000,
+            "sale_price_min": 68000,
+            "sale_price_max": 68000,
+            "sold": 2,
+            "order_count_text": "2",
+            "seller_admin_id": 283181,
+            "sku_user": "1586_115293167",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 283181,
+                "name": "Shop NN",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Khánh Hòa",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 112096329,
+            "name": "Nước giặt LIX 2.4KG hương hoa anh đào giữ mùi dành cho mọi loại cửa máy giặt",
+            "category_path": "nuoc-giat-lix-24kg-huong-hoa-anh-dao-giu-mui-danh-cho-moi-loai-cua-may-giat-112096329.html",
+            "image": "https://media3.scdn.vn/img4/2023/03_22/TdOpxzWSYDdRFDdF5ZTy_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 75000,
+            "default_price_max": 75000,
+            "sale_price_min": 75000,
+            "sale_price_max": 75000,
+            "sold": 4,
+            "order_count_text": "4",
+            "seller_admin_id": 670724,
+            "sku_user": "2608_112096329",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 670724,
+                "name": "heoxinh_95",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 112096032,
+            "name": "Nước giặt LIX 2.4KG hương hoa anh đào giữ mùi dành cho mọi loại cửa máy giặt",
+            "category_path": "nuoc-giat-lix-24kg-huong-hoa-anh-dao-giu-mui-danh-cho-moi-loai-cua-may-giat-112096032.html",
+            "image": "https://media3.scdn.vn/img4/2023/03_22/GAVWygkNBgVMgffopti4_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 75000,
+            "default_price_max": 75000,
+            "sale_price_min": 75000,
+            "sale_price_max": 75000,
+            "sold": 1,
+            "order_count_text": "1",
+            "seller_admin_id": 965742,
+            "sku_user": "2608_112096032",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 965742,
+                "name": "Bách Hoá Tông Hợp Heo Con",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 110337877,
+            "name": "Máy Xịt Rửa xe  Đa Năng Dùng Pin  Máy rửa xe cầm tay dùng pin    – Áp lực mạnh mẽ, pin sạc bền bỉ    _ Đa chức năng, dễ sử dụng    – Chuyên sử dụng vệ sinh ô tô, xe máy, vật dụng gia đình, tưới hoa màu  Ưu điểm của máy rửa xe cầm tay Máy xịt rửa xe c",
+            "category_path": "may-xit-rua-xe-da-nang-dung-pin-may-rua-xe-cam-tay-dung-pin-ap-luc-manh-me-pin-sac-ben-bi-da-chuc-nang-de-su-dung-chuyen-su-dung-ve-sinh-o-to-xe-may-vat-dung-gia-dinh-tuoi-hoa-mau-uu-diem-cua-may-rua-xe-cam-tay-may-xit-rua-xe-c-110337877.html",
+            "image": "https://media3.scdn.vn/img4/2023/01_12/8lGOnmarxHwihd3211Ly_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 618000,
+            "default_price_max": 618000,
+            "sale_price_min": 582000,
+            "sale_price_max": 582000,
+            "sale_percent": 6,
+            "discount_app": 1,
+            "seller_admin_id": 888076,
+            "sku_user": "3442_110337877",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 888076,
+                "name": "Phu Tung Cong Nong Nghiep",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 110337851,
+            "name": "Máy Xịt Rửa xe  Đa Năng Dùng Pin  Máy rửa xe cầm tay dùng pin    – Áp lực mạnh mẽ, pin sạc bền bỉ    _ Đa chức năng, dễ sử dụng    – Chuyên sử dụng vệ sinh ô tô, xe máy, vật dụng gia đình, tưới hoa màu  Ưu điểm của máy rửa xe cầm tay Máy xịt rửa xe c",
+            "category_path": "may-xit-rua-xe-da-nang-dung-pin-may-rua-xe-cam-tay-dung-pin-ap-luc-manh-me-pin-sac-ben-bi-da-chuc-nang-de-su-dung-chuyen-su-dung-ve-sinh-o-to-xe-may-vat-dung-gia-dinh-tuoi-hoa-mau-uu-diem-cua-may-rua-xe-cam-tay-may-xit-rua-xe-c-110337851.html",
+            "image": "https://media3.scdn.vn/img4/2023/01_12/JQUS9wab6OIuCzSX9nWc_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 612000,
+            "default_price_max": 612000,
+            "sale_price_min": 562000,
+            "sale_price_max": 562000,
+            "sale_percent": 9,
+            "sold": 1,
+            "order_count_text": "1",
+            "discount_app": 1,
+            "seller_admin_id": 904834,
+            "sku_user": "3441_110337851",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 904834,
+                "name": "Phu Tung Thuy Hai San",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 103346689,
+            "name": "Bàn chải chà chân (9009) - quần áo giặt giũ vệ sinh đồ đạc có tay cầm tiện lợi, Bàn Chải Đa Năng Cọ Rửa - giao màu ngẫu nhiên",
+            "category_path": "ban-chai-cha-chan-9009-quan-ao-giat-giu-ve-sinh-do-dac-co-tay-cam-tien-loi-ban-chai-da-nang-co-rua-giao-mau-ngau-nhien-103346689.html",
+            "image": "https://media3.scdn.vn/img4/2022/10_03/AH1tPNC4KDE9YMfxAHsE_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 14000,
+            "default_price_max": 14000,
+            "sale_price_min": 14000,
+            "sale_price_max": 14000,
+            "sold": 103,
+            "order_count_text": "103",
+            "seller_admin_id": 575618,
+            "sku_user": "4276_103346689",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 575618,
+                "name": "Gia Dụng Pk",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 33,
+                "star": 4.8
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 101697090,
+            "name": "Đai giữ gioăng cao su cánh cửa máy giặt lồng ngang - Đai siết ron mg cửa trước - xiết zoang",
+            "category_path": "dai-giu-gioang-cao-su-canh-cua-may-giat-long-ngang-dai-siet-ron-mg-cua-truoc-xiet-zoang-101697090.html",
+            "image": "https://media3.scdn.vn/img4/2022/09_16/83ih0UYxcjkbhhpa4v8l_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 49000,
+            "default_price_max": 49000,
+            "sale_price_min": 49000,
+            "sale_price_max": 49000,
+            "has_video": true,
+            "seller_admin_id": 449118,
+            "sku_user": "3254_101697090",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 449118,
+                "name": "Vật tư điện lạnh Hồng Kính",
+                "status": 2,
+                "ware_house_region_name": "Bắc Ninh",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 99970223,
+            "name": "[HÀNG CAO CẤP] Đệm Lót Mông Hình Thú Dễ Thương Cho Ghế Văn Phòng,Ô Tô,Sofa,Ghế Phòng Ăn,Nệm Văn Phòng,Nệm Ngồi Bệt,Nệm Lót Ngồi Học Làm Việc Cho Bạn Cảm Giác Thoải Mái Loại Bỏ Đau Lưng Đau Mông Khi Ngồi Lâu Gía Ưu Đãi",
+            "category_path": "hang-cao-cap-dem-lot-mong-hinh-thu-de-thuong-cho-ghe-van-phong-o-to-sofa-ghe-phong-an-nem-van-phong-nem-ngoi-bet-nem-lot-ngoi-hoc-lam-viec-cho-ban-cam-giac-thoai-mai-loai-bo-dau-lung-dau-mong-khi-ngoi-lau-gia-uu-dai-99970223.html",
+            "image": "https://media3.scdn.vn/img4/2022/08_26/ohdJfIOcMy2FMAcw4F3I_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 119000,
+            "default_price_max": 119000,
+            "sale_price_min": 89000,
+            "sale_price_max": 89000,
+            "sale_percent": 26,
+            "sold": 1,
+            "order_count_text": "1",
+            "seller_admin_id": 809606,
+            "sku_user": "1064_99970223",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 809606,
+                "name": "shoptrangsang6789",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 80148243,
+            "name": "Máy Tời Cáp Điện Ưu Đãi Đặc Biệt Giá Cực Sốc- Máy Tời Điện PA200 Cáp Dài 12m-20M",
+            "category_path": "may-toi-cap-dien-uu-dai-dac-biet-gia-cuc-soc-may-toi-dien-pa200-cap-dai-12m-20m-80148243.html",
+            "image": "https://media3.scdn.vn/img4/2022/04_09/wDf6ieaxJDUwwZcJB6VT_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1850000,
+            "default_price_max": 1850000,
+            "sale_price_min": 1650000,
+            "sale_price_max": 1650000,
+            "sale_percent": 11,
+            "seller_admin_id": 954077,
+            "sku_user": "PA200-",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 954077,
+                "name": "Điện Máy DC",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 75002851,
+            "name": "Mỏ lết chống giật 10inch/ dạ đỏ 12inch - giá ưu đãi",
+            "category_path": "mo-let-chong-giat-10inch-da-do-12inch-gia-uu-dai-75002851.html",
+            "image": "https://media3.scdn.vn/img4/2023/04_26/ZwJnCvTysxzgOvcyYYkK_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 67000,
+            "default_price_max": 72000,
+            "sale_price_min": 67000,
+            "sale_price_max": 72000,
+            "has_video": true,
+            "seller_admin_id": 358336,
+            "sku_user": "5642247092",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 358336,
+                "name": "HVAC ACVISA",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 74068448,
+            "name": "Máy Tời Cáp Điện Ưu Đãi Đặc Biệt Giá Cực Sốc- Máy Tời Điện PA200 Cáp Dài 12m-20M",
+            "category_path": "may-toi-cap-dien-uu-dai-dac-biet-gia-cuc-soc-may-toi-dien-pa200-cap-dai-12m-20m-74068448.html",
+            "image": "https://media3.scdn.vn/img4/2022/03_23/WAPpAo9Tlo6c3iNfRylx_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1850000,
+            "default_price_max": 1850000,
+            "sale_price_min": 1650000,
+            "sale_price_max": 1650000,
+            "sale_percent": 11,
+            "seller_admin_id": 952280,
+            "sku_user": "PA200-",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 952280,
+                "name": "Điện Máy Đức Cương",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 46647285,
+            "name": "Củ số công tơ mét xe Wave RS - Bộ số xe WAVE  RS[Giá ưu đãi] siêu bền chắc - Củ số xe máy - lắp zin.",
+            "category_path": "cu-so-cong-to-met-xe-wave-rs-bo-so-xe-wave-rsgia-uu-dai-sieu-ben-chac-cu-so-xe-may-lap-zin-46647285.html",
+            "default_price_min": 209000,
+            "default_price_max": 209000,
+            "sale_price_min": 139000,
+            "sale_price_max": 139000,
+            "sale_percent": 34,
+            "has_video": true,
+            "seller_admin_id": 809429,
+            "sku_user": "SDM-8514",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 809429,
+                "name": "Moto83218",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 46646786,
+            "name": "Củ số công tơ mét xe Wave - Bộ số xe WAVE [Giá ưu đãi] siêu bền chắc - Củ số xe máy - lắp zin.",
+            "category_path": "cu-so-cong-to-met-xe-wave-bo-so-xe-wave-gia-uu-dai-sieu-ben-chac-cu-so-xe-may-lap-zin-46646786.html",
+            "image": "https://media3.scdn.vn/img4/2021/07_01/rWBXAyB9BHkigMLjOjYo_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 209000,
+            "default_price_max": 209000,
+            "sale_price_min": 139000,
+            "sale_price_max": 139000,
+            "sale_percent": 34,
+            "sold": 2,
+            "order_count_text": "2",
+            "seller_admin_id": 809429,
+            "sku_user": "SDM-8513",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 809429,
+                "name": "Moto83218",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 1,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 45291735,
+            "name": "Tem, decal xe WAVE 110 màu tím xanh 3 lớp giá ưu đãi",
+            "category_path": "tem-decal-xe-wave-110-mau-tim-xanh-3-lop-gia-uu-dai-45291735.html",
+            "image": "https://media3.scdn.vn/img4/2021/06_15/Ks1U0RHXLZfJPyQT5Yvc_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 214500,
+            "default_price_max": 214500,
+            "sale_price_min": 126500,
+            "sale_price_max": 126500,
+            "sale_percent": 42,
+            "discount_app": 2,
+            "seller_admin_id": 285002,
+            "sku_user": "SDG-109",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 285002,
+                "name": "grab88",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 44898679,
+            "name": "Đai roang cửa ngang máy giặt, đai giữ ron cao su đường kính 33cm Điện lạnh Thuận Dung",
+            "category_path": "dai-roang-cua-ngang-may-giat-dai-giu-ron-cao-su-duong-kinh-33cm-dien-lanh-thuan-dung-44898679.html",
+            "image": "https://media3.scdn.vn/img4/2021/06_03/oRtnuEYvVHl8wTsKVj9X_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 115200,
+            "default_price_max": 115200,
+            "sale_price_min": 60000,
+            "sale_price_max": 60000,
+            "sale_percent": 48,
+            "sold": 2,
+            "order_count_text": "2",
+            "seller_admin_id": 244631,
+            "sku_user": "DAIRON",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 244631,
+                "name": "VẬT TƯ ĐIỆN LẠNH THUẬN DUNG",
+                "status": 2,
+                "ware_house_region_name": "Đồng Nai",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 43649615,
+            "name": "''ƯU ĐÃI'' - SÉT 4 CÁI ĐẾ KÊ CHÂN MÁY GIẶT TỦ LẠNH CHỐNG RUNG SILICON CAO CẤP - BỘ 4 ĐẾ CHỐNG RUNG MÁY GIẶT, TỦ LẠNH - DỤNG CỤ BẢO VỆ MÁY GIẶT, TỦ LẠNH TIỆN LỢI – MINHHANH588",
+            "category_path": "uu-dai-set-4-cai-de-ke-chan-may-giat-tu-lanh-chong-rung-silicon-cao-cap-bo-4-de-chong-rung-may-giat-tu-lanh-dung-cu-bao-ve-may-giat-tu-lanh-tien-loi-minhhanh588-43649615.html",
+            "image": "https://media3.scdn.vn/img4/2021/05_11/QHJoVBgPFguy6zbKM4kl_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 52000,
+            "default_price_max": 52000,
+            "sale_price_min": 35000,
+            "sale_price_max": 35000,
+            "sale_percent": 33,
+            "seller_admin_id": 809606,
+            "sku_user": "CD586s",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 809606,
+                "name": "shoptrangsang6789",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 42716543,
+            "name": "KỆ ĐỂ ĐỒ ĐA NĂNG CÓ BÁNH XE CÓ GIỎ ĐỂ ĐỒ ĐA NĂNG VIỆT NHẬT\nCÓ 3 MÀU XÁM, TRẮNG, HỒNG\nược thiết kế đơn giản nhưng vô cùng tiện ích cho mẹ khi để đồ giặt cho bé với 3 tầng thì mẹ có thể để tầng trên cùng để",
+            "category_path": "ke-de-do-da-nang-co-banh-xe-co-gio-de-do-da-nang-viet-nhat-co-3-mau-xam-trang-hong-uoc-thiet-ke-don-gian-nhung-vo-cung-tien-ich-cho-me-khi-de-do-giat-cho-be-voi-3-tang-thi-me-co-the-de-tang-tren-cung-de-42716543.html",
+            "image": "https://media3.scdn.vn/img4/2021/04_19/JnP00WuQpyTV3b843Rv9_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 289000,
+            "default_price_max": 289000,
+            "sale_price_min": 289000,
+            "sale_price_max": 289000,
+            "sold": 4,
+            "order_count_text": "4",
+            "seller_admin_id": 283181,
+            "sku_user": "NG3359",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 283181,
+                "name": "Shop NN",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Khánh Hòa",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 41929265,
+            "name": "Máy Tời Cáp Điện Ưu Đãi Đặc Biệt Giá Cực Sốc- Máy Tời Điện PA200 Cáp Dài 12m-20M",
+            "category_path": "may-toi-cap-dien-uu-dai-dac-biet-gia-cuc-soc-may-toi-dien-pa200-cap-dai-12m-20m-41929265.html",
+            "image": "https://media3.scdn.vn/img4/2021/03_31/UP7dzmZ6KZxSSk3XWoSu_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1890000,
+            "default_price_max": 1890000,
+            "sale_price_min": 1690000,
+            "sale_price_max": 1690000,
+            "sale_percent": 11,
+            "seller_admin_id": 831108,
+            "sku_user": "PA200",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 831108,
+                "name": "Siêu Thị ĐIện Máy DC",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 41611546,
+            "name": "[Giá ưu đãi] Gù tay lái Brembo có 4 màu lựa chọn cho mọi dòng xe máy.",
+            "category_path": "gia-uu-dai-gu-tay-lai-brembo-co-4-mau-lua-chon-cho-moi-dong-xe-may-41611546.html",
+            "image": "https://media3.scdn.vn/img4/2021/03_20/kpF9x6PnraDTHnP8mqT5_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 220000,
+            "default_price_max": 220000,
+            "sale_price_min": 220000,
+            "sale_price_max": 220000,
+            "seller_admin_id": 817525,
+            "sku_user": "GU BREMBO",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 817525,
+                "name": "Shop Heo Dầu",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 41581518,
+            "name": "[ Gía ưu đãi ] Heo BREMBO 2piston , có pát cho tất cả cá dòng xe máy",
+            "category_path": "gia-uu-dai-heo-brembo-2piston-co-pat-cho-tat-ca-ca-dong-xe-may-41581518.html",
+            "image": "https://media3.scdn.vn/img4/2021/03_18/WtMo7Qa9hhN7A368y5BA_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 430000,
+            "default_price_max": 550000,
+            "sale_price_min": 330000,
+            "sale_price_max": 550000,
+            "sale_percent": 24,
+            "has_video": true,
+            "seller_admin_id": 817525,
+            "sku_user": "HB01",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 817525,
+                "name": "Shop Heo Dầu",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 35103385,
+            "name": "SALE - Bộ Đồ Thể Thao Nam Umi Q33 Thiết Kế Đẹp, Mềm Mại và Bộ Sọc Đen Chất Nỉ Da Cá chéo Q35 Giá Siêu Ưu Đãi",
+            "category_path": "sale-bo-do-the-thao-nam-umi-q33-thiet-ke-dep-mem-mai-va-bo-soc-den-chat-ni-da-ca-cheo-q35-gia-sieu-uu-dai-35103385.html",
+            "image": "https://media3.scdn.vn/img4/2024/06_26/3XvgQbArAYIq3JYhesrL_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 99000,
+            "default_price_max": 159000,
+            "sale_price_min": 99000,
+            "sale_price_max": 159000,
+            "seller_admin_id": 118460,
+            "sku_user": "SKU112-nhg",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 118460,
+                "name": "Thiết Bị Kích Sóng Wifi",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 31893283,
+            "name": "Chân đế giá đỡ tủ lạnh, máy giặt đa năng inox cao cấp",
+            "category_path": "chan-de-gia-do-tu-lanh-may-giat-da-nang-inox-cao-cap-31893283.html",
+            "default_price_min": 100000,
+            "default_price_max": 100000,
+            "sale_price_min": 100000,
+            "sale_price_max": 100000,
+            "seller_admin_id": 354586,
+            "sku_user": "CGMG",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 354586,
+                "name": "Shop Vạn Lộc",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 9200538,
+            "name": "CHÂN GIÁ ĐỠ MÁY GIẶT TỦ LẠNH ĐA NĂNG",
+            "category_path": "chan-gia-do-may-giat-tu-lanh-da-nang-9200538.html",
+            "image": "https://media3.scdn.vn/img2/2018/4_3/0Zamq6_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 199000,
+            "default_price_max": 199000,
+            "sale_price_min": 199000,
+            "sale_price_max": 199000,
+            "seller_admin_id": 274433,
+            "sku_user": "3328",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 274433,
+                "name": "Mau Don",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 41563675,
+            "name": "[ĐẠI HẠ GIÁ] Địu em bé chống gù HAPPYBEAR siêu thoáng khí, cực chắc chắn, giặt không phai màu, địu ngồi 4 tư thế cho bé, điệu em bé",
+            "category_path": "dai-ha-gia-diu-em-be-chong-gu-happybear-sieu-thoang-khi-cuc-chac-chan-giat-khong-phai-mau-diu-ngoi-4-tu-the-cho-be-dieu-em-be-41563675.html",
+            "image": "https://media3.scdn.vn/img4/2021/03_17/uSgYAW8Mju967j23hWur_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 430000,
+            "default_price_max": 430000,
+            "sale_price_min": 209000,
+            "sale_price_max": 209000,
+            "sale_percent": 52,
+            "sold": 9,
+            "order_count_text": "9",
+            "seller_admin_id": 540652,
+            "sku_user": "happybear",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 540652,
+                "name": "Minh Minh Hằng Store",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Nam Định",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 41415266,
+            "name": "Đèn ngủ điều khiển từ xa nhiều màu siêu xinh [Giá cực ưu đãi] - Chuyển đổi màu xinh xắn",
+            "category_path": "den-ngu-dieu-khien-tu-xa-nhieu-mau-sieu-xinh-gia-cuc-uu-dai-chuyen-doi-mau-xinh-xan-41415266.html",
+            "image": "https://media3.scdn.vn/img4/2022/04_09/ICB5TJ5NE0wx9PUcSMEX_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 65000,
+            "default_price_max": 295000,
+            "sale_price_min": 65000,
+            "sale_price_max": 295000,
+            "has_video": true,
+            "discount_app": 1,
+            "seller_admin_id": 746484,
+            "sku_user": "RGB",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 746484,
+                "name": "Thietbidientuthongminhminhhai",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 40676599,
+            "name": "Máy Tời Cáp Điện Ưu Đãi Đặc Biệt Giá Cực Sốc- Máy Tời Điện PA200 Cáp Dài 12m-20M",
+            "category_path": "may-toi-cap-dien-uu-dai-dac-biet-gia-cuc-soc-may-toi-dien-pa200-cap-dai-12m-20m-40676599.html",
+            "image": "https://media3.scdn.vn/img4/2021/01_27/LgXciruok3Hz6qgji3cI_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1850000,
+            "default_price_max": 1850000,
+            "sale_price_min": 1650000,
+            "sale_price_max": 1650000,
+            "sale_percent": 11,
+            "seller_admin_id": 835151,
+            "sku_user": "PA200",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 835151,
+                "name": "Nhà Phân Phối Máy Cầm Tay",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 37530289,
+            "name": "Máy bơm nước chạy xăng pona cx 20 loại tốt giá ưu đãi",
+            "category_path": "may-bom-nuoc-chay-xang-pona-cx-20-loai-tot-gia-uu-dai-37530289.html",
+            "image": "https://media3.scdn.vn/img4/2020/11_21/oGb74VFmzXAFXExfMBPr_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 2100000,
+            "default_price_max": 2100000,
+            "sale_price_min": 2100000,
+            "sale_price_max": 2100000,
+            "discount_app": 1,
+            "seller_admin_id": 490478,
+            "sku_user": "PONA CX20",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 490478,
+                "name": "Chuyenmay moccong nongnghiep",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 37519206,
+            "name": "Sales Máy nước nóng Ferroli Divo SDP 4.5S có bơm chống giật màn hình LED hiển thị nhiệt độ, Bình nước nóng trực tiếp Ferroli chính hãng ổn định nhiệt độ nước cho  người già và trẻ em",
+            "category_path": "sales-may-nuoc-nong-ferroli-divo-sdp-45s-co-bom-chong-giat-man-hinh-led-hien-thi-nhiet-do-binh-nuoc-nong-truc-tiep-ferroli-chinh-hang-on-dinh-nhiet-do-nuoc-cho-nguoi-gia-va-tre-em-37519206.html",
+            "image": "https://media3.scdn.vn/img4/2020/11_20/2LYeQYrvNtXNKlNSWk9z_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 4800000,
+            "default_price_max": 4800000,
+            "sale_price_min": 4800000,
+            "sale_price_max": 4800000,
+            "sold": 3,
+            "order_count_text": "3",
+            "seller_admin_id": 365706,
+            "sku_user": "Divo SDP4.5S LED có bơm",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 365706,
+                "name": "Kiến An Gia",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 37471021,
+            "name": "Tời Cáp Điện Ưu Đãi Đặc Biệt Giá Cực Sốc- Máy Tời Điện PA200 Cáp Dài 12m-20M",
+            "category_path": "toi-cap-dien-uu-dai-dac-biet-gia-cuc-soc-may-toi-dien-pa200-cap-dai-12m-20m-37471021.html",
+            "image": "https://media3.scdn.vn/img4/2020/11_19/eshTieuPqvqDAzJWdOR4_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1850000,
+            "default_price_max": 1850000,
+            "sale_price_min": 1650000,
+            "sale_price_max": 1650000,
+            "sale_percent": 11,
+            "seller_admin_id": 846120,
+            "sku_user": "PA200-",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 846120,
+                "name": "Máy Cơ Khí Xây Dựng",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 37471012,
+            "name": "Máy Tời Cáp Điện Ưu Đãi Đặc Biệt Giá Cực Sốc- Máy Tời Điện PA200 Cáp Dài 12m-20M",
+            "category_path": "may-toi-cap-dien-uu-dai-dac-biet-gia-cuc-soc-may-toi-dien-pa200-cap-dai-12m-20m-37471012.html",
+            "image": "https://media3.scdn.vn/img4/2020/11_19/b4KAiqjyRuuahmvUAiYz_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1850000,
+            "default_price_max": 1850000,
+            "sale_price_min": 1650000,
+            "sale_price_max": 1650000,
+            "sale_percent": 11,
+            "seller_admin_id": 846120,
+            "sku_user": "PA200",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 846120,
+                "name": "Máy Cơ Khí Xây Dựng",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 37065863,
+            "name": "Máy Tời Cáp Điện Ưu Đãi Đặc Biệt Giá Cực Sốc- Máy Tời Điện PA200 Cáp Dài 12m-20M",
+            "category_path": "may-toi-cap-dien-uu-dai-dac-biet-gia-cuc-soc-may-toi-dien-pa200-cap-dai-12m-20m-37065863.html",
+            "image": "https://media3.scdn.vn/img4/2020/11_04/TPgt0OW9dikpSAdH2Dxo_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1850000,
+            "default_price_max": 1850000,
+            "sale_price_min": 1650000,
+            "sale_price_max": 1650000,
+            "sale_percent": 11,
+            "seller_admin_id": 818245,
+            "sku_user": "PA200-",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 818245,
+                "name": "Siêu thị DC",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 37065795,
+            "name": "Máy Tời Điện Ưu Đãi Đặc Biệt Giá Cực Sốc- Máy Tời Điện PA200 Cáp Dài 12m-20M",
+            "category_path": "may-toi-dien-uu-dai-dac-biet-gia-cuc-soc-may-toi-dien-pa200-cap-dai-12m-20m-37065795.html",
+            "image": "https://media3.scdn.vn/img4/2020/11_04/2e3b0eLF0INUY0hmQTJr_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1850000,
+            "default_price_max": 1850000,
+            "sale_price_min": 1650000,
+            "sale_price_max": 1650000,
+            "sale_percent": 11,
+            "seller_admin_id": 818245,
+            "sku_user": "PA200",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 818245,
+                "name": "Siêu thị DC",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 33111720,
+            "name": "Phễu giót dầu nhớt xe máy đa năng 25cm, dùng tiện lợi trong gia đình sinh hoạt hằng ngày",
+            "category_path": "pheu-giot-dau-nhot-xe-may-da-nang-25cm-dung-tien-loi-trong-gia-dinh-sinh-hoat-hang-ngay-33111720.html",
+            "image": "https://media3.scdn.vn/img4/2020/09_03/LJWq6UU7pyIm714VJJrl_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 20000,
+            "default_price_max": 20000,
+            "sale_price_min": 15000,
+            "sale_price_max": 15000,
+            "sale_percent": 25,
+            "sold": 84,
+            "order_count_text": "84",
+            "seller_admin_id": 549349,
+            "sku_user": "NK-Phue-nhot",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 549349,
+                "name": "NK Center Shop",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 24,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 31893352,
+            "name": "Chân đế giá đỡ tủ lạnh, máy giặt đa năng inox cao cấp",
+            "category_path": "chan-de-gia-do-tu-lanh-may-giat-da-nang-inox-cao-cap-31893352.html",
+            "image": "https://media3.scdn.vn/img4/2020/07_20/FHkV0h3qEqyKC83eKnqQ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 110000,
+            "default_price_max": 110000,
+            "sale_price_min": 110000,
+            "sale_price_max": 110000,
+            "seller_admin_id": 628564,
+            "sku_user": "CGMG",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 628564,
+                "name": "hanggiadungbachong",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 30026082,
+            "name": "[sale cực rẻ] Đầu dây cấp nước máy giặt hàng đẹp giá rẻ",
+            "category_path": "sale-cuc-re-dau-day-cap-nuoc-may-giat-hang-dep-gia-re-30026082.html",
+            "image": "https://media3.scdn.vn/img4/2020/05_27/LnAW6yUcA8pDHeenndGJ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 25000,
+            "default_price_max": 25000,
+            "sale_price_min": 15000,
+            "sale_price_max": 15000,
+            "sale_percent": 40,
+            "sold": 3,
+            "order_count_text": "3",
+            "seller_admin_id": 322493,
+            "sku_user": "đầu dây cấp mg",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 322493,
+                "name": "Abi Shop",
+                "status": 2,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 1,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 20915865,
+            "name": "Giá đựng đồ tủ lạnh , máy giặt đa năng nam châm đa năng",
+            "category_path": "gia-dung-do-tu-lanh-may-giat-da-nang-nam-cham-da-nang-20915865.html",
+            "image": "https://media3.scdn.vn/img3/2019/8_20/LcgKdb_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 580000,
+            "default_price_max": 580000,
+            "sale_price_min": 580000,
+            "sale_price_max": 580000,
+            "seller_admin_id": 253949,
+            "sku_user": "size 46cm",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 253949,
+                "name": "SmartShop1688",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 20500216,
+            "name": "Giá đỡ đa năng máy giặt tủ lạnh HT",
+            "category_path": "gia-do-da-nang-may-giat-tu-lanh-ht-20500216.html",
+            "image": "https://media3.scdn.vn/img3/2019/8_5/lgvh8B_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 160000,
+            "default_price_max": 160000,
+            "sale_price_min": 160000,
+            "sale_price_max": 160000,
+            "seller_admin_id": 613707,
+            "sku_user": "GDTH",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 613707,
+                "name": "Vật tư Điện Lạnh HY",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hưng Yên",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {}
+        },
+        {
+            "id": 20500182,
+            "name": "Giá đỡ đa năng máy giặt tủ lạnh",
+            "category_path": "gia-do-da-nang-may-giat-tu-lanh-20500182.html",
+            "image": "https://media3.scdn.vn/img3/2019/8_5/NrhMlv_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 135000,
+            "default_price_max": 135000,
+            "sale_price_min": 135000,
+            "sale_price_max": 135000,
+            "seller_admin_id": 613707,
+            "sku_user": "GDTA",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 613707,
+                "name": "Vật tư Điện Lạnh HY",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hưng Yên",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {}
+        },
+        {
+            "id": 16849207,
+            "name": "Kệ đỡ,giá đỡ chân giá để máy giặt tủ lạnh inox đa năng - Hàng Việt Nam Tặng Găng Tay Bảo Hộ",
+            "category_path": "ke-do-gia-do-chan-gia-de-may-giat-tu-lanh-inox-da-nang-hang-viet-nam-tang-gang-tay-bao-ho-16849207.html",
+            "image": "https://media3.scdn.vn/img3/2019/3_20/4lWDZb_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 130000,
+            "default_price_max": 130000,
+            "sale_price_min": 89000,
+            "sale_price_max": 89000,
+            "sale_percent": 32,
+            "seller_admin_id": 519323,
+            "sku_user": "HA45734",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 519323,
+                "name": "Hoài An 29",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hải Phòng",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 13416398,
+            "name": "Kệ đỡ,giá đỡ chân giá để máy giặt tủ lạnh inox đa năng - Hàng Việt Nam",
+            "category_path": "ke-do-gia-do-chan-gia-de-may-giat-tu-lanh-inox-da-nang-hang-viet-nam-13416398.html",
+            "image": "https://media3.scdn.vn/img3/2018/12_11/c1CeoW_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 150000,
+            "default_price_max": 150000,
+            "sale_price_min": 95000,
+            "sale_price_max": 95000,
+            "sale_percent": 37,
+            "sold": 10,
+            "order_count_text": "10",
+            "seller_admin_id": 430932,
+            "sku_user": "TB45734",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 430932,
+                "name": "Cơ Khí 34",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hải Phòng",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 2,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 13014217,
+            "name": "Kệ đỡ,giá đỡ chân giá để máy giặt tủ lạnh inox đa năng - Hàng Việt Nam",
+            "category_path": "ke-do-gia-do-chan-gia-de-may-giat-tu-lanh-inox-da-nang-hang-viet-nam-13014217.html",
+            "image": "https://media3.scdn.vn/img2/2018/11_21/D8qarc_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 150000,
+            "default_price_max": 150000,
+            "sale_price_min": 99000,
+            "sale_price_max": 99000,
+            "sale_percent": 34,
+            "sold": 7,
+            "order_count_text": "7",
+            "seller_admin_id": 405997,
+            "sku_user": "TB45734",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 405997,
+                "name": "Cơ Khí Dụng Cụ 34",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hải Phòng",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 12152235,
+            "name": "Máy giặt quần áo bán tự động, nhập khẩu Đài Loan, hai chế độ giặt vắt, có hẹn giờ, bảo hành 1 năm",
+            "category_path": "may-giat-quan-ao-ban-tu-dong-nhap-khau-dai-loan-hai-che-do-giat-vat-co-hen-gio-bao-hanh-1-nam-12152235.html",
+            "image": "https://media3.scdn.vn/img2/2018/7_27/jPZU18_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 2500000,
+            "default_price_max": 2500000,
+            "sale_price_min": 2500000,
+            "sale_price_max": 2500000,
+            "discount_app": 2,
+            "seller_admin_id": 441284,
+            "sku_user": "Máy giặt",
+            "product_type": 23,
+            "like_counter": 1,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 441284,
+                "name": "Thắng TB",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 10759221,
+            "name": "Tem, decal xe WAVE 110  màu tím xanh 3 lớp giá ưu đãi A109",
+            "category_path": "tem-decal-xe-wave-110-mau-tim-xanh-3-lop-gia-uu-dai-a109-10759221.html",
+            "image": "https://media3.scdn.vn/img2/2018/7_23/PIp1l6_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 190000,
+            "default_price_max": 190000,
+            "sale_price_min": 115000,
+            "sale_price_max": 115000,
+            "sale_percent": 40,
+            "sold": 2,
+            "order_count_text": "2",
+            "has_video": true,
+            "discount_app": 3,
+            "seller_admin_id": 402128,
+            "sku_user": "A109",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 402128,
+                "name": "apple88",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 1,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        }
+    ]
+}

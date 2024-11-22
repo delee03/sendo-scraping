@@ -1,0 +1,155 @@
+{
+    "total_products": 4,
+    "products": [
+        {
+            "id": 114083950,
+            "name": "DEAL hè Máy Giặt Mini Tự Động Máy Giặt Gấp Gọn Khử Khuẩn Bằng Ánh Sáng Xanh SUMI",
+            "category_path": "deal-he-may-giat-mini-tu-dong-may-giat-gap-gon-khu-khuan-bang-anh-sang-xanh-sumi-114083950.html",
+            "image": "https://media3.scdn.vn/img4/2023/05_10/x0H3r9K0d6mKmLjBecaL_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 399001,
+            "default_price_max": 399001,
+            "sale_price_min": 399001,
+            "sale_price_max": 399001,
+            "seller_admin_id": 973990,
+            "sku_user": "DEALh32s26",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 973990,
+                "name": "MuasamOnline247",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 118994071,
+            "name": "DEAL hè Máy Giặt Mini Tự Động Máy Giặt Gấp Gọn Khử Khuẩn Bằng Ánh Sáng Xanh SUMI [Được kiểm hàng] 114083950",
+            "category_path": "deal-he-may-giat-mini-tu-dong-may-giat-gap-gon-khu-khuan-bang-anh-sang-xanh-sumi-duo-c-kie-m-ha-ng-114083950-118994071.html",
+            "image": "https://media3.scdn.vn/img4/2023/05_10/x0H3r9K0d6mKmLjBecaL_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 798001,
+            "default_price_max": 798001,
+            "sale_price_min": 678301,
+            "sale_price_max": 678301,
+            "sale_percent": 15,
+            "discount_app": 1,
+            "seller_admin_id": 989277,
+            "sku_user": "114083950",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 989277,
+                "name": "Gì Cũng Có Shop wze6olq8gm",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 114174600,
+            "name": "Săn deal Máy giặt mini gấp gọn, giặt đồ lót, tất vớ, đồ cho bé dung tích 6L tự vắt khô khử khuẩn bằng công nghệ mới",
+            "category_path": "san-deal-may-giat-mini-gap-gon-giat-do-lot-tat-vo-do-cho-be-dung-tich-6l-tu-vat-kho-khu-khuan-bang-cong-nghe-moi-114174600.html",
+            "image": "https://media3.scdn.vn/img4/2023/05_18/V8a11jAUJcKVF27e9t3i_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 349000,
+            "default_price_max": 349000,
+            "sale_price_min": 349000,
+            "sale_price_max": 349000,
+            "seller_admin_id": 974009,
+            "sku_user": "Sndeal1621s",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 974009,
+                "name": "bvtshoponline247",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 114083954,
+            "name": "DEAL hè Máy Giặt Mini Tự Động Máy Giặt Gấp Gọn Khử Khuẩn Bằng Ánh Sáng Xanh SUMI",
+            "category_path": "deal-he-may-giat-mini-tu-dong-may-giat-gap-gon-khu-khuan-bang-anh-sang-xanh-sumi-114083954.html",
+            "image": "https://media3.scdn.vn/img4/2023/05_10/MxQzXPN2duekL2HJUxhn_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 399001,
+            "default_price_max": 399001,
+            "sale_price_min": 399001,
+            "sale_price_max": 399001,
+            "seller_admin_id": 973989,
+            "sku_user": "DEALh36s26",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 973989,
+                "name": "MuangayOnline247",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        }
+    ]
+}

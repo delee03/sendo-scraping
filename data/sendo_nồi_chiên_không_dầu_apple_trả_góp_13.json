@@ -1,0 +1,508 @@
+{
+    "total_products": 13,
+    "products": [
+        {
+            "id": 95191905,
+            "name": "Bao da iPad Pro 12.9 inch chính hãng TOMTOC (USA) từ tính đa góc SMART-TRI-B02-004 hỗ trợ sạc không dây APPLE PENCIL",
+            "category_path": "bao-da-ipad-pro-129-inch-chinh-hang-tomtoc-usa-tu-tinh-da-goc-smart-tri-b02-004-ho-tro-sac-khong-day-apple-pencil-95191905.html",
+            "image": "https://media3.scdn.vn/img4/2022/06_23/3ZxLyDUjSawsb34oxYVW_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1190000,
+            "default_price_max": 1190000,
+            "sale_price_min": 1190000,
+            "sale_price_max": 1190000,
+            "discount_app": 2,
+            "seller_admin_id": 70102,
+            "sku_user": "BDIPADB02-004",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 70102,
+                "name": "hasan",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 95144104,
+            "name": "Bao da iPad 10.9 inch (iPad AIR 4) chính hãng TOMTOC (USA) từ tính đa góc SMART-TRI-B02-005 hỗ trợ sạc không dây APPLE PENCIL",
+            "category_path": "bao-da-ipad-109-inch-ipad-air-4-chinh-hang-tomtoc-usa-tu-tinh-da-goc-smart-tri-b02-005-ho-tro-sac-khong-day-apple-pencil-95144104.html",
+            "image": "https://media3.scdn.vn/img4/2022/06_21/UGDG1yFRzJAUmIupJwXM_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1090000,
+            "default_price_max": 1090000,
+            "sale_price_min": 1090000,
+            "sale_price_max": 1090000,
+            "discount_app": 2,
+            "seller_admin_id": 70102,
+            "sku_user": "BDIPADB02-005",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 70102,
+                "name": "hasan",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116545762,
+            "name": "Ô ăn quan bằng tre gấp gọn và đá tự nhiên cho trẻ em và người lớn , cờ ô quan trò chơi dân gian , quà tặng lưu niệm ý nghĩa - Nhận khắc nội dung theo yêu cầu",
+            "category_path": "o-an-quan-bang-tre-gap-gon-va-da-tu-nhien-cho-tre-em-va-nguoi-lon-co-o-quan-tro-choi-dan-gian-qua-tang-luu-niem-y-nghia-nhan-khac-noi-dung-theo-yeu-cau-116545762.html",
+            "image": "https://media3.scdn.vn/img4/2024/04_12/Fy5jSVAqKbNg1aJDxp8z_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 250000,
+            "default_price_max": 250000,
+            "sale_price_min": 250000,
+            "sale_price_max": 250000,
+            "seller_admin_id": 403014,
+            "sku_user": "MHT109",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 403014,
+                "name": "CẢNH ĐÔNG",
+                "status": 2,
+                "level": 99,
+                "type": 1,
+                "ware_house_region_name": "Bình Định",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116416837,
+            "name": "Cặp 2 gương Cầu Lồi gắn gương chiếu hậu Xoay 360 Độ Xóa Điểm Mù,Sử Dụng Đế Hít Chân Không, Tăng Góc Nhìn Hiệu Q",
+            "category_path": "cap-2-guong-cau-loi-gan-guong-chieu-hau-xoay-360-do-xoa-diem-mu-su-dung-de-hit-chan-khong-tang-goc-nhin-hieu-q-116416837.html",
+            "image": "https://media3.scdn.vn/img4/2024/03_14/zbESc3dvtOmADXV0mUv3_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 40000,
+            "default_price_max": 55000,
+            "sale_price_min": 40000,
+            "sale_price_max": 55000,
+            "sold": 1,
+            "order_count_text": "1",
+            "seller_admin_id": 891357,
+            "sku_user": "gương cầu lồi xoay 360",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 891357,
+                "name": "TriCuongAuto",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Nam Định",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116344515,
+            "name": "Cặp 2 gương Cầu Lồi gắn gương chiếu hậu Xoay 360 Độ Xóa Điểm Mù,Sử Dụng Đế Hít Chân Không, Tăng Góc Nhìn Hiệu Q",
+            "category_path": "cap-2-guong-cau-loi-gan-guong-chieu-hau-xoay-360-do-xoa-diem-mu-su-dung-de-hit-chan-khong-tang-goc-nhin-hieu-q-116344515.html",
+            "image": "https://media3.scdn.vn/img4/2024/01_31/XLIGIm3RZre0yoF8pUrm_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 40000,
+            "default_price_max": 55000,
+            "sale_price_min": 40000,
+            "sale_price_max": 55000,
+            "sold": 2,
+            "order_count_text": "2",
+            "has_video": true,
+            "seller_admin_id": 869626,
+            "sku_user": "gương cầu lồi hít chân không",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 869626,
+                "name": "GiaDungSauSy",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Nam Định",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116202663,
+            "name": "CHỔI CHÀ SÀN KÈM GẠT NƯỚC THÔNG MINH  về loại gấp gọn  47k / cây loại nhỏ 52k/ cây loại lớn ĐẶC ĐIỂM NỔI BẬT Chổi lau sàn 2 đầu có thể tháo lắp từng khúc để tùy chỉnh chiều dài tùy vào mục đích sử dụng Lau sàn , làm chổi",
+            "category_path": "choi-cha-san-kem-gat-nuoc-thong-minh-ve-loai-gap-gon-47k-cay-loai-nho-52k-cay-loai-lon-dac-diem-noi-bat-choi-lau-san-2-dau-co-the-thao-lap-tung-khuc-de-tuy-chinh-chieu-dai-tuy-vao-muc-dich-su-dung-lau-san-lam-choi-116202663.html",
+            "image": "https://media3.scdn.vn/img4/2023/11_26/baLuBCF1mUsKYTJl5XY5_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 47000,
+            "default_price_max": 52000,
+            "sale_price_min": 47000,
+            "sale_price_max": 52000,
+            "seller_admin_id": 283181,
+            "sku_user": "4276_116202663",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 283181,
+                "name": "Shop NN",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Khánh Hòa",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116121154,
+            "name": "Kẹp Gắp Đồ Nóng, Gắp Chén Dĩa Inox, Gấp Lò Vi Sóng, Nồi Chiên Không Dầu Chịu Lực Có Mút Silicon Hạn Chế Trượt Tay",
+            "category_path": "kep-gap-do-nong-gap-chen-dia-inox-gap-lo-vi-song-noi-chien-khong-dau-chiu-luc-co-mut-silicon-han-che-truot-tay-116121154.html",
+            "image": "https://media3.scdn.vn/img4/2023/11_02/hw3h4JQ4vWgazNPWe2cR_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 34000,
+            "default_price_max": 34000,
+            "sale_price_min": 34000,
+            "sale_price_max": 34000,
+            "sold": 5,
+            "order_count_text": "5",
+            "seller_admin_id": 9989,
+            "sku_user": "1027_116121154",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 9989,
+                "name": "LPS",
+                "is_certified": true,
+                "status": 2,
+                "level": 3,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "https://media3.scdn.vn/img4/2020/08_11/6UJO86aQpTH2jUlRCEQ3.png",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 4,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 116015898,
+            "name": "XE ĐẨY GẤP GỌN XOAY CHIỀU - DÒNG XE CẢI TIẾN CAO CẤP 379k/ chiếc Thiết kế tay vịn có đệm bọc bằng da. Khung xe làm bằng hợp kim và sơn tĩnh điện. Khoang chỗ ngồi rộng với thành tựa cao giúp bé ngồi thoải mái Xe được trang bị hệ thống dâ",
+            "category_path": "xe-day-gap-gon-xoay-chieu-dong-xe-cai-tien-cao-cap-379k-chiec-thiet-ke-tay-vin-co-dem-boc-bang-da-khung-xe-lam-bang-hop-kim-va-son-tinh-dien-khoang-cho-ngoi-rong-voi-thanh-tua-cao-giup-be-ngoi-thoai-mai-xe-duoc-trang-bi-he-thong-da-116015898.html",
+            "image": "https://media3.scdn.vn/img4/2023/10_04/rIjvidqZv8PCZ4nnJYRP_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 379000,
+            "default_price_max": 379000,
+            "sale_price_min": 379000,
+            "sale_price_max": 379000,
+            "sold": 5,
+            "order_count_text": "5",
+            "seller_admin_id": 283181,
+            "sku_user": "178_116015898",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 283181,
+                "name": "Shop NN",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Khánh Hòa",
+                "badge_urls": {}
+            },
+            "rated": {
+                "total": 4,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 115851831,
+            "name": "LỒNG ĐÈN THỎ RỌ TRE EM VỀ RỒI Ạ đan tre làm mưa làm gió mùa trăng năm nay 34k/ cái làm từ thủ công, vật liệu thiên nhiên không gây hại cho bé khi sử dụng, đèn sài pin nên tránh gây bỏng do đèn cầy, lồng đèn đã có đèn sẵn gáp",
+            "category_path": "long-den-tho-ro-tre-em-ve-roi-a-dan-tre-lam-mua-lam-gio-mua-trang-nam-nay-34k-cai-lam-tu-thu-cong-vat-lieu-thien-nhien-khong-gay-hai-cho-be-khi-su-dung-den-sai-pin-nen-tranh-gay-bong-do-den-cay-long-den-da-co-den-san-gap-115851831.html",
+            "image": "https://media3.scdn.vn/img4/2023/09_21/S46skUbs7hIhP8AiqR41_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 34000,
+            "default_price_max": 34000,
+            "sale_price_min": 34000,
+            "sale_price_max": 34000,
+            "seller_admin_id": 283181,
+            "sku_user": "3670_115851831",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 283181,
+                "name": "Shop NN",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Khánh Hòa",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 114362250,
+            "name": "Nồi Chiên Không Dầu Camel 10L Đa Năng Chống Dính Tỏa Nhiệt Đối Lưu, Giữ Ấm Cực Lâu, Công Suất 1500W Bền Bỉ Và Dễ Vệ Sinh",
+            "category_path": "noi-chien-khong-dau-camel-10l-da-nang-chong-dinh-toa-nhiet-doi-luu-giu-am-cuc-lau-cong-suat-1500w-ben-bi-va-de-ve-sinh-114362250.html",
+            "image": "https://media3.scdn.vn/img4/2023/06_13/NYqJwGrouJNFaJU5lNh3_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1030000,
+            "default_price_max": 1030000,
+            "sale_price_min": 525000,
+            "sale_price_max": 525000,
+            "sale_percent": 50,
+            "seller_admin_id": 685014,
+            "sku_user": "Noichienkhongdau_Camel_10L_Vuong",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 685014,
+                "name": "vietstore24",
+                "is_certified": true,
+                "status": 2,
+                "level": 3,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "https://media3.scdn.vn/img4/2020/08_11/6UJO86aQpTH2jUlRCEQ3.png",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 95188214,
+            "name": "Bao da iPad Pro 11 inch chính hãng TOMTOC (USA) từ tính đa góc SMART-TRI-B02-003 hỗ trợ sạc không dây APPLE PENCIL",
+            "category_path": "bao-da-ipad-pro-11-inch-chinh-hang-tomtoc-usa-tu-tinh-da-goc-smart-tri-b02-003-ho-tro-sac-khong-day-apple-pencil-95188214.html",
+            "image": "https://media3.scdn.vn/img4/2022/06_23/ZA8GY3f6N1XPtV1c8zaA_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1090000,
+            "default_price_max": 1090000,
+            "sale_price_min": 1090000,
+            "sale_price_max": 1090000,
+            "discount_app": 2,
+            "seller_admin_id": 70102,
+            "sku_user": "BDIPADB02-003",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 70102,
+                "name": "hasan",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 63811944,
+            "name": "Giấy nến tròn đục lỗ lót nồi hấp xấp 200 tờ 43k/ 200 tờ Bảo vệ phần mặt lưới chống dính của nồi chiên không dầu dưới tác động của muối, gia vị mặn.– Tăng tuổi thọ của phần lưới chống dính này lên gấp nhiều lần.–",
+            "category_path": "giay-nen-tron-duc-lo-lot-noi-hap-xap-200-to-43k-200-to-bao-ve-phan-mat-luoi-chong-dinh-cua-noi-chien-khong-dau-duoi-tac-dong-cua-muoi-gia-vi-man-tang-tuoi-tho-cua-phan-luoi-chong-dinh-nay-len-gap-nhieu-lan-63811944.html",
+            "image": "https://media3.scdn.vn/img4/2021/11_09/yBu5bEP7WQEbjq7mAHF5_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 43000,
+            "default_price_max": 43000,
+            "sale_price_min": 43000,
+            "sale_price_max": 43000,
+            "seller_admin_id": 283181,
+            "sku_user": "1027_63811944",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 283181,
+                "name": "Shop NN",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Khánh Hòa",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 31219463,
+            "name": "SET 06 DỤNG CỤ GẤP ĐỒ 🌸\n/-li /-li /-li 90k\nBộ dụng cụ cho nhà bếp dùng để nhấc đồ nóng khi vừa nấu xong, tiện dùng cho nồi nêu, nồi chiên không dầu, xửng hấp đồ ăn\nChất liệu silicon bền bĩ chống nóng tốt\n🌿 BỘ 5 MÓN GỒM:\n- 2 nhấc nồi silicon\n- 2 lót",
+            "category_path": "set-06-dung-cu-gap-do-li-li-li-90k-bo-dung-cu-cho-nha-bep-dung-de-nhac-do-nong-khi-vua-nau-xong-tien-dung-cho-noi-neu-noi-chien-khong-dau-xung-hap-do-an-chat-lieu-silicon-ben-bi-chong-nong-tot-bo-5-mon-gom-2-nhac-noi-silicon-2-lot-31219463.html",
+            "image": "https://media3.scdn.vn/img4/2020/06_30/lLsuXGUi9lyeeb8UIhI9_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 79000,
+            "default_price_max": 79000,
+            "sale_price_min": 79000,
+            "sale_price_max": 79000,
+            "sold": 3,
+            "order_count_text": "3",
+            "seller_admin_id": 283181,
+            "sku_user": "NG2614",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 283181,
+                "name": "Shop NN",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "Khánh Hòa",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        }
+    ]
+}
